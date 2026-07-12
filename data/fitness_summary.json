@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-12 13:27:23.699125",
+  "generated": "2026-07-12 13:33:44.122994",
   "athlete": {
     "sports": [
       "cycling",
@@ -8,16 +8,33 @@
     "goal": "Improve endurance performance with focus on 5km running and cycling power"
   },
   "training_block_21_days": {
-    "sessions": 18,
-    "hours": 14.3,
-    "training_load": 574,
+    "total": {
+      "sessions": 18,
+      "hours": 14.3,
+      "training_load": 574
+    },
     "running": {
       "sessions": 3,
-      "distance_km": 23.4
+      "hours": 2.0,
+      "distance_km": 23.4,
+      "average_hr": 166.0
     },
-    "cycling": {
+    "cycling_performance": {
       "sessions": 0,
-      "distance_km": 0.0
+      "hours": 0.0,
+      "distance_km": 0.0,
+      "training_load": 0,
+      "average_hr": null
+    },
+    "cycling_commute": {
+      "sessions": 13,
+      "hours": 11.3,
+      "distance_km": 380.5,
+      "training_load": 373,
+      "average_hr": 126.0
+    },
+    "quality_sessions": {
+      "count": 2
     }
   },
   "current_state": {

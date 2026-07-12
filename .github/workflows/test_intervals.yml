@@ -1,0 +1,22 @@
+name: Test Intervals API
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Haal Intervals data op
+        env:
+          API_KEY: ${{ secrets.INTERVALS_API_KEY }}
+        run: |
+          curl \
+          -u ":$API_KEY" \
+          "https://intervals.icu/api/v1/athlete/i174459/activities?oldest=2026-01-01" \
+          -o activities.json
+
+      - name: Toon resultaat
+        run: |
+          cat activities.json

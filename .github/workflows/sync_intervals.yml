@@ -37,7 +37,7 @@ jobs:
           git commit -m "Update Intervals data" || exit 0
           git push
 
-                - name: Maak fitness analyse
+      - name: Maak fitness analyse
         run: |
           python scripts/create_summary.py
 

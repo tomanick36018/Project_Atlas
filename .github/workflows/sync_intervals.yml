@@ -40,7 +40,11 @@ jobs:
       - name: Maak fitness analyse
         run: |
           python scripts/create_summary.py
-
+          
+      - name: Maak performance analyse
+        run: |
+          python scripts/create_performance.py
+          
       - name: Bewaar analyse
         run: |
           git config user.name "github-actions"

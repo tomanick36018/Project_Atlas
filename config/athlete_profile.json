@@ -1,0 +1,56 @@
+{
+  "athlete": {
+    "sports": [
+      "cycling",
+      "running"
+    ],
+    "goal": "Improve endurance performance with focus on 5km running and cycling power"
+  },
+
+  "body": {
+    "age": 31,
+    "height_cm": 183,
+    "weight_kg": 76
+  },
+
+  "performance": {
+    "cycling": {
+      "ftp_watts": 250,
+      "ftp_wkg": 3.29,
+      "target_metrics": [
+        "5min_power",
+        "20min_power"
+      ]
+    },
+
+    "running": {
+      "target_distance": "5km",
+      "target_metrics": [
+        "pace",
+        "heart_rate_efficiency",
+        "interval_quality"
+      ]
+    }
+  },
+
+  "heart_rate": {
+    "max_hr": 194
+  },
+
+  "coach_settings": {
+    "style": "strict",
+    "challenge_level": "high",
+    "priority": [
+      "quality_intervals",
+      "aerobic_base",
+      "progressive_overload",
+      "recovery_management"
+    ]
+  },
+
+  "analysis": {
+    "acute_window_days": 7,
+    "training_block_days": 21,
+    "long_term_window_days": 180
+  }
+}

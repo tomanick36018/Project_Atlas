@@ -23,7 +23,8 @@ jobs:
           API_KEY: ${{ secrets.INTERVALS_API_KEY }}
         run: |
           curl \
-          -u "API_KEY:$API_KEY" \
+          --user "API_KEY:$API_KEY" \
+          -H "User-Agent: performance-dashboard" \
           "https://intervals.icu/api/v1/athlete/0/activities?oldest=2025-01-01" \
           -o data/activities.json
 

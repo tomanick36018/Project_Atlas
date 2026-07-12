@@ -51,13 +51,21 @@ def load(items):
 
 runs = [
     x for x in last_21
-    if x.get("type") == "Run"
+    if "run" in x.get("type","").lower()
 ]
 
 
 rides = [
     x for x in last_21
-    if x.get("type") == "Ride"
+    if any(
+        word in x.get("type","").lower()
+        for word in [
+            "ride",
+            "bike",
+            "cycling",
+            "virtual"
+        ]
+    )
 ]
 
 

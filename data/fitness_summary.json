@@ -1,0 +1,29 @@
+{
+  "generated": "2026-07-12 13:27:23.699125",
+  "athlete": {
+    "sports": [
+      "cycling",
+      "running"
+    ],
+    "goal": "Improve endurance performance with focus on 5km running and cycling power"
+  },
+  "training_block_21_days": {
+    "sessions": 18,
+    "hours": 14.3,
+    "training_load": 574,
+    "running": {
+      "sessions": 3,
+      "distance_km": 23.4
+    },
+    "cycling": {
+      "sessions": 0,
+      "distance_km": 0.0
+    }
+  },
+  "current_state": {
+    "CTL": 31.80358,
+    "ATL": 37.91303,
+    "resting_hr": 49,
+    "weight": 73.0
+  }
+}

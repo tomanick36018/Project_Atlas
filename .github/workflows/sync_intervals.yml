@@ -36,3 +36,16 @@ jobs:
           git add data/activities.json
           git commit -m "Update Intervals data" || exit 0
           git push
+
+                - name: Maak fitness analyse
+        run: |
+          python scripts/create_summary.py
+
+      - name: Bewaar analyse
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add data/fitness_summary.json
+          git commit -m "Update fitness summary" || exit 0
+          git push

@@ -11,6 +11,7 @@ profile = load_json("data/athlete_profile.json")
 summary = load_json("data/daily_summary.json")
 blocks = load_json("data/training_blocks.json")
 performance = load_json("data/performance_trends.json")
+fitness = load_json("data/fitness_summary.json")  # <-- NIEUW: Laad fitness data
 
 
 coach_input = {
@@ -30,7 +31,12 @@ coach_input = {
 
     "recent_training_summary": summary,
 
-    "performance": performance
+    "performance": performance,
+
+    "fitness_state": fitness.get(
+        "current_state", 
+        {}
+    )  # <-- NIEUW: Voeg fitness state toe voor de coach
 
 }
 

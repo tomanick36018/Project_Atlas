@@ -6,58 +6,77 @@ from google import genai
 from google.genai import types
 from pydantic import BaseModel, Field
 
-# 1. Definieer de structuur die we van Gemini terugverwachten
-class TodayRecommendation(BaseModel):
-    type: str = Field(description="The type of the suggested session, e.g., 'recovery', 'aerobic base', 'tempo', 'VO2max intervals', or 'rest'")
-    session: str = Field(description="Detailed session instructions with specific intervals, zones (power or HR), or duration (e.g., 'Running: 5x1000m @ 5km pace with 2min rest' or 'Cycling: 2h Zone 2 easy endurance')")
-    reason: str = Field(description="The physiological or tactical reason for this recommendation today, referencing metrics like ATL, CTL, fatigue levels, and goals")
+# 1. Definieer de structuur van de output
+class SessionOption(BaseModel):
+    session_title: str = Field(description="Short title, e.g., 'Sweet Spot Intervals' or 'Easy Aerobic Run'")
+    intensity: str = Field(description="Target intensity level or zone (e.g., 'Zone 3 (Sweet Spot)', 'Zone 1-2 (Endurance)', 'VO2max')")
+    workout_details: str = Field(description="Specific detailed session, e.g., 'Cycling: 3x10min at 220-230W (Zone 3) with 5min recovery' or 'Running: 5x1000m @ 5km pace with 2min walking recovery'")
+    reason: str = Field(description="Physiological justification focusing on the specific target (5km run, 5min power, or 20min power) and how it fits the current training status.")
+
+class TodayOptions(BaseModel):
+    cycling_option: SessionOption = Field(description="Recommended session if the athlete chooses Cycling today")
+    running_option: SessionOption = Field(description="Recommended session if the athlete chooses Running today")
+    recovery_option: SessionOption = Field(description="Recommended session if the athlete chooses Rest or Recovery today")
 
 class CoachAssessmentSchema(BaseModel):
-    coach_assessment: str = Field(description="Strict and direct coach analysis of the current fitness trends, fatigue (ATL), fitness (CTL), and progress towards their endurance goals.")
-    today_recommendation: TodayRecommendation
+    daily_load_assessment: str = Field(description="Analysis of immediate, daily training stress and recovery status based on recent workouts.")
+    acute_status_assessment_3_weeks: str = Field(description="Evaluation of the 3-week (21 days) acute training status, block volume, and recent fatigue accumulation.")
+    sport_trend_assessment_6_months: str = Field(description="Analysis of the long-term (6 months / 180 days) fitness trend, CTL ramp rate, and progression towards primary goals.")
+    coach_verdict: str = Field(description="Direct coach feedback addressing the athlete's qualitative notes (e.g., HRV, fatigue, sleep) and recommending which option to prioritize today.")
+    today_options: TodayOptions
 
 def load_json(path):
     with open(path, "r") as f:
         return json.load(f)
 
 def main():
-    # Laad de samengestelde input data
     try:
         coach_input = load_json("data/coach_input.json")
     except FileNotFoundError:
-        print("Error: data/coach_input.json niet gevonden. Voer eerst create_coach_input.py uit.")
+        print("Error: data/coach_input.json niet gevonden.")
         sys.exit(1)
 
-    # Controleer of de API-sleutel aanwezig is
+    # Haal de handmatige input op die via de GitHub Action is meegegeven
+    sport_preference = os.environ.get("SPORT_PREFERENCE", "Geen voorkeur (Auto)")
+    athlete_notes = os.environ.get("ATHLETE_NOTES", "")
+
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
-        print("Error: De omgevingsvariabele GEMINI_API_KEY is niet ingesteld.")
+        print("Error: GEMINI_API_KEY niet ingesteld.")
         sys.exit(1)
 
-    # Initialiseer de Gemini-client
     client = genai.Client(api_key=api_key)
 
-    # Stel de prompt op met alle data uit coach_input.json
+    # De prompt is nu specifiek ingericht op de drie vensters: 1 dag, 3 weken en 6 maanden
     prompt = f"""
-    You are an expert, data-driven elite sports coach. Your style, priority, and athlete parameters are defined in the input data.
-    
-    Review the following athlete data from Intervals.icu and other systems:
+    You are an expert, data-driven sports coach. Your athlete wants to optimize their rising fitness trend (CTL) safely and effectively.
+
+    You must analyze and evaluate the athlete's progress through three distinct time horizons:
+    1. DAILY HORIZON (Per dag): Analyze immediate training stress, daily load, and today's recovery state to guide immediate session design.
+    2. 3-WEEK HORIZON (Actuele status / 21 days): Treat this as the acute training status. Evaluate recent block volume, fatigue accumulation (ATL), and adaptation rate over the last 3 weeks.
+    3. 6-MONTH HORIZON (Sporttrend / 180 days): Treat this as the long-term sport trend. Evaluate macro progression, CTL ramp rate (fitness build), and seasonal progress.
+
+    ATHLETE GOALS:
+    - Running: 5km performance (pace, VO2max, interval quality).
+    - Cycling: 5-minute power (VO2max capacity) and 20-minute power (FTP/threshold endurance).
+
+    TODAY'S ATHLETE INPUT:
+    - Preferred Sport: {sport_preference}
+    - Athlete Notes (HRV, sleep, soreness, feeling): "{athlete_notes if athlete_notes else 'No notes provided today. Focus purely on training data.'}"
+
+    ATHLETE TRAINING DATA (Intervals.icu):
     {json.dumps(coach_input, indent=2)}
 
-    Perform a professional coach evaluation of the athlete's state.
-    Keep in mind:
-    - Coach Style: strict, challenge level: high.
-    - Priorities: quality intervals, aerobic base, progressive overload, recovery management.
-    - Goal: {coach_input.get('goals', 'Improve performance')}
-    - Heart Rate Max: {coach_input.get('athlete', {}).get('max_hr', 194)} bpm.
-    - FTP: {coach_input.get('performance', {}).get('cycling', {}).get('ftp_watts', 250)} W.
-
-    Please provide your expert coach assessment and today's recommendation in the requested JSON structure.
+    COACH INSTRUCTIONS:
+    - Strictly evaluate each of the three time horizons (Daily, 3-Week, 6-Month) in your assessment.
+    - Directly address the athlete's subjective notes (HRV, soreness, etc.) in your verdict.
+    - Generate THREE distinct options for today (Cycling, Running, and Recovery/Rest) so the athlete can choose.
+    - Ensure the Cycling option targets FTP (20-min power) or VO2max (5-min power), the Running option targets 5km performance, and the Recovery option supports active recovery.
+    - Be direct, strict, and precise. Give specific power targets (Watts) or heart rate zones (BPM) based on the athlete's FTP and Max HR.
     """
 
-    print("Gegevens worden naar Gemini gestuurd voor analyse...")
+    print("Gegevens worden naar Gemini gestuurd voor gerichte 1-dag / 3-weken / 6-maanden analyse...")
     
-    # We gebruiken het stabiele en snelle gemini-2.5-flash model
     response = client.models.generate_content(
         model="gemini-3.5-flash",
         contents=prompt,
@@ -67,32 +86,31 @@ def main():
         ),
     )
 
-    # Parse het JSON-resultaat van de AI
     ai_result = json.loads(response.text)
 
-    # Voeg de AI-analyse samen met de rest van de vereiste dashboardstructuur
     block = coach_input.get("current_training_block", {})
     analysis = {
         "generated": str(datetime.now()),
-        "athlete": coach_input.get("athlete", {}),
-        "current_state": {
-            "training_load_21_days": block.get("training_load", 0),
-            "CTL": block.get("CTL", 0),
-            "ATL": block.get("ATL", 0)
+        "athlete_inputs": {
+            "sport_preference": sport_preference,
+            "athlete_notes": athlete_notes
         },
-        "coach_assessment": ai_result.get("coach_assessment", ""),
-        "today_recommendation": ai_result.get("today_recommendation", {
-            "type": "",
-            "session": "",
-            "reason": ""
-        })
+        "current_state": {
+            "CTL": block.get("CTL", 0),
+            "ATL": block.get("ATL", 0),
+            "Form_TSB": block.get("CTL", 0) - block.get("ATL", 0)
+        },
+        "daily_load_assessment": ai_result.get("daily_load_assessment", ""),
+        "acute_status_assessment_3_weeks": ai_result.get("acute_status_assessment_3_weeks", ""),
+        "sport_trend_assessment_6_months": ai_result.get("sport_trend_assessment_6_months", ""),
+        "coach_verdict": ai_result.get("coach_verdict", ""),
+        "today_options": ai_result.get("today_options", {})
     }
 
-    # Sla het resultaat op
     with open("data/coach_analysis.json", "w") as f:
         json.dump(analysis, f, indent=2)
 
-    print("Gemini coach-analyse succesvol aangemaakt en opgeslagen.")
+    print("Gemini coach-analyse met 1D/3W/6M-structuur succesvol aangemaakt.")
 
 if __name__ == "__main__":
     main()

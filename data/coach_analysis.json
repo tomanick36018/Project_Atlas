@@ -1,0 +1,26 @@
+{
+  "generated": "2026-07-13 08:44:51.202574",
+  "athlete": {
+    "age": 31,
+    "height_cm": 183,
+    "weight_kg": 76,
+    "sports": [
+      "running",
+      "cycling",
+      "ebike"
+    ],
+    "max_hr": 194,
+    "resting_hr": 49
+  },
+  "current_state": {
+    "training_load_21_days": 631,
+    "CTL": 0,
+    "ATL": 0
+  },
+  "coach_assessment": "You are hiding behind your commutes. While 19 sessions in 21 days looks active on paper, 13 of those are low-intensity e-bike commutes that do absolutely nothing for your aerobic capacity or muscular endurance. Running only four times in three weeks is insufficient to improve your 5km time, and executing zero structured cycling performance sessions means your 5-minute and 20-minute power goals are stagnant fantasies. Your fatigue (ATL) is exceptionally low because your commutes lack real physiological strain, and your overall fitness (CTL) is flatlining. You are fully recovered and have no excuses. It is time to stop cruising and start generating actual adaptation through structured stress.",
+  "today_recommendation": {
+    "type": "VO2max intervals",
+    "session": "Cycling: 5x3min @ VO2max. Warm-up: 15min Zone 2 (140-180W). Main set: 5 blocks of 3 minutes at 115-120% FTP (288-300W), separated by 3 minutes of easy spinning recovery at 120W. Cool-down: 10min Zone 1.",
+    "reason": "Your recent training load is dominated by passive commuting, leaving your cardiorespiratory system completely unchallenged. To raise your 5-minute power limit, we must accumulate time in Zone 5. Since your chronic fatigue is non-existent and you had an easy commute day yesterday, you are perfectly primed to execute this high-intensity session with maximal quality."
+  }
+}

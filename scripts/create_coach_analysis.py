@@ -47,7 +47,20 @@ def main():
 
     client = genai.Client(api_key=api_key)
 
-    # De prompt is specifiek ingericht op de drie vensters: 1 dag, 3 weken en 6 maanden
+    # Haal gegevens veilig en dynamisch uit uw echte profiel-configuratie
+    profile_config = coach_input.get("profile_config", {})
+    athlete = profile_config.get("athlete", {})
+    coach_settings = profile_config.get("coach_settings", {})
+    heart_rate = profile_config.get("heart_rate", {})
+    performance_config = profile_config.get("performance", {})
+
+    goal = athlete.get("goal", "Improve endurance performance with focus on 5km running and cycling power")
+    max_hr = heart_rate.get("max_hr", 194)
+    ftp = performance_config.get("cycling", {}).get("ftp_watts", 250)
+    coach_style = coach_settings.get("style", "strict")
+    challenge_level = coach_settings.get("challenge_level", "high")
+    priorities = coach_settings.get("priority", [])
+
     prompt = f"""
     You are an expert, data-driven sports coach. Your athlete wants to optimize their rising fitness trend (CTL) safely and effectively.
 
@@ -73,6 +86,11 @@ def main():
     - Generate THREE distinct options for today (Cycling, Running, and Recovery/Rest) so the athlete can choose.
     - Ensure the Cycling option targets FTP (20-min power) or VO2max (5-min power), the Running option targets 5km performance, and the Recovery option supports active recovery.
     - Be direct, strict, and precise. Give specific power targets (Watts) or heart rate zones (BPM) based on the athlete's FTP and Max HR.
+    - Coach Style: {coach_style}, challenge level: {challenge_level}.
+    - Priorities: {', '.join(priorities) if priorities else 'none'}.
+    - Athlete Goal: {goal}
+    - Heart Rate Max: {max_hr} bpm.
+    - FTP: {ftp} W.
     """
 
     print("Gegevens worden naar Gemini gestuurd voor gerichte 1-dag / 3-weken / 6-maanden analyse...")
@@ -88,7 +106,6 @@ def main():
 
     ai_result = json.loads(response.text)
 
-    # Laad de fitness state in die we via create_coach_input hebben toegevoegd
     fitness_state = coach_input.get("fitness_state", {})
     ctl = fitness_state.get("CTL", 0)
     atl = fitness_state.get("ATL", 0)
@@ -117,10 +134,9 @@ def main():
 
     # 2. Genereer een overzichtelijke README.md homepage
     tsb = round(ctl - atl, 1)
-    # Bepaal visuele weergave van de TSB-status (kleur)
     if tsb < -30:
          tsb_status = "⚠️ Hoog Risico (TSB onder -30)"
-    elif tsb <= -3.2: # op basis van -10% tot -30% van CTL (31.8)
+    elif tsb <= -3.2:
          tsb_status = "🟢 Optimaal Trainingsvenster"
     else:
          tsb_status = "🔵 Fris / Herstel"

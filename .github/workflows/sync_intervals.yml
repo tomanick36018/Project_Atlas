@@ -30,7 +30,7 @@ jobs:
 
       - name: Haal power streams op
         env:
-          API_KEY: ${{ secrets.INTERVALS_API_KEY }}
+          INTERVALS_API_KEY: ${{ secrets.INTERVALS_API_KEY }}
         run: |
           python scripts/get_power_streams.py
 

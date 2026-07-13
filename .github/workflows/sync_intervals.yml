@@ -39,7 +39,7 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          git add data/activities.json
+          git add data/activities.json data/power_streams.json
           git commit -m "Update Intervals data" || exit 0
           git push
 

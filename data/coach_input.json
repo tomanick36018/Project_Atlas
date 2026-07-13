@@ -1,0 +1,2734 @@
+{
+  "generated": "2026-07-13 08:12:01.629241",
+  "athlete": {
+    "age": 31,
+    "height_cm": 183,
+    "weight_kg": 76,
+    "sports": [
+      "running",
+      "cycling",
+      "ebike"
+    ],
+    "max_hr": 194,
+    "resting_hr": 49
+  },
+  "goals": {
+    "running": [
+      "improve 5km performance"
+    ],
+    "cycling": [
+      "improve 5min power",
+      "improve 20min power"
+    ]
+  },
+  "preferences": {
+    "coach_style": "strict",
+    "focus": "general endurance improvement",
+    "intervals": true,
+    "zone2_commute": true,
+    "review_period_days": 21
+  },
+  "current_training_block": {
+    "period_days": 21,
+    "start": "2026-06-21",
+    "end": "2026-07-11",
+    "sessions": 19,
+    "hours": 14.93,
+    "training_load": 631,
+    "running_sessions": 4,
+    "cycling_sessions": 0,
+    "ebike_sessions": 13,
+    "quality_sessions": 2
+  },
+  "recent_training_summary": {
+    "2025-01-09": {
+      "sessions": 1,
+      "training_load": 38,
+      "hours": 1.0,
+      "distance_km": 40.4,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 40.4
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-01-10": {
+      "sessions": 1,
+      "training_load": 40,
+      "hours": 0.78,
+      "distance_km": 30.6,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 30.6
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-01-12": {
+      "sessions": 1,
+      "training_load": 39,
+      "hours": 1.0,
+      "distance_km": 39.7,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 39.7
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-01-13": {
+      "sessions": 1,
+      "training_load": 43,
+      "hours": 0.59,
+      "distance_km": 7.2,
+      "running": {
+        "sessions": 1,
+        "distance_km": 7.2
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-01-14": {
+      "sessions": 1,
+      "training_load": 31,
+      "hours": 0.83,
+      "distance_km": 31.8,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 31.8
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-01-15": {
+      "sessions": 1,
+      "training_load": 39,
+      "hours": 0.75,
+      "distance_km": 26.8,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 26.8
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-01-17": {
+      "sessions": 1,
+      "training_load": 27,
+      "hours": 0.5,
+      "distance_km": 5.5,
+      "running": {
+        "sessions": 1,
+        "distance_km": 5.5
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-01-18": {
+      "sessions": 1,
+      "training_load": 17,
+      "hours": 0.53,
+      "distance_km": 19.4,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 19.4
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-01-20": {
+      "sessions": 1,
+      "training_load": 48,
+      "hours": 0.83,
+      "distance_km": 29.7,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 29.7
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-01-21": {
+      "sessions": 1,
+      "training_load": 34,
+      "hours": 0.49,
+      "distance_km": 5.8,
+      "running": {
+        "sessions": 1,
+        "distance_km": 5.8
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-01-22": {
+      "sessions": 1,
+      "training_load": 31,
+      "hours": 0.83,
+      "distance_km": 31.0,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 31.0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-01-24": {
+      "sessions": 1,
+      "training_load": 37,
+      "hours": 0.79,
+      "distance_km": 30.5,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 30.5
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-01-27": {
+      "sessions": 1,
+      "training_load": 34,
+      "hours": 0.67,
+      "distance_km": 25.2,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 25.2
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-01-30": {
+      "sessions": 1,
+      "training_load": 41,
+      "hours": 0.87,
+      "distance_km": 28.8,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 1,
+        "distance_km": 28.8
+      },
+      "quality": false
+    },
+    "2025-01-31": {
+      "sessions": 2,
+      "training_load": 78,
+      "hours": 1.8,
+      "distance_km": 58.9,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 58.9
+      },
+      "quality": false
+    },
+    "2025-02-10": {
+      "sessions": 2,
+      "training_load": 62,
+      "hours": 1.71,
+      "distance_km": 57.7,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 57.7
+      },
+      "quality": false
+    },
+    "2025-02-12": {
+      "sessions": 1,
+      "training_load": 37,
+      "hours": 0.56,
+      "distance_km": 6.0,
+      "running": {
+        "sessions": 1,
+        "distance_km": 6.0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-02-13": {
+      "sessions": 1,
+      "training_load": 48,
+      "hours": 0.68,
+      "distance_km": 7.9,
+      "running": {
+        "sessions": 1,
+        "distance_km": 7.9
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-02-15": {
+      "sessions": 1,
+      "training_load": 51,
+      "hours": 0.63,
+      "distance_km": 7.8,
+      "running": {
+        "sessions": 1,
+        "distance_km": 7.8
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-02-17": {
+      "sessions": 1,
+      "training_load": 63,
+      "hours": 0.99,
+      "distance_km": 10.3,
+      "running": {
+        "sessions": 1,
+        "distance_km": 10.3
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": true
+    },
+    "2025-02-18": {
+      "sessions": 2,
+      "training_load": 28,
+      "hours": 0.67,
+      "distance_km": 22.3,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 22.3
+      },
+      "quality": false
+    },
+    "2025-02-19": {
+      "sessions": 1,
+      "training_load": 31,
+      "hours": 0.55,
+      "distance_km": 6.0,
+      "running": {
+        "sessions": 1,
+        "distance_km": 6.0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-02-20": {
+      "sessions": 1,
+      "training_load": 51,
+      "hours": 0.66,
+      "distance_km": 7.6,
+      "running": {
+        "sessions": 1,
+        "distance_km": 7.6
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-02-21": {
+      "sessions": 2,
+      "training_load": 14,
+      "hours": 1.45,
+      "distance_km": 23.1,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 23.1
+      },
+      "quality": false
+    },
+    "2025-02-24": {
+      "sessions": 1,
+      "training_load": 58,
+      "hours": 0.71,
+      "distance_km": 8.6,
+      "running": {
+        "sessions": 1,
+        "distance_km": 8.6
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-02-25": {
+      "sessions": 1,
+      "training_load": 20,
+      "hours": 0.88,
+      "distance_km": 29.7,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 1,
+        "distance_km": 29.7
+      },
+      "quality": false
+    },
+    "2025-02-27": {
+      "sessions": 2,
+      "training_load": 48,
+      "hours": 1.69,
+      "distance_km": 58.0,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 58.0
+      },
+      "quality": false
+    },
+    "2025-03-04": {
+      "sessions": 1,
+      "training_load": 23,
+      "hours": 0.51,
+      "distance_km": 1.5,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-03-11": {
+      "sessions": 2,
+      "training_load": 37,
+      "hours": 1.6,
+      "distance_km": 57.5,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 57.5
+      },
+      "quality": false
+    },
+    "2025-03-17": {
+      "sessions": 1,
+      "training_load": 36,
+      "hours": 0.46,
+      "distance_km": 6.0,
+      "running": {
+        "sessions": 1,
+        "distance_km": 6.0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-03-20": {
+      "sessions": 2,
+      "training_load": 44,
+      "hours": 1.7,
+      "distance_km": 57.3,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 57.3
+      },
+      "quality": false
+    },
+    "2025-03-21": {
+      "sessions": 1,
+      "training_load": 51,
+      "hours": 0.68,
+      "distance_km": 8.0,
+      "running": {
+        "sessions": 1,
+        "distance_km": 8.0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-03-27": {
+      "sessions": 1,
+      "training_load": 20,
+      "hours": 0.47,
+      "distance_km": 1.5,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-03-28": {
+      "sessions": 2,
+      "training_load": 108,
+      "hours": 2.03,
+      "distance_km": 57.2,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 2,
+        "distance_km": 57.2
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-03-31": {
+      "sessions": 1,
+      "training_load": 27,
+      "hours": 0.5,
+      "distance_km": 5.4,
+      "running": {
+        "sessions": 1,
+        "distance_km": 5.4
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-04-01": {
+      "sessions": 2,
+      "training_load": 70,
+      "hours": 1.77,
+      "distance_km": 57.5,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 57.5
+      },
+      "quality": false
+    },
+    "2025-04-03": {
+      "sessions": 2,
+      "training_load": 72,
+      "hours": 1.75,
+      "distance_km": 57.6,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 57.6
+      },
+      "quality": false
+    },
+    "2025-04-08": {
+      "sessions": 1,
+      "training_load": 22,
+      "hours": 0.56,
+      "distance_km": 1.7,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-04-13": {
+      "sessions": 1,
+      "training_load": 0,
+      "hours": 0.13,
+      "distance_km": 0.0,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-04-17": {
+      "sessions": 2,
+      "training_load": 39,
+      "hours": 1.44,
+      "distance_km": 48.8,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 48.8
+      },
+      "quality": false
+    },
+    "2025-04-18": {
+      "sessions": 1,
+      "training_load": 7,
+      "hours": 0.15,
+      "distance_km": 0.0,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-04-23": {
+      "sessions": 1,
+      "training_load": 71,
+      "hours": 1.37,
+      "distance_km": 39.4,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 39.4
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": true
+    },
+    "2025-04-24": {
+      "sessions": 2,
+      "training_load": 66,
+      "hours": 1.74,
+      "distance_km": 58.0,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 58.0
+      },
+      "quality": false
+    },
+    "2025-04-26": {
+      "sessions": 1,
+      "training_load": 117,
+      "hours": 2.53,
+      "distance_km": 76.9,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 76.9
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": true
+    },
+    "2025-04-28": {
+      "sessions": 2,
+      "training_load": 119,
+      "hours": 2.24,
+      "distance_km": 60.7,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 2,
+        "distance_km": 60.7
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": true
+    },
+    "2025-04-30": {
+      "sessions": 2,
+      "training_load": 107,
+      "hours": 2.09,
+      "distance_km": 57.9,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 2,
+        "distance_km": 57.9
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-05-13": {
+      "sessions": 1,
+      "training_load": 26,
+      "hours": 0.43,
+      "distance_km": 4.5,
+      "running": {
+        "sessions": 1,
+        "distance_km": 4.5
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-05-15": {
+      "sessions": 2,
+      "training_load": 73,
+      "hours": 1.78,
+      "distance_km": 57.9,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 57.9
+      },
+      "quality": false
+    },
+    "2025-05-16": {
+      "sessions": 2,
+      "training_load": 64,
+      "hours": 1.47,
+      "distance_km": 50.0,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 50.0
+      },
+      "quality": false
+    },
+    "2025-05-19": {
+      "sessions": 1,
+      "training_load": 50,
+      "hours": 0.62,
+      "distance_km": 7.0,
+      "running": {
+        "sessions": 1,
+        "distance_km": 7.0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-05-21": {
+      "sessions": 1,
+      "training_load": 7,
+      "hours": 0.14,
+      "distance_km": 1.5,
+      "running": {
+        "sessions": 1,
+        "distance_km": 1.5
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-05-27": {
+      "sessions": 1,
+      "training_load": 33,
+      "hours": 0.47,
+      "distance_km": 5.0,
+      "running": {
+        "sessions": 1,
+        "distance_km": 5.0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-05-31": {
+      "sessions": 1,
+      "training_load": 45,
+      "hours": 1.0,
+      "distance_km": 39.0,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 39.0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-06-04": {
+      "sessions": 1,
+      "training_load": 51,
+      "hours": 1.0,
+      "distance_km": 29.6,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 29.6
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-06-07": {
+      "sessions": 1,
+      "training_load": 37,
+      "hours": 0.83,
+      "distance_km": 31.7,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 31.7
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-06-09": {
+      "sessions": 1,
+      "training_load": 78,
+      "hours": 1.61,
+      "distance_km": 45.6,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 45.6
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": true
+    },
+    "2025-06-10": {
+      "sessions": 1,
+      "training_load": 57,
+      "hours": 1.46,
+      "distance_km": 39.3,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 39.3
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-06-13": {
+      "sessions": 1,
+      "training_load": 41,
+      "hours": 0.57,
+      "distance_km": 6.3,
+      "running": {
+        "sessions": 1,
+        "distance_km": 6.3
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-06-16": {
+      "sessions": 2,
+      "training_load": 42,
+      "hours": 1.62,
+      "distance_km": 57.1,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 57.1
+      },
+      "quality": false
+    },
+    "2025-06-17": {
+      "sessions": 1,
+      "training_load": 29,
+      "hours": 0.37,
+      "distance_km": 4.7,
+      "running": {
+        "sessions": 1,
+        "distance_km": 4.7
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-06-18": {
+      "sessions": 2,
+      "training_load": 51,
+      "hours": 1.73,
+      "distance_km": 58.3,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 58.3
+      },
+      "quality": false
+    },
+    "2025-06-20": {
+      "sessions": 2,
+      "training_load": 50,
+      "hours": 1.49,
+      "distance_km": 51.1,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 51.1
+      },
+      "quality": false
+    },
+    "2025-06-25": {
+      "sessions": 1,
+      "training_load": 34,
+      "hours": 0.63,
+      "distance_km": 6.6,
+      "running": {
+        "sessions": 1,
+        "distance_km": 6.6
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-06-27": {
+      "sessions": 3,
+      "training_load": 57,
+      "hours": 1.9,
+      "distance_km": 60.2,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 60.2
+      },
+      "quality": false
+    },
+    "2025-06-28": {
+      "sessions": 2,
+      "training_load": 64,
+      "hours": 1.64,
+      "distance_km": 60.2,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 60.2
+      },
+      "quality": false
+    },
+    "2025-07-01": {
+      "sessions": 2,
+      "training_load": 73,
+      "hours": 1.6,
+      "distance_km": 58.9,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 58.9
+      },
+      "quality": false
+    },
+    "2025-07-03": {
+      "sessions": 2,
+      "training_load": 22,
+      "hours": 1.34,
+      "distance_km": 44.5,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 44.5
+      },
+      "quality": false
+    },
+    "2025-07-11": {
+      "sessions": 2,
+      "training_load": 31,
+      "hours": 1.61,
+      "distance_km": 59.0,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 59.0
+      },
+      "quality": false
+    },
+    "2025-07-12": {
+      "sessions": 2,
+      "training_load": 33,
+      "hours": 1.63,
+      "distance_km": 58.2,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 58.2
+      },
+      "quality": false
+    },
+    "2025-07-20": {
+      "sessions": 1,
+      "training_load": 35,
+      "hours": 0.98,
+      "distance_km": 27.7,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 27.7
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-07-21": {
+      "sessions": 2,
+      "training_load": 103,
+      "hours": 2.04,
+      "distance_km": 62.0,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 2,
+        "distance_km": 62.0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-07-23": {
+      "sessions": 2,
+      "training_load": 78,
+      "hours": 2.08,
+      "distance_km": 57.0,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 2,
+        "distance_km": 57.0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-07-26": {
+      "sessions": 1,
+      "training_load": 58,
+      "hours": 0.68,
+      "distance_km": 27.7,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 27.7
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-07-29": {
+      "sessions": 1,
+      "training_load": 46,
+      "hours": 0.89,
+      "distance_km": 31.5,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 31.5
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-07-30": {
+      "sessions": 1,
+      "training_load": 35,
+      "hours": 0.51,
+      "distance_km": 6.2,
+      "running": {
+        "sessions": 1,
+        "distance_km": 6.2
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-07-31": {
+      "sessions": 1,
+      "training_load": 78,
+      "hours": 1.52,
+      "distance_km": 43.5,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 43.5
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": true
+    },
+    "2025-08-04": {
+      "sessions": 1,
+      "training_load": 68,
+      "hours": 1.06,
+      "distance_km": 31.0,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 31.0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": true
+    },
+    "2025-08-06": {
+      "sessions": 1,
+      "training_load": 66,
+      "hours": 0.92,
+      "distance_km": 36.8,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 36.8
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": true
+    },
+    "2025-08-09": {
+      "sessions": 1,
+      "training_load": 41,
+      "hours": 0.81,
+      "distance_km": 24.6,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 24.6
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-08-11": {
+      "sessions": 2,
+      "training_load": 41,
+      "hours": 1.7,
+      "distance_km": 58.9,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 58.9
+      },
+      "quality": false
+    },
+    "2025-08-13": {
+      "sessions": 1,
+      "training_load": 21,
+      "hours": 0.83,
+      "distance_km": 29.0,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 1,
+        "distance_km": 29.0
+      },
+      "quality": false
+    },
+    "2025-08-14": {
+      "sessions": 2,
+      "training_load": 131,
+      "hours": 2.07,
+      "distance_km": 59.8,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 2,
+        "distance_km": 59.8
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": true
+    },
+    "2025-08-18": {
+      "sessions": 1,
+      "training_load": 32,
+      "hours": 0.51,
+      "distance_km": 17.4,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 17.4
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2025-08-25": {
+      "sessions": 1,
+      "training_load": 118,
+      "hours": 1.54,
+      "distance_km": 48.0,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 48.0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": true
+    },
+    "2026-03-26": {
+      "sessions": 2,
+      "training_load": 83,
+      "hours": 1.86,
+      "distance_km": 58.0,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 58.0
+      },
+      "quality": false
+    },
+    "2026-03-27": {
+      "sessions": 1,
+      "training_load": 9,
+      "hours": 0.59,
+      "distance_km": 0.0,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2026-03-28": {
+      "sessions": 1,
+      "training_load": 64,
+      "hours": 1.03,
+      "distance_km": 29.5,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 29.5
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": true
+    },
+    "2026-03-29": {
+      "sessions": 2,
+      "training_load": 86,
+      "hours": 1.68,
+      "distance_km": 57.7,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 57.7
+      },
+      "quality": false
+    },
+    "2026-03-31": {
+      "sessions": 1,
+      "training_load": 31,
+      "hours": 0.71,
+      "distance_km": 24.9,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 1,
+        "distance_km": 24.9
+      },
+      "quality": false
+    },
+    "2026-04-01": {
+      "sessions": 1,
+      "training_load": 48,
+      "hours": 1.03,
+      "distance_km": 28.3,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 1,
+        "distance_km": 28.3
+      },
+      "quality": false
+    },
+    "2026-04-02": {
+      "sessions": 3,
+      "training_load": 89,
+      "hours": 2.43,
+      "distance_km": 57.3,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 57.3
+      },
+      "quality": false
+    },
+    "2026-04-04": {
+      "sessions": 1,
+      "training_load": 160,
+      "hours": 2.83,
+      "distance_km": 81.4,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 81.4
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": true
+    },
+    "2026-04-06": {
+      "sessions": 1,
+      "training_load": 25,
+      "hours": 0.43,
+      "distance_km": 0.0,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2026-04-08": {
+      "sessions": 1,
+      "training_load": 252,
+      "hours": 4.98,
+      "distance_km": 136.5,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 136.5
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": true
+    },
+    "2026-04-13": {
+      "sessions": 1,
+      "training_load": 37,
+      "hours": 0.95,
+      "distance_km": 29.6,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 1,
+        "distance_km": 29.6
+      },
+      "quality": false
+    },
+    "2026-04-14": {
+      "sessions": 2,
+      "training_load": 43,
+      "hours": 1.4,
+      "distance_km": 28.4,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 1,
+        "distance_km": 28.4
+      },
+      "quality": false
+    },
+    "2026-04-15": {
+      "sessions": 2,
+      "training_load": 41,
+      "hours": 1.0,
+      "distance_km": 58.0,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 58.0
+      },
+      "quality": false
+    },
+    "2026-04-16": {
+      "sessions": 1,
+      "training_load": 5,
+      "hours": 0.35,
+      "distance_km": 0.0,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2026-04-17": {
+      "sessions": 2,
+      "training_load": 57,
+      "hours": 1.81,
+      "distance_km": 57.9,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 57.9
+      },
+      "quality": false
+    },
+    "2026-04-18": {
+      "sessions": 1,
+      "training_load": 72,
+      "hours": 0.96,
+      "distance_km": 28.1,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 28.1
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": true
+    },
+    "2026-04-20": {
+      "sessions": 2,
+      "training_load": 64,
+      "hours": 1.84,
+      "distance_km": 58.7,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 58.7
+      },
+      "quality": false
+    },
+    "2026-04-22": {
+      "sessions": 2,
+      "training_load": 70,
+      "hours": 1.79,
+      "distance_km": 58.4,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 58.4
+      },
+      "quality": false
+    },
+    "2026-04-23": {
+      "sessions": 3,
+      "training_load": 254,
+      "hours": 4.79,
+      "distance_km": 132.5,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 3,
+        "distance_km": 132.5
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": true
+    },
+    "2026-04-25": {
+      "sessions": 1,
+      "training_load": 60,
+      "hours": 0.79,
+      "distance_km": 22.9,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 22.9
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": true
+    },
+    "2026-04-27": {
+      "sessions": 2,
+      "training_load": 50,
+      "hours": 1.98,
+      "distance_km": 58.5,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 58.5
+      },
+      "quality": false
+    },
+    "2026-04-28": {
+      "sessions": 1,
+      "training_load": 82,
+      "hours": 1.08,
+      "distance_km": 30.7,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 30.7
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": true
+    },
+    "2026-04-30": {
+      "sessions": 1,
+      "training_load": 88,
+      "hours": 1.1,
+      "distance_km": 32.3,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 32.3
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": true
+    },
+    "2026-05-01": {
+      "sessions": 1,
+      "training_load": 200,
+      "hours": 3.49,
+      "distance_km": 101.3,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 101.3
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": true
+    },
+    "2026-05-09": {
+      "sessions": 1,
+      "training_load": 85,
+      "hours": 1.1,
+      "distance_km": 33.6,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 33.6
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": true
+    },
+    "2026-05-11": {
+      "sessions": 1,
+      "training_load": 85,
+      "hours": 1.06,
+      "distance_km": 30.4,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 30.4
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": true
+    },
+    "2026-05-14": {
+      "sessions": 2,
+      "training_load": 61,
+      "hours": 1.88,
+      "distance_km": 58.3,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 58.3
+      },
+      "quality": false
+    },
+    "2026-05-15": {
+      "sessions": 2,
+      "training_load": 58,
+      "hours": 1.77,
+      "distance_km": 58.1,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 58.1
+      },
+      "quality": false
+    },
+    "2026-05-22": {
+      "sessions": 1,
+      "training_load": 80,
+      "hours": 1.36,
+      "distance_km": 39.3,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 39.3
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": true
+    },
+    "2026-05-23": {
+      "sessions": 1,
+      "training_load": 178,
+      "hours": 2.92,
+      "distance_km": 88.6,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 88.6
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": true
+    },
+    "2026-05-24": {
+      "sessions": 1,
+      "training_load": 0,
+      "hours": 0.0,
+      "distance_km": 0.0,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2026-05-26": {
+      "sessions": 1,
+      "training_load": 35,
+      "hours": 0.72,
+      "distance_km": 2.0,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2026-05-29": {
+      "sessions": 1,
+      "training_load": 89,
+      "hours": 1.18,
+      "distance_km": 40.0,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 40.0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": true
+    },
+    "2026-05-31": {
+      "sessions": 1,
+      "training_load": 15,
+      "hours": 0.69,
+      "distance_km": 2.0,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2026-06-01": {
+      "sessions": 1,
+      "training_load": 24,
+      "hours": 0.94,
+      "distance_km": 29.4,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 1,
+        "distance_km": 29.4
+      },
+      "quality": false
+    },
+    "2026-06-02": {
+      "sessions": 1,
+      "training_load": 16,
+      "hours": 0.81,
+      "distance_km": 29.2,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 1,
+        "distance_km": 29.2
+      },
+      "quality": false
+    },
+    "2026-06-05": {
+      "sessions": 1,
+      "training_load": 204,
+      "hours": 3.03,
+      "distance_km": 90.9,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 90.9
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": true
+    },
+    "2026-06-07": {
+      "sessions": 1,
+      "training_load": 30,
+      "hours": 0.42,
+      "distance_km": 5.2,
+      "running": {
+        "sessions": 1,
+        "distance_km": 5.2
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2026-06-10": {
+      "sessions": 1,
+      "training_load": 58,
+      "hours": 0.79,
+      "distance_km": 9.1,
+      "running": {
+        "sessions": 1,
+        "distance_km": 9.1
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2026-06-11": {
+      "sessions": 2,
+      "training_load": 59,
+      "hours": 1.72,
+      "distance_km": 58.3,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 58.3
+      },
+      "quality": false
+    },
+    "2026-06-14": {
+      "sessions": 1,
+      "training_load": 81,
+      "hours": 1.05,
+      "distance_km": 27.9,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 27.9
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": true
+    },
+    "2026-06-17": {
+      "sessions": 2,
+      "training_load": 56,
+      "hours": 1.76,
+      "distance_km": 57.9,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 57.9
+      },
+      "quality": false
+    },
+    "2026-06-18": {
+      "sessions": 2,
+      "training_load": 27,
+      "hours": 1.74,
+      "distance_km": 58.3,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 58.3
+      },
+      "quality": false
+    },
+    "2026-06-19": {
+      "sessions": 1,
+      "training_load": 212,
+      "hours": 3.55,
+      "distance_km": 105.3,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 105.3
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": true
+    },
+    "2026-06-21": {
+      "sessions": 1,
+      "training_load": 57,
+      "hours": 0.65,
+      "distance_km": 7.3,
+      "running": {
+        "sessions": 1,
+        "distance_km": 7.3
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2026-06-22": {
+      "sessions": 1,
+      "training_load": 21,
+      "hours": 0.66,
+      "distance_km": 2.0,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2026-06-23": {
+      "sessions": 2,
+      "training_load": 52,
+      "hours": 1.82,
+      "distance_km": 58.5,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 58.5
+      },
+      "quality": false
+    },
+    "2026-06-24": {
+      "sessions": 1,
+      "training_load": 21,
+      "hours": 0.32,
+      "distance_km": 0.0,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2026-06-25": {
+      "sessions": 1,
+      "training_load": 27,
+      "hours": 0.43,
+      "distance_km": 5.0,
+      "running": {
+        "sessions": 1,
+        "distance_km": 5.0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2026-06-27": {
+      "sessions": 2,
+      "training_load": 55,
+      "hours": 1.76,
+      "distance_km": 58.6,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 58.6
+      },
+      "quality": false
+    },
+    "2026-06-28": {
+      "sessions": 1,
+      "training_load": 22,
+      "hours": 0.82,
+      "distance_km": 29.3,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 1,
+        "distance_km": 29.3
+      },
+      "quality": false
+    },
+    "2026-07-01": {
+      "sessions": 2,
+      "training_load": 55,
+      "hours": 1.67,
+      "distance_km": 58.4,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 58.4
+      },
+      "quality": false
+    },
+    "2026-07-03": {
+      "sessions": 1,
+      "training_load": 66,
+      "hours": 0.87,
+      "distance_km": 9.7,
+      "running": {
+        "sessions": 1,
+        "distance_km": 9.7
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": true
+    },
+    "2026-07-08": {
+      "sessions": 2,
+      "training_load": 63,
+      "hours": 1.75,
+      "distance_km": 59.0,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 59.0
+      },
+      "quality": false
+    },
+    "2026-07-09": {
+      "sessions": 2,
+      "training_load": 62,
+      "hours": 1.68,
+      "distance_km": 58.3,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 58.3
+      },
+      "quality": false
+    },
+    "2026-07-10": {
+      "sessions": 2,
+      "training_load": 64,
+      "hours": 1.76,
+      "distance_km": 58.4,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 2,
+        "distance_km": 58.4
+      },
+      "quality": false
+    },
+    "2026-07-11": {
+      "sessions": 1,
+      "training_load": 66,
+      "hours": 0.74,
+      "distance_km": 8.6,
+      "running": {
+        "sessions": 1,
+        "distance_km": 8.6
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": true
+    }
+  },
+  "performance": {
+    "generated": "2026-07-13 08:12:01.603087",
+    "cycling": {
+      "rides_last_180_days": 19,
+      "best_ftp": 246,
+      "best_5min_power": null,
+      "best_wprime": 20123,
+      "best_peak_power": 958
+    }
+  }
+}

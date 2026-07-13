@@ -50,7 +50,6 @@ performance = {
         ]),
 
         "best_5min_power": None,
-        "best_5min_power_note": "Needs calculation from power stream"
         ]),
 
         "best_wprime": maximum([

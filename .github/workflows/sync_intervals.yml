@@ -5,6 +5,29 @@ on:
     - cron: "0 5 * * *"
 
   workflow_dispatch:
+    inputs:
+      sport_preference:
+        description: 'Sportvoorkeur voor vandaag'
+        required: false
+        type: choice
+        options:
+          - Geen voorkeur (Auto)
+          - Fietsen
+          - Lopen
+          - Rust / Herstel
+        default: 'Geen voorkeur (Auto)'
+      athlete_notes:
+        description: 'Persoonlijke opmerkingen (bijv. HRV is laag, benen voelen zwaar, slechte slaap)'
+        required: false
+        type: string
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
 
 permissions:
   contents: write
@@ -76,8 +99,10 @@ jobs:
       - name: Maak coach analyse
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SPORT_PREFERENCE: ${{ github.event.inputs.sport_preference }}
+          ATHLETE_NOTES: ${{ github.event.inputs.athlete_notes }}
         run: |
-          python scripts/create_coach_analysis.py   
+          python scripts/create_coach_analysis.py  
           
       - name: Bewaar analyse
         run: |

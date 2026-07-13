@@ -29,13 +29,6 @@ jobs:
   sync:
     runs-on: ubuntu-latest
 
-permissions:
-  contents: write
-
-jobs:
-  sync:
-    runs-on: ubuntu-latest
-
     steps:
 
       - name: Download repository
@@ -102,7 +95,7 @@ jobs:
           SPORT_PREFERENCE: ${{ github.event.inputs.sport_preference }}
           ATHLETE_NOTES: ${{ github.event.inputs.athlete_notes }}
         run: |
-          python scripts/create_coach_analysis.py  
+          python scripts/create_coach_analysis.py    
           
       - name: Bewaar analyse
         run: |

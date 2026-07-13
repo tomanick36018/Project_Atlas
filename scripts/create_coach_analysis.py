@@ -4,26 +4,6 @@ import sys
 from datetime import datetime
 from google import genai
 from google.genai import types
-from pydantic import BaseModel, Field
-
-# 1. Definieer de structuur van de output
-class SessionOption(BaseModel):
-    session_title: str = Field(description="Short title, e.g., 'Sweet Spot Intervals' or 'Easy Aerobic Run'")
-    intensity: str = Field(description="Target intensity level or zone (e.g., 'Zone 3 (Sweet Spot)', 'Zone 1-2 (Endurance)', 'VO2max')")
-    workout_details: str = Field(description="Specific detailed session, e.g., 'Cycling: 3x10min at 220-230W (Zone 3) with 5min recovery' or 'Running: 5x1000m @ 5km pace with 2min walking recovery'")
-    reason: str = Field(description="Physiological justification focusing on the specific target (5km run, 5min power, or 20min power) and how it fits the current training status.")
-
-class TodayOptions(BaseModel):
-    cycling_option: SessionOption = Field(description="Recommended session if the athlete chooses Cycling today")
-    running_option: SessionOption = Field(description="Recommended session if the athlete chooses Running today")
-    recovery_option: SessionOption = Field(description="Recommended session if the athlete chooses Rest or Recovery today")
-
-class CoachAssessmentSchema(BaseModel):
-    daily_load_assessment: str = Field(description="Analysis of immediate, daily training stress and recovery status based on recent workouts.")
-    acute_status_assessment_3_weeks: str = Field(description="Evaluation of the 3-week (21 days) acute training status, block volume, and recent fatigue accumulation.")
-    sport_trend_assessment_6_months: str = Field(description="Analysis of the long-term (6 months / 180 days) fitness trend, CTL ramp rate, and progression towards primary goals.")
-    coach_verdict: str = Field(description="Direct coach feedback addressing the athlete's qualitative notes (e.g., HRV, fatigue, sleep) and recommending which option to prioritize today.")
-    today_options: TodayOptions
 
 def load_json(path):
     with open(path, "r") as f:
@@ -64,46 +44,55 @@ def main():
     prompt = f"""
     You are an expert, data-driven sports coach. Your athlete wants to optimize their rising fitness trend (CTL) safely and effectively.
 
-    You must analyze and evaluate the athlete's progress through three distinct time horizons:
-    1. DAILY HORIZON (Per dag): Analyze immediate training stress, daily load, and today's recovery state to guide immediate session design.
-    2. 3-WEEK HORIZON (Actuele status / 21 days): Treat this as the acute training status. Evaluate recent block volume, fatigue accumulation (ATL), and adaptation rate over the last 3 weeks.
-    3. 6-MONTH HORIZON (Sporttrend / 180 days): Treat this as the long-term sport trend. Evaluate macro progression, CTL ramp rate (fitness build), and seasonal progress.
+    Evaluate the athlete's progress through three distinct time horizons:
+    1. DAILY HORIZON (Per dag): Analyze immediate training stress, daily load, and today's recovery state.
+    2. 3-WEEK HORIZON (Actuele status / 21 days): Evaluate recent block volume, fatigue accumulation (ATL), and adaptation rate.
+    3. 6-MONTH HORIZON (Sporttrend / 180 days): Evaluate long-term sport trend, CTL ramp rate, and progress.
 
     ATHLETE GOALS:
-    - Running: 5km performance (pace, VO2max, interval quality).
-    - Cycling: 5-minute power (VO2max capacity) and 20-minute power (FTP/threshold endurance).
+    - Running: 5km performance.
+    - Cycling: 5-minute power (VO2max) and 20-minute power (FTP).
 
     TODAY'S ATHLETE INPUT:
     - Preferred Sport: {sport_preference}
-    - Athlete Notes (HRV, sleep, soreness, feeling): "{athlete_notes if athlete_notes else 'No notes provided today. Focus purely on training data.'}"
+    - Athlete Notes: "{athlete_notes if athlete_notes else 'No notes provided today.'}"
 
-    ATHLETE TRAINING DATA (Intervals.icu):
+    ATHLETE TRAINING DATA:
     {json.dumps(coach_input, indent=2)}
 
     COACH INSTRUCTIONS:
-    - Strictly evaluate each of the three time horizons (Daily, 3-Week, 6-Month) in your assessment.
-    - Directly address the athlete's subjective notes (HRV, soreness, etc.) in your verdict.
-    - Generate THREE distinct options for today (Cycling, Running, and Recovery/Rest) so the athlete can choose.
-    - Ensure the Cycling option targets FTP (20-min power) or VO2max (5-min power), the Running option targets 5km performance, and the Recovery option supports active recovery.
-    - Be direct, strict, and precise. Give specific power targets (Watts) or heart rate zones (BPM) based on the athlete's FTP and Max HR.
+    - You must return a JSON object containing exactly the following keys:
+      "daily_load_assessment" (string)
+      "acute_status_assessment_3_weeks" (string)
+      "sport_trend_assessment_6_months" (string)
+      "coach_verdict" (string)
+      "today_options" (object containing: "cycling_option", "running_option", and "recovery_option")
+
+    - Each of the three options ("cycling_option", "running_option", "recovery_option") must be an object with:
+      "session_title" (string)
+      "intensity" (string)
+      "workout_details" (string)
+      "reason" (string)
+
+    Specifics to include:
     - Coach Style: {coach_style}, challenge level: {challenge_level}.
-    - Priorities: {', '.join(priorities) if priorities else 'none'}.
     - Athlete Goal: {goal}
     - Heart Rate Max: {max_hr} bpm.
     - FTP: {ftp} W.
     """
 
-    print("Gegevens worden naar Gemini gestuurd voor gerichte 1-dag / 3-weken / 6-maanden analyse...")
+    print("Gegevens worden naar Gemini gestuurd voor snelle JSON analyse...")
     
+    # We vragen om JSON-output, maar laten de zware schema-validatie achterwege voor maximale snelheid
     response = client.models.generate_content(
         model="gemini-3.5-flash",
         contents=prompt,
         config=types.GenerateContentConfig(
             response_mime_type="application/json",
-            response_schema=CoachAssessmentSchema,
         ),
     )
 
+    # Parse de resulterende JSON-tekst
     ai_result = json.loads(response.text)
 
     fitness_state = coach_input.get("fitness_state", {})
@@ -128,11 +117,11 @@ def main():
         "today_options": ai_result.get("today_options", {})
     }
 
-    # 1. Sla JSON op voor eventueel dashboardgebruik
+    # 1. Sla JSON op
     with open("data/coach_analysis.json", "w") as f:
         json.dump(analysis, f, indent=2)
 
-    # 2. Genereer een overzichtelijke README.md homepage
+    # 2. Genereer README.md
     tsb = round(ctl - atl, 1)
     if tsb < -30:
          tsb_status = "⚠️ Hoog Risico (TSB onder -30)"
@@ -140,6 +129,12 @@ def main():
          tsb_status = "🟢 Optimaal Trainingsvenster"
     else:
          tsb_status = "🔵 Fris / Herstel"
+
+    # Haal de opties veilig op uit het resultaat
+    options = ai_result.get("today_options", {})
+    cycling = options.get("cycling_option", {})
+    running = options.get("running_option", {})
+    recovery = options.get("recovery_option", {})
 
     readme_content = f"""# 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
@@ -156,7 +151,7 @@ def main():
 ## 📋 Coach Verdict & Advies voor Vandaag
 > **Gevoel / Input van vandaag:** *"{athlete_notes if athlete_notes else 'Geen opmerkingen ingevoerd.'}"*
 > 
-> {analysis['coach_verdict']}
+> {ai_result.get('coach_verdict', '')}
 
 ---
 
@@ -164,35 +159,35 @@ def main():
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
 ### 🚴‍♂️ Optie 1: Fietsen (Doel: 5min / 20min vermogen)
-* **Training:** **{analysis['today_options']['cycling_option']['session_title']}**
-* **Intensiteit:** `{analysis['today_options']['cycling_option']['intensity']}`
-* **Workout details:** {analysis['today_options']['cycling_option']['workout_details']}
-* **Waarom:** *{analysis['today_options']['cycling_option']['reason']}*
+* **Training:** **{cycling.get('session_title', 'Geen training beschikbaar')}**
+* **Intensiteit:** `{cycling.get('intensity', '-')}`
+* **Workout details:** {cycling.get('workout_details', '-')}
+* **Waarom:** *{cycling.get('reason', '-')}*
 
 ### 🏃‍♂️ Optie 2: Hardlopen (Doel: 5km snelheid)
-* **Training:** **{analysis['today_options']['running_option']['session_title']}**
-* **Intensiteit:** `{analysis['today_options']['running_option']['intensity']}`
-* **Workout details:** {analysis['today_options']['running_option']['workout_details']}
-* **Waarom:** *{analysis['today_options']['running_option']['reason']}*
+* **Training:** **{running.get('session_title', 'Geen training beschikbaar')}**
+* **Intensiteit:** `{running.get('intensity', '-')}`
+* **Workout details:** {running.get('workout_details', '-')}
+* **Waarom:** *{running.get('reason', '-')}*
 
 ### 🧘‍♂️ Optie 3: Actief herstel / Rust
-* **Training:** **{analysis['today_options']['recovery_option']['session_title']}**
-* **Intensiteit:** `{analysis['today_options']['recovery_option']['intensity']}`
-* **Workout details:** {analysis['today_options']['recovery_option']['workout_details']}
-* **Waarom:** *{analysis['today_options']['recovery_option']['reason']}*
+* **Training:** **{recovery.get('session_title', 'Geen training beschikbaar')}**
+* **Intensiteit:** `{recovery.get('intensity', '-')}`
+* **Workout details:** {recovery.get('workout_details', '-')}
+* **Waarom:** *{recovery.get('reason', '-')}*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-{analysis['daily_load_assessment']}
+{ai_result.get('daily_load_assessment', '')}
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-{analysis['acute_status_assessment_3_weeks']}
+{ai_result.get('acute_status_assessment_3_weeks', '')}
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-{analysis['sport_trend_assessment_6_months']}
+{ai_result.get('sport_trend_assessment_6_months', '')}
 """
 
     with open("README.md", "w") as f:

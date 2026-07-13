@@ -1,0 +1,32 @@
+{
+  "athlete": {
+    "age": 31,
+    "height_cm": 183,
+    "weight_kg": 76,
+    "sports": [
+      "running",
+      "cycling",
+      "ebike"
+    ],
+    "max_hr": 194,
+    "resting_hr": 49
+  },
+
+  "performance_goals": {
+    "running": [
+      "improve 5km performance"
+    ],
+    "cycling": [
+      "improve 5min power",
+      "improve 20min power"
+    ]
+  },
+
+  "training_preferences": {
+    "coach_style": "strict",
+    "focus": "general endurance improvement",
+    "intervals": true,
+    "zone2_commute": true,
+    "review_period_days": 21
+  }
+}

@@ -28,6 +28,12 @@ jobs:
           "https://intervals.icu/api/v1/athlete/0/activities?oldest=2025-01-01" \
           -o data/activities.json
 
+      - name: Haal power streams op
+        env:
+          API_KEY: ${{ secrets.INTERVALS_API_KEY }}
+        run: |
+          python scripts/get_power_streams.py
+
       - name: Bewaar nieuwe data
         run: |
           git config user.name "github-actions"

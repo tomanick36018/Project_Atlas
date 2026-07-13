@@ -43,7 +43,11 @@ jobs:
           
       - name: Maak dagelijkse samenvatting
         run: |
-         python scripts/create_daily_summary.py    
+         python scripts/create_daily_summary.py
+         
+      - name: Maak trainingsblok
+        run: |
+         python scripts/create_training_blocks.py
           
       - name: Maak performance analyse
         run: |

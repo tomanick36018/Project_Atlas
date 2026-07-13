@@ -1,32 +1,55 @@
 {
-  "generated": "2026-07-13 08:57:08.960781",
-  "athlete": {
-    "age": 31,
-    "height_cm": 183,
-    "weight_kg": 76,
-    "sports": [
-      "running",
-      "cycling",
-      "ebike"
-    ],
-    "max_hr": 194,
-    "resting_hr": 49
-  },
-  "goals": {
-    "running": [
-      "improve 5km performance"
-    ],
-    "cycling": [
-      "improve 5min power",
-      "improve 20min power"
-    ]
-  },
-  "preferences": {
-    "coach_style": "strict",
-    "focus": "general endurance improvement",
-    "intervals": true,
-    "zone2_commute": true,
-    "review_period_days": 21
+  "generated": "2026-07-13 09:41:05.929630",
+  "profile_config": {
+    "athlete": {
+      "sports": [
+        "cycling",
+        "running"
+      ],
+      "goal": "Improve endurance performance with focus on 5km running and cycling power"
+    },
+    "body": {
+      "age": 31,
+      "height_cm": 183,
+      "weight_kg": 76
+    },
+    "performance": {
+      "cycling": {
+        "ftp_watts": 250,
+        "ftp_wkg": 3.29,
+        "target_metrics": [
+          "5min_power",
+          "20min_power"
+        ]
+      },
+      "running": {
+        "target_distance": "5km",
+        "target_metrics": [
+          "pace",
+          "heart_rate_efficiency",
+          "interval_quality"
+        ]
+      }
+    },
+    "heart_rate": {
+      "max_hr": 194
+    },
+    "coach_settings": {
+      "style": "strict",
+      "challenge_level": "high",
+      "priority": [
+        "quality_intervals",
+        "aerobic_base",
+        "progressive_overload",
+        "recovery_management"
+      ]
+    },
+    "analysis": {
+      "acute_window_days": 7,
+      "training_block_days": 21,
+      "long_term_window_days": 180,
+      "absolute_tsb_limit": -30
+    }
   },
   "current_training_block": {
     "period_days": 21,
@@ -2721,8 +2744,8 @@
       "quality": true
     }
   },
-  "performance": {
-    "generated": "2026-07-13 08:57:08.926790",
+  "performance_trends": {
+    "generated": "2026-07-13 09:41:05.895035",
     "cycling": {
       "rides_last_180_days": 19,
       "best_ftp": 246,
@@ -2730,5 +2753,11 @@
       "best_wprime": 20123,
       "best_peak_power": 958
     }
+  },
+  "fitness_state": {
+    "CTL": 31.80358,
+    "ATL": 37.91303,
+    "resting_hr": 49,
+    "weight": 73.0
   }
 }

@@ -47,7 +47,7 @@ def main():
 
     client = genai.Client(api_key=api_key)
 
-    # De prompt is nu specifiek ingericht op de drie vensters: 1 dag, 3 weken en 6 maanden
+    # De prompt is specifiek ingericht op de drie vensters: 1 dag, 3 weken en 6 maanden
     prompt = f"""
     You are an expert, data-driven sports coach. Your athlete wants to optimize their rising fitness trend (CTL) safely and effectively.
 
@@ -88,7 +88,11 @@ def main():
 
     ai_result = json.loads(response.text)
 
-    block = coach_input.get("current_training_block", {})
+    # Laad de fitness state in die we via create_coach_input hebben toegevoegd
+    fitness_state = coach_input.get("fitness_state", {})
+    ctl = fitness_state.get("CTL", 0)
+    atl = fitness_state.get("ATL", 0)
+
     analysis = {
         "generated": str(datetime.now()),
         "athlete_inputs": {
@@ -96,9 +100,9 @@ def main():
             "athlete_notes": athlete_notes
         },
         "current_state": {
-            "CTL": block.get("CTL", 0),
-            "ATL": block.get("ATL", 0),
-            "Form_TSB": block.get("CTL", 0) - block.get("ATL", 0)
+            "CTL": round(ctl, 1),
+            "ATL": round(atl, 1),
+            "Form_TSB": round(ctl - atl, 1)
         },
         "daily_load_assessment": ai_result.get("daily_load_assessment", ""),
         "acute_status_assessment_3_weeks": ai_result.get("acute_status_assessment_3_weeks", ""),

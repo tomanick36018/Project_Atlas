@@ -49,9 +49,8 @@ performance = {
             for r in rides
         ]),
 
-        "best_5min_power": maximum([
-            r.get("icu_pm_cp")
-            for r in rides
+        "best_5min_power": None,
+        "best_5min_power_note": "Needs calculation from power stream"
         ]),
 
         "best_wprime": maximum([

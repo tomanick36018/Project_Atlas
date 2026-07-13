@@ -22,6 +22,13 @@
     ]
   },
 
+  "analysis": {
+    "acute_window_days": 7,
+    "training_block_days": 21,
+    "long_term_window_days": 180,
+    "absolute_tsb_limit": -30
+  }
+  
   "training_preferences": {
     "coach_style": "strict",
     "focus": "general endurance improvement",

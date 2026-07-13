@@ -50,7 +50,6 @@ performance = {
         ]),
 
         "best_5min_power": None,
-        ]),
 
         "best_wprime": maximum([
             r.get("icu_pm_w_prime")

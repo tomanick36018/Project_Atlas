@@ -60,14 +60,7 @@ jobs:
         run: |
           python scripts/get_power_streams.py
 
-      - name: Bewaar nieuwe data
-        run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-
-          git add data/activities.json data/power_streams.json
-          git commit -m "Update Intervals data" || exit 0
-          git push
+      # (De tussentijdse push-stap is hier verwijderd voor meer snelheid en stabiliteit)
 
       - name: Maak fitness analyse
         run: |
@@ -97,11 +90,17 @@ jobs:
         run: |
           python scripts/create_coach_analysis.py    
           
-      - name: Bewaar analyse
+      - name: Bewaar alle data en analyses
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          git add README.md data/fitness_summary.json data/performance_trends.json data/daily_summary.json data/training_blocks.json data/coach_input.json data/coach_analysis.json
-          git commit -m "Update fitness summary" || exit 0
+          # We voegen hier ALLE gewijzigde bestanden in één keer toe
+          git add README.md data/activities.json data/power_streams.json data/fitness_summary.json data/performance_trends.json data/daily_summary.json data/training_blocks.json data/coach_input.json data/coach_analysis.json
+          git commit -m "Automatische update van Intervals data en coach-analyse" || exit 0
+          
+          # Haal eventuele nieuwe code op die u zojuist heeft gepusht, om conflicten te vermijden
+          git pull --rebase origin main
+          
+          # Push alles veilig naar GitHub
           git push

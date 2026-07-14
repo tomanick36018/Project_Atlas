@@ -1,6 +1,6 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-07-14 11:10:35*
+*Laatst bijgewerkt: 2026-07-14 15:34:24*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL - 42 dagen):** `31.6`
@@ -11,9 +11,9 @@
 ---
 
 ## 📋 Coach Verdict & Advies voor Vandaag
-> **Gevoel / Input van vandaag:** *"Geen opmerkingen ingevoerd."*
+> **Gevoel / Input van vandaag:** *"Benchmarken op lopen"*
 > 
-> You are lean, fully recovered, and under-stimulated. Your e-bike commuting keeps you moving, but it will not make you fast. If you want to drop your 5km run time and break past 250W on the bike, you must stop cruising and start hunting performance goals. The numbers say you are completely ready for a high-intensity shock. No excuses today—it is time to push hard.
+> You requested a running benchmark, and your recovery metrics have cleared you for maximum effort. No excuses today. We will exploit your fresh physical state to execute an all-out 5km Time Trial. This will establish concrete, data-driven pace and heart rate training zones based on your 194 bpm Max HR, putting an end to guesswork and unstructured junk miles.
 
 ---
 
@@ -21,32 +21,32 @@
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
 ### 🚴‍♂️ Optie 1: Fietsen (Doel: 5min / 20min vermogen)
-* **Training:** **VO2max Peak Power Interval Progression**
-* **Intensiteit:** `Very High (Zone 5 / VO2max)`
-* **Workout details:** Warm-up: 15 minutes ramping up to 160W, including 3x 30-second high-cadence spins. Main Set: 4x 4-minute intervals at 115-120% FTP (285W - 300W), aiming to hold a high cadence (>95 RPM). Recovery: 4 minutes of very easy spinning at 120W between each interval. Cool-down: 10 minutes easy spinning below 135W. Target Max HR: 175-188 bpm.
-* **Waarom:** *This workout directly addresses your goal of improving 5-minute VO2max power. Pushing your cardiac output to its absolute limit is necessary to raise your performance ceiling and force physiological adaptations that low-intensity commuting cannot provide.*
+* **Training:** **VO2max Peak Power Intervals**
+* **Intensiteit:** `Very High Intensity (115-120% FTP)`
+* **Workout details:** Warm-up: 15 minutes ramping from Zone 2 up to FTP, including 2x 1-minute fast-pedal efforts (100+ RPM). Main Set: 5x 3-minute intervals at 285-300 Watts (based on 250W FTP). Rest with 3 minutes of complete passive spinning between intervals. Cool-down: 10 minutes of easy spinning in Zone 1.
+* **Waarom:** *Directly targets your primary cycling goal of improving 5-minute power. Since your recent block was devoid of performance cycling, this initiates the necessary cardiorespiratory stress.*
 
 ### 🏃‍♂️ Optie 2: Hardlopen (Doel: 5km snelheid)
-* **Training:** **5km Pace & Lactate Tolerance Intervals**
-* **Intensiteit:** `High (Zone 4/5 Running)`
-* **Workout details:** Warm-up: 2 km easy jogging, followed by dynamic drills and 3x 100m strides. Main Set: 5x 1000m at your goal 5km race pace, keeping recoveries strictly to 2 minutes of active walking or very light jogging. Cool-down: 1.5 km easy jog. Target Max HR: 180-186 bpm.
-* **Waarom:** *To run a faster 5km, you must build neuromuscular efficiency and mental tolerance at target race pace. The 5x1000m structure is a classic VO2max run workout that allows you to run faster than your current continuous threshold pace while maintaining high quality.*
+* **Training:** **5km Field Test / Benchmark Run**
+* **Intensiteit:** `Maximal Effort (Zone 5/6)`
+* **Workout details:** Warm-up: 15 minutes of progressive Zone 2 running, followed by 3x 30-second strides at target 5k pace to prime neuromuscular pathways. Main Set: 5,000 meters all-out on a flat road or track. Pace it strictly: do not fly and die; aim for an even or negative split. Cool-down: 10 minutes of very easy jogging (Zone 1) and light mobility work.
+* **Waarom:** *Directly aligns with your request to benchmark. Today's fresh TSB (-4.6) is the perfect window to capture accurate, un-fatigued baseline pace and HR data to calibrate your future quality intervals.*
 
 ### 🧘‍♂️ Optie 3: Actief herstel / Rust
-* **Training:** **Active Recovery Base Flush**
-* **Intensiteit:** `Very Low (Zone 1 Recovery)`
-* **Workout details:** Duration: 45 minutes on flat terrain or an indoor trainer. Power must remain strictly below 135W (55% FTP). Cadence should be self-selected but preferably high (85-95 RPM) to promote muscle flushing. Keep heart rate strictly below 125 bpm.
-* **Waarom:** *If your subjective muscle soreness is high despite a recovered TSB, use this option to promote blood flow, accelerate metabolic waste clearance, and prepare your legs for tomorrow's high-intensity work without adding any additional training stress.*
+* **Training:** **Active Recovery Spin**
+* **Intensiteit:** `Very Low Intensity (Zone 1)`
+* **Workout details:** Active recovery ride of 30-45 minutes on a flat route. Keep power strictly under 140 Watts (55% FTP) and heart rate strictly below 120 bpm. Cadence should remain naturally high and light (85-95 RPM). No hill climbs, no sprints.
+* **Waarom:** *To be selected only if you feel unexpected joint soreness or mental fatigue. This will promote blood flow and metabolic clearance without adding structural fatigue, rescheduling the benchmark for tomorrow.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Today is July 14, and you are in a highly recovered state. Your last recorded session was two days ago on July 12. With a current CTL of 31.6 and ATL of 36.2, your Training Stress Balance (TSB) is sitting at a highly favorable -4.5. Your resting heart rate of 48 bpm confirms excellent autonomic recovery. There is zero residual fatigue holding you back today. The system is fully primed to absorb a high-stress stimulus.
+Today is July 14, 2026. Your last session was on July 12, giving you a full 48-hour recovery window. With a CTL of 31.6 and ATL of 36.2, your Training Stress Balance (TSB) is a highly favorable -4.6 (neutral zone). Combined with a low resting heart rate of 48 bpm, you are physiologically fully recovered and structurally ready to absorb a high-stress stimulus today.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the past 21-day training block, you accumulated 599 TSS across 14.8 hours. However, a deeper look reveals a critical issue: 13 of your 19 sessions were low-stress e-bike commutes, with only 4 running sessions and 0 performance cycling sessions. This means your high-intensity engine is being neglected. While your TSB is safe and your adaptation capacity is high, you are not generating enough progressive overload to trigger adaptations for your 5km running or cycling power goals.
+Over the last 21 days, you logged 19 sessions totaling 14.8 hours and 599 TSS. However, a critical critique is necessary: 13 of these sessions were e-bike commutes. While excellent for active recovery, they lack the specific mechanical and cardiorespiratory stress needed to improve your 5km running or 5-minute cycling power. You logged only 4 running sessions and 0 performance cycling sessions. This current block represents structural undertraining for your goals.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Your 180-day CTL trend is flat and plateaued at a low baseline of 31.6. While your body weight has dropped favorably to 73.0 kg, boosting your power-to-weight ratio to 3.42 W/kg at your current FTP of 250W, your actual aerobic power generation is stagnant. Having logged only 19 performance rides in the last 6 months, you are coasting on commute mileage. To raise your 5-minute VO2max power and 20-minute FTP, we must aggressively transition you from unstructured commuting to structured, high-intensity intervals.
+Your long-term sport trend shows a stagnating CTL around 31.6. You possess an excellent aerobic floor (resting HR 48, lean weight at 73kg), but you are not challenging your system. To drive positive adaptation and safely ramp your CTL, we must replace unstructured commuting with dedicated running volume and high-intensity cycling performance blocks. Your system is fully capable of handling a progressive overload ramp rate of +3 to +5 CTL points per week.

@@ -1,36 +1,36 @@
 {
-  "generated": "2026-07-13 16:09:52.351643",
+  "generated": "2026-07-14 03:59:08.926117",
   "athlete_inputs": {
-    "sport_preference": "Geen voorkeur (Auto)",
-    "athlete_notes": ""
+    "sport_preference": "Lopen",
+    "athlete_notes": "Ik zil 20 lim inspaanningstest doen om waardes te benchlarken"
   },
   "current_state": {
     "CTL": 31.6,
     "ATL": 36.2,
     "Form_TSB": -4.6
   },
-  "daily_load_assessment": "Today's recovery state is optimal. Your CTL is 31.6 and ATL is 36.2, resulting in a TSB of -4.6. Yesterday's training was a very light 5.1km run, meaning there is zero residual muscular damage or systemic fatigue holding you back today. Your resting heart rate is stable at 48 bpm. You are fully cleared for high-intensity work.",
-  "acute_status_assessment_3_weeks": "Over the past 21 days, you accumulated 14.8 hours of volume across 19 sessions, but the structured training stimulus is weak. The vast majority of your load is coming from low-intensity e-bike commuting. Only 2 sessions were classified as quality workouts. While this maintains a baseline, it is insufficient to drive progress for your 5km running target or cycling FTP goals. Your body is adapting to a low stress state; we must inject targeted stress.",
-  "sport_trend_assessment_6_months": "Your 180-day trend indicates a flatlining CTL of around 31. This is a common plateau for athletes relying heavily on commuting volume without structured progressive overload. You have only logged 19 performance cycling rides in the last 6 months. To improve your 5-minute VO2max and 20-minute FTP, you must transition from unstructured riding to dedicated, high-intensity intervals that force cardiovascular adaptation.",
-  "coach_verdict": "You are healthy, rested, and plateauing. Your current training load is too comfortable to trigger adaptation. Since you have no preference today, I am prescribing a high-intensity session. Today is a green-light day to push your limits. No excuses, choose either the cycling or running quality intervals and execute with precision.",
+  "daily_load_assessment": "Je TSB is momenteel nagenoeg neutraal (-4.6) met een CTL van 31.6 en ATL van 36.2. Dit betekent dat je fysiek volledig hersteld bent en klaar bent voor een zware, maximale test. Er is geen sprake van acute vermoeidheid die je prestatie vandaag in de weg staat. Geen excuses.",
+  "acute_status_assessment_3_weeks": "De afgelopen 3 weken hebben we 19 sessies geregistreerd, maar het volume bestaat vrijwel volledig uit e-bike woon-werkverkeer en slechts 4 hardloopsessies. De acute trainingsbelasting (ATL) is stabiel maar mist de specifieke, intensieve prikkels die nodig zijn voor echte VO2max- en FTP-verbetering. Je bent momenteel onder-geprikkeld voor je specifieke sportdoelen.",
+  "sport_trend_assessment_6_months": "Over de afgelopen 180 dagen zien we een forse daling in je gerichte trainingsintensiteit ten opzichte van het voorjaar (waar je ritten van 200+ TSS voltooide). Je CTL is gestagneerd rond de 31. Dit is onvoldoende om je doelen op de 5km hardlopen en je 5-minuten fietsvermogen te bereiken. We moeten de progressieve overload dringend herintroduceren.",
+  "coach_verdict": "Je wilt een 20-minuten test doen om je waardes te benchmarken? Uitstekend plan. Met een neutrale TSB en een rusthartslag van 48 bpm is je lichaam er klaar voor. Maar let op: een test is pas waardevol als je bereid bent diep te gaan. Vandaag gaan we tot het uiterste om de harde realiteit van je huidige fitheid onder ogen te zien. Kies je test en voer hem compromisloos uit.",
   "today_options": {
     "cycling_option": {
-      "session_title": "VO2max Capacity Builder: 5x3-Minute Intervals",
-      "intensity": "Very High (Zone 5/6, 115-120% FTP / 285-300 Watts)",
-      "workout_details": "15 min warm-up including 3x 30-second high-cadence fast legs. Main set: 5 x 3 minutes at 290W (cadence > 95 rpm). Take exactly 3 minutes of active recovery spin (Zone 1) between each interval. Finish with a 10 min cool-down.",
-      "reason": "Directly targets your goal of improving 5-minute VO2max power. Your low fatigue level (-4.6 TSB) makes today the perfect day to execute this challenging, high-power session."
+      "session_title": "20-Minuten FTP Benchmark Test",
+      "intensity": "Maximaal (Zone 5/6 - RPE 10/10)",
+      "workout_details": "15 min warming-up (inclusief 3x 30 sec snelle cadans op 100+ RPM). Dan: 5 min ALL-OUT (richtwaarde 280-300W) om je anaerobe capaciteit volledig leeg te trekken. 10 min herstel. Vervolgens de hoofdmoot: 20 min maximaal constant vermogen (richt op 250-265W). Sluit af met 10 min rustige cooling-down.",
+      "reason": "Dit valideert direct je huidige FTP (250W) en geeft ons de exacte trainingszones voor de komende fietstrainingen om je 5-minuten en 20-minuten vermogen gericht te verbeteren."
     },
     "running_option": {
-      "session_title": "5km Pace Development: 5x800m Track Intervals",
-      "intensity": "High (Zone 5, Target HR > 180 bpm)",
-      "workout_details": "1.5 km easy warm-up jog followed by dynamic mobility drills. Main set: 5 x 800m intervals at your goal 5km target pace. Rest with 2 minutes of walking or very light jogging between reps. Finish with 1 km easy cool-down jog.",
-      "reason": "Improves your running economy and VO2max pace, directly supporting your 5km performance goal. You have a solid aerobic base from recent runs, now we need to build speed endurance."
+      "session_title": "5km Hardlooptijdrit / 20-Minuten Veldtest",
+      "intensity": "Maximaal (Zone 4/5 - RPE 9.5/10)",
+      "workout_details": "2 km rustig warmlopen (Zone 2), gevolgd door 3x 100m strides (versnellingen) om je hartslag op te krikken. Vervolgens: 5km maximale tijdrit op een vlak parcours of atletiekbaan. Registreer je gemiddelde hartslag over de laatste 15 minuten om je LTHR te bepalen. 1.5 km rustig uitlopen.",
+      "reason": "Aangezien je voorkeur vandaag naar hardlopen uitgaat, is dit de ultieme test om je huidige 5km-baseline vast te leggen en je drempeltempo te kalibreren."
     },
     "recovery_option": {
-      "session_title": "Active Recovery Spin & Mobility",
-      "intensity": "Very Low (Zone 1, HR < 120 bpm)",
-      "workout_details": "30 minutes of light spinning on a flat road or trainer (FTP < 50%, very light gear, cadence > 90 rpm). Follow with 15 minutes of lower body foam rolling and hip mobility exercises.",
-      "reason": "Only select this option if you feel unrecorded joint pain or excessive muscle soreness. Mechanically, your data shows you are completely recovered and ready to train."
+      "session_title": "Actief Herstel & Mobiliteit",
+      "intensity": "Zeer Laag (Zone 1 - RPE 2/10)",
+      "workout_details": "30-40 minuten superlicht spinnen op de e-bike of indoortrainer op een vlak parcours. Houd je vermogen onder de 130W en hartslag onder de 120 bpm (geen belasting). Sluit af met 15 minuten gerichte mobiliteitsoefeningen voor je heupen, hamstrings en enkels.",
+      "reason": "Als je mentaal of fysiek niet klaar bent om vandaag 100% te geven tijdens een test, doe je herstelwerk. Halfbakken testen bestaan niet in mijn schema. Herstel dan nu, zodat we morgen kunnen knallen."
     }
   }
 }

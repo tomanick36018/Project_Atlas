@@ -1,36 +1,36 @@
 {
-  "generated": "2026-07-14 15:34:24.705728",
+  "generated": "2026-07-15 06:04:05.635824",
   "athlete_inputs": {
-    "sport_preference": "Lopen",
-    "athlete_notes": "Benchmarken op lopen"
+    "sport_preference": "Rust / Herstel",
+    "athlete_notes": "Gisteren benchmark lopen gedaan. Ik zou morgen of overmorgen willen fietsen. "
   },
   "current_state": {
     "CTL": 31.6,
-    "ATL": 36.2,
-    "Form_TSB": -4.6
+    "ATL": 35.5,
+    "Form_TSB": -3.8
   },
-  "daily_load_assessment": "Today is July 14, 2026. Your last session was on July 12, giving you a full 48-hour recovery window. With a CTL of 31.6 and ATL of 36.2, your Training Stress Balance (TSB) is a highly favorable -4.6 (neutral zone). Combined with a low resting heart rate of 48 bpm, you are physiologically fully recovered and structurally ready to absorb a high-stress stimulus today.",
-  "acute_status_assessment_3_weeks": "Over the last 21 days, you logged 19 sessions totaling 14.8 hours and 599 TSS. However, a critical critique is necessary: 13 of these sessions were e-bike commutes. While excellent for active recovery, they lack the specific mechanical and cardiorespiratory stress needed to improve your 5km running or 5-minute cycling power. You logged only 4 running sessions and 0 performance cycling sessions. This current block represents structural undertraining for your goals.",
-  "sport_trend_assessment_6_months": "Your long-term sport trend shows a stagnating CTL around 31.6. You possess an excellent aerobic floor (resting HR 48, lean weight at 73kg), but you are not challenging your system. To drive positive adaptation and safely ramp your CTL, we must replace unstructured commuting with dedicated running volume and high-intensity cycling performance blocks. Your system is fully capable of handling a progressive overload ramp rate of +3 to +5 CTL points per week.",
-  "coach_verdict": "You requested a running benchmark, and your recovery metrics have cleared you for maximum effort. No excuses today. We will exploit your fresh physical state to execute an all-out 5km Time Trial. This will establish concrete, data-driven pace and heart rate training zones based on your 194 bpm Max HR, putting an end to guesswork and unstructured junk miles.",
+  "daily_load_assessment": "Yesterday's 5km running benchmark was a high-quality, high-stress session (Load: 62) that successfully tested your limits. This effort has driven your acute fatigue (ATL) up to 35.5, while today's TSB sits at -3.8. Your resting HR of 48 bpm is stable, but muscle micro-tears from benchmark running require immediate recovery. Exercising at a high intensity today would compromise structural adaptation and risk injury.",
+  "acute_status_assessment_3_weeks": "Over the last 21 days, you completed 17 sessions with a training load of 588. However, 11 of these were e-bike commutes, and you completed 0 dedicated performance cycling sessions. While your running has seen high-quality inputs (including yesterday's benchmark), your performance cycling is stagnant. You are maintaining basic aerobic movement but failing to apply the progressive overload required to shift your FTP or 5-minute VO2max power.",
+  "sport_trend_assessment_6_months": "Your chronic training load (CTL) is currently low at 31.6, reflecting a basic fitness baseline. With only 19 performance rides registered over the last 180 days, you lack the chronic volume needed to support your target FTP of 250W (3.29 W/kg). To safely ramp up your CTL and develop your 5-minute and 20-minute power, we must systematically replace passive commuting with structured, high-intensity intervals and progressive endurance rides.",
+  "coach_verdict": "Today is an absolute rest and recovery day. Respect the benchmark run from yesterday. I am granting you the recovery day you requested today so that we can unleash a high-intensity VO2max cycling session tomorrow. Do not compromise tomorrow's quality by forcing unnecessary load today.",
   "today_options": {
-    "running_option": {
-      "session_title": "5km Field Test / Benchmark Run",
-      "intensity": "Maximal Effort (Zone 5/6)",
-      "workout_details": "Warm-up: 15 minutes of progressive Zone 2 running, followed by 3x 30-second strides at target 5k pace to prime neuromuscular pathways. Main Set: 5,000 meters all-out on a flat road or track. Pace it strictly: do not fly and die; aim for an even or negative split. Cool-down: 10 minutes of very easy jogging (Zone 1) and light mobility work.",
-      "reason": "Directly aligns with your request to benchmark. Today's fresh TSB (-4.6) is the perfect window to capture accurate, un-fatigued baseline pace and HR data to calibrate your future quality intervals."
-    },
     "cycling_option": {
-      "session_title": "VO2max Peak Power Intervals",
-      "intensity": "Very High Intensity (115-120% FTP)",
-      "workout_details": "Warm-up: 15 minutes ramping from Zone 2 up to FTP, including 2x 1-minute fast-pedal efforts (100+ RPM). Main Set: 5x 3-minute intervals at 285-300 Watts (based on 250W FTP). Rest with 3 minutes of complete passive spinning between intervals. Cool-down: 10 minutes of easy spinning in Zone 1.",
-      "reason": "Directly targets your primary cycling goal of improving 5-minute power. Since your recent block was devoid of performance cycling, this initiates the necessary cardiorespiratory stress."
+      "session_title": "VO2max Power Intervals (Target: Tomorrow/Overmorrow)",
+      "intensity": "Very High (Zone 5 / 115-120% FTP)",
+      "workout_details": "15 min warm-up ramping to 180W. 4x 3-minute intervals at 285-300W (strictly target 115-120% of your 250W FTP) with 3-minute recoveries in Zone 1 (<130W). 10 min cool-down.",
+      "reason": "This is designed to specifically target your 5-minute power goal. Performing this tomorrow, fully recovered, will trigger the cardiorespiratory stroke-volume adaptations needed for VO2max improvement."
+    },
+    "running_option": {
+      "session_title": "Active Recovery Jog",
+      "intensity": "Very Low (Zone 1/2 / HR < 135 bpm)",
+      "workout_details": "25-30 minutes of flat, strictly easy jogging. Keep your heart rate strictly below 135 bpm. Do not accelerate under any circumstances.",
+      "reason": "Only to be performed if you refuse to rest. This serves purely to promote blood flow and flush metabolic waste from yesterday's benchmark run without adding structural strain."
     },
     "recovery_option": {
-      "session_title": "Active Recovery Spin",
-      "intensity": "Very Low Intensity (Zone 1)",
-      "workout_details": "Active recovery ride of 30-45 minutes on a flat route. Keep power strictly under 140 Watts (55% FTP) and heart rate strictly below 120 bpm. Cadence should remain naturally high and light (85-95 RPM). No hill climbs, no sprints.",
-      "reason": "To be selected only if you feel unexpected joint soreness or mental fatigue. This will promote blood flow and metabolic clearance without adding structural fatigue, rescheduling the benchmark for tomorrow."
+      "session_title": "Passive Recovery & Lower Body Mobility",
+      "intensity": "No Zone / Complete Rest",
+      "workout_details": "Zero training load. Spend 15 minutes on foam rolling and targeted myofascial release for the calves, hamstrings, and glutes. Focus on deep breathing and hydration.",
+      "reason": "Highly recommended. This allows your muscular-skeletal system to repair from yesterday's benchmark and prepares your legs to produce high-quality wattage for tomorrow's cycling session."
     }
   }
 }

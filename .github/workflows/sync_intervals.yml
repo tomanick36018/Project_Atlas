@@ -17,10 +17,25 @@ on:
           - Rust / Herstel
         default: 'Geen voorkeur (Auto)'
       athlete_notes:
-        description: 'Persoonlijke opmerkingen (bijv. HRV is laag, benen voelen zwaar, slechte slaap)'
+        description: 'Persoonlijke opmerkingen (bijv. gevoel, specifieke feedback)'
         required: false
         type: string
         default: ''
+      sleep_score:
+        description: 'Garmin Slaapscore (optioneel, anders automatisch)'
+        required: false
+        type: string
+        default: ''
+      hrv_status:
+        description: 'Garmin HRV status (optioneel, anders automatisch)'
+        required: false
+        type: string
+        default: ''
+      is_post_workout:
+        description: 'Is dit een beoordeling NA een training?'
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -42,7 +57,7 @@ jobs:
       - name: Installeer bibliotheken
         run: |
           python -m pip install --upgrade pip
-          pip install google-genai pydantic requests
+          pip install google-genai pydantic requests garminconnect
 
       - name: Haal activiteiten op
         env:
@@ -60,7 +75,12 @@ jobs:
         run: |
           python scripts/get_power_streams.py
 
-      # (De tussentijdse push-stap is hier verwijderd voor meer snelheid en stabiliteit)
+      - name: Haal Garmin data op
+        env:
+          GARMIN_EMAIL: ${{ secrets.GARMIN_EMAIL }}
+          GARMIN_PASSWORD: ${{ secrets.GARMIN_PASSWORD }}
+        run: |
+          python scripts/get_garmin_data.py
 
       - name: Maak fitness analyse
         run: |
@@ -87,6 +107,9 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           SPORT_PREFERENCE: ${{ github.event.inputs.sport_preference }}
           ATHLETE_NOTES: ${{ github.event.inputs.athlete_notes }}
+          SLEEP_SCORE: ${{ github.event.inputs.sleep_score }}
+          HRV_STATUS: ${{ github.event.inputs.hrv_status }}
+          IS_POST_WORKOUT: ${{ github.event.inputs.is_post_workout }}
         run: |
           python scripts/create_coach_analysis.py    
           
@@ -95,12 +118,8 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          # We voegen hier ALLE gewijzigde bestanden in één keer toe
-          git add README.md data/activities.json data/power_streams.json data/fitness_summary.json data/performance_trends.json data/daily_summary.json data/training_blocks.json data/coach_input.json data/coach_analysis.json
-          git commit -m "Automatische update van Intervals data en coach-analyse" || exit 0
+          git add README.md data/activities.json data/power_streams.json data/garmin_data.json data/fitness_summary.json data/performance_trends.json data/daily_summary.json data/training_blocks.json data/coach_input.json data/coach_analysis.json
+          git commit -m "Automatische update van Intervals & Garmin data en coach-analyse" || exit 0
           
-          # Haal eventuele nieuwe code op die u zojuist heeft gepusht, om conflicten te vermijden
           git pull --rebase origin main
-          
-          # Push alles veilig naar GitHub
           git push

@@ -1,19 +1,18 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-07-15 06:04:05*
+*Laatst bijgewerkt: 2026-07-15 07:52:13*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
-* **Fitheid (CTL - 42 dagen):** `31.6`
-* **Vermoeidheid (ATL - 7 dagen):** `35.5`
-* **Vorm / Balans (TSB):** `-3.8`
+* **Fitheid (CTL):** `31.6` | **Vermoeidheid (ATL):** `35.5` | **Vorm (TSB):** `-3.8`
 * **Status:** **🟢 Optimaal Trainingsvenster**
+* **Slaapscore gisteravond:** `Niet opgegeven` | **HRV-status:** `Niet opgegeven`
 
 ---
 
 ## 📋 Coach Verdict & Advies voor Vandaag
-> **Gevoel / Input van vandaag:** *"Gisteren benchmark lopen gedaan. Ik zou morgen of overmorgen willen fietsen. "*
+> **Mijn gevoel vanochtend:** *"Gisteren benchmark lopen gedaan. Ik zou morgen of overmorgen willen fietsen. "*
 > 
-> Today is an absolute rest and recovery day. Respect the benchmark run from yesterday. I am granting you the recovery day you requested today so that we can unleash a high-intensity VO2max cycling session tomorrow. Do not compromise tomorrow's quality by forcing unnecessary load today.
+> PRIORITIZE RECOVERY TODAY. As a strict coach, I am holding you back today so we can unleash a high-performance session tomorrow. Your body adapts during rest, not during the workout itself. Since you completed a maximal running benchmark yesterday and plan to cycle in the next 48 hours, today must be dedicated to active or passive recovery. Doing any high-intensity work today will ruin your adaptation from yesterday and compromise tomorrow's key cycling session.
 
 ---
 
@@ -21,32 +20,32 @@
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
 ### 🚴‍♂️ Optie 1: Fietsen (Doel: 5min / 20min vermogen)
-* **Training:** **VO2max Power Intervals (Target: Tomorrow/Overmorrow)**
-* **Intensiteit:** `Very High (Zone 5 / 115-120% FTP)`
-* **Workout details:** 15 min warm-up ramping to 180W. 4x 3-minute intervals at 285-300W (strictly target 115-120% of your 250W FTP) with 3-minute recoveries in Zone 1 (<130W). 10 min cool-down.
-* **Waarom:** *This is designed to specifically target your 5-minute power goal. Performing this tomorrow, fully recovered, will trigger the cardiorespiratory stroke-volume adaptations needed for VO2max improvement.*
+* **Training:** **Active Recovery Spin**
+* **Intensiteit:** `Very Low (Zone 1) - Max 125-135 Watts`
+* **Workout details:** 40 minutes of flat, easy spinning. Keep your cadence high (90-95 RPM) and resistance very low. Keep your heart rate strictly below 130 BPM (Zone 1).
+* **Waarom:** *This is designed solely to promote blood flow to fatigued running muscles, helping to flush out metabolic waste and prepare your legs for tomorrow's key cycling session without adding training stress.*
 
 ### 🏃‍♂️ Optie 2: Hardlopen (Doel: 5km snelheid)
-* **Training:** **Active Recovery Jog**
-* **Intensiteit:** `Very Low (Zone 1/2 / HR < 135 bpm)`
-* **Workout details:** 25-30 minutes of flat, strictly easy jogging. Keep your heart rate strictly below 135 bpm. Do not accelerate under any circumstances.
-* **Waarom:** *Only to be performed if you refuse to rest. This serves purely to promote blood flow and flush metabolic waste from yesterday's benchmark run without adding structural strain.*
+* **Training:** **Strict Recovery Jog & Mobility**
+* **Intensiteit:** `Very Low (Zone 1) - Pace > 6:30 min/km`
+* **Workout details:** 25 minutes of extremely easy jogging on a soft surface (grass or trail if possible). Keep heart rate below 130 BPM. Follow with 15 minutes of dynamic stretching and foam rolling focused on calves, hamstrings, and hip flexors.
+* **Waarom:** *Only choose this if you absolutely feel the urge to run. It serves to keep the joints mobile but must not accumulate any significant cardiovascular fatigue after yesterday's benchmark.*
 
 ### 🧘‍♂️ Optie 3: Actief herstel / Rust
-* **Training:** **Passive Recovery & Lower Body Mobility**
-* **Intensiteit:** `No Zone / Complete Rest`
-* **Workout details:** Zero training load. Spend 15 minutes on foam rolling and targeted myofascial release for the calves, hamstrings, and glutes. Focus on deep breathing and hydration.
-* **Waarom:** *Highly recommended. This allows your muscular-skeletal system to repair from yesterday's benchmark and prepares your legs to produce high-quality wattage for tomorrow's cycling session.*
+* **Training:** **Complete Rest & Neuromuscular Recovery**
+* **Intensiteit:** `None (Rest Day)`
+* **Workout details:** Zero training. Focus on hydration, high-quality protein and carbohydrate intake, and 15-20 minutes of targeted foam rolling and static stretching. Prioritize getting 8+ hours of sleep tonight.
+* **Waarom:** *This is the optimal choice. Your nervous system and leg muscles require complete relief from impact and loading to fully absorb yesterday's benchmark run and ensure you can hit your targets in tomorrow's high-intensity cycle.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Yesterday's 5km running benchmark was a high-quality, high-stress session (Load: 62) that successfully tested your limits. This effort has driven your acute fatigue (ATL) up to 35.5, while today's TSB sits at -3.8. Your resting HR of 48 bpm is stable, but muscle micro-tears from benchmark running require immediate recovery. Exercising at a high intensity today would compromise structural adaptation and risk injury.
+Today is a critical recovery day. Yesterday (July 14) you performed a high-intensity 9km running benchmark, which imposed significant neuromuscular and cardiovascular strain. Your current ATL is 35.5 and CTL is 31.6, putting your Training Stress Balance (TSB) at a slightly fatigued -3.9. Given your explicit note to cycle tomorrow or the day after, and your preference for recovery today, complete rest or active recovery is non-negotiable to allow muscle fibers to repair and glycogen stores to replenish.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the last 21 days, you completed 17 sessions with a training load of 588. However, 11 of these were e-bike commutes, and you completed 0 dedicated performance cycling sessions. While your running has seen high-quality inputs (including yesterday's benchmark), your performance cycling is stagnant. You are maintaining basic aerobic movement but failing to apply the progressive overload required to shift your FTP or 5-minute VO2max power.
+Over the past 21 days, your training block accumulated 13.11 hours of volume with a training load of 588. This block was dominated by 11 e-bike sessions and 5 running sessions, with zero dedicated performance cycling workouts. While this maintains basic aerobic conditioning, it lacks the specific high-intensity stimulus needed to drive up your 20-minute FTP or 5-minute VO2max power. Your adaptation rate is stable, but we must transition from passive commuting to structured, high-quality efforts.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Your chronic training load (CTL) is currently low at 31.6, reflecting a basic fitness baseline. With only 19 performance rides registered over the last 180 days, you lack the chronic volume needed to support your target FTP of 250W (3.29 W/kg). To safely ramp up your CTL and develop your 5-minute and 20-minute power, we must systematically replace passive commuting with structured, high-intensity intervals and progressive endurance rides.
+Your 180-day trend shows a low baseline fitness level (CTL of 31.6). This indicates a highly receptive physiology with massive room for progressive overload, but also highlights a lack of consistent, structured training. To achieve your dual goals of a fast 5km run and improved cycling metrics (FTP/VO2max), we need to carefully ramp your CTL. This requires a strict, periodized approach that balances high-intensity cycling intervals with running efficiency workouts, preventing injury while steadily building your chronic workload.

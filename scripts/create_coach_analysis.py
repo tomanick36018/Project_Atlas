@@ -20,6 +20,12 @@ def main():
     sport_preference = os.environ.get("SPORT_PREFERENCE", "Geen voorkeur (Auto)")
     athlete_notes = os.environ.get("ATHLETE_NOTES", "")
 
+    # Garmin data & Post-Workout schakelaar (nieuwe fallbacks)
+    garmin_data = coach_input.get("garmin_data", {})
+    sleep_score = os.environ.get("SLEEP_SCORE", "") or str(garmin_data.get("sleep_score", ""))
+    hrv_status = os.environ.get("HRV_STATUS", "") or str(garmin_data.get("hrv_status", ""))
+    is_post_workout = os.environ.get("IS_POST_WORKOUT", "false").lower() == "true"
+
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         print("Error: GEMINI_API_KEY niet ingesteld.")
@@ -41,6 +47,30 @@ def main():
     challenge_level = coach_settings.get("challenge_level", "high")
     priorities = coach_settings.get("priority", [])
 
+    # Schakel tussen Pre-Workout en Post-Workout modus in de prompt
+    if is_post_workout:
+        mode_instruction = f"""
+        CRITICAL MODE: POST-WORKOUT EVALUATION.
+        The athlete has just finished a training session. Your primary task is to evaluate their execution and provide a precise recovery protocol.
+        
+        INSTRUCTIONS FOR THIS MODE:
+        1. Look at the last completed activity in the training data (under recent_training_summary or activities). Assess if they hit their targets, if the intensity was correct, and evaluate their effort.
+        2. Set "coach_verdict" to a detailed performance feedback of this specific workout.
+        3. Since they are done training today, you will NOT recommend future sessions in "today_options". Instead, repurpose the "today_options" keys as follows:
+           - "cycling_option": Set "session_title" to "Nutrition & Hydration". Set "workout_details" to exactly what they should eat and drink right now (e.g., carbs, protein in grams, water, electrolytes) based on the intensity/calories of the session they just completed.
+           - "running_option": Set "session_title" to "Muscle Recovery & Mobility". Set "workout_details" to specific stretches, foam rolling, or active recovery movements tailored to the sport they just did.
+           - "recovery_option": Set "session_title" to "Sleep & Tomorrow's Outlook". Set "workout_details" to how they should optimize sleep tonight and a brief preview of what kind of training load they can expect tomorrow.
+        """
+    else:
+        mode_instruction = f"""
+        CRITICAL MODE: PRE-WORKOUT PLANNING.
+        Your task is to provide the athlete with three distinct training options for today (Cycling, Running, Recovery) so they can choose.
+        - "cycling_option": Targets FTP (20-min power) or VO2max (5-min power).
+        - "running_option": Targets 5km running performance.
+        - "recovery_option": Active recovery or rest.
+        Set "coach_verdict" to your direct recommendation of which option they should prioritize today based on their current CTL/ATL and notes.
+        """
+
     prompt = f"""
     You are an expert, data-driven sports coach. Your athlete wants to optimize their rising fitness trend (CTL) safely and effectively.
 
@@ -53,12 +83,16 @@ def main():
     - Running: 5km performance.
     - Cycling: 5-minute power (VO2max) and 20-minute power (FTP).
 
-    TODAY'S ATHLETE INPUT:
-    - Preferred Sport: {sport_preference}
+    TODAY'S SUBJECTIVE INPUTS:
+    - Preferred Sport (if pre-workout): {sport_preference}
     - Athlete Notes: "{athlete_notes if athlete_notes else 'No notes provided today.'}"
+    - Garmin Sleep Score (last night): "{sleep_score if sleep_score else 'Not provided'}"
+    - Garmin HRV Status: "{hrv_status if hrv_status else 'Not provided'}"
 
     ATHLETE TRAINING DATA:
     {json.dumps(coach_input, indent=2)}
+
+    {mode_instruction}
 
     COACH INSTRUCTIONS:
     - You must return a JSON object containing exactly the following keys:
@@ -103,7 +137,10 @@ def main():
         "generated": str(datetime.now()),
         "athlete_inputs": {
             "sport_preference": sport_preference,
-            "athlete_notes": athlete_notes
+            "athlete_notes": athlete_notes,
+            "sleep_score": sleep_score,
+            "hrv_status": hrv_status,
+            "is_post_workout": is_post_workout
         },
         "current_state": {
             "CTL": round(ctl, 1),
@@ -136,20 +173,75 @@ def main():
     running = options.get("running_option", {})
     recovery = options.get("recovery_option", {})
 
-    readme_content = f"""# 🏃‍♂️ Mijn AI Sportcoach Dashboard
+    # Dynamische README genereren op basis van Pre- of Post-Workout
+    if is_post_workout:
+        readme_content = f"""# 🧘‍♂️ Mijn AI Sportcoach - Post-Workout Herstel Rapport
+
+*Gegenereerd na de training op: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}*
+
+## 📊 Trainingsstatus & Garmin Statistieken
+* **Fitheid (CTL):** `{round(ctl, 1)}` | **Vermoeidheid (ATL):** `{round(atl, 1)}` | **Vorm (TSB):** `{tsb}`
+* **Slaapscore gisteravond:** `{sleep_score if sleep_score else 'Niet opgegeven'}`
+* **Garmin HRV-status:** `{hrv_status if hrv_status else 'Niet opgegeven'}`
+
+---
+
+## 📋 Beoordeling van de Training (Coach Feedback)
+> **Mijn gevoel na de training:** *"{athlete_notes if athlete_notes else 'Geen specifieke opmerkingen.'}"*
+> 
+> {ai_result.get('coach_verdict', '')}
+
+---
+
+## 🥗 Jouw Herstelprotocol voor Vandaag
+*Volg deze stappen nauwkeurig op om je herstel te maximaliseren en blessures te voorkomen:*
+
+### 🥛 Stap 1: Voeding & Hydratatie (Eten & Drinken)
+* **Protocol:** **{cycling.get('session_title', 'Herstelvoeding')}**
+* **Doel:** `{cycling.get('intensity', '-')}`
+* **Details:** {cycling.get('workout_details', '-')}
+* **Waarom:** *{cycling.get('reason', '-')}*
+
+### 🧘‍♂️ Stap 2: Spieren & Mobiliteit (Stretching & Mobiliteit)
+* **Protocol:** **{running.get('session_title', 'Mobiliteit en herstel')}**
+* **Doel:** `{running.get('intensity', '-')}`
+* **Details:** {running.get('workout_details', '-')}
+* **Waarom:** *{running.get('reason', '-')}*
+
+### 🛌 Stap 3: Slaap & Volgende Stap (Vooruitblik)
+* **Protocol:** **{recovery.get('session_title', 'Vooruitblik')}**
+* **Doel:** `{recovery.get('intensity', '-')}`
+* **Details:** {recovery.get('workout_details', '-')}
+* **Waarom:** *{recovery.get('reason', '-')}*
+
+---
+
+## 🔍 Diepgaande Trainingsanalyses
+
+### 📅 Dagelijkse Belasting (1-Dag)
+{ai_result.get('daily_load_assessment', '')}
+
+### 📈 Actuele Trainingsstatus (3-Weken)
+{ai_result.get('acute_status_assessment_3_weeks', '')}
+
+### 📊 Algemene Sporttrend (6-Maanden)
+{ai_result.get('sport_trend_assessment_6_months', '')}
+"""
+    else:
+        # Standaard Pre-Workout README
+        readme_content = f"""# 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
 *Laatst bijgewerkt: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
-* **Fitheid (CTL - 42 dagen):** `{round(ctl, 1)}`
-* **Vermoeidheid (ATL - 7 dagen):** `{round(atl, 1)}`
-* **Vorm / Balans (TSB):** `{tsb}`
+* **Fitheid (CTL):** `{round(ctl, 1)}` | **Vermoeidheid (ATL):** `{round(atl, 1)}` | **Vorm (TSB):** `{tsb}`
 * **Status:** **{tsb_status}**
+* **Slaapscore gisteravond:** `{sleep_score if sleep_score else 'Niet opgegeven'}` | **HRV-status:** `{hrv_status if hrv_status else 'Niet opgegeven'}`
 
 ---
 
 ## 📋 Coach Verdict & Advies voor Vandaag
-> **Gevoel / Input van vandaag:** *"{athlete_notes if athlete_notes else 'Geen opmerkingen ingevoerd.'}"*
+> **Mijn gevoel vanochtend:** *"{athlete_notes if athlete_notes else 'Geen opmerkingen ingevoerd.'}"*
 > 
 > {ai_result.get('coach_verdict', '')}
 

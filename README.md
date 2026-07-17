@@ -1,6 +1,6 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-07-16 12:39:57*
+*Laatst bijgewerkt: 2026-07-17 11:06:40*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL):** `31.6` | **Vermoeidheid (ATL):** `35.5` | **Vorm (TSB):** `-3.8`
@@ -10,9 +10,9 @@
 ---
 
 ## 📋 Coach Verdict & Advies voor Vandaag
-> **Mijn gevoel vanochtend:** *"Vandaag weinig tijd. Misschien iets van kracht? Ik ben straks alleen thuis met mijn baby dus kan niet weg"*
+> **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> Under my strict coaching style, constraints are not excuses to skip work; they are parameters to solve. Since you cannot leave the house and are short on time, I highly recommend the RUNNING OPTION (which is a high-intensity, runner-specific strength session). It directly honors your request for strength training, takes exactly 30 minutes, requires zero equipment, and can be done in your living room next to the baby monitor to directly build the neuromuscular power needed for your 5km goal.
+> You must prioritize the Cycling Option today. You have had 72 hours of recovery since your last quality run, and your training history shows a severe deficit in performance cycling. It is time to establish a baseline for your 5-minute VO2max power. No compromises: execute the targets precisely as written.
 
 ---
 
@@ -20,32 +20,32 @@
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
 ### 🚴‍♂️ Optie 1: Fietsen (Doel: 5min / 20min vermogen)
-* **Training:** **Indoor Micro-Burst VO2max Booster**
-* **Intensiteit:** `Very High (RPE 9/10, Target: 325-350W)`
-* **Workout details:** Total 30 minutes on the indoor trainer. 8-minute progressive warm-up. Main set: 2 blocks of 8x (30 seconds at 130-140% FTP [325-350 Watts] / 30 seconds easy spinning). Take 4 minutes of easy recovery between the two blocks. 4-minute cool-down.
-* **Waarom:** *Perfect for the smart trainer next to the baby monitor. Short, explosive micro-intervals maximize your time spent at VO2max to elevate your 5-minute power capacity, even within a tight 30-minute window.*
+* **Training:** **VO2max Power Intervals**
+* **Intensiteit:** `Very High (Z5)`
+* **Workout details:** 15-min warm-up including 3x30s high-cadence spin-ups. Main set: 5 x 4 minutes at 275-300 Watts (110-120% of FTP, Target Cadence >95 RPM). Recovery: 4 minutes easy spinning (<120 Watts) between efforts. 10-min cool-down. Total: 55 mins.
+* **Waarom:** *Directly targets your 5-minute cycling power goal and addresses the total lack of high-intensity cycling performance sessions in your current block.*
 
 ### 🏃‍♂️ Optie 2: Hardlopen (Doel: 5km snelheid)
-* **Training:** **Runner-Specific Neuromuscular Strength Circuit**
-* **Intensiteit:** `High (RPE 8/10, Neuromuscular focus)`
-* **Workout details:** Perform a 5-minute dynamic mobility warm-up. Complete 3 rounds of: 10 single-leg pistol squats per side (assisted if needed), 15 explosive jump lunges, 12 single-leg calf raises with a slow 3-second eccentric phase, and a 45-second RKC plank. Rest 60 seconds between rounds.
-* **Waarom:** *Directly targets the muscular power, single-leg stability, and core stiffness required to improve running economy and shatter your 5km target pace, all without leaving your baby's side.*
+* **Training:** **5km Pace Specific Intervals**
+* **Intensiteit:** `High (Z4/Z5)`
+* **Workout details:** 10-min easy jog, dynamic mobility drills, 3x100m strides. Main set: 5 x 1000m at target 5km pace (Target HR: 175-185 bpm). Recovery: 90 seconds of standing/walking recovery between intervals. 10-min cool-down. Total: 45 mins.
+* **Waarom:** *Improves running economy, anaerobic threshold, and pace discipline required for 5km performance, utilizing your fully recovered state.*
 
 ### 🧘‍♂️ Optie 3: Actief herstel / Rust
-* **Training:** **Living Room Mobility & Core Reset**
-* **Intensiteit:** `Low (RPE 2/10)`
-* **Workout details:** 25 minutes of continuous low-intensity movement. Focus on: foam rolling calves/quads, 5 minutes of hip flexor and hamstring dynamic stretching, and 10 minutes of deep diaphragmatic breathing in a 90/90 hamstring bridge position.
-* **Waarom:** *If your baby's schedule becomes chaotic or your recovery is compromised, use this 25-minute window to actively reduce muscle tension from your high commute volume and improve range of motion.*
+* **Training:** **Strict Active Recovery Spin**
+* **Intensiteit:** `Low (Z1)`
+* **Workout details:** 45 minutes of flat, continuous cycling on an indoor trainer or flat road. Keep power strictly below 135 Watts (<55% FTP) and heart rate below 120 bpm. Cadence naturally self-selected (85-95 RPM). No hill efforts.
+* **Waarom:** *Promotes blood flow and active recovery without adding cardiovascular stress, preparing you for high-intensity work tomorrow.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Your current CTL is 31.6 and ATL is 35.5, resulting in a mild Training Stress Balance (TSB) of -3.8. Physiologically, you are in an optimal zone to absorb a high-intensity stimulus without overreaching. However, your immediate daily constraint is absolute: you are home alone with your baby and have minimal time. There is no possibility of an outdoor session today; the focus must be entirely on an efficient, indoor, high-quality stimulus.
+Last logged workout was July 14th (Running, 62 load). Today is July 17th. With 2 consecutive days of complete rest, your immediate training load is zero, and acute recovery is fully complete. Your TSB is at -3.8, representing a balanced state where acute fatigue has largely dissipated, leaving you primed for a high-intensity stimulus today.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the past 21 days, you accumulated 13.1 hours of volume and 588 of training load, heavily skewed towards e-bike commuting and only 5 running sessions. Your fitness (CTL) is stable but plateauing. While the commutes maintain a base, the lack of structured progressive overload is limiting your development. To push your adaptation rate higher, we must introduce concentrated quality workouts to stimulate neuromuscular and cardiovascular systems.
+Over the past 21 days, you completed 17 sessions with a moderate training load of 588. However, 11 of these sessions were e-bike commutes, and you completed 0 performance cycling sessions. Running has maintained your base with 5 sessions (3 quality). ATL is stable at 35.5. The critical gap is the total absence of structured cycling intensity, meaning your current adaptation rate is highly skewed and cycling-specific power is stagnation-prone.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Your 6-month sport trend shows a solid, consistent aerobic volume primarily driven by your 58km commute sessions. However, your CTL has settled in the low 30s. Commuting is keeping you fit, but it will not improve your 5km running pace or your cycling 5-minute VO2max and 20-minute FTP (250W). To drive a rising CTL trend safely and break this plateau, we must systematically replace some commute volume with targeted, structured intervals.
+Your long-term sport trend shows a low CTL of 31.6, confirming a very low chronic training stimulus. With only 19 performance rides over the last 180 days, your aerobic engine is underdeveloped relative to your FTP goal of 250W. To safely optimize your CTL ramp rate and make progress on your 5km running and 5-min cycling power goals, we must transition away from commuting volume and establish a disciplined progressive overload of structured quality sessions.

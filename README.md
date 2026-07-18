@@ -1,6 +1,6 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-07-17 11:06:40*
+*Laatst bijgewerkt: 2026-07-18 08:16:01*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL):** `31.6` | **Vermoeidheid (ATL):** `35.5` | **Vorm (TSB):** `-3.8`
@@ -10,9 +10,9 @@
 ---
 
 ## 📋 Coach Verdict & Advies voor Vandaag
-> **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
+> **Mijn gevoel vanochtend:** *"Heel klein beetje kater maar wel zin om te lopen"*
 > 
-> You must prioritize the Cycling Option today. You have had 72 hours of recovery since your last quality run, and your training history shows a severe deficit in performance cycling. It is time to establish a baseline for your 5-minute VO2max power. No compromises: execute the targets precisely as written.
+> I will allow you to run today because your psychological motivation is high and you have had a 3-day training gap. However, under no circumstances will we perform a high-intensity interval session while you are hungover. We will execute a strict Aerobic Capacity Run with a hard HR cap of 155 bpm. If your heart rate spikes during the warm-up, you will immediately abort the run and switch to the recovery spin. No excuses.
 
 ---
 
@@ -20,32 +20,32 @@
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
 ### 🚴‍♂️ Optie 1: Fietsen (Doel: 5min / 20min vermogen)
-* **Training:** **VO2max Power Intervals**
-* **Intensiteit:** `Very High (Z5)`
-* **Workout details:** 15-min warm-up including 3x30s high-cadence spin-ups. Main set: 5 x 4 minutes at 275-300 Watts (110-120% of FTP, Target Cadence >95 RPM). Recovery: 4 minutes easy spinning (<120 Watts) between efforts. 10-min cool-down. Total: 55 mins.
-* **Waarom:** *Directly targets your 5-minute cycling power goal and addresses the total lack of high-intensity cycling performance sessions in your current block.*
+* **Training:** **Aerobic FTP Sweet Spot**
+* **Intensiteit:** `Hard (High Aerobic)`
+* **Workout details:** 15 min warm-up progressing to 180W. 2 x 15 min at Sweet Spot (220W - 225W / 88-90% FTP), cadence 90-95 rpm. 5 min easy recovery between sets. 10 min cool-down.
+* **Waarom:** *Sweet spot training drives robust CTL growth and FTP progression. By avoiding VO2max zones today, we limit extreme anaerobic stress on your dehydrated cardiovascular system while still forcing muscular adaptation.*
 
 ### 🏃‍♂️ Optie 2: Hardlopen (Doel: 5km snelheid)
-* **Training:** **5km Pace Specific Intervals**
-* **Intensiteit:** `High (Z4/Z5)`
-* **Workout details:** 10-min easy jog, dynamic mobility drills, 3x100m strides. Main set: 5 x 1000m at target 5km pace (Target HR: 175-185 bpm). Recovery: 90 seconds of standing/walking recovery between intervals. 10-min cool-down. Total: 45 mins.
-* **Waarom:** *Improves running economy, anaerobic threshold, and pace discipline required for 5km performance, utilizing your fully recovered state.*
+* **Training:** **Controlled Aerobic Capacity & Strides**
+* **Intensiteit:** `Moderate`
+* **Workout details:** 10 min very easy warm-up jog. 30 min continuous running strictly capped at Zone 2 HR (max 155 bpm). Do not chase pace; focus on a high cadence (180 spm). Finish with 5 x 50m light strides on grass focusing on perfect running form.
+* **Waarom:** *Fulfills your preference to run. The strict heart rate cap protects you from the cardiovascular strain of the hangover, while the strides stimulate neuromuscular pathways and 5km specific running mechanics.*
 
 ### 🧘‍♂️ Optie 3: Actief herstel / Rust
-* **Training:** **Strict Active Recovery Spin**
-* **Intensiteit:** `Low (Z1)`
-* **Workout details:** 45 minutes of flat, continuous cycling on an indoor trainer or flat road. Keep power strictly below 135 Watts (<55% FTP) and heart rate below 120 bpm. Cadence naturally self-selected (85-95 RPM). No hill efforts.
-* **Waarom:** *Promotes blood flow and active recovery without adding cardiovascular stress, preparing you for high-intensity work tomorrow.*
+* **Training:** **Active Hangover Flush**
+* **Intensiteit:** `Very Low`
+* **Workout details:** 40 min easy spinning on a flat route or indoor trainer. Keep power under 135W (under 55% FTP) and heart rate under 120 bpm. Consume 750ml of water with double electrolytes during the ride.
+* **Waarom:** *This is the safest and most scientifically sound choice. It uses active recovery to increase blood flow, helping to clear metabolic waste and rehydrate your system, preparing you for a high-quality session tomorrow.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Last logged workout was July 14th (Running, 62 load). Today is July 17th. With 2 consecutive days of complete rest, your immediate training load is zero, and acute recovery is fully complete. Your TSB is at -3.8, representing a balanced state where acute fatigue has largely dissipated, leaving you primed for a high-intensity stimulus today.
+Your current CTL is 31.6 and ATL is 35.5. This mathematically places your TSB at -3.8, representing a neutral to slightly fatigued state. However, your last recorded session was four days ago (July 14), meaning your actual physiological fatigue has decayed significantly, leaving you fresh. The primary daily constraint is your self-reported hangover. Dehydration, reduced stroke volume, and elevated submaximal heart rates are absolute realities today. Training through this requires strict discipline.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the past 21 days, you completed 17 sessions with a moderate training load of 588. However, 11 of these sessions were e-bike commutes, and you completed 0 performance cycling sessions. Running has maintained your base with 5 sessions (3 quality). ATL is stable at 35.5. The critical gap is the total absence of structured cycling intensity, meaning your current adaptation rate is highly skewed and cycling-specific power is stagnation-prone.
+Over the last 21 days, you accumulated 13.11 hours of training with a load of 588. This block is highly polarized but unstructured: 11 commute sessions dominate the volume, with only 5 running sessions and zero performance-focused cycling workouts. While you are maintaining a basic aerobic baseline, your adaptation rate is stagnant because you are missing the targeted, high-intensity stimulus required to improve your 5km running pace and your 5-minute/20-minute cycling power.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Your long-term sport trend shows a low CTL of 31.6, confirming a very low chronic training stimulus. With only 19 performance rides over the last 180 days, your aerobic engine is underdeveloped relative to your FTP goal of 250W. To safely optimize your CTL ramp rate and make progress on your 5km running and 5-min cycling power goals, we must transition away from commuting volume and establish a disciplined progressive overload of structured quality sessions.
+Your 6-month sport trend shows a stable but low CTL of 31.6. Your baseline is heavily supported by cycling commutes, which keep your aerobic system from regressing but do not drive progressive overload. To achieve your goals of increasing your FTP (currently 250W / 3.29 W/kg) and optimizing your 5km running performance, we must transition your trend from passive volume to systematic, structured intensity. We need a safe but aggressive ramp rate (CTL +3 to +5 per week) over the next block.

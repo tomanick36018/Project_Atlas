@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-18 10:04:34.328967",
+  "generated": "2026-07-19 10:17:24.377412",
   "athlete": {
     "sports": [
       "cycling",
@@ -9,9 +9,9 @@
   },
   "training_block_21_days": {
     "total": {
-      "sessions": 15,
-      "hours": 12.2,
-      "training_load": 553
+      "sessions": 14,
+      "hours": 13.2,
+      "training_load": 713
     },
     "running": {
       "sessions": 5,
@@ -20,27 +20,27 @@
       "average_hr": 163.0
     },
     "cycling_performance": {
-      "sessions": 0,
-      "hours": 0.0,
-      "distance_km": 0.0,
-      "training_load": 0,
-      "average_hr": null
+      "sessions": 1,
+      "hours": 2.8,
+      "distance_km": 87.6,
+      "training_load": 208,
+      "average_hr": 155.0
     },
     "cycling_commute": {
-      "sessions": 10,
-      "hours": 8.6,
-      "distance_km": 292.7,
-      "training_load": 292,
-      "average_hr": 126.0
+      "sessions": 8,
+      "hours": 6.9,
+      "distance_km": 234.1,
+      "training_load": 244,
+      "average_hr": 128.0
     },
     "quality_sessions": {
       "count": 3
     }
   },
   "current_state": {
-    "CTL": 29.745478,
-    "ATL": 25.611826,
+    "CTL": 33.939507,
+    "ATL": 49.891724,
     "resting_hr": 52,
-    "weight": 76.0
+    "weight": 73.0
   }
 }

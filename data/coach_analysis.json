@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-18 10:04:55.247045",
+  "generated": "2026-07-19 10:17:47.942849",
   "athlete_inputs": {
     "sport_preference": "",
     "athlete_notes": "",
@@ -8,32 +8,32 @@
     "is_post_workout": false
   },
   "current_state": {
-    "CTL": 29.7,
-    "ATL": 25.6,
-    "Form_TSB": 4.1
+    "CTL": 33.9,
+    "ATL": 49.9,
+    "Form_TSB": -16.0
   },
-  "daily_load_assessment": "Your current TSB sits at +4.1 (CTL 29.7, ATL 25.6). This positive balance indicates you are fully recovered and physically prepared for high-intensity training. However, a CTL of under 30 is objectively low for someone aiming to improve competitive performance. Your body is ready for a high-stress stimulus today; do not waste this fresh state on junk miles.",
-  "acute_status_assessment_3_weeks": "Over the last 21 days, you completed 14 sessions totaling 11.26 hours. While this frequency looks good on paper, 9 of these sessions were e-bike commutes. You have completed exactly zero performance cycling sessions in this block. While your running has kept a decent rhythm with 3 quality sessions, your cycling development has completely stalled due to a total lack of structured high-intensity work.",
-  "sport_trend_assessment_6_months": "Your 180-day sport trend is highly stagnant. Your CTL has fluctuated in the high 20s to low 30s without any meaningful upward trajectory. This plateau is a direct consequence of relying on unstructured commuting to supply your training load. To drive adaptation for a faster 5km and to elevate your FTP above 250W, you must introduce structured progressive overload and stop counting commutes as primary training.",
-  "coach_verdict": "Your body is fresh (TSB +4.1) and you have a massive deficit in high-intensity cycling performance over the last three weeks. To hit your goals of improving 5-minute and 20-minute cycling power, you must prioritize the Cycling Option today. No more excuses\u2014it is time to put real power through the pedals.",
+  "daily_load_assessment": "Today's training load of 208 from your 87.6km cycling performance ride is an extreme, high-stress stimulus. Executing this massive volume has depleted your glycogen stores and caused significant acute muscular damage, pushing your immediate recovery demands to the absolute limit. Without sleep and HRV data, we must assume a state of profound systemic fatigue.",
+  "acute_status_assessment_3_weeks": "Over the last 21 days, you accumulated 713 load over 13.21 hours. Your acute training load (ATL) has surged to 49.89 while your chronic training load (CTL) rests at 33.94, driving your Training Stress Balance (TSB) down to -15.95. This places you in a highly productive but fatiguing training zone. The sudden introduction of high-intensity performance rides amidst a block dominated by low-load commutes represents a classic spike in acute workload that must be carefully managed to avoid injury.",
+  "sport_trend_assessment_6_months": "Your 6-month sport trend shows a moderate, positive ramp rate in CTL (currently 33.94), showing a steady recovery of form since resuming structured work in March 2026. However, your long-term aerobic base remains relatively shallow due to historical gaps in consistency. To achieve your target 5km run pace and improve your 5-min and 20-min cycling power, we must prioritize strict consistency over erratic, massive single-day loads.",
+  "coach_verdict": "As a strict coach, my verdict is absolute: you must prioritize the RECOVERY OPTION today. You have just logged a massive 208-load session, driving your TSB to -15.95. Adding any high-intensity work today is not 'hardcore'\u2014it is mathematically foolish and physically destructive. True discipline is knowing when to hold back so you can attack the next quality block with a fully recovered neuromuscular system.",
   "today_options": {
     "cycling_option": {
-      "session_title": "VO2max Power Sharpener",
-      "intensity": "Very High (Zone 5 / VO2max)",
-      "workout_details": "Warm-up: 15 mins progressive ramp to 180W, including 3x30-sec fast-cadence efforts. Main Set: 5x4 minutes @ 112-115% FTP (280W - 288W), with 4 minutes of very easy spinning recovery between intervals. Cool-down: 10 mins easy spinning at 130W.",
-      "reason": "You have done zero performance cycling in the last 21 days. This workout directly targets your 5-minute peak power goal, stimulating cardiac output and VO2max adaptation while your freshness is high."
+      "session_title": "FTP VO2max Target: Sweet Spot Progression",
+      "intensity": "High (88-94% FTP)",
+      "workout_details": "15 min warm-up with 3x30-sec high-cadence efforts. 2 x 15 minutes at 220-235W (Sweet Spot/Threshold) with a cadence of 90-95 RPM. 5 min easy spinning between sets. 10 min cool-down.",
+      "reason": "This workout directly targets your 20-minute power (FTP) progression. Executing long intervals just below threshold increases mitochondrial density and muscular endurance. However, this is only viable if you have fully recovered from today's initial load."
     },
     "running_option": {
-      "session_title": "5km Pace Threshold Intervals",
-      "intensity": "High (Zone 4 / Threshold)",
-      "workout_details": "Warm-up: 1.5 km easy jog, followed by dynamic stretches and 3x80m strides. Main Set: 4x1000m at your target 5km pace (aim for Zone 4/5 HR, around 175-182 bpm). Rest for 2 minutes (walking/slow jogging) between intervals. Cool-down: 1 km easy jog.",
-      "reason": "To run a faster 5km, you must train at or slightly above target race pace. This session builds the mental and physiological tolerance required to maintain high pacing."
+      "session_title": "5km Pace Intervals: VO2max Capacity",
+      "intensity": "Very High (Zone 5, HR 175-184 bpm)",
+      "workout_details": "10 min warm-up + dynamic stretching. 5 x 800m at target 5km pace (aiming for anaerobic threshold HR), with 2 min walking recoveries between intervals. 10 min easy jog cool-down.",
+      "reason": "Targets your 5km running goal by developing aerobic capacity, running economy, and lactate tolerance. Executing this at high intensity triggers key cardiovascular adaptations required for shorter, faster racing."
     },
     "recovery_option": {
-      "session_title": "Active Recovery Spin",
-      "intensity": "Low (Zone 1 / Active Recovery)",
-      "workout_details": "Duration: 40 minutes flat road or trainer ride. Keep power strictly below 55% FTP (under 135W) and heart rate under 130 bpm. Cadence should remain smooth and fluid (85-95 rpm).",
-      "reason": "If you are feeling any unrecorded musculoskeletal fatigue from recent run sessions, a strict recovery spin will promote blood flow and tissue repair without adding systemic stress."
+      "session_title": "Active Neuromuscular Flush & Mobility",
+      "intensity": "Very Low (Zone 1, HR < 120 bpm)",
+      "workout_details": "30 minutes of ultra-light spinning on the indoor trainer (<100W, cadence >95 RPM) or a 20-minute focused lower-body mobility and foam rolling routine. Zero physical resistance.",
+      "reason": "Essential for promoting blood flow, accelerating lactate clearance, and reducing muscle tightness following your massive 208-load performance ride. This session protects your joints and ensures tomorrow's training quality."
     }
   }
 }

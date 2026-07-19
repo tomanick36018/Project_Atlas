@@ -1,39 +1,39 @@
 {
-  "generated": "2026-07-19 10:17:47.942849",
+  "generated": "2026-07-19 13:43:08.615870",
   "athlete_inputs": {
-    "sport_preference": "",
-    "athlete_notes": "",
+    "sport_preference": "Geen voorkeur (Auto)",
+    "athlete_notes": "Vandaag al  gaan fietsen. Beoordeel mijn rit-powercurve en conditie",
     "sleep_score": "",
     "hrv_status": "",
-    "is_post_workout": false
+    "is_post_workout": true
   },
   "current_state": {
     "CTL": 33.9,
     "ATL": 49.9,
     "Form_TSB": -16.0
   },
-  "daily_load_assessment": "Today's training load of 208 from your 87.6km cycling performance ride is an extreme, high-stress stimulus. Executing this massive volume has depleted your glycogen stores and caused significant acute muscular damage, pushing your immediate recovery demands to the absolute limit. Without sleep and HRV data, we must assume a state of profound systemic fatigue.",
-  "acute_status_assessment_3_weeks": "Over the last 21 days, you accumulated 713 load over 13.21 hours. Your acute training load (ATL) has surged to 49.89 while your chronic training load (CTL) rests at 33.94, driving your Training Stress Balance (TSB) down to -15.95. This places you in a highly productive but fatiguing training zone. The sudden introduction of high-intensity performance rides amidst a block dominated by low-load commutes represents a classic spike in acute workload that must be carefully managed to avoid injury.",
-  "sport_trend_assessment_6_months": "Your 6-month sport trend shows a moderate, positive ramp rate in CTL (currently 33.94), showing a steady recovery of form since resuming structured work in March 2026. However, your long-term aerobic base remains relatively shallow due to historical gaps in consistency. To achieve your target 5km run pace and improve your 5-min and 20-min cycling power, we must prioritize strict consistency over erratic, massive single-day loads.",
-  "coach_verdict": "As a strict coach, my verdict is absolute: you must prioritize the RECOVERY OPTION today. You have just logged a massive 208-load session, driving your TSB to -15.95. Adding any high-intensity work today is not 'hardcore'\u2014it is mathematically foolish and physically destructive. True discipline is knowing when to hold back so you can attack the next quality block with a fully recovered neuromuscular system.",
+  "daily_load_assessment": "Today's training load of 208 TSS from a single 2.77-hour performance ride is an massive acute stress spike. With your CTL at 33.94, this single-day load represents an extreme overload relative to your baseline. Your acute recovery state is severely compromised, pushing your Training Stress Balance (TSB) down to -15.95. Absolute rest and targeted recovery protocols are non-negotiable for the remainder of the day.",
+  "acute_status_assessment_3_weeks": "Over the past 21 days, you accumulated 13.21 hours of training and 713 TSS, heavily dominated by e-bike commuting and running sessions. Today's ride has spiked your ATL to 49.89. This rapid accumulation of fatigue has pushed you deep into the overload zone. While this promotes adaptation, the rate of fatigue accumulation is high; you must allow your body to absorb this stress over the next 48 to 72 hours.",
+  "sport_trend_assessment_6_months": "Your 6-month sport trend shows a CTL of 33.94. Your volume has been inconsistent, with active periods interrupted by gaps. To safely optimize this rising fitness trend and achieve your 5km running and cycling power goals (5-minute and 20-minute power), you must establish a more consistent aerobic base. Spikes like today's 208 TSS ride are high-risk if executed without a solid, progressive CTL foundation.",
+  "coach_verdict": "CRITICAL WORKOUT EVALUATION: You completed an intense, 2.77-hour performance ride covering 87.6 km, yielding a massive 208 TSS (intensity factor of approximately 0.86). You executed this session with high grit, but it represents a severe acute overreach for your current 34 CTL base. You tested your 20-minute power capabilities, but the physiological cost is extremely high. From a strict performance standpoint, this is a successful but highly risky overload that must be managed immediately with strict recovery.",
   "today_options": {
     "cycling_option": {
-      "session_title": "FTP VO2max Target: Sweet Spot Progression",
-      "intensity": "High (88-94% FTP)",
-      "workout_details": "15 min warm-up with 3x30-sec high-cadence efforts. 2 x 15 minutes at 220-235W (Sweet Spot/Threshold) with a cadence of 90-95 RPM. 5 min easy spinning between sets. 10 min cool-down.",
-      "reason": "This workout directly targets your 20-minute power (FTP) progression. Executing long intervals just below threshold increases mitochondrial density and muscular endurance. However, this is only viable if you have fully recovered from today's initial load."
+      "session_title": "Nutrition & Hydration",
+      "intensity": "Recovery",
+      "workout_details": "Immediately consume 90g of fast-acting carbohydrates and 35g of high-quality whey protein. Drink 1.5 liters of water mixed with high-sodium electrolytes (aim for 1000mg sodium) over the next 2 hours to offset the fluid deficits from your 2.77-hour ride. Two hours post-recovery shake, eat a dense meal of complex carbohydrates (e.g., sweet potatoes, brown rice) and lean protein.",
+      "reason": "To rapidly replenish depleted muscle glycogen stores, kickstart protein synthesis for muscle repair, and correct acute dehydration."
     },
     "running_option": {
-      "session_title": "5km Pace Intervals: VO2max Capacity",
-      "intensity": "Very High (Zone 5, HR 175-184 bpm)",
-      "workout_details": "10 min warm-up + dynamic stretching. 5 x 800m at target 5km pace (aiming for anaerobic threshold HR), with 2 min walking recoveries between intervals. 10 min easy jog cool-down.",
-      "reason": "Targets your 5km running goal by developing aerobic capacity, running economy, and lactate tolerance. Executing this at high intensity triggers key cardiovascular adaptations required for shorter, faster racing."
+      "session_title": "Muscle Recovery & Mobility",
+      "intensity": "Rest",
+      "workout_details": "Perform 15 minutes of foam rolling, targeting the quadriceps, glutes, and calves. Follow this with a static stretching routine: 3 sets of 30 seconds for the hip flexors, hamstrings, and calves. Do not perform any impact-loading activities or running today; your joints must be protected after the heavy torque demands of cycling.",
+      "reason": "To alleviate high muscular tension, prevent contractures, and restore length-tension relationships in the lower extremity muscles."
     },
     "recovery_option": {
-      "session_title": "Active Neuromuscular Flush & Mobility",
-      "intensity": "Very Low (Zone 1, HR < 120 bpm)",
-      "workout_details": "30 minutes of ultra-light spinning on the indoor trainer (<100W, cadence >95 RPM) or a 20-minute focused lower-body mobility and foam rolling routine. Zero physical resistance.",
-      "reason": "Essential for promoting blood flow, accelerating lactate clearance, and reducing muscle tightness following your massive 208-load performance ride. This session protects your joints and ensures tomorrow's training quality."
+      "session_title": "Sleep & Tomorrow's Outlook",
+      "intensity": "Rest",
+      "workout_details": "Prioritize 8.5 to 9 hours of sleep tonight in a dark, cool room (18\u00b0C). Avoid all screens and blue light 1 hour before bed to optimize natural melatonin production. Tomorrow will be a mandatory active recovery day or complete rest day with zero high-intensity work, allowing your ATL to decline and your TSB to climb back toward a safe zone.",
+      "reason": "Deep sleep is the primary driver of growth hormone release and nervous system recovery required to absorb today's massive training load."
     }
   }
 }

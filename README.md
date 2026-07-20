@@ -1,51 +1,51 @@
-# 🧘‍♂️ Mijn AI Sportcoach - Post-Workout Herstel Rapport
+# 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Gegenereerd na de training op: 2026-07-19 13:43:08*
+*Laatst bijgewerkt: 2026-07-20 12:38:37*
 
-## 📊 Trainingsstatus & Garmin Statistieken
+## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL):** `33.9` | **Vermoeidheid (ATL):** `49.9` | **Vorm (TSB):** `-16.0`
-* **Slaapscore gisteravond:** `Niet opgegeven`
-* **Garmin HRV-status:** `Niet opgegeven`
+* **Status:** **🟢 Optimaal Trainingsvenster**
+* **Slaapscore gisteravond:** `Niet opgegeven` | **HRV-status:** `Niet opgegeven`
 
 ---
 
-## 📋 Beoordeling van de Training (Coach Feedback)
-> **Mijn gevoel na de training:** *"Vandaag al  gaan fietsen. Beoordeel mijn rit-powercurve en conditie"*
+## 📋 Coach Verdict & Advies voor Vandaag
+> **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> CRITICAL WORKOUT EVALUATION: You completed an intense, 2.77-hour performance ride covering 87.6 km, yielding a massive 208 TSS (intensity factor of approximately 0.86). You executed this session with high grit, but it represents a severe acute overreach for your current 34 CTL base. You tested your 20-minute power capabilities, but the physiological cost is extremely high. From a strict performance standpoint, this is a successful but highly risky overload that must be managed immediately with strict recovery.
+> PRIORITIZE THE RECOVERY OPTION TODAY. As a strict coach, I will not let you destroy yesterday's hard work. Training hard today after a 208-load ride with a negative TSB (-15.95) will lead to non-functional overreaching, compromise your immune system, and elevate injury risk. Active recovery is mandatory to flush your legs and absorb yesterday's stimulus.
 
 ---
 
-## 🥗 Jouw Herstelprotocol voor Vandaag
-*Volg deze stappen nauwkeurig op om je herstel te maximaliseren en blessures te voorkomen:*
+## 🎯 Trainingskeuzes voor Vandaag
+*Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 🥛 Stap 1: Voeding & Hydratatie (Eten & Drinken)
-* **Protocol:** **Nutrition & Hydration**
-* **Doel:** `Recovery`
-* **Details:** Immediately consume 90g of fast-acting carbohydrates and 35g of high-quality whey protein. Drink 1.5 liters of water mixed with high-sodium electrolytes (aim for 1000mg sodium) over the next 2 hours to offset the fluid deficits from your 2.77-hour ride. Two hours post-recovery shake, eat a dense meal of complex carbohydrates (e.g., sweet potatoes, brown rice) and lean protein.
-* **Waarom:** *To rapidly replenish depleted muscle glycogen stores, kickstart protein synthesis for muscle repair, and correct acute dehydration.*
+### 🚴‍♂️ Optie 1: Fietsen (Doel: 5min / 20min vermogen)
+* **Training:** **VO2max Power Sharpener**
+* **Intensiteit:** `High (115% FTP)`
+* **Workout details:** 15 min warm-up, then 4x3-minute intervals at 285W (115% of your 250W FTP). Rest for 3 minutes (spin easy under 100W) between intervals. 10 min cool-down.
+* **Waarom:** *Directly targets your 5-minute VO2max power goal. The high intensity forces aerobic adaptation, while keeping the overall volume low to limit muscular strain.*
 
-### 🧘‍♂️ Stap 2: Spieren & Mobiliteit (Stretching & Mobiliteit)
-* **Protocol:** **Muscle Recovery & Mobility**
-* **Doel:** `Rest`
-* **Details:** Perform 15 minutes of foam rolling, targeting the quadriceps, glutes, and calves. Follow this with a static stretching routine: 3 sets of 30 seconds for the hip flexors, hamstrings, and calves. Do not perform any impact-loading activities or running today; your joints must be protected after the heavy torque demands of cycling.
-* **Waarom:** *To alleviate high muscular tension, prevent contractures, and restore length-tension relationships in the lower extremity muscles.*
+### 🏃‍♂️ Optie 2: Hardlopen (Doel: 5km snelheid)
+* **Training:** **5km Target Pace Intervals**
+* **Intensiteit:** `Very High (Zone 4/5 HR)`
+* **Workout details:** 2 km easy warm-up, then 5x800m at your target 5km race pace (Aiming for HR 175-185 bpm). Recovery is 2 minutes of walking/slow jogging between reps. 1 km cool-down.
+* **Waarom:** *Develops neuromuscular efficiency and lactate tolerance at target race pace, forcing specific running adaptation for your 5km goal.*
 
-### 🛌 Stap 3: Slaap & Volgende Stap (Vooruitblik)
-* **Protocol:** **Sleep & Tomorrow's Outlook**
-* **Doel:** `Rest`
-* **Details:** Prioritize 8.5 to 9 hours of sleep tonight in a dark, cool room (18°C). Avoid all screens and blue light 1 hour before bed to optimize natural melatonin production. Tomorrow will be a mandatory active recovery day or complete rest day with zero high-intensity work, allowing your ATL to decline and your TSB to climb back toward a safe zone.
-* **Waarom:** *Deep sleep is the primary driver of growth hormone release and nervous system recovery required to absorb today's massive training load.*
+### 🧘‍♂️ Optie 3: Actief herstel / Rust
+* **Training:** **Active Recovery Leg Flush**
+* **Intensiteit:** `Very Low (<55% FTP / <120 bpm)`
+* **Workout details:** 35 minutes of very light, high-cadence spinning (90-95 RPM) on a flat route or indoor trainer. Keep power strictly under 135W and HR under 120 bpm.
+* **Waarom:** *Promotes blood circulation to accelerate muscle repair and clear metabolic waste from yesterday's massive ride, without introducing any structural stress.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Today's training load of 208 TSS from a single 2.77-hour performance ride is an massive acute stress spike. With your CTL at 33.94, this single-day load represents an extreme overload relative to your baseline. Your acute recovery state is severely compromised, pushing your Training Stress Balance (TSB) down to -15.95. Absolute rest and targeted recovery protocols are non-negotiable for the remainder of the day.
+Yesterday's training was highly stressful, consisting of a massive 2.77-hour performance cycling ride generating a substantial training load of 208. Today, your acute fatigue (ATL) has spiked to 49.89, while your fitness (CTL) sits at 33.94, leaving you in a fatigued state with a Training Stress Balance (TSB) of -15.95. Without subjective sleep or HRV data to clear you, we must assume systemic depletion. Muscles are severely fatigued, and glycogen stores are low.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the past 21 days, you accumulated 13.21 hours of training and 713 TSS, heavily dominated by e-bike commuting and running sessions. Today's ride has spiked your ATL to 49.89. This rapid accumulation of fatigue has pushed you deep into the overload zone. While this promotes adaptation, the rate of fatigue accumulation is high; you must allow your body to absorb this stress over the next 48 to 72 hours.
+Over the last 21 days, you accumulated a load of 713 across 14 sessions. Your aerobic volume has been heavily dependent on commuting, with only a few quality performance sessions. The sudden introduction of massive rides (like yesterday's 208 load) into a relatively low CTL profile creates a high adaptation tax. Your acute-to-chronic workload ratio is highly elevated, indicating that while fitness is climbing, you are currently carrying substantial, unabsorbed fatigue.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Your 6-month sport trend shows a CTL of 33.94. Your volume has been inconsistent, with active periods interrupted by gaps. To safely optimize this rising fitness trend and achieve your 5km running and cycling power goals (5-minute and 20-minute power), you must establish a more consistent aerobic base. Spikes like today's 208 TSS ride are high-risk if executed without a solid, progressive CTL foundation.
+Your 180-day trend reveals a low CTL plateau of ~34, caused by historical inconsistency and highly volatile training spikes rather than structured progressive overload. You are capable of handling large single-day workloads, but the long-term trend lacks the steady, weekly volume required to raise your CTL baseline safely. To improve your 5km running and cycling power sustainably, we must stabilize your weekly frequency and eliminate multi-week gaps in training.

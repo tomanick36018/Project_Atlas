@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-19 13:42:45.888080",
+  "generated": "2026-07-20 12:38:12.118593",
   "athlete": {
     "sports": [
       "cycling",
@@ -40,7 +40,7 @@
   "current_state": {
     "CTL": 33.939507,
     "ATL": 49.891724,
-    "resting_hr": 52,
+    "resting_hr": 67,
     "weight": 76.0
   }
 }

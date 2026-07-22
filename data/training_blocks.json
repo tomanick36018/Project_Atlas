@@ -1,13 +1,13 @@
 {
   "current_block": {
     "period_days": 21,
-    "start": "2026-06-29",
-    "end": "2026-07-19",
-    "sessions": 14,
-    "hours": 13.21,
-    "training_load": 713,
+    "start": "2026-07-01",
+    "end": "2026-07-21",
+    "sessions": 16,
+    "hours": 15.53,
+    "training_load": 784,
     "running_sessions": 5,
-    "cycling_sessions": 1,
+    "cycling_sessions": 3,
     "ebike_sessions": 8,
     "quality_sessions": 4
   }

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-24 11:25:22.520282",
+  "generated": "2026-07-25 05:37:01.488419",
   "profile_config": {
     "athlete": {
       "sports": [
@@ -2859,7 +2859,7 @@
     }
   },
   "performance_trends": {
-    "generated": "2026-07-24 11:25:22.491437",
+    "generated": "2026-07-25 05:37:01.449525",
     "cycling": {
       "rides_last_180_days": 22,
       "best_ftp": 246,
@@ -2877,6 +2877,6 @@
   "garmin_data": {
     "sleep_score": "",
     "hrv_status": "",
-    "hrv_value": ""
+    "hrv_value": 47
   }
 }

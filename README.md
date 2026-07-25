@@ -1,6 +1,6 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-07-24 11:25:41*
+*Laatst bijgewerkt: 2026-07-25 05:37:18*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL):** `32.1` | **Vermoeidheid (ATL):** `32.7` | **Vorm (TSB):** `-0.6`
@@ -10,9 +10,9 @@
 ---
 
 ## 📋 Coach Verdict & Advies voor Vandaag
-> **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
+> **Mijn gevoel vanochtend:** *"Ik wil de komende 2 dagen kwalitatieve trainingen doen om mijn fitness enorm te verbetere"*
 > 
-> Given your neutral TSB of -0.65, you are completely fresh. We are prioritizing the high-intensity CYCLING OPTION today. Your 3-week block lacked cycling performance quality, and your VO2max (5-minute power) requires a brutal stimulus to trigger central cardiovascular adaptations. Expect a high challenge—execute the targets precisely.
+> Take the Cycling Option today. You specifically requested cycling ('Fietsen') and expressed a desire to execute a back-to-back 2-day block of high-quality training to dramatically boost your fitness. Because your TSB is neutral and you are completely fresh, today we will trigger a massive VO2max/5-min power stimulus. This will be followed tomorrow by a high-intensity running session to fulfill your 2-day quality block commitment.
 
 ---
 
@@ -20,32 +20,32 @@
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
 ### 🚴‍♂️ Optie 1: Fietsen (Doel: 5min / 20min vermogen)
-* **Training:** **VO2max Power Capacity Intervals**
-* **Intensiteit:** `Very High (RPE 9/10, Target: 115-120% FTP / 287-300 Watts)`
-* **Workout details:** 15 min Warm-up progressing from 130W to 200W, including 3x 30-sec fast-pedal efforts. Main Set: 5 x 4-minute intervals at 287-300W. Rest interval: 4 minutes of active recovery spin at 120W. 10 min Cool-down at 130W.
-* **Waarom:** *Directly targets your goal of improving 5-minute power. Pushing your VO2max ceiling is the only way to systematically raise your FTP over the next training cycle.*
+* **Training:** **VO2max Peak Power Intervals (5x4 min)**
+* **Intensiteit:** `Very High (Zone 5, 110-120% FTP, HR > 175 bpm)`
+* **Workout details:** 15-minute progressive warm-up ending with 3x 30-second openers at 275W. Main Set: 5 x 4 minutes at 285 Watts (114% of FTP, targeting your 5-minute peak power), with 4 minutes of very easy active recovery (under 120W) between intervals. 10-minute easy spin cool-down.
+* **Waarom:** *Directly targets your goal of improving 5-minute cycling power. Your current fresh state allows for the extreme anaerobic and cardiovascular output required to execute these intervals cleanly at 285W.*
 
 ### 🏃‍♂️ Optie 2: Hardlopen (Doel: 5km snelheid)
-* **Training:** **5km Specific Pace Threshold Run**
-* **Intensiteit:** `High (RPE 8/10, Target: Zone 4/5 HR > 175 bpm)`
-* **Workout details:** 10 min Warm-up jog + dynamic drills. Main Set: 3 x 1600m (1 mile) at your target 5km goal pace. Rest: 3 minutes of walking/easy jogging recovery between intervals. 10 min Cool-down jog.
-* **Waarom:** *Improves your neuromuscular efficiency at 5km target pace and forces anaerobic/aerobic integration. Essential for breaking speed plateaus.*
+* **Training:** **5km Race Pace Interval Stimulus**
+* **Intensiteit:** `High (Zone 4/5, Target 5km pace, HR 175-185 bpm)`
+* **Workout details:** 2 km easy warm-up running, followed by 3x 50-meter progressive strides. Main Set: 3 x 1600 meters (1 mile) at your goal 5km race pace, resting with 3 minutes of slow walking/jogging between intervals. 1.5 km easy cool-down run.
+* **Waarom:** *Develops running economy and biomechanical efficiency at high velocities. Highly specific to your 5km goal and leverages your low immediate ATL.*
 
 ### 🧘‍♂️ Optie 3: Actief herstel / Rust
-* **Training:** **Active Recovery Spin & Mobility**
-* **Intensiteit:** `Very Low (RPE 2/10, Target: < 135 Watts, HR < 120 bpm)`
-* **Workout details:** 30-40 minutes of extremely light, flat-terrain spin. Cadence must remain high (90-95 RPM) with zero chain tension. Follow with 15 minutes of lower-body mobility and foam rolling.
-* **Waarom:** *An option reserved only if you are hiding physical fatigue or muscle soreness. It promotes local blood flow and lymphatic drainage without adding cardiovascular fatigue.*
+* **Training:** **Active Recovery Spin**
+* **Intensiteit:** `Very Low (Zone 1, <55% FTP, <135 Watts, HR < 125 bpm)`
+* **Workout details:** 30 to 45 minutes of exceptionally easy spinning on flat terrain. Maintain a high cadence (90+ RPM) with zero resistance. Do not exceed 135 Watts at any point.
+* **Waarom:** *Promotes blood flow, flushes metabolic waste, and maintains consistency without adding any physical or mental stress, preparing you for a hard workout tomorrow instead.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Today's registered load is a negligible 16 TSS, representing a rest or short commute day. With no subjective complaints or sleep/HRV anomalies reported, you are physiologically cleared to train. Your current training stress balance (TSB) sits at a highly favorable -0.65. You are fully recovered from previous micro-cycles and ready to absorb a high-stress stimulus. Resting on your laurels is not an option today; we exploit this fresh window immediately.
+Today's training stress balance (TSB) is -0.65, meaning your fitness (CTL: 32.1) and fatigue (ATL: 32.7) are perfectly balanced. Given yesterday's negligible load (16 TSS), you are completely fresh and physically fully recovered. There is zero residual daily fatigue, making today the perfect launchpad for the first of your two requested high-quality training days.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the last 21 days, you accumulated 679 TSS over 13.62 hours. While the session count (14) looks solid on paper, a deeper dive reveals that only 3 of these were designated quality sessions, with a heavy skew toward low-intensity commuting. Your ATL is sitting at 32.7, matching your CTL. This indicates flatlined acute loading. You have consolidated your aerobic baseline, but the adaptation rate has slowed due to a lack of target-specific, high-intensity intervals. We must inject high-challenge stress to spark new adaptations.
+Over the last 21 days, you accumulated a moderate volume of 13.62 hours and 679 TSS, heavily weighted towards low-intensity e-bike commute sessions. Your acute adaptation rate is stable, and you are not exhibiting any markers of overreaching. However, the volume of high-quality, high-intensity work is low (only 3 quality sessions out of 14). To trigger a rising fitness trend (CTL), we must introduce structured, high-intensity progressive overload.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Your long-term fitness trend (CTL) sits at a modest 32.0. Looking back over 180 days, your progressive overload has been highly conservative, resulting in a plateaued fitness curve. Your best cycling FTP is estimated at 246W (FTP setting of 250W is acceptable, giving 3.42 W/kg at your current weight of 73.0 kg). To move the needle on your 5km run pace and cycling power profiles, the ramp rate must be aggressively accelerated. Safe progression requires structured, high-challenge quality sessions rather than junk commute volume.
+Your 6-month sport trend shows a CTL currently plateauing at 32.1. This is significantly lower than your spring peak (April/May), when you regularly completed single rides yielding 150-250 TSS. This indicates a major rebuilding phase. Since your chronic baseline is low, we must aggressively but safely ramp up your CTL. Your cardiovascular engine has the historical capacity; we now need to re-apply high-intensity density to drive adaptation for your 5km running and cycling power goals.

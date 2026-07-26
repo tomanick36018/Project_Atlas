@@ -1,51 +1,51 @@
-# 🧘‍♂️ Mijn AI Sportcoach - Post-Workout Herstel Rapport
+# 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Gegenereerd na de training op: 2026-07-26 09:07:48*
+*Laatst bijgewerkt: 2026-07-26 10:56:48*
 
-## 📊 Trainingsstatus & Garmin Statistieken
+## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL):** `36.1` | **Vermoeidheid (ATL):** `54.6` | **Vorm (TSB):** `-18.5`
-* **Slaapscore gisteravond:** `Niet opgegeven`
-* **Garmin HRV-status:** `Niet opgegeven`
+* **Status:** **🟢 Optimaal Trainingsvenster**
+* **Slaapscore gisteravond:** `Niet opgegeven` | **HRV-status:** `Niet opgegeven`
 
 ---
 
-## 📋 Beoordeling van de Training (Coach Feedback)
-> **Mijn gevoel na de training:** *"Geen specifieke opmerkingen."*
+## 📋 Coach Verdict & Advies voor Vandaag
+> **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> Execution of today's 54.5 km cycling session was outstanding. You achieved a high quality rating with an estimated intensity factor of around 0.91, proving you have the mental fortitude to push deep into your FTP zone. However, a workout of this magnitude is only as good as the recovery that follows it. If you do not execute your recovery protocol with the same precision you used during this ride, today's session will result in muscle damage rather than adaptation.
+> I am exercising strict coaching override: you must prioritize the Recovery Option today. Your TSB of -18.5 combined with a suppressed HRV of 38 ms signals that your nervous system is in no state to execute high-quality VO2max or threshold work. Forcing a hard session today will only result in junk miles, poor power output, and a regression in adaptation. Active recovery or total rest is mandatory to absorb the recent high-load block.
 
 ---
 
-## 🥗 Jouw Herstelprotocol voor Vandaag
-*Volg deze stappen nauwkeurig op om je herstel te maximaliseren en blessures te voorkomen:*
+## 🎯 Trainingskeuzes voor Vandaag
+*Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 🥛 Stap 1: Voeding & Hydratatie (Eten & Drinken)
-* **Protocol:** **Nutrition & Hydration**
-* **Doel:** `None (Recovery Focus)`
-* **Details:** Consume 80g of fast-acting carbohydrates (e.g., maltodextrin, bananas, or rice) and 35g of high-quality complete protein (whey isolate or lean chicken breast) within the next 30 minutes. Rehydrate with 1.2 liters of water containing 1000mg of sodium and essential electrolytes to replace sweat loss.
-* **Waarom:** *Immediate glycogen replenishment and protein synthesis are non-negotiable to repair muscle fibers broken down by today's high-intensity 153 TSS effort.*
+### 🚴‍♂️ Optie 1: Fietsen (Doel: 5min / 20min vermogen)
+* **Training:** **FTP Target - Sweet Spot Progressions**
+* **Intensiteit:** `High (Zone 3/4 - Sweet Spot)`
+* **Workout details:** 15-minute warm-up including 3x30-second high-cadence efforts. 2x15 minutes at 88-92% FTP (220W - 230W), target cadence 85-95 rpm. 5-minute recovery between sets. 10-minute cool-down.
+* **Waarom:** *Designed to directly target your 20-minute power (FTP) goal by maximizing muscular aerobic endurance with manageable cardiovascular strain.*
 
-### 🧘‍♂️ Stap 2: Spieren & Mobiliteit (Stretching & Mobiliteit)
-* **Protocol:** **Muscle Recovery & Mobility**
-* **Doel:** `Low (Passive Recovery)`
-* **Details:** Perform 10 minutes of targeted foam rolling on your calves, quads, and IT bands. Follow up with passive stretching: 3 sets of 30 seconds for the couch stretch (hip flexors), 3 sets of 30 seconds for hamstring stretches, and ankle mobilization exercises.
-* **Waarom:** *Cycling for nearly two hours at high intensity causes extreme tightening in the hip flexors and posterior chain. This mobility protocol prevents chronic tightness from ruining your running stride tomorrow.*
+### 🏃‍♂️ Optie 2: Hardlopen (Doel: 5km snelheid)
+* **Training:** **5km Specific Pace Intervals**
+* **Intensiteit:** `Very High (Zone 4/5)`
+* **Workout details:** 2km warm-up run. 5x800m at your target 5km pace (Target HR: 170-182 bpm, Max HR is 194). Jog 200m for active recovery between intervals. 1.5km easy cool-down jog.
+* **Waarom:** *Directly builds neuromuscular efficiency and high-end aerobic capacity specifically required to improve your 5km running time.*
 
-### 🛌 Stap 3: Slaap & Volgende Stap (Vooruitblik)
-* **Protocol:** **Sleep & Tomorrow's Outlook**
-* **Doel:** `Rest`
-* **Details:** Target a minimum of 8.5 to 9 hours of sleep tonight. Cool your room to 18 degrees Celsius, stop screen usage 1 hour before bed, and hydrate. Tomorrow is a mandatory active recovery day or total rest. Do not plan any session exceeding 20 TSS.
-* **Waarom:** *Your TSB of -18.5 puts you at high risk of injury if back-to-back hard sessions are performed. Deep sleep is the ultimate window for growth hormone release and nervous system recovery.*
+### 🧘‍♂️ Optie 3: Actief herstel / Rust
+* **Training:** **Active Recovery Spin & Flush**
+* **Intensiteit:** `Very Low (Zone 1)`
+* **Workout details:** 30 to 45 minutes on flat terrain or trainer. Power strictly under 50% FTP (under 125W). Keep heart rate below 115 bpm. Cadence fluid between 90-100 rpm. Absolutely zero spikes in intensity.
+* **Waarom:** *Promotes blood flow, flushes metabolic waste, and downregulates the sympathetic nervous system to restore your suppressed HRV (38 ms) and clear your acute fatigue.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Today was a massive strain on your cardiovascular and muscular systems. You logged a brutal quality cycling session with a training load of 153 over 1.83 hours. This intense effort has pushed your acute fatigue (ATL) to 54.6, dragging your Training Stress Balance (TSB) down to -18.5. This is deep in the overloaded zone. Your resting heart rate of 54 bpm indicates your body is working hard to recover. Immediate, structured physical recovery is now your main priority—no exceptions.
+Today's assessment shows high acute physiological strain. With a current ATL of 54.6 against a CTL of 36.1, your Training Stress Balance (TSB) stands at a highly fatigued -18.5. Yesterday you logged a demanding 84-TSS cycling performance session. Furthermore, your raw HRV value of 38 ms points to autonomic nervous system suppression. Pushing into high-intensity quality zones today carries a high risk of poor execution and overreaching.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the last 21 days, you have accumulated 916 training load units across 16.49 hours, including 5 key quality sessions. This progressive overload has successfully stimulated adaptation, but your ATL (54.6) is currently significantly higher than your CTL (36.1). You are operating with high residual fatigue. While this is necessary for building your VO2max and 5km running pace, you are on the limit of safe overload. Your adaptation rate must be monitored closely over the next 7 days.
+Over the past 21 days, you have accumulated 916 TSS over 16 sessions. While your consistency is commendable, the rapid ramp in training load has pushed your ATL far ahead of your structural fitness base (CTL 36.1). The e-bike commutes are adding hidden low-intensity volume, but the quality performance sessions are the primary drivers of this fatigue. Adaptation rate is currently bottlenecked by recovery, and we are nearing the absolute safety limit of -30 TSB.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Looking back over the 180-day horizon, your fitness trend (CTL) is steadily rising to 36.1. Your historical cycling performance peaks at an FTP of 246 W, meaning your set target of 250 W is highly challenging but realistic if you manage recovery. However, your long-term consistency has been intermittent. To secure structural improvements in your 5-minute cycling power and 5km running efficiency, you must avoid long gaps in training and build a wider aerobic foundation.
+Your 180-day trend demonstrates a positive but highly erratic CTL trajectory. CTL has climbed to 36.1, but your progression lacks a consistent, periodized structure. To safely optimize your 5km running goals and raise your FTP above 250W, we must transition from sporadic high-load bursts to structured, progressive microcycles. Sustained CTL development requires earning the right to train hard through disciplined recovery blocks.

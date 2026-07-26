@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-25 10:19:16.063872",
+  "generated": "2026-07-26 05:54:37.748965",
   "athlete_inputs": {
-    "sport_preference": "",
-    "athlete_notes": "",
+    "sport_preference": "Fietsen",
+    "athlete_notes": "Zin om 2  uur te fietsen",
     "sleep_score": "",
     "hrv_status": "",
     "is_post_workout": false
@@ -12,28 +12,28 @@
     "ATL": 39.5,
     "Form_TSB": -6.3
   },
-  "daily_load_assessment": "Today's training load stands at 84 from a performance cycling session of 1.04 hours. Your acute fatigue (ATL) is at 39.5, giving you a TSB of -6.26. This is well within your safe adaptation zone (limit -30). However, because you have already completed a high-quality cycling session today, any additional intensity must be carefully weighed against injury risk.",
-  "acute_status_assessment_3_weeks": "Over the last 21 days, you have completed 15 sessions accumulating 14.66 hours and 763 training load. Your consistency is commendable, driven largely by e-bike and commute sessions. However, your quality running sessions are lacking (only 4 in 3 weeks), which limits your 5km development. Your current CTL of 33.28 is rising safely, but the balance is heavily skewed toward cycling.",
-  "sport_trend_assessment_6_months": "Your 180-day trend reveals a solid aerobic foundation but a highly uneven distribution between sports. Cycling performance and commuting dominate, while running is treated as an afterthought. To move your 5km performance and FTP/VO2max metrics significantly upward, we must transition from generic volume to highly structured, high-challenge intervals in both disciplines.",
-  "coach_verdict": "Because you have already completed a high-quality, 84-load performance cycling session today, my strict recommendation is to select the RECOVERY OPTION to prevent overtraining. If you are planning for your next fresh training day, you must prioritize the RUNNING OPTION to address the deficit in your 5km performance preparation.",
+  "daily_load_assessment": "Yesterday's quality ride generated a solid training load of 84. Today, your Training Stress Balance (TSB) is sitting at -6.25. Although your Garmin Sleep Score and HRV Status were not provided, your resting HR is stable at 49 bpm and your HRV value is 38. Combined with your strong subjective motivation ('Zin om 2 uur te fietsen'), you are in an optimal state to absorb a high-stress workout. There is no physiological reason to hold back today.",
+  "acute_status_assessment_3_weeks": "Over the past 21 days, you have logged 14.66 hours across 15 sessions, yielding a total training load of 763. While your consistency is commendable, a significant portion of this volume consists of e-bike sessions (6). Your current ATL is 39.54 and CTL is 33.28. This acute fatigue is highly manageable, but to drive adaptation and improve your FTP and 5-minute power, we must convert more of your base volume into structured, high-intensity quality sessions.",
+  "sport_trend_assessment_6_months": "Your current CTL is 33.28. Your 180-day trend shows that your fitness has plateaued compared to your peak training blocks in April and May, where you safely executed workouts with loads exceeding 200. To optimize your rising fitness trend safely, we must apply strict progressive overload. With your FTP at 250W (3.29 W/kg) and your 5km running goals in mind, we need structured, high-intensity stimuli to push your physiological ceiling higher.",
+  "coach_verdict": "Your motivation is high, your TSB is in the optimal zone (-6.25), and you have requested a 2-hour ride. I am giving you exactly what you want, but this is a strict quality session, not a recovery cruise. You will execute the Cycling Option today, prioritizing progressive overload of your 20-minute FTP and 5-minute VO2max power. Hit the targets exactly as prescribed.",
   "today_options": {
     "cycling_option": {
-      "session_title": "VO2max Power Builders",
-      "intensity": "High (Z5)",
-      "workout_details": "15 min Warm-up progressing to Z3. Main set: 5 x 4 minutes at 275-300 Watts (110-120% FTP), with 4 minutes of very easy spinning recovery between reps. 10 min Cool-down.",
-      "reason": "Directly targets your goal of improving 5-minute cycling power (VO2max) using high-intensity intervals to force cellular adaptation."
+      "session_title": "Threshold Over-Unders & VO2max Power Sharpener",
+      "intensity": "High (Zone 4/5)",
+      "workout_details": "Duration: 120 minutes. Warm-up: 20 mins progressive Zone 1 to Zone 2 (100W to 175W), including 3x 30-sec fast-pedaling efforts. Main Set 1 (FTP Focus): 2x 20 mins of Over-Under intervals. Each 20-min block consists of: [2 mins 'Over' at 265W (106% FTP) / 3 mins 'Under' at 225W (90% FTP)] repeated 4 times. Rest 10 mins easy spinning (130W) between sets. Main Set 2 (VO2max Focus): 3x 3 mins at 300W (120% FTP) with 3 mins recovery at 120W between efforts. Cool-down: Remaining time in Zone 2 (140W-160W) and Zone 1.",
+      "reason": "Directly targets your goals of improving both your 20-minute FTP and 5-minute VO2max power while fulfilling your desire for a 2-hour endurance ride."
     },
     "running_option": {
-      "session_title": "5km Specific Pace Intervals",
-      "intensity": "High (Z4/Z5)",
-      "workout_details": "10 min Warm-up jog. Main set: 5 x 1000m at target 5km pace (Heart Rate: 175-185 bpm), with 90 seconds of walking/jogging recovery between intervals. 10 min Cool-down.",
-      "reason": "Directly builds target pace efficiency and aerobic capacity required to break your current 5km running limits."
+      "session_title": "5km Pace Quality Intervals",
+      "intensity": "Very High (Zone 4/5)",
+      "workout_details": "Duration: 55 minutes. Warm-up: 15 mins easy jogging, followed by dynamic drills (A-skips, butt kicks) and 3x 100m strides. Main Set: 5x 1000m intervals at goal 5km pace (Target HR: 175-185 bpm), with 2 mins walking/jogging recovery between intervals. Cool-down: 10 mins slow jog, followed by light stretching.",
+      "reason": "Develops aerobic capacity, lactate threshold, and neuromuscular efficiency specific to your 5km running target distance."
     },
     "recovery_option": {
-      "session_title": "Active Recovery Spin or Rest",
-      "intensity": "Very Low (Z1)",
-      "workout_details": "30-45 minutes of exceptionally easy spinning on flat terrain. Target under 130 Watts (<55% FTP), keeping your heart rate strictly below 120 bpm (Z1). No hills, no sprints.",
-      "reason": "You have already completed a quality training session today. Active recovery promotes blood flow to damaged tissues without adding further acute training stress."
+      "session_title": "Active Recovery Spin & Mobility",
+      "intensity": "Low (Zone 1)",
+      "workout_details": "Duration: 45 minutes. Workout: 30 mins easy spinning on flat terrain or trainer (<130W, HR <120 bpm, cadence 90-95 rpm). Followed by 15 mins of focused lower body mobility work and foam rolling targeting the calves, hamstrings, and hip flexors.",
+      "reason": "Promotes blood flow and accelerates muscular recovery if you feel unexpected heavy fatigue once you start."
     }
   }
 }

@@ -14,20 +14,11 @@ on:
           - Geen voorkeur (Auto)
           - Fietsen
           - Lopen
+          - Krachttraining
           - Rust / Herstel
         default: 'Geen voorkeur (Auto)'
       athlete_notes:
-        description: 'Persoonlijke opmerkingen (bijv. gevoel, specifieke feedback)'
-        required: false
-        type: string
-        default: ''
-      sleep_score:
-        description: 'Garmin Slaapscore (optioneel, anders automatisch)'
-        required: false
-        type: string
-        default: ''
-      hrv_status:
-        description: 'Garmin HRV status (optioneel, anders automatisch)'
+        description: 'Persoonlijke opmerkingen (gevoel, spierpijn, RPE van de zojuist afgeronde training, etc.)'
         required: false
         type: string
         default: ''
@@ -107,8 +98,6 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           SPORT_PREFERENCE: ${{ github.event.inputs.sport_preference }}
           ATHLETE_NOTES: ${{ github.event.inputs.athlete_notes }}
-          SLEEP_SCORE: ${{ github.event.inputs.sleep_score }}
-          HRV_STATUS: ${{ github.event.inputs.hrv_status }}
           IS_POST_WORKOUT: ${{ github.event.inputs.is_post_workout }}
         run: |
           python scripts/create_coach_analysis.py    

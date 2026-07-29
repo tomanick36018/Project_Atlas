@@ -1,39 +1,43 @@
 {
-  "generated": "2026-07-28 13:26:56.302308",
+  "generated": "2026-07-29 08:31:33.928437",
   "athlete_inputs": {
-    "sport_preference": "Lopen",
-    "athlete_notes": "",
+    "sport_preference": "Krachttraining",
+    "athlete_notes": "Geen tijd om lopen of fietsen aangezien mijn zoontje thuis is. O ver de middag slaapt hij 2 uur en kan ik thuis trainen",
     "sleep_score": "",
     "hrv_status": "",
     "is_post_workout": false
   },
   "current_state": {
-    "CTL": 36.1,
-    "ATL": 54.6,
-    "Form_TSB": -18.5
+    "CTL": 35.7,
+    "ATL": 48.4,
+    "Form_TSB": -12.7
   },
-  "daily_load_assessment": "Today you carry a training stress balance (TSB) of -18.5, calculated from a CTL of 36.1 and a high ATL of 54.6. This is a direct consequence of your massive weekend cycling load (July 25-26: 237 combined TSS). While this fatigue is significant, your TSB remains safely above the critical absolute limit of -30. Because yesterday was a rest/low-load day, your nervous system is ready for focused, high-intensity work, provided we manage the orthopedic stress of your running preference today.",
-  "acute_status_assessment_3_weeks": "Over the past 21 days, you accumulated 916 TSS over 16.5 hours of training. However, there is a severe sport-specific imbalance: you completed 6 e-bike and 5 performance cycling sessions, but only 4 running sessions. Your cycling engine is expanding rapidly, but your biomechanical running adaptation is lagging. To hit your 5km running targets, we must enforce progressive running overload immediately before your running economy degrades further.",
-  "sport_trend_assessment_6_months": "Your 180-day trend reveals a highly progressive aerobic engine in cycling, with a peak performance ride of 252 TSS on April 8 and a solid best FTP of 246W. Your CTL has climbed steadily to 36.1, which is a safe, sustainable curve. However, your running development is neglected in the long-term trend. To optimize your overall fitness safely, we must transition some of your massive cycling volume into running-specific density to bridge the gap in your endurance profile.",
-  "coach_verdict": "Today we execute the RUNNING option. You requested running, and your training data dictates that your running biomechanics and running-specific VO2max require immediate attention. Your cycling-derived aerobic capacity is high, but we must convert that raw power into high-quality running intervals. Do not compromise on the targets; execute this with extreme precision.",
+  "daily_load_assessment": "Today you face a strict time and location constraint with your son at home, meaning outdoor running or cycling is off the table. Your current TSB is -12.66 (CTL 35.72, ATL 48.38), indicating moderate acute fatigue from yesterday's 10km run (load 55). While your body is primed for adaptation, this logistical barrier presents a perfect opportunity to execute a high-quality, high-force home strength session during your son's 2-hour nap window.",
+  "acute_status_assessment_3_weeks": "Over the last 21 days, you have completed 17 sessions, accumulating 971 TSS. This represents a solid training density for a CTL of 35.7. Your ATL is elevated (48.38), showing that fatigue is building quickly. We must carefully balance this block to avoid overreaching. Since you cannot do endurance work today, a strength-focused session is highly efficient as it does not add cardiovascular stress to your aerobic system but preserves neural adaptation.",
+  "sport_trend_assessment_6_months": "Your 180-day trend shows a gradual re-building phase. Your CTL has climbed to 35.7, but it is still below your spring peaks where you regularly absorbed 200+ TSS rides. To safely ramp up your CTL, we must protect your aerobic system from burnout while aggressively building the muscular torque needed for your cycling FTP targets and the structural integrity required to improve your 5km running pace.",
+  "coach_verdict": "I am directing you to execute Priority 1: The 'Torque & Aesthetics' Power Rack session today. It respects your constraint perfectly, utilizes your available 120kg barbell set, and aligns with your subjective preference for 'Krachttraining' while your son sleeps. This session is designed with strict progressive overload to translate directly to cycling torque and running economy.",
   "today_options": {
-    "cycling_option": {
-      "session_title": "FTP / 5-Min Power VO2max Enhancer",
-      "intensity": "Very High (Zone 5, 110-115% FTP / 275-288 Watts)",
-      "workout_details": "Warm-up: 15 minutes spinning progressively from 130W to 180W. Main set: 5 intervals of 3 minutes at 280 Watts (92-95% Max HR / 178-184 bpm). Recovery between intervals: 3 minutes easy spinning at 120 Watts. Cool-down: 10 minutes easy spin.",
-      "reason": "Directly targets your cycling goal of improving your 5-minute VO2max power. Utilizing your high aerobic capacity to break through your current FTP ceiling."
+    "priority_1": {
+      "session_title": "Torque & Aesthetics Power Rack Session",
+      "sport_type": "Strength",
+      "intensity": "Heavy Strength (RPE 8-9/10)",
+      "workout_details": "1. Barbell Back Squats: Warm-up, then 4 sets x 5 reps @ 80-85% 1RM (Focus on explosive concentric drive for cycling torque).\n2. Barbell Bench Press: 4 sets x 6 reps (Aesthetics & upper body power).\n3. Barbell Overhead Press (OHP): 3 sets x 8 reps (Shoulder stability).\n4. Superset: Heavy Sandbag (70kg) Bear Hug Carries (3 x 40m) + Barbell Bicep Curls (3 x 12 reps).\n5. Core: 3 sets x max reps Hanging Knee Raises or Ab Wheel Rollouts.",
+      "reason": "This is the optimal choice. It fits your 2-hour lunch window at home, satisfies your craving for strength work, doesn't tax your cardiovascular system today, and builds the raw force production needed to support your 5-min cycling power and running stride power."
     },
-    "running_option": {
-      "session_title": "5km Pace & Neuromuscular Interval Shock",
-      "intensity": "High (Zone 4-5, 5km Goal Pace / HR 172-180 bpm)",
-      "workout_details": "Warm-up: 15 minutes of easy jogging, ending with 3x 100m strides to prime neuromuscular mechanics. Main set: 5 x 1000m intervals at your target 5km race pace. Recovery: 2 minutes of walking/slow jogging between reps to ensure heart rate recovery. Cool-down: 10 minutes easy recovery jog.",
-      "reason": "Directly attacks your running-specific efficiency and interval quality goals. You need running-specific impact load to build structural tolerance to match your strong cycling engine."
+    "priority_2": {
+      "session_title": "Functional Power & Core Conditioning",
+      "sport_type": "Strength",
+      "intensity": "Medium-High (RPE 7-8/10)",
+      "workout_details": "1. Sandbag Clean & Press (70kg): 4 sets x 6 reps.\n2. Kettlebell Goblet Squats (20kg): 4 sets x 12 reps (Focus on deep range of motion and perfect posture).\n3. Kettlebell Swings (20kg): 4 sets x 20 reps (Posterior chain power for running stride).\n4. Push-ups (Weighted with sandbag or vest if possible): 3 sets to failure.\n5. Core Circuit (3 rounds): 1-minute Plank, 15 Deadbugs, 15 Russian Twists.",
+      "reason": "A highly functional alternative if you want to avoid heavy barbell loading. This utilizes your sandbag and kettlebell to challenge your trunk rotation and hip extension, critical for running efficiency."
     },
-    "recovery_option": {
-      "session_title": "Active Recovery & Tissue Mobilization",
-      "intensity": "Very Low (Zone 1, HR under 130 bpm / under 140 Watts)",
-      "workout_details": "Activity: 30 minutes of low-torque flat cycling or ultra-easy recovery jogging. Post-workout: 20 minutes of dedicated foam rolling on quads, calves, and glutes, followed by targeted dynamic mobility work.",
-      "reason": "Indicated if you feel residual joint soreness or deep muscular fatigue from the heavy cycling sessions over the weekend. This actively flushes metabolites to accelerate your return to a fresh TSB state."
+    "priority_3": {
+      "session_title": "Home Mobility & Core Restoration",
+      "sport_type": "Recovery",
+      "intensity": "Low (RPE 4/10)",
+      "workout_details": "1. Foam Rolling / Self-Myofascial Release: 10 mins (Quads, Calves, Thoracic Spine).\n2. Hip Mobility Flow (90/90 stretch, world's greatest stretch, deep squats): 15 mins.\n3. Core Stability: 4 sets of 1-minute plank variations (Front, Left Side, Right Side).\n4. Lower Back/Posterior recovery: 3 sets x 15 Bird-Dogs.\n5. Upper body aesthetics: 3 sets x 15 Light Barbell Bicep Curls + 3 sets x 15 Pushups (not to failure).",
+      "reason": "If you are feeling the accumulated fatigue from your recent running block (TSB -12.6), choose this option to promote blood flow, improve range of motion, and reset your nervous system while keeping your commitment to stay at home."
     }
-  }
+  },
+  "post_workout_recovery": {}
 }

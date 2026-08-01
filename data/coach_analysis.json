@@ -1,26 +1,26 @@
 {
-  "generated": "2026-07-31 07:29:48.295992",
+  "generated": "2026-08-01 10:04:55.793881",
   "athlete_inputs": {
     "sport_preference": "Rust / Herstel",
-    "athlete_notes": "Net 30/30s gedaan met de fiets. Voelde goed.",
+    "athlete_notes": "Vandaag goed ritje met een vriend gereden. Morgen rust en maandag weer werken. ",
     "sleep_score": "",
     "hrv_status": "",
     "is_post_workout": true
   },
   "current_state": {
-    "CTL": 35.6,
-    "ATL": 44.7,
-    "Form_TSB": -9.1
+    "CTL": 39.0,
+    "ATL": 63.0,
+    "Form_TSB": -23.9
   },
-  "daily_load_assessment": "Today's completed session was a highly demanding 30/30s micro-interval workout on the bike, generating a significant daily load of 99 TSS over 1.16 hours. This indicates a high-intensity session designed to target VO2max and neuromuscular power. Your subjective input ('Voelde goed') is excellent, indicating high readiness and robust neuromuscular coordination under fatigue, even without Garmin HRV or sleep metrics to guide us.",
-  "acute_status_assessment_3_weeks": "Over the current 21-day block, you have executed 12 sessions totaling 13.38 hours and 881 TSS, with a high proportion of quality sessions (6 out of 12). Your ATL has risen to 44.70, while your CTL stands at 35.58, leaving you with a moderate, productive Training Stress Balance (TSB) of -9.12. This is well within your safe limit of -30, showing that while you are accumulating fatigue, you are adapting efficiently and absorbing the high-intensity quality blocks.",
-  "sport_trend_assessment_6_months": "Your 180-day trend reveals a stable but conservative CTL of 35.58. To achieve your target running goals (5km pace/VO2max) and cycling power (5-min and 20-min FTP), your chronic training load must be progressively scaled. Historically, you have tolerated higher training loads (such as blocks in April/May 2026). The current phase serves as a strong platform to launch a progressive overload phase, safely elevating your CTL toward 50-60 over the coming months.",
-  "coach_verdict": "Excellent execution of a high-intensity 30/30s quality session. Under my strict coaching style, a 99 TSS ride in just over an hour is a high-yield, high-challenge stimulus. Your subjective positive feedback confirms strong adaptation. Now, the work is done; your immediate priority transitions 100% to strict recovery protocol to lock in these VO2max adaptations.",
+  "daily_load_assessment": "Today's massive load of 182 TSS from a 2.12-hour cycling performance ride, coupled with yesterday's 99 TSS session, represents an extreme back-to-back loading block of 281 TSS. While the subjective feedback notes a 'good ride with a friend,' the physiological cost is exceptionally high relative to your current fitness. Your acute recovery state is severely compromised, with today's fatigue metrics signaling a deep fatigue state. Your subjective desire for recovery tomorrow aligns perfectly with the physiological necessity.",
+  "acute_status_assessment_3_weeks": "Over the last 21 days, you accumulated 997 TSS over 14.76 hours, with 6 out of 12 sessions classified as high-quality. This has driven your ATL up to 62.98, while your CTL stands at 39.03. This leaves your TSB (Training Stress Balance) at a deep -23.95. This is approaching your absolute limit of -30. Your adaptation rate is under heavy stress; you have successfully stimulated your VO2max and aerobic pathways, but you are now firmly in an overreached state requiring immediate, structured consolidation.",
+  "sport_trend_assessment_6_months": "The 180-day trend shows a clear transition from sporadic commuting to focused performance efforts. With 26 key cycling sessions in this window, your CTL of 39.03 has been rebuilt quickly. While your FTP (250W, 3.29 W/kg) is solid, your CTL ramp rate has been highly aggressive recently. To safely support cycling torque, running power, and your 5km pace goals, this long-term progression must be stabilized. Your cardiovascular engine is expanding, but your skeletal and muscular structures need a recovery period to absorb this load.",
+  "coach_verdict": "You executed today's 63.7 km ride at an estimated Intensity Factor (IF) of approximately 0.93. To sustain this level of intensity over more than two hours indicates great mental toughness and a strong anaerobic/VO2max capacity. However, as your coach, I must warn you: back-to-back high-intensity days (yesterday's quality ride + today's demanding group ride) have pushed your fatigue into the red zone. This was a highly productive stimulus, but only if you actually allow your body to supercompensate through strict recovery.",
   "today_options": {},
   "post_workout_recovery": {
-    "workout_evaluation": "The 30/30 intervals successfully stimulated your anaerobic capacity and VO2max pathways. Generating 99 TSS in 1.16 hours indicates an Intensity Factor (IF) of around 0.92, which places extreme metabolic stress on your glycogen stores and cardiovascular system. Your execution was superb, yielding a high-quality workout that directly supports your 5-minute cycling power target.",
-    "hydration_nutrition": "Prioritize immediate glycogen replenishment and muscle tissue repair. Consume a recovery shake containing 60-80g of fast-absorbing carbohydrates and 20-25g of high-quality whey protein within 30 minutes. Hydrate with at least 750ml of water containing sodium and electrolytes to replace fluids lost to sweat. Follow up with a balanced meal rich in complex carbs (sweet potatoes or rice) and lean protein (chicken or tofu) within 2 hours.",
-    "stretching_mobility": "Perform a target-specific mobility routine to relieve tension from the cycling posture. Focus on dynamic and static stretches for the hip flexors (couch stretch), quadriceps, and glutes to restore pelvic alignment. Use a foam roller on your IT bands, calves, and thoracic spine to improve recovery and maintain tissue quality for your running stride.",
-    "tomorrow_outlook": "Tomorrow, your body will experience the peak physiological adaptation response to today's micro-intervals. Expect your TSB to drop deeper into the negative zone. To allow proper supercompensation, tomorrow must be a rest day ('Rust / Herstel') or an extremely light, active recovery ride (Zone 1, <45 mins) to flush out metabolites. Optimize sleep tonight by aiming for 8+ hours in a cool, dark room."
+    "workout_evaluation": "You completed 63.7 km in 2.12 hours, averaging ~30 km/h with an exceptionally high load of 182 TSS. This was not a casual cruise; it was a high-tempo, surge-heavy effort that heavily depleted your glycogen stores and taxed your neuromuscular junctions. Compliance with your high-intensity zones was excellent, but the biological debt is high.",
+    "hydration_nutrition": "Prioritize immediate muscle glycogen restoration and protein synthesis. Consume a recovery shake containing 20g of high-quality whey protein and 60-80g of fast-acting carbohydrates within 30 minutes of finish. Follow up with a whole-food meal featuring complex carbohydrates (sweet potatoes or rice), lean protein (chicken or tofu), and high-sodium electrolytes to replace sweat loss. Drink 1.5 times the fluid weight lost.",
+    "stretching_mobility": "Focus entirely on the lower chain and thoracic posture to counteract the aggressive cycling position. Perform 3 sets of 45-second holds for: kneeling hip flexor stretch, half-kneeling quad stretch, and pigeon pose for the glutes. Spend 5 minutes on a foam roller releasing the quads, IT bands, and calves to promote venous return.",
+    "tomorrow_outlook": "Tomorrow is a mandatory, non-negotiable rest day. Your TSB is at -24, meaning your body is in deep repair mode. Expect elevated resting HR and suppressed HRV tomorrow morning. Focus on getting 8.5+ hours of sleep, keeping off your feet, and letting your parasympathetic nervous system take over so you can return to work and training on Monday fully adapted."
   }
 }

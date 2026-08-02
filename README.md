@@ -1,6 +1,6 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-08-01 10:53:09*
+*Laatst bijgewerkt: 2026-08-02 10:53:49*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL):** `39.0` | **Vermoeidheid (ATL):** `63.0` | **Vorm (TSB):** `-23.9`
@@ -12,37 +12,37 @@
 ## 📋 Coach Verdict & Advies voor Vandaag
 > **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> I am prescribing an immediate halt to high-intensity cardiovascular work today. Your TSB is at -24, and pushing further will result in non-functional overreaching, compromised running mechanics, and potential injury. Your primary objective today is active recovery and structural care (Priority 1) to restore system homeostasis. If you insist on executing a physical training session, you are limited to zero-impact, upper-body focused strength work (Priority 2) to maintain core and upper-body power without stressing your highly fatigued legs.
+> With a TSB of -24.0 and yesterday's massive 182 TSS cycle, Priority 1 is an Upper Body Strength & Core session. This allows your cardiorespiratory system and lower-body musculature to recover completely, while keeping you productive toward your upper-body aesthetic and core stability goals. Priority 2 is a purely regenerative active recovery spin, and Priority 3 is a complete rest day.
 
 ---
 
 ## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 🥇 Prioriteit 1: Recovery - Active Recovery & Targeted Myofascial Release
-* **Intensiteit:** `Zone 1 / RPE 2/10`
-* **Workout details:** 20-30 minutes of ultra-light cycling spin (<100W, high cadence) or an easy walk, followed immediately by 20 minutes of thorough foam rolling (quads, glutes, hamstrings, calves) and deep static stretching focusing on the hip flexors and lower back.
-* **Waarom:** *With your TSB at -24, your nervous system and muscle fibers require active blood flow without mechanical stress to flush metabolic waste and initiate cellular repair. This is the optimal choice for your long-term progression.*
+### 🥇 Prioriteit 1: Strength - Upper Body Aesthetics & Core Stability Strength
+* **Intensiteit:** `RPE 7/10`
+* **Workout details:** Warm-up: 5 mins light dynamic stretching. 1. Barbell Bench Press: 4 sets x 8 reps @ 65-70% 1RM. 2. Barbell Overhead Press: 3 sets x 10 reps @ RPE 7. 3. Barbell Bicep Curls: 3 sets x 12 reps. 4. Sandbag Clean & Carry (Core/Back): 3 sets x 50-meter carry (70kg sandbag). 5. Hanging Leg Raises: 3 sets to failure. STRICTly NO lower-body squats or deadlifts today to allow legs to recover.
+* **Waarom:** *Legs and cardiovascular system are highly fatigued (TSB -24.0). This upper body and core session maintains athletic conditioning and satisfies aesthetic goals without adding stress to your cycling and running muscles.*
 
-### 🥈 Prioriteit 2: Strength - Upper Body Aesthetics & Core Stability Strength
-* **Intensiteit:** `Moderate / RPE 7/10`
-* **Workout details:** Perform 3 sets of the following exercises with 90 seconds rest between sets: 1. Barbell Bench Press (8-10 reps) | 2. Barbell Overhead Press (8 reps) | 3. Barbell Bicep Curls (10-12 reps) | 4. Weighted Plank (45 seconds) | 5. Hanging Knee Raises (15 reps). Keep lower body involvement to zero.
-* **Waarom:** *This option completely bypasses your fatigued lower body and cardiovascular system, allowing you to satisfy your strength goals and upper body aesthetics without elevating your ATL or compromising leg recovery.*
+### 🥈 Prioriteit 2: Cycling - Active Recovery Spin
+* **Intensiteit:** `Zone 1 (<137W)`
+* **Workout details:** 45 minutes continuous flat cycling. Maintain cadence of 90-95 RPM. Power must remain strictly under 55% of FTP (137 Watts). Heart rate must stay below 125 bpm.
+* **Waarom:** *Promotes blood flow and enhances clearance of metabolic waste in the lower extremities without adding structural or cardiorespiratory training load.*
 
-### 🥉 Prioriteit 3: Running - Low-Intensity Aerobic Base Run
-* **Intensiteit:** `Zone 2 (HR below 140 bpm)`
-* **Workout details:** 30 minutes of continuous, flat road running. Keep your heart rate strictly below 140 bpm. Focus on a high stride frequency (175+ spm) to minimize ground contact time and joint impact. Stop immediately if any joint or tendon pain occurs.
-* **Waarom:** *This is a low-priority, high-risk alternative if you demand cardiovascular training. It keeps your neuromuscular running pathways active for the 5km goal, but must be kept strictly at recovery intensity to avoid overloading your system.*
+### 🥉 Prioriteit 3: Recovery - Passive Recovery & Mobility
+* **Intensiteit:** `Rest`
+* **Workout details:** No structured endurance or strength work. Spend 15-20 minutes on soft tissue work (foam rolling calves, quads, thoracic spine) and deep static stretching focusing on hip flexors and hamstrings.
+* **Waarom:** *The safest, most direct path to restore your hormonal balance and glycogen stores, protecting your rising CTL trend from translating into a plateau or injury.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Your immediate training stress is extremely high. Following back-to-back massive cycling loads on July 31st (99 TSS) and August 1st (182 TSS), your acute training load (ATL) has spiked to 62.9, forcing your Training Stress Balance (TSB) down to a deeply fatigued -24. This is dangerously close to your absolute safety limit of -30. From a daily perspective, your muscles are heavily depleted, and your recovery deficit is severe.
+Today you are carrying significant residual fatigue. Yesterday's high-intensity cycling performance (Load: 182, 2.12 hours) following a 99-load session on July 31st has driven your acute training load (ATL) up to 63.0. Your Training Stress Balance (TSB) is currently at -24.0, which is approaching your absolute limit of -30. Recovery is the immediate daily priority to prevent overtraining.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the current 3-week block (July 12 - August 1), you accumulated 997 TSS across 14.76 hours and 12 sessions. Your CTL has climbed to 39.0, demonstrating a positive upward fitness trend. However, with 6 out of 12 sessions classified as high-quality, high-intensity workouts, your rate of adaptation is currently bottlenecked by the sheer density of your training. You have pushed hard, but your body is now screaming for a consolidation phase to absorb these adaptations safely.
+Over the current 21-day training block, you accumulated 14.76 hours of training and 997 TSS across 12 sessions (6 quality sessions). This is a highly productive, concentrated block of volume. Your adaptation rate is high, but the rapid accumulation of ATL indicates you have reached the peak of this loading microcycle and must absorb this stress before another high-intensity block.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Your 180-day trend shows a steady progression to a CTL of 39.0. While your aerobic base is expanding, your long-term progress is heavily dependent on cycling performance and commuting, with running volume remaining low. To achieve your running goal of a fast 5km and your cycling goal of a higher 5-minute VO2max, we must transition your long-term trend from generic volume accumulation to high-quality, targeted interval blocks. This transition is only possible if you manage your fatigue spikes and avoid burning out in the high-ATL zone.
+Your long-term sport trend is positive, with a steady CTL climb to 39.0. This progressive overload is building the structural durability needed to support your target 5km running pace and VO2max/FTP cycling goals. However, the CTL ramp rate over the last 14 days has been aggressive; a scheduled reduction in acute volume is necessary to stabilize these gains and prevent injury.

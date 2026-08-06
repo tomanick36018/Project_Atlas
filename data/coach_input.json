@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-05 16:01:25.301187",
+  "generated": "2026-08-06 12:26:44.907525",
   "profile_config": {
     "athlete": {
       "sports": [
@@ -2992,7 +2992,7 @@
     }
   },
   "performance_trends": {
-    "generated": "2026-08-05 16:01:25.258889",
+    "generated": "2026-08-06 12:26:44.867490",
     "cycling": {
       "rides_last_180_days": 26,
       "best_ftp": 246,
@@ -3005,11 +3005,11 @@
     "CTL": 37.97036,
     "ATL": 48.851147,
     "resting_hr": 48,
-    "weight": 73.0
+    "weight": 76.0
   },
   "garmin_data": {
     "sleep_score": "",
     "hrv_status": "",
-    "hrv_value": 58
+    "hrv_value": ""
   }
 }

@@ -1,44 +1,48 @@
-# 🧘‍♂️ Mijn AI Sportcoach - Post-Workout Herstel Rapport
+# 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Gegenereerd na de training op: 2026-08-05 16:01:59*
+*Laatst bijgewerkt: 2026-08-06 12:27:06*
 
-## 📊 Trainingsstatus & Garmin Statistieken
+## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL):** `38.0` | **Vermoeidheid (ATL):** `48.9` | **Vorm (TSB):** `-10.9`
-* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (58 ms)`
+* **Status:** **🟢 Optimaal Trainingsvenster**
+* **Slaapscore gisteravond:** `` | **HRV-status:** ` ( ms)`
 
 ---
 
-## 📋 Beoordeling van de Training (Coach Feedback)
-> **Mijn gevoel na de training:** *"Vandaag woonwerkverkeer naar het werk"*
+## 📋 Coach Verdict & Advies voor Vandaag
+> **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> Vandaag was een functionele aerobe dag, maar vergis je niet: bijna 2 uur fietsen op één dag tikt aan in de cumulatieve vermoeidheid. Omdat dit een non-kwaliteitssessie was (commute), is het essentieel dat je deze kilometers niet hebt afgewerkt in het 'grijze gebied' (Z3). Passief herstel is vanaf nu de absolute prioriteit om ervoor te zorgen dat je morgen fris aan de start staat voor een gerichte kwaliteitstraining.
+> You have been coasting on commute miles. To hit your 5km running and cycling power goals, we must stop training 'flat' and introduce a high-challenge adaptation stimulus. Today is the day to address the running deficit. Priority 1 is the highly recommended choice to wake up your aerobic engine and build specific 5km interval quality.
 
 ---
 
-## 🥗 Jouw Herstelprotocol voor Vandaag
-*Volg deze stappen nauwkeurig op om je herstel te maximaliseren en blessures te voorkomen:*
+## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
+*Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 📋 Stap 1: Beoordeling van de Training
-De dubbele commute was qua intensiteit perfect beheerst (lage belasting t.o.v. de duur). Je hebt hiermee je vetverbranding gestimuleerd en gewerkt aan je aerobe efficiency zonder je FTP-capaciteit uit te putten. Complimenten voor het disciplineerd laag houden van de intensiteit tijdens je woon-werkverkeer.
+### 🥇 Prioriteit 1: Running - 5km Specific VO2max Running Intervals
+* **Intensiteit:** `Zone 5 (95-100% Max HR, 184-194 bpm) / RPE 9/10`
+* **Workout details:** Warm-up: 15 minutes of progressive easy running, followed by 3x 30-second strides. Main Work: 5x 800m intervals at your target 5km pace (aiming for highly consistent pacing). Recovery: 2 minutes of very light jogging/walking between intervals. Cool-down: 10 minutes of easy jog and dynamic stretching.
+* **Waarom:** *Running has been severely neglected over the last 3 weeks with only 3 sessions. To run a fast 5km, you must build high-intensity efficiency. This session challenges your VO2max and pacing discipline directly.*
 
-### 🥛 Stap 2: Voeding & Hydratatie (Eten & Drinken)
-Je hebt vandaag naar schatting 850-1000 kcal extra verbrand. Consumeer direct een herstelshake met een koolhydraat-eiwitverhouding van 3:1 (ca. 75g snelle koolhydraten en 25g whey-eiwit) om spierherstel te initiëren en de glycogeenvoorraden direct aan te vullen. Voeg extra elektrolyten (natrium/kalium) toe aan je hydratatie om het zweetverlies van de dubbele rit te compenseren. Zorg vanavond voor een maaltijd met complexe koolhydraten (bijv. zilvervliesrijst of zoete aardappel) en een magere eiwitbron.
+### 🥈 Prioriteit 2: Cycling - Cycling 5-Minute VO2max Capacity Intervals
+* **Intensiteit:** `Zone 5 (115-120% FTP, 285-300W) / RPE 9/10`
+* **Workout details:** Warm-up: 15 minutes including 3x 30-second high-cadence fast legs. Main Work: 5x 4-minute VO2max intervals at 290W (target cadence 95-105 RPM to reduce muscular fatigue). Recovery: 4 minutes of very easy spinning (below 100W) between intervals. Cool-down: 10 minutes of easy spinning.
+* **Waarom:** *Directly targets one of your primary cycling goals: 5-minute peak power capacity. High-rpm VO2max work bypasses yesterday's heavy commute legs while maximizing aerobic adaptation.*
 
-### 🧘‍♂️ Stap 3: Spieren & Mobiliteit (Stretching & Mobiliteit)
-De fietshouding zorgt voor verkorting van de heupbuigers (psoas) en hoge tonus in de quadriceps en kuiten. Voer 3 sets van de 'Couch Stretch' uit (1.5 tot 2 minuten per zijde) om de heupen te openen. Rol daarnaast je quadriceps, IT-banden en kuitspieren grondig uit met een foam roller om de spierspanning te verlagen.
-
-### 🛌 Stap 4: Slaap & Vooruitblik naar Morgen
-Je HRV-status van 58 ms toont aan dat je zenuwstelsel in een gezonde, herstellende parasympathische modus verkeert. Richt je vanavond op een strikte slaaphygiëne (minimaal 8 uur slaap, koele kamer, geen schermen voor het slapen). Morgen staat het fysiologische licht op groen voor een intensieve kwaliteitssessie. Bereid je mentaal voor op een gerichte VO2max-intervaltraining (hardlopen op 5km-tempo of 5-minuten fietsprikkels) om je topprestaties direct aan te scherpen.
+### 🥉 Prioriteit 3: Strength - Heavy Torque & Aesthetic Power
+* **Intensiteit:** `Heavy Strength / RPE 8-9`
+* **Workout details:** Core & Warm-up: 3 sets of 10 Sandbag cleans. Lower Body Strength: Barbell Back Squats - 4x5 @ 90kg, Barbell Deadlifts - 3x5 @ 100kg. Upper Body Aesthetics: Barbell Bench Press - 4x8 @ 70kg, Overhead Press - 3x8 @ 45kg, Barbell Curls - 3x12. Core: Ab Wheel Rollouts or Weighted Planks - 3x Max.
+* **Waarom:** *If your legs are too flat for high-intensity running or cycling, use today to build the raw torque required for cycling power and structural stability for running, while satisfying your aesthetic goals.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Vandaag heb je een dubbele woon-werkrit voltooid van in totaal 58.8 km, goed voor 1.88 uur in het zadel en een totale trainingsbelasting (TSS) van 53. Dit vertaalt zich naar een Intensity Factor (IF) van circa 0.53. Dit is een uitstekende, lichte aerobe basisprikkel die bijdraagt aan je cardiovasculaire omvang zonder significante neurologische of musculaire schade aan te richten.
+Today you present a negative Training Stress Balance (TSB) of -10.88 (CTL 37.97, ATL 48.85). Yesterday's double commute (58.8 km, load 53) and Tuesday's run (9.3 km, load 54) have added cumulative muscle fatigue without high-intensity adaptation. Resting heart rate of 48 bpm indicates stable autonomic nervous system function. Your recovery is sufficient to handle a high-challenge stimulus, but we must target your specific goals rather than accumulating junk commute miles.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Binnen het huidige 21-daagse blok (16 juli - 5 augustus) heb je 13 sessies afgerond, goed voor 16.13 uur en 1017 TSS. Je Acute Training Load (ATL) staat nu op 48.9, terwijl je Chronic Training Load (CTL) zich op 38.0 bevindt. Dit resulteert in een Training Stress Balance (TSB) van -10.9. Je bevindt je fysiologisch gezien in de perfecte 'optimal training zone' (tussen -10 en -30), waar progressieve overload en adaptatie hand in hand gaan.
+Over the current 21-day training block, you have accumulated 1,017 TSS over 16.13 hours. While the consistency is decent, your distribution is heavily skewed: 7 cycling sessions versus only 3 running sessions. Your running volume is critically low if you want to optimize 5km performance. Your ATL is currently higher than CTL, indicating a progressive load ramp, but the lack of high-quality running intervals is a bottleneck for your running pace and VO2max efficiency.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Kijkend naar de afgelopen 180 dagen is er sprake van een gecontroleerde opbouw van je fitheidstrend (CTL 38). Sinds je actievere herstart in het voorjaar van 2026 stijgt je CTL stabiel. De ramp-rate is conservatief maar uiterst veilig gebleven. Om je FTP (250W) en je 5km-loopprestaties naar een hoger niveau te tillen, is er nu voldoende basis om de komende weken de nadruk te verschuiven naar hoogwaardige VO2max-kwaliteitssessies.
+Your 180-day trend reveals a modest and plateaued CTL of 38. This is primarily driven by frequent commuting rather than highly structured performance work. Your best cycling FTP recorded in this period is 246W, while your current profile FTP is set to 250W. To safely drive CTL toward a higher ceiling without burning out, we must inject structured running VO2max intervals and high-torque cycling sessions, backed by progressive overload in the weight room to build torque and running economy.

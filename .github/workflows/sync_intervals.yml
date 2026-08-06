@@ -107,8 +107,12 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
+          # Voeg alle gewijzigde data toe
           git add README.md data/activities.json data/power_streams.json data/garmin_data.json data/fitness_summary.json data/performance_trends.json data/daily_summary.json data/training_blocks.json data/coach_input.json data/coach_analysis.json
           git commit -m "Automatische update van Intervals & Garmin data en coach-analyse" || exit 0
           
-          git pull --rebase origin main
+          # GEBRUIK -X theirs: als er een conflict is, wint de nieuwe data van de runner altijd!
+          git pull --rebase -X theirs origin main
+          
+          # Push alles veilig naar GitHub
           git push

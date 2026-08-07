@@ -43,6 +43,7 @@ def main():
     performance_config = profile_config.get("performance", {})
 
     goal = athlete.get("goal", "Improve endurance performance with focus on 5km running and cycling power")
+    target_ctl = athlete.get("target_ctl", 60)  # Haal het CTL-doel op (standaard 60)
     max_hr = heart_rate.get("max_hr", 194)
     ftp = performance_config.get("cycling", {}).get("ftp_watts", 250)
     coach_style = coach_settings.get("style", "strict")
@@ -51,7 +52,7 @@ def main():
 
     # Schakel tussen Pre-Workout en Post-Workout modus in de prompt
     if is_post_workout:
-        mode_instruction = """
+        mode_instruction = f"""
         CRITICAL MODE: POST-WORKOUT RECOVERY COACH.
         The athlete has just finished a training session. Do NOT recommend future training sessions. Focus entirely on evaluation, recovery, nutrition, and preparation for a potential workout tomorrow.
         
@@ -64,7 +65,7 @@ def main():
            - "tomorrow_outlook": Sleep hygiene tips and a brief fysiologische vooruitblik on whether they can expect a hard, moderate, or easy training load tomorrow with the goal of being ready to train if possible.
         """
     else:
-        mode_instruction = """
+        mode_instruction = f"""
         CRITICAL MODE: PRE-WORKOUT PLANNING.
         Recommend exactly THREE ranked training choices for today, ordered by priority (from highest recommended to lowest).
         You have full autonomy to suggest ANY sport/training type (Running, Cycling, Strength, or Recovery/Rest) for each priority. For example, you may suggest 2 different running options and 1 strength option, or 1 cycling, 1 running, and 1 rest option, depending on what the data suggests.
@@ -83,8 +84,7 @@ def main():
         2. Set "coach_verdict" to a direct recommendation of which priority they should focus on and why.
         """
 
-    # We gebruiken een veilige template-string met placeholders om f-string fouten in Python 3.10 te voorkomen
-    prompt_template = """
+    prompt = f"""
     You are an expert, data-driven elite sports coach. Your athlete wants to optimize their rising fitness trend (CTL) safely and effectively.
 
     PYRAMIDAL TRAINING DISTRIBUTION (70/30 Rule):
@@ -98,7 +98,8 @@ def main():
     2. 3-WEEK HORIZON (Actuele status / 21 days): Treat this as the acute training status. Evaluate recent block volume, fatigue accumulation (ATL), and adaptation rate.
     3. 6-MONTH HORIZON (Sporttrend / 180 days): Treat this as the long-term sport trend. Evaluate macro progression, CTL ramp rate, and seasonal progress.
 
-    ATHLETE GOALS:
+    ATHLETE GOALS & MILESTONES:
+    - Target Fitness: Reach a CTL (Fitness) of {target_ctl} safely (recommended ramp rate of +1 to +2 CTL per week).
     - Running: 5km performance (pace, VO2max, interval quality).
     - Cycling: 5-minute power (VO2max capacity) and 20-minute power (FTP/threshold endurance).
 
@@ -108,15 +109,15 @@ def main():
     - Note: Strength training is NOT the main priority, but can be integrated as a full training option (Main workout) or extra work (Supplementary/recovery) when appropriate.
 
     TODAY'S SUBJECTIVE INPUTS:
-    - Preferred Sport (if pre-workout): __SPORT_PREFERENCE__
-    - Athlete Notes: "__ATHLETE_NOTES__"
-    - Garmin Sleep Score (last night): "__SLEEP_SCORE__"
-    - Garmin HRV Status: "__HRV_STATUS__ (__HRV_VALUE__ ms)"
+    - Preferred Sport (if pre-workout): {sport_preference}
+    - Athlete Notes: "{athlete_notes if athlete_notes else 'No notes provided today.'}"
+    - Garmin Sleep Score (last night): "{sleep_score}"
+    - Garmin HRV Status: "{hrv_status} ({hrv_value} ms)"
 
     ATHLETE TRAINING DATA:
-    __ATHLETE_DATA__
+    {json.dumps(coach_input, indent=2)}
 
-    __MODE_INSTRUCTION__
+    {mode_instruction}
 
     COACH INSTRUCTIONS FOR OUTPUT:
     - If is_post_workout is False:
@@ -135,36 +136,19 @@ def main():
       "post_workout_recovery" (object containing: "workout_evaluation", "hydration_nutrition", "stretching_mobility", "tomorrow_outlook")
 
     Specifics:
-    - Coach Style: __COACH_STYLE__, challenge level: __CHALLENGE_LEVEL__.
-    - Heart Rate Max: __MAX_HR__ bpm.
-    - FTP: __FTP__ W.
-    - Athlete Goal: __ATHLETE_GOAL__
+    - Coach Style: {coach_style}, challenge level: {challenge_level}.
+    - Heart Rate Max: {max_hr} bpm.
+    - FTP: {ftp} W.
     """
-
-    # Vervang de placeholders veilig door de variabelen
-    prompt = (prompt_template
-              .replace("__SPORT_PREFERENCE__", sport_preference)
-              .replace("__ATHLETE_NOTES__", athlete_notes if athlete_notes else "No notes provided today.")
-              .replace("__SLEEP_SCORE__", sleep_score)
-              .replace("__HRV_STATUS__", hrv_status)
-              .replace("__HRV_VALUE__", hrv_value)
-              .replace("__ATHLETE_DATA__", json.dumps(coach_input, indent=2))
-              .replace("__MODE_INSTRUCTION__", mode_instruction)
-              .replace("__COACH_STYLE__", coach_style)
-              .replace("__CHALLENGE_LEVEL__", challenge_level)
-              .replace("__MAX_HR__", str(max_hr))
-              .replace("__FTP__", str(ftp))
-              .replace("__ATHLETE_GOAL__", goal))
 
     print("Gegevens worden naar Gemini gestuurd voor gerichte analyse...")
     
     response = None
-    # We proberen de drie meest geschikte modellen na elkaar bij drukte
     models_to_try = ["gemini-3.5-flash", "gemini-3.5-flash-lite", "gemini-2.5-flash"]
 
     for model_name in models_to_try:
         print(f"Poging met model: {model_name}...")
-        for attempt in range(3):  # Maximaal 3 pogingen per model met korte pauze
+        for attempt in range(3):
             try:
                 response = client.models.generate_content(
                     model=model_name,
@@ -173,28 +157,30 @@ def main():
                         response_mime_type="application/json",
                     ),
                 )
-                break  # Gelukt! Breek uit de pogingen-loop
+                break
             except Exception as e:
                 print(f"Waarschuwing: Fout bij poging {attempt+1} met {model_name}: {e}")
                 if attempt < 2:
-                    time.sleep(5)  # Wacht 5 seconden voor de volgende poging
+                    time.sleep(5)
                 else:
                     print(f"Model {model_name} is niet gelukt na 3 pogingen.")
         
         if response:
             print(f"✅ Analyse succesvol gegenereerd met model: {model_name}")
-            break  # Stop de modellen-loop zodra we een succesvol antwoord hebben
+            break
 
     if not response:
-        print("❌ Fout: Kon geen verbinding maken met de Gemini API vanwege aanhoudende serverdrukte bij Google.")
+        print("❌ Fout: Kon geen verbinding maken met de Gemini API vanwege serverdrukte bij Google.")
         sys.exit(1)
 
-    # Parse de resulterende JSON-tekst
     ai_result = json.loads(response.text)
 
     fitness_state = coach_input.get("fitness_state", {})
     ctl = fitness_state.get("CTL", 0)
     atl = fitness_state.get("ATL", 0)
+
+    # Bereken vooruitgang percentage
+    ctl_progress = round((ctl / target_ctl) * 100, 1) if target_ctl > 0 else 0
 
     analysis = {
         "generated": str(datetime.now()),
@@ -218,11 +204,10 @@ def main():
         "post_workout_recovery": ai_result.get("post_workout_recovery", {})
     }
 
-    # 1. Sla JSON op
     with open("data/coach_analysis.json", "w") as f:
         json.dump(analysis, f, indent=2)
 
-    # 2. Genereer README.md
+    # Genereer README.md
     tsb = round(ctl - atl, 1)
     if tsb < -30:
          tsb_status = "⚠️ Hoog Risico (TSB onder -30)"
@@ -231,6 +216,114 @@ def main():
     else:
          tsb_status = "🔵 Fris / Herstel"
 
-    # Dynamische README genereren op basis van Pre- of Post-Workout
+    options = ai_result.get("today_options", {})
+    p1 = options.get("priority_1", {})
+    p2 = options.get("priority_2", {})
+    p3 = options.get("priority_3", {})
+
     if is_post_workout:
         recovery = ai_result.get("post_workout_recovery", {})
+        readme_content = f"""# 🧘‍♂️ Mijn AI Sportcoach - Post-Workout Herstel Rapport
+
+*Gegenereerd na de training op: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}*
+
+## 📊 Trainingsstatus & Garmin Statistieken
+* **Fitheid (CTL):** `{round(ctl, 1)}` / `{target_ctl}` (`{ctl_progress}%` behaald) | **Vermoeidheid (ATL):** `{round(atl, 1)}` | **Vorm (TSB):** `{tsb}`
+* **Slaapscore gisteravond:** `{sleep_score}` | **Garmin HRV-status:** `{hrv_status} ({hrv_value} ms)`
+
+---
+
+## 📋 Beoordeling van de Training (Coach Feedback)
+> **Mijn gevoel na de training:** *"{athlete_notes if athlete_notes else 'Geen specifieke opmerkingen.'}"*
+> 
+> {ai_result.get('coach_verdict', '')}
+
+---
+
+## 🥗 Jouw Herstelprotocol voor Vandaag
+*Volg deze stappen nauwkeurig op om je herstel te maximaliseren en blessures te voorkomen:*
+
+### 📋 Stap 1: Beoordeling van de Training
+{recovery.get('workout_evaluation', 'Geen beoordeling beschikbaar.')}
+
+### 🥛 Stap 2: Voeding & Hydratatie (Eten & Drinken)
+{recovery.get('hydration_nutrition', 'Geen voedingsadvies beschikbaar.')}
+
+### 🧘‍♂️ Stap 3: Spieren & Mobiliteit (Stretching & Mobiliteit)
+{recovery.get('stretching_mobility', 'Geen rekoefeningen beschikbaar.')}
+
+### 🛌 Stap 4: Slaap & Vooruitblik naar Morgen
+{recovery.get('tomorrow_outlook', 'Geen vooruitblik beschikbaar.')}
+
+---
+
+## 🔍 Diepgaande Trainingsanalyses
+
+### 📅 Dagelijkse Belasting (1-Dag)
+{ai_result.get('daily_load_assessment', '')}
+
+### 📈 Actuele Trainingsstatus (3-Weken)
+{ai_result.get('acute_status_assessment_3_weeks', '')}
+
+### 📊 Algemene Sporttrend (6-Maanden)
+{ai_result.get('sport_trend_assessment_6_months', '')}
+"""
+    else:
+        readme_content = f"""# 🏃‍♂️ Mijn AI Sportcoach Dashboard
+
+*Laatst bijgewerkt: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}*
+
+## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
+* **Fitheid (CTL - Doel {target_ctl}):** `{round(ctl, 1)}` / `{target_ctl}` (`{ctl_progress}%` behaald)
+* **Vermoeidheid (ATL):** `{round(atl, 1)}` | **Vorm (TSB):** `{tsb}`
+* **Status:** **{tsb_status}**
+* **Slaapscore gisteravond:** `{sleep_score}` | **Garmin HRV-status:** `{hrv_status} ({hrv_value} ms)`
+
+---
+
+## 📋 Coach Verdict & Advies voor Vandaag
+> **Mijn gevoel vanochtend:** *"{athlete_notes if athlete_notes else 'Geen opmerkingen ingevoerd.'}"*
+> 
+> {ai_result.get('coach_verdict', '')}
+
+---
+
+## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
+*Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
+
+### 🥇 Prioriteit 1: {p1.get('sport_type', 'Training')} - {p1.get('session_title', 'Geen training beschikbaar')}
+* **Intensiteit:** `{p1.get('intensity', '-')}`
+* **Workout details:** {p1.get('workout_details', '-')}
+* **Waarom:** *{p1.get('reason', '-')}*
+
+### 🥈 Prioriteit 2: {p2.get('sport_type', 'Training')} - {p2.get('session_title', 'Geen training beschikbaar')}
+* **Intensiteit:** `{p2.get('intensity', '-')}`
+* **Workout details:** {p2.get('workout_details', '-')}
+* **Waarom:** *{p2.get('reason', '-')}*
+
+### 🥉 Prioriteit 3: {p3.get('sport_type', 'Training')} - {p3.get('session_title', 'Geen training beschikbaar')}
+* **Intensiteit:** `{p3.get('intensity', '-')}`
+* **Workout details:** {p3.get('workout_details', '-')}
+* **Waarom:** *{p3.get('reason', '-')}*
+
+---
+
+## 🔍 Diepgaande Trainingsanalyses
+
+### 📅 Dagelijkse Belasting (1-Dag)
+{ai_result.get('daily_load_assessment', '')}
+
+### 📈 Actuele Trainingsstatus (3-Weken)
+{ai_result.get('acute_status_assessment_3_weeks', '')}
+
+### 📊 Algemene Sporttrend (6-Maanden)
+{ai_result.get('sport_trend_assessment_6_months', '')}
+"""
+
+    with open("README.md", "w") as f:
+        f.write(readme_content)
+
+    print("Gemini coach-analyse met 1D/3W/6M-structuur en README succesvol aangemaakt.")
+
+if __name__ == "__main__":
+    main()

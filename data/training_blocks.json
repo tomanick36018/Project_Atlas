@@ -3,12 +3,12 @@
     "period_days": 21,
     "start": "2026-07-18",
     "end": "2026-08-07",
-    "sessions": 14,
-    "hours": 16.95,
-    "training_load": 1046,
+    "sessions": 15,
+    "hours": 18.08,
+    "training_load": 1099,
     "running_sessions": 3,
     "cycling_sessions": 7,
-    "ebike_sessions": 3,
+    "ebike_sessions": 4,
     "quality_sessions": 5
   }
 }

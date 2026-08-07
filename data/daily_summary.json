@@ -2924,5 +2924,24 @@
       "distance_km": 58.8
     },
     "quality": false
+  },
+  "2026-08-07": {
+    "sessions": 1,
+    "training_load": 29,
+    "hours": 0.82,
+    "distance_km": 29.1,
+    "running": {
+      "sessions": 0,
+      "distance_km": 0
+    },
+    "cycling_performance": {
+      "sessions": 0,
+      "distance_km": 0
+    },
+    "cycling_commute": {
+      "sessions": 1,
+      "distance_km": 29.1
+    },
+    "quality": false
   }
 }

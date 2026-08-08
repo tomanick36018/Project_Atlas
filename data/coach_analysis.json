@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-08 04:10:28.232739",
+  "generated": "2026-08-08 07:37:58.917227",
   "athlete_inputs": {
-    "sport_preference": "Fietsen",
-    "athlete_notes": "Ik zou 2 keer 30  woonwerkverkeer met de koersfiets doen aan 180 watt zonder  spikes",
+    "sport_preference": "",
+    "athlete_notes": "",
     "sleep_score": "",
     "hrv_status": "",
     "is_post_workout": false
@@ -12,31 +12,31 @@
     "ATL": 47.6,
     "Form_TSB": -9.5
   },
-  "daily_load_assessment": "Yesterday's double-commute generated an aerobic load of 82, leaving your current TSB at -9.5. While you are in a functional training state, we must manage the daily stress safely given the lack of current sleep and HRV data. Your proposed 2x 30-minute commute at a steady 180W (72% of FTP, clean Zone 2) is highly appropriate. It builds volume without adding high-intensity cardiac drift or muscular damage, respecting yesterday's load.",
-  "acute_status_assessment_3_weeks": "Over the last 21 days, you have accumulated 18 hours of training with a load of 1099. Your aerobic baseline is incredibly solid, dominated by cycling and commuting. However, running progression is lagging with only 3 running sessions in this block. To safely ramp your CTL toward the target of 60 (currently at 38.1), we need to inject structured, sport-specific running stress and high-intensity cycling intervals without exceeding a TSB of -30.",
-  "sport_trend_assessment_6_months": "Your macro trend shows a stable baseline but a relatively low CTL of 38.1 compared to your target of 60. To reach your goals of a faster 5km and improved 5-min/20-min cycling power, we must transition from pure volume accumulation to a structured 70/30 pyramidal distribution. Your e-bike and steady commutes provide the perfect low-intensity foundation, allowing us to make your quality sessions exceptionally sharp and challenging.",
-  "coach_verdict": "I approve your proposed 2x 30-minute steady commute at 180W as the primary option for today. It perfectly fits the 70% low-intensity requirement of our pyramidal model, keeping your CTL moving upward while managing your -9.5 TSB. However, if you are feeling exceptionally fresh, we must address your 5km running goal with structured interval work (Priority 2). Otherwise, use today to build structural durability in the gym (Priority 3).",
+  "daily_load_assessment": "Today's assessment shows a moderate training stress balance (TSB of -9.50) with a current CTL of 38.1 and ATL of 47.6. Although you accumulated a load of 82 yesterday through utility commuting, your stable HRV status (47 ms) and resting heart rate of 49 bpm indicate that your systemic recovery is adequate. There is no acute structural fatigue preventing a high-intensity stimulus, provided you target high quality and strict execution.",
+  "acute_status_assessment_3_weeks": "Over the last 21 days, you have logged 15 sessions spanning 18.08 hours and 1,099 TSS. Your acute progression is highly consistent, largely supported by your e-bike commuting which forms a robust aerobic baseline. However, you have only completed 5 quality sessions in this block. To drive your CTL safely toward the target of 60, we must selectively inject high-intensity work now to expand your VO2max capacity and break training monotony.",
+  "sport_trend_assessment_6_months": "Over the 6-month horizon, your aerobic engine is exceptionally wide but lacks peak ceiling height. Your best FTP is sitting at 246W (very close to your 250W setting), which indicates a highly developed threshold relative to your VO2max. To raise your FTP further and improve your 5km running pace, we must elevate your cardiac stroke volume through high-intensity intervals. Your massive low-intensity volume from commuting perfectly justifies this pyramidal push.",
+  "coach_verdict": "I recommend choosing Priority 1 (VO2max Cycling Intervals) today. Your stable HRV and a moderate TSB of -9.50 indicate you are fully adapted to your commuting load and primed for a high-intensity session. It has been a full week since your last high-intensity quality block. We need to raise your 5-minute peak power to force the physiological adaptations required to drive your CTL towards 60. Execute this with absolute precision; do not sandbag the target wattages.",
   "today_options": {
     "priority_1": {
-      "session_title": "Steady aerobic endurance double commute",
+      "session_title": "VO2max Peak Power Development",
       "sport_type": "Cycling",
-      "intensity": "Zone 2 (180 Watts)",
-      "workout_details": "Morning: 30 minutes steady riding at exactly 180W. Keep cadence stable between 85-95 RPM. Absolutely no surges, hills climbs, or sprints. Afternoon: Repeat the exact same protocol for 30 minutes. Focus on aerodynamic positioning and smooth power delivery.",
-      "reason": "This directly aligns with your request and serves as a highly effective aerobic engine builder. At 180W (72% FTP), this will stimulate mitochondrial biogenesis without accumulating significant autonomic nervous system fatigue, allowing you to build CTL safely."
+      "intensity": "Zone 5 (110-120% FTP / 275-300W)",
+      "workout_details": "15 min Warm-up in Zone 2, including 3x 30-second high-cadence spin-ups (>110 RPM) to prime the neuromuscular system.\nMain Set: 5 x 4 minutes @ 280W (Zone 5) with 4 minutes of active recovery (120W) between intervals.\nTarget Cadence: 95-105 RPM.\n10 min Cool-down in Zone 1.",
+      "reason": "This session directly targets your 5-minute peak power goal. Since your threshold is highly developed, raising your aerobic ceiling (VO2max) is the bottleneck to raising your overall FTP and CTL."
     },
     "priority_2": {
-      "session_title": "5km specific VO2max intervals",
+      "session_title": "5km Specific Pace Interval Session",
       "sport_type": "Running",
-      "intensity": "Zone 5 (RPE 9/10)",
-      "workout_details": "Warm-up: 10 mins easy jog, followed by 3x 50m strides. Main Set: 5x 800m at target 5km pace (roughly 90-95% Max HR), with 2 mins standing/walking recovery between reps. Cool-down: 10 mins easy jog and mobility.",
-      "reason": "You have only run 3 times in the last 21 days. To improve your 5km performance, we must introduce high-intensity running stress. This session challenges your stroke volume and VO2max capacity, pushing the 30% quality side of your pyramidal training distribution."
+      "intensity": "Zone 4/5 (RPE 9/10)",
+      "workout_details": "2 km Easy Warm-up jog, followed by 3x 50m running strides.\nMain Set: 4 x 1,000m at your target 5km race pace (approx. 4:00-4:10/km or target heart rate 175-182 bpm) with 2:30 minutes of walking recovery between reps.\n1.5 km Easy Cool-down jog.",
+      "reason": "This running quality session addresses your 5km pace and heart rate efficiency goals. It is placed second as the orthopedic stress is higher than cycling, but it remains a highly effective stimulus to push your CTL upward."
     },
     "priority_3": {
-      "session_title": "Cycling torque & running durability strength session",
+      "session_title": "Posterior Chain Torque & Core Stability",
       "sport_type": "Strength",
       "intensity": "Heavy Strength (RPE 8/10)",
-      "workout_details": "Warm-up: 10 mins dynamic mobility & core activation. Main Lift 1: Barbell Back Squats - 4 sets of 5 reps @ 80% 1RM (focus on explosive concentric drive). Main Lift 2: Romanian Deadlifts - 3 sets of 8 reps (focus on hamstring/glute drive). Supplementary: 3 sets of 10 Heavy Sandbag or Kettlebell Carries (core stability) + 3 sets of Chin-ups and Overhead Press to failure.",
-      "reason": "If your legs feel heavy from recent cycling volume, a heavy neural-focused strength session will build the structural durability needed to handle high cycling torque and running impact forces without adding cardiovascular strain."
+      "workout_details": "Warm-up: Dynamic mobility, 2 rounds of 10 Kettlebell Swings and 5 Goblet Squats.\n1. Barbell Back Squats: 3 sets x 5 reps @ 80% 1RM (approx. 80-90kg).\n2. Barbell Deadlifts: 3 sets x 5 reps.\n3. Heavy Sandbag Carry (70kg): 3 x 40 meters (maximum brace).\n4. Hanging Leg Raises: 3 sets x 12 reps.",
+      "reason": "If you are experiencing any unmeasured neuromuscular fatigue from yesterday's double commute, this heavy strength session will build the necessary torque for cycling and core rigidity for running without placing high cardiorespiratory stress on your system."
     }
   },
   "post_workout_recovery": {}

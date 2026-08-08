@@ -1,44 +1,49 @@
-# 🧘‍♂️ Mijn AI Sportcoach - Post-Workout Herstel Rapport
+# 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Gegenereerd na de training op: 2026-08-07 15:53:04*
+*Laatst bijgewerkt: 2026-08-08 04:10:28*
 
-## 📊 Trainingsstatus & Garmin Statistieken
-* **Fitheid (CTL):** `38.1` / `60` (`63.6%` behaald) | **Vermoeidheid (ATL):** `47.6` | **Vorm (TSB):** `-9.5`
-* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (58 ms)`
+## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
+* **Fitheid (CTL - Doel 60):** `38.1` / `60` (`63.6%` behaald)
+* **Vermoeidheid (ATL):** `47.6` | **Vorm (TSB):** `-9.5`
+* **Status:** **🟢 Optimaal Trainingsvenster**
+* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` ( ms)`
 
 ---
 
-## 📋 Beoordeling van de Training (Coach Feedback)
-> **Mijn gevoel na de training:** *"Ging vandaag na de 2 woonwerkverkeerritten nog gaan lopen maar de batterij van mijn fiets was niet opgeladen in het weerkeren waardoor ik harder moest trappen. Lage cadans en veel torque waardoor knie wat pijn doet. Voel me wel fysiek oke en wil over 17 dagen meedoen met de belcanto classic: een criterium van 7 rondes van 8 km met de sumferberg als klim en een gemiddelde in het peleton van 40km/u"*
+## 📋 Coach Verdict & Advies voor Vandaag
+> **Mijn gevoel vanochtend:** *"Ik zou 2 keer 30  woonwerkverkeer met de koersfiets doen aan 180 watt zonder  spikes"*
 > 
-> The dead bike battery turned a recovery commute into a dangerous low-cadence grind. With the Belcanto Classic in 17 days, we cannot afford knee joint inflammation. The race requires high cadence, high anaerobic capacity, and rapid torque development—elements you cannot train if your knee is compromised. Running is strictly suspended. Cycling is restricted to high-cadence, low-resistance active recovery until the knee is entirely pain-free. No exceptions.
+> I approve your proposed 2x 30-minute steady commute at 180W as the primary option for today. It perfectly fits the 70% low-intensity requirement of our pyramidal model, keeping your CTL moving upward while managing your -9.5 TSB. However, if you are feeling exceptionally fresh, we must address your 5km running goal with structured interval work (Priority 2). Otherwise, use today to build structural durability in the gym (Priority 3).
 
 ---
 
-## 🥗 Jouw Herstelprotocol voor Vandaag
-*Volg deze stappen nauwkeurig op om je herstel te maximaliseren en blessures te voorkomen:*
+## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
+*Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 📋 Stap 1: Beoordeling van de Training
-You completed 58.3 km with a load of 82 TSS. The session was highly compromised: the forced high-torque pedaling at low RPMs overloaded your patellar tendon rather than stimulating target aerobic systems. This was a structural strain session, not a metabolic quality session.
+### 🥇 Prioriteit 1: Cycling - Steady aerobic endurance double commute
+* **Intensiteit:** `Zone 2 (180 Watts)`
+* **Workout details:** Morning: 30 minutes steady riding at exactly 180W. Keep cadence stable between 85-95 RPM. Absolutely no surges, hills climbs, or sprints. Afternoon: Repeat the exact same protocol for 30 minutes. Focus on aerodynamic positioning and smooth power delivery.
+* **Waarom:** *This directly aligns with your request and serves as a highly effective aerobic engine builder. At 180W (72% FTP), this will stimulate mitochondrial biogenesis without accumulating significant autonomic nervous system fatigue, allowing you to build CTL safely.*
 
-### 🥛 Stap 2: Voeding & Hydratatie (Eten & Drinken)
-Immediately consume 1.2g/kg of carbohydrates (approx. 90g) and 35g of high-quality protein to accelerate muscle glycogen replenishment and repair structural damage. Combine this with 750ml of electrolyte-enriched water (high sodium and magnesium) to offset the heavy fluid loss. Supplement with 3g of Omega-3 fatty acids and curcumin to assist in down-regulating localized knee joint inflammation.
+### 🥈 Prioriteit 2: Running - 5km specific VO2max intervals
+* **Intensiteit:** `Zone 5 (RPE 9/10)`
+* **Workout details:** Warm-up: 10 mins easy jog, followed by 3x 50m strides. Main Set: 5x 800m at target 5km pace (roughly 90-95% Max HR), with 2 mins standing/walking recovery between reps. Cool-down: 10 mins easy jog and mobility.
+* **Waarom:** *You have only run 3 times in the last 21 days. To improve your 5km performance, we must introduce high-intensity running stress. This session challenges your stroke volume and VO2max capacity, pushing the 30% quality side of your pyramidal training distribution.*
 
-### 🧘‍♂️ Stap 3: Spieren & Mobiliteit (Stretching & Mobiliteit)
-Do not stretch the quadriceps directly if the patellar tendon is acute. Instead, perform 3 rounds of 45-second pain-free quadriceps isometrics (e.g., wall sits at a shallow angle) to trigger analgesic effects in the tendon. Use a foam roller on your IT-band, glutes, and calves to relieve secondary tension around the knee joint.
-
-### 🛌 Stap 4: Slaap & Vooruitblik naar Morgen
-Prioritize 8+ hours of deep sleep tonight: keep your room at 18 degrees Celsius and eliminate all blue light exposure 90 minutes before bed to maximize growth hormone secretion. Tomorrow will be a strict zero-load day. If your knee pain resolves completely by tomorrow afternoon, a 30-minute high-cadence (95+ RPM) spin on the trainer in Zone 1 may be permitted to flush the system.
+### 🥉 Prioriteit 3: Strength - Cycling torque & running durability strength session
+* **Intensiteit:** `Heavy Strength (RPE 8/10)`
+* **Workout details:** Warm-up: 10 mins dynamic mobility & core activation. Main Lift 1: Barbell Back Squats - 4 sets of 5 reps @ 80% 1RM (focus on explosive concentric drive). Main Lift 2: Romanian Deadlifts - 3 sets of 8 reps (focus on hamstring/glute drive). Supplementary: 3 sets of 10 Heavy Sandbag or Kettlebell Carries (core stability) + 3 sets of Chin-ups and Overhead Press to failure.
+* **Waarom:** *If your legs feel heavy from recent cycling volume, a heavy neural-focused strength session will build the structural durability needed to handle high cycling torque and running impact forces without adding cardiovascular strain.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Today's daily load of 82 TSS across 1.95 hours represents a substantial mechanical stress, far exceeding standard aerobic commuting. Due to a depleted e-bike battery, you were forced into an unplanned high-torque, low-cadence grind. This has generated significant patellofemoral shear force, leading to knee pain. Physiologically, your systemic recovery is supported by a balanced HRV of 58 ms, but the localized joint strain is the critical limiting factor today.
+Yesterday's double-commute generated an aerobic load of 82, leaving your current TSB at -9.5. While you are in a functional training state, we must manage the daily stress safely given the lack of current sleep and HRV data. Your proposed 2x 30-minute commute at a steady 180W (72% of FTP, clean Zone 2) is highly appropriate. It builds volume without adding high-intensity cardiac drift or muscular damage, respecting yesterday's load.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the last 21 days, you have accumulated 1,099 training stress points, yielding an ATL of 47.6 and a CTL of 38.1. This places your current Form (TSB) at -9.5. While a TSB of -9.5 is safe for progressive loading, your training has been highly skewed towards low-intensity commuting. With your target race (Belcanto Classic) only 17 days away, you lack the acute anaerobic capacity and high-cadence neuromuscular adaptations required to sustain a peloton average of 40 km/h and survive the short, steep climbs.
+Over the last 21 days, you have accumulated 18 hours of training with a load of 1099. Your aerobic baseline is incredibly solid, dominated by cycling and commuting. However, running progression is lagging with only 3 running sessions in this block. To safely ramp your CTL toward the target of 60 (currently at 38.1), we need to inject structured, sport-specific running stress and high-intensity cycling intervals without exceeding a TSB of -30.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Your 6-month macro trend shows a CTL of 38.1, which is significantly below your ultimate target of 60. Progress has been limited by inconsistent training structures and a heavy reliance on e-bike commuting rather than progressive, sport-specific workouts. To safely ramp your CTL to 60 at a rate of +1.5 CTL per week, we require a minimum of 14 weeks of structured, injury-free training. Pushing for rapid fitness gains now with an active joint injury will cause long-term setbacks.
+Your macro trend shows a stable baseline but a relatively low CTL of 38.1 compared to your target of 60. To reach your goals of a faster 5km and improved 5-min/20-min cycling power, we must transition from pure volume accumulation to a structured 70/30 pyramidal distribution. Your e-bike and steady commutes provide the perfect low-intensity foundation, allowing us to make your quality sessions exceptionally sharp and challenging.

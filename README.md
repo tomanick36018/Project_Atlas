@@ -1,58 +1,44 @@
-# 🏃‍♂️ Mijn AI Sportcoach Dashboard
+# 🧘‍♂️ Mijn AI Sportcoach - Post-Workout Herstel Rapport
 
-*Laatst bijgewerkt: 2026-08-08 07:37:58*
+*Gegenereerd na de training op: 2026-08-08 15:58:37*
 
-## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
-* **Fitheid (CTL - Doel 60):** `38.1` / `60` (`63.6%` behaald)
-* **Vermoeidheid (ATL):** `47.6` | **Vorm (TSB):** `-9.5`
-* **Status:** **🟢 Optimaal Trainingsvenster**
+## 📊 Trainingsstatus & Garmin Statistieken
+* **Fitheid (CTL):** `39.0` / `60` (`65.0%` behaald) | **Vermoeidheid (ATL):** `51.4` | **Vorm (TSB):** `-12.4`
 * **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (47 ms)`
 
 ---
 
-## 📋 Coach Verdict & Advies voor Vandaag
-> **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
+## 📋 Beoordeling van de Training (Coach Feedback)
+> **Mijn gevoel na de training:** *"6 keer 2:30 intervallen. Doel boven de 300 watt. Al voorbereiding op de belcanto classic met de sulferberg. De uitvoering was 4 keer 300 watt gemiddeld. Voorlaatste 312 en laatste 345 "*
 > 
-> I recommend choosing Priority 1 (VO2max Cycling Intervals) today. Your stable HRV and a moderate TSB of -9.50 indicate you are fully adapted to your commuting load and primed for a high-intensity session. It has been a full week since your last high-intensity quality block. We need to raise your 5-minute peak power to force the physiological adaptations required to drive your CTL towards 60. Execute this with absolute precision; do not sandbag the target wattages.
+> Outstanding execution on today's interval session. Averaging 300W on the first four, stepping up to 312W on the fifth, and emptying the tank at 345W (138% FTP) on the final repeat proves excellent pacing, strong mental discipline, and highly functional anaerobic capacity. This is exactly the kind of stimulation needed for the Sulferberg climb at the Belcanto Classic. You hit the bullseye, now you must recover like a pro.
 
 ---
 
-## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
-*Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
+## 🥗 Jouw Herstelprotocol voor Vandaag
+*Volg deze stappen nauwkeurig op om je herstel te maximaliseren en blessures te voorkomen:*
 
-### 🥇 Prioriteit 1: Cycling - VO2max Peak Power Development
-* **Intensiteit:** `Zone 5 (110-120% FTP / 275-300W)`
-* **Workout details:** 15 min Warm-up in Zone 2, including 3x 30-second high-cadence spin-ups (>110 RPM) to prime the neuromuscular system.
-Main Set: 5 x 4 minutes @ 280W (Zone 5) with 4 minutes of active recovery (120W) between intervals.
-Target Cadence: 95-105 RPM.
-10 min Cool-down in Zone 1.
-* **Waarom:** *This session directly targets your 5-minute peak power goal. Since your threshold is highly developed, raising your aerobic ceiling (VO2max) is the bottleneck to raising your overall FTP and CTL.*
+### 📋 Stap 1: Beoordeling van de Training
+You completed 6 repetitions of 2:30 minutes. Your target was >300W. You achieved 4x 300W, 1x 312W, and 1x 345W. Hitting these numbers on a 250W FTP means you operated at 120% to 138% of FTP, targetting VO2max and anaerobic capacity. Progression of power throughout the set indicates zero premature fatigue and superb glycogen storage. Excellent performance.
 
-### 🥈 Prioriteit 2: Running - 5km Specific Pace Interval Session
-* **Intensiteit:** `Zone 4/5 (RPE 9/10)`
-* **Workout details:** 2 km Easy Warm-up jog, followed by 3x 50m running strides.
-Main Set: 4 x 1,000m at your target 5km race pace (approx. 4:00-4:10/km or target heart rate 175-182 bpm) with 2:30 minutes of walking recovery between reps.
-1.5 km Easy Cool-down jog.
-* **Waarom:** *This running quality session addresses your 5km pace and heart rate efficiency goals. It is placed second as the orthopedic stress is higher than cycling, but it remains a highly effective stimulus to push your CTL upward.*
+### 🥛 Stap 2: Voeding & Hydratatie (Eten & Drinken)
+With an intense glycolytic session like this, glycogen depletion is high. Consume 85-90g of fast-acting carbohydrates (1.2g/kg) combined with 30-35g of high-quality whey or plant protein within the next 45 minutes. Restore fluid balance by drinking 1.5 times the weight lost during the ride, including a high-sodium electrolyte tablet to optimize cellular rehydration.
 
-### 🥉 Prioriteit 3: Strength - Posterior Chain Torque & Core Stability
-* **Intensiteit:** `Heavy Strength (RPE 8/10)`
-* **Workout details:** Warm-up: Dynamic mobility, 2 rounds of 10 Kettlebell Swings and 5 Goblet Squats.
-1. Barbell Back Squats: 3 sets x 5 reps @ 80% 1RM (approx. 80-90kg).
-2. Barbell Deadlifts: 3 sets x 5 reps.
-3. Heavy Sandbag Carry (70kg): 3 x 40 meters (maximum brace).
-4. Hanging Leg Raises: 3 sets x 12 reps.
-* **Waarom:** *If you are experiencing any unmeasured neuromuscular fatigue from yesterday's double commute, this heavy strength session will build the necessary torque for cycling and core rigidity for running without placing high cardiorespiratory stress on your system.*
+### 🧘‍♂️ Stap 3: Spieren & Mobiliteit (Stretching & Mobiliteit)
+Focus on passive, low-tension stretching. Prioritize the quadriceps, hip flexors (psoas), and glutes to relieve the high torque tension from the hill-prep intervals. Spend 10 minutes foam rolling your calves and thoracic spine. Avoid deep, aggressive stretching tonight, as the muscle fibers have sustained high micro-damage.
+
+### 🛌 Stap 4: Slaap & Vooruitblik naar Morgen
+Given the high anaerobic and neural demand of today's work and an HRV of 47 ms, tomorrow must be an easy active recovery or complete rest day. Focus heavily on sleep hygiene tonight: cold room, zero screens 1 hour before bed, and magnesium bisglycinate to support autonomic nervous system recovery. Tomorrow's training must be restricted to low-intensity Zone 1/2 or rest to allow your CTL trend to continue upward safely.
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Today's assessment shows a moderate training stress balance (TSB of -9.50) with a current CTL of 38.1 and ATL of 47.6. Although you accumulated a load of 82 yesterday through utility commuting, your stable HRV status (47 ms) and resting heart rate of 49 bpm indicate that your systemic recovery is adequate. There is no acute structural fatigue preventing a high-intensity stimulus, provided you target high quality and strict execution.
+Today's training load of 76 (0.91 hours) represents a high-intensity, high-glycolytic stress session. Hitting 6 repetitions of 2:30 minute intervals at and above 300W (120% to 138% of your 250W FTP) places a heavy neural and anaerobic tax on your cardiovascular system. This is a classic VO2max stimulation workout that drives acute neuromuscular fatigue, requiring immediate recovery protocols.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the last 21 days, you have logged 15 sessions spanning 18.08 hours and 1,099 TSS. Your acute progression is highly consistent, largely supported by your e-bike commuting which forms a robust aerobic baseline. However, you have only completed 5 quality sessions in this block. To drive your CTL safely toward the target of 60, we must selectively inject high-intensity work now to expand your VO2max capacity and break training monotony.
+Over the past 21 days, you have accumulated 18.33 hours and a training load of 1133 across 15 sessions. Your current ATL is 51.4 and CTL is 39.0, yielding a Form (TSB) of -12.4. This is a highly functional training state, showing a solid build phase without exceeding your absolute TSB limit of -30. The pyramidal training distribution is working perfectly; your extensive low-intensity aerobic base (e-bike commutes) is successfully absorbing the stress of these high-intensity quality sessions.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Over the 6-month horizon, your aerobic engine is exceptionally wide but lacks peak ceiling height. Your best FTP is sitting at 246W (very close to your 250W setting), which indicates a highly developed threshold relative to your VO2max. To raise your FTP further and improve your 5km running pace, we must elevate your cardiac stroke volume through high-intensity intervals. Your massive low-intensity volume from commuting perfectly justifies this pyramidal push.
+Your long-term sport trend shows steady progress, with your CTL currently at 39.0. To reach your target fitness goal of 60 CTL, we need to maintain a progressive, controlled ramp rate of +1 to +2 CTL per week. Your cycling consistency has significantly improved, and your aerobic engine is well-prepared. However, to safely cross the 50 CTL threshold in the coming weeks, we must continue to strictly balance these sharp high-intensity peaks with structured recovery.

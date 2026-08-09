@@ -1,6 +1,6 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-08-09 06:40:32*
+*Laatst bijgewerkt: 2026-08-09 08:00:22*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL - Doel 60):** `39.0` / `60` (`65.0%` behaald)
@@ -13,37 +13,37 @@
 ## 📋 Coach Verdict & Advies voor Vandaag
 > **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> Based on yesterday's high-intensity quality session and a TSB of -12.4, you are strictly barred from high-intensity training today. Today's target is structural consolidation and aerobic engine building. Focus on Priority 1 (Zone 2 Endurance Run) to build your 5km running economy without compounding cycling muscular fatigue, or pivot to Priority 2 to build the pure torque and power necessary to elevate your 5-min and 20-min cycling limits.
+> We are executing a planned recovery/low-intensity pivot today. Because you performed a hard quality ride yesterday and have heavily neglected running in your current block, your top priority today is a controlled, low-impact Zone 2 Aerobic Base Run to build structural running tolerance. If your legs or joints feel too heavy, you will pivot to Priority 2 (targeted gym strength work) or Priority 3 (an active recovery spin). Quality intervals are off the table today.
 
 ---
 
 ## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 🥇 Prioriteit 1: Running - Zone 2 Aerobic Running Base
-* **Intensiteit:** `Zone 2 (HR 130-145 bpm)`
-* **Workout details:** 45 minutes continuous flat running. Maintain a strict nose-breathing pace. Keep heart rate strictly below 145 bpm (Max HR 194). Focus on high stride cadence (175-180 spm) and midfoot landing to build 5km mechanical efficiency.
-* **Waarom:** *Top priority to develop the running-specific aerobic engine and capillary density without overstressing the nervous system or replicating yesterday's cycling-specific muscle load.*
+### 🥇 Prioriteit 1: Running - Zone 2 Running Base Builder
+* **Intensiteit:** `Zone 2`
+* **Workout details:** 45 minutes of continuous running. Maintain heart rate strictly between 135 and 149 bpm (65-75% of your 194 Max HR). Keep pace slow and conversational (target approximately 5:45 - 6:15 min/km). Maintain a high stride cadence of 175-180 spm to minimize ground contact time and joint impact.
+* **Waarom:** *Running has been highly neglected (only 2 sessions in the last 21 days). To run a fast 5km, you must build running-specific impact tolerance. A Zone 2 run today addresses this gap while keeping cardiovascular stress minimal, keeping your TSB trend safe.*
 
-### 🥈 Prioriteit 2: Strength - Heavy Lower-Body & Core Torque Strength
-* **Intensiteit:** `RPE 8/10`
-* **Workout details:** Warm-up: 10 mins dynamic mobility. 1) Barbell Back Squats: 4 sets x 5 reps @ 80% 1RM. 2) Heavy Sandbag (70kg) Cleans or Carries: 3 sets x 50 meters. 3) Kettlebell (20kg) Goblet Squats: 3 sets x 10 reps. 4) Hanging Leg Raises: 3 sets to failure. Rest 3 minutes between heavy sets.
-* **Waarom:** *Builds the structural torque and posterior chain strength required to increase your 5-minute and 20-minute cycling power while avoiding further aerobic depletion.*
+### 🥈 Prioriteit 2: Strength - Neuromuscular Strength & Aesthetic Support
+* **Intensiteit:** `RPE 7-8/10`
+* **Workout details:** Warm-up: 5 mins dynamic mobility. Barbell Back Squat: 4 sets of 5 reps @ 75% 1RM (approx. 70-85kg). Barbell Bench Press: 3 sets of 8 reps (RPE 7.5). Romanian Deadlifts (with Barbell or Kettlebell): 3 sets of 8 reps focusing on glute/hamstring engagement. Weighted Sandbag Carry (70kg): 3 rounds of 40 meters. Core: 3 sets of 15 Hanging Leg Raises.
+* **Waarom:** *Strength training builds cycling torque and running power without cardiorespiratory fatigue. Since your aerobic system is recovering from yesterday's load, this gym session develops structural integrity, supports upper-body aesthetics, and keeps you moving productively.*
 
-### 🥉 Prioriteit 3: Recovery - Active Recovery & Mobility
-* **Intensiteit:** `Zone 1 / RPE 2/10`
-* **Workout details:** 30 minutes of very light spin on the e-bike (minimal assist, under 100 watts) followed by 20 minutes of targeted foam rolling on quads, glutes, and calves, and 10 minutes of deep hamstring stretching.
-* **Waarom:** *If you feel deep systemic muscle soreness from yesterday's quality block, a pure active recovery strategy will flush metabolites and restore your TSB back toward a neutral zone.*
+### 🥉 Prioriteit 3: Cycling - Active Recovery Leg Flush
+* **Intensiteit:** `Zone 1 / Recovery`
+* **Workout details:** 45 minutes on flat terrain or trainer. Keep power strictly below 137 Watts (under 55% of your 250W FTP) and heart rate below 115 bpm. Spin at a light, easy cadence of 90-95 RPM. Zero hard efforts, zero hill climbing.
+* **Waarom:** *If your lower body joints are sore or stiff from yesterday's ride, this low-impact spin will promote local blood flow to flush metabolic waste and accelerate recovery, without adding any systemic training stress.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Yesterday's session was a high-intensity, high-load quality ride (Load 76, 0.91 hrs) which successfully stimulated your cycling threshold, but has driven your TSB down to -12.4. Your HRV is sitting at a moderate 42 ms, and with no sleep score provided, we must assume baseline recovery. Your system is carrying residual fatigue; initiating another high-intensity effort today violates the 70/30 pyramidal distribution rule and risks overreaching.
+Yesterday's session on August 8th was a high-load, high-quality cycling performance ride (Training Load: 76). With a current CTL of 39.0 and ATL of 51.4, your daily Form (TSB) is sitting at -12.4. Your HRV is stable at 42 ms, indicating that while your autonomic nervous system is not in a state of acute crisis, your body has accumulated substantial systemic fatigue. Back-to-back quality/high-intensity workouts are strictly prohibited today. The priority must pivot to aerobic base-building or functional recovery.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the last 21 days, you have accumulated 1,133 load points across 15 sessions, showing exceptional consistency. However, with an ATL of 51.4 against a CTL of 39.0, your acute training stress is outpacing your chronic adaptation. To safely drive your CTL toward your target of 60, we must strictly respect the negative TSB (-12.4) and balance recent high-quality sessions with dedicated aerobic base or structural strength work today.
+Over the last 21 days, you have completed 15 sessions with 1,133 of accumulated training load. Your current TSB of -12.4 places you in a productive training zone, but fatigue is building rapidly. A critical structural issue is present: you have executed 8 cycling performance sessions and 4 e-bike commutes, but only 2 running sessions. This severe imbalance threatens your 5km running goal and leaves your running-specific biomechanics unconditioned, raising your injury risk as we scale load.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Your 180-day macro trend indicates a highly positive trajectory, building up from a winter baseline. To climb from your current CTL of 39.0 to your goal of 60.0 safely, we must limit the ramp rate to +1 to +2 CTL per week. Your high volume of e-bike commuting acts as a superb passive aerobic floor, meaning your high-intensity quality days must be highly focused and followed immediately by structured active recovery or targeted strength work to prevent performance plateaus.
+Your long-term fitness trend is solid, but we must be highly disciplined to reach your CTL target of 60. With a CTL of 39.0, you are roughly 21 points away from your goal. To progress safely, we must target a conservative CTL ramp rate of +1 to +2 per week. Your extensive e-bike commuting history provides a massive low-intensity aerobic foundation, allowing us to enforce a strict pyramidal (70/30) distribution. However, to translate this aerobic engine into 5km speed and 5-minute cycling power, running volume and sport-specific endurance must be progressively overloaded.

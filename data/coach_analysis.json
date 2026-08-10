@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-09 08:00:22.432234",
+  "generated": "2026-08-10 10:02:32.700799",
   "athlete_inputs": {
     "sport_preference": "",
     "athlete_notes": "",
@@ -12,31 +12,31 @@
     "ATL": 51.4,
     "Form_TSB": -12.4
   },
-  "daily_load_assessment": "Yesterday's session on August 8th was a high-load, high-quality cycling performance ride (Training Load: 76). With a current CTL of 39.0 and ATL of 51.4, your daily Form (TSB) is sitting at -12.4. Your HRV is stable at 42 ms, indicating that while your autonomic nervous system is not in a state of acute crisis, your body has accumulated substantial systemic fatigue. Back-to-back quality/high-intensity workouts are strictly prohibited today. The priority must pivot to aerobic base-building or functional recovery.",
-  "acute_status_assessment_3_weeks": "Over the last 21 days, you have completed 15 sessions with 1,133 of accumulated training load. Your current TSB of -12.4 places you in a productive training zone, but fatigue is building rapidly. A critical structural issue is present: you have executed 8 cycling performance sessions and 4 e-bike commutes, but only 2 running sessions. This severe imbalance threatens your 5km running goal and leaves your running-specific biomechanics unconditioned, raising your injury risk as we scale load.",
-  "sport_trend_assessment_6_months": "Your long-term fitness trend is solid, but we must be highly disciplined to reach your CTL target of 60. With a CTL of 39.0, you are roughly 21 points away from your goal. To progress safely, we must target a conservative CTL ramp rate of +1 to +2 per week. Your extensive e-bike commuting history provides a massive low-intensity aerobic foundation, allowing us to enforce a strict pyramidal (70/30) distribution. However, to translate this aerobic engine into 5km speed and 5-minute cycling power, running volume and sport-specific endurance must be progressively overloaded.",
-  "coach_verdict": "We are executing a planned recovery/low-intensity pivot today. Because you performed a hard quality ride yesterday and have heavily neglected running in your current block, your top priority today is a controlled, low-impact Zone 2 Aerobic Base Run to build structural running tolerance. If your legs or joints feel too heavy, you will pivot to Priority 2 (targeted gym strength work) or Priority 3 (an active recovery spin). Quality intervals are off the table today.",
+  "daily_load_assessment": "Today, your Training Stress Balance (TSB/Form) is approximately -12.4 (CTL 39.0 minus ATL 51.4), placing you in a productive training phase. Yesterday was a complete recovery day, and your Garmin HRV is highly favorable at 66 ms, indicating excellent autonomic nervous system recovery. You are fully cleared to execute a high-intensity session today.",
+  "acute_status_assessment_3_weeks": "Over the last 21 days, you completed 15 sessions accumulating 18.33 hours. While your consistency is highly commendable, there is a severe sport-type imbalance: you performed 8 cycling performance sessions and 4 e-bike commutes, but only 2 running sessions. To achieve your 5km running goal, we must immediately correct this deficit by increasing running frequency and specific interval quality.",
+  "sport_trend_assessment_6_months": "Your current CTL is 39.0, meaning you are on track but still far from your target of 60. We need a steady progression of +1.5 CTL per week. Your continuous e-bike commuting provides a massive, fatigue-free aerobic floor. This low-intensity base allows us to aggressively target high-intensity training (the upper 30% of the pyramidal distribution) during your structured sessions without overtraining.",
+  "coach_verdict": "Execute Priority 1. You have severely neglected running over the last training block (only 2 sessions in 21 days), which will stall your 5km pace progression. Because your HRV (66 ms) is fully recovered and you had a rest day yesterday, you are in optimal physiological condition to handle a high-intensity VO2max running interval session today. No excuses; get it done.",
   "today_options": {
     "priority_1": {
-      "session_title": "Zone 2 Running Base Builder",
+      "session_title": "5km Pace Development: VO2max Running Intervals",
       "sport_type": "Running",
-      "intensity": "Zone 2",
-      "workout_details": "45 minutes of continuous running. Maintain heart rate strictly between 135 and 149 bpm (65-75% of your 194 Max HR). Keep pace slow and conversational (target approximately 5:45 - 6:15 min/km). Maintain a high stride cadence of 175-180 spm to minimize ground contact time and joint impact.",
-      "reason": "Running has been highly neglected (only 2 sessions in the last 21 days). To run a fast 5km, you must build running-specific impact tolerance. A Zone 2 run today addresses this gap while keeping cardiovascular stress minimal, keeping your TSB trend safe."
+      "intensity": "Zone 5 (90-95% Max HR / RPE 9/10)",
+      "workout_details": "Warm-up: 15 minutes of progressive Zone 2 running, finishing with 3x100m strides. Main Set: 5 x 1000 meters at your target 5km pace (Zone 5, heart rate reaching 175-184 bpm) with 2 minutes of active walking/jogging recovery between intervals. Cool-down: 10 minutes of easy jogging in Zone 1/2.",
+      "reason": "This session addresses your primary goal of 5km pace development and directly corrects the acute running volume deficit. Your fully recovered nervous system is ready for this high aerobic strain."
     },
     "priority_2": {
-      "session_title": "Neuromuscular Strength & Aesthetic Support",
-      "sport_type": "Strength",
-      "intensity": "RPE 7-8/10",
-      "workout_details": "Warm-up: 5 mins dynamic mobility. Barbell Back Squat: 4 sets of 5 reps @ 75% 1RM (approx. 70-85kg). Barbell Bench Press: 3 sets of 8 reps (RPE 7.5). Romanian Deadlifts (with Barbell or Kettlebell): 3 sets of 8 reps focusing on glute/hamstring engagement. Weighted Sandbag Carry (70kg): 3 rounds of 40 meters. Core: 3 sets of 15 Hanging Leg Raises.",
-      "reason": "Strength training builds cycling torque and running power without cardiorespiratory fatigue. Since your aerobic system is recovering from yesterday's load, this gym session develops structural integrity, supports upper-body aesthetics, and keeps you moving productively."
+      "session_title": "5-Min Peak Power Builder: VO2max Cycling Intervals",
+      "sport_type": "Cycling",
+      "intensity": "Zone 5 (110-120% FTP / 275-300W)",
+      "workout_details": "Warm-up: 15 minutes of progressive spinning, including 2 x 1-minute fast-pedaling efforts (100+ RPM). Main Set: 5 x 4 minutes at 115% FTP (288 Watts, target heart rate >175 bpm) with 4 minutes of very easy recovery spinning (100 Watts) between reps. Cool-down: 10 minutes of progressive spinning down to Zone 1.",
+      "reason": "This targets your specific goal of maximizing 5-minute VO2max power on the bike. It ranks below running only because your cycling volume has already been highly prioritized over the last 3 weeks."
     },
     "priority_3": {
-      "session_title": "Active Recovery Leg Flush",
-      "sport_type": "Cycling",
-      "intensity": "Zone 1 / Recovery",
-      "workout_details": "45 minutes on flat terrain or trainer. Keep power strictly below 137 Watts (under 55% of your 250W FTP) and heart rate below 115 bpm. Spin at a light, easy cadence of 90-95 RPM. Zero hard efforts, zero hill climbing.",
-      "reason": "If your lower body joints are sore or stiff from yesterday's ride, this low-impact spin will promote local blood flow to flush metabolic waste and accelerate recovery, without adding any systemic training stress."
+      "session_title": "Lower Body Torque & Running Power Development",
+      "sport_type": "Strength",
+      "intensity": "Heavy Strength (RPE 8.5/10)",
+      "workout_details": "Warm-up: 5 minutes of dynamic mobility and bodyweight squats. Main Set: 1) Barbell Back Squats: 4 sets x 5 reps at 80% 1RM (focus on explosive concentric phase). 2) Barbell Romanian Deadlifts: 3 sets x 8 reps (focusing on hamstring torque). 3) Heavy Sandbag Carries (70kg): 4 sets x 40 meters. 4) Hanging Leg Raises: 3 sets x 12 reps.",
+      "reason": "If your joints feel unready for high-impact running intervals, this heavy strength session will build the muscular torque required for both cycling power and running stride efficiency without placing high cardiorespiratory stress on your body."
     }
   },
   "post_workout_recovery": {}

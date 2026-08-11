@@ -2983,17 +2983,17 @@
     "quality": false
   },
   "2026-08-11": {
-    "sessions": 1,
-    "training_load": 58,
-    "hours": 0.94,
-    "distance_km": 28.5,
+    "sessions": 4,
+    "training_load": 137,
+    "hours": 2.39,
+    "distance_km": 56.4,
     "running": {
       "sessions": 0,
       "distance_km": 0
     },
     "cycling_performance": {
-      "sessions": 1,
-      "distance_km": 28.5
+      "sessions": 3,
+      "distance_km": 56.4
     },
     "cycling_commute": {
       "sessions": 0,

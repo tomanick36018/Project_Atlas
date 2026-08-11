@@ -1,60 +1,44 @@
-# 🏃‍♂️ Mijn AI Sportcoach Dashboard
+# 🧘‍♂️ Mijn AI Sportcoach - Post-Workout Herstel Rapport
 
-*Laatst bijgewerkt: 2026-08-11 08:47:38*
+*Gegenereerd na de training op: 2026-08-11 13:40:16*
 
-## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
-* **Fitheid (CTL - Doel 60):** `38.8` / `60` (`64.6%` behaald)
-* **Vermoeidheid (ATL):** `46.6` | **Vorm (TSB):** `-7.9`
-* **Status:** **🟢 Optimaal Trainingsvenster**
+## 📊 Trainingsstatus & Garmin Statistieken
+* **Fitheid (CTL):** `40.0` / `60` (`66.7%` behaald) | **Vermoeidheid (ATL):** `57.1` | **Vorm (TSB):** `-17.1`
 * **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (56 ms)`
 
 ---
 
-## 📋 Coach Verdict & Advies voor Vandaag
-> **Mijn gevoel vanochtend:** *"Al naar het werk gefietst met de koersfiets. Straks keer ik nog terug en doe ik thuis een krachtparkoertje"*
+## 📋 Beoordeling van de Training (Coach Feedback)
+> **Mijn gevoel na de training:** *"Woonwerk met de koersfiets gedaan en vervolgens een workout cindy gedaan van 20 min en 15 sets"*
 > 
-> I approve your plan for a home strength circuit ('krachtparkoertje') today, but it must be strictly structured. Since you are riding ~57km total today on the road bike, any lower-body strength work must focus on structural stability and unilateral control rather than maximal mechanical loading. We will prioritize core stability, unilateral leg alignment (to support your running gait), and upper body aesthetics/posture to balance your cycling positioning.
+> A commendable double-session effort, demonstrating elite-level discipline by combining a 56.4km road bike commute with a structured 'Cindy' AMRAP. Doing 15 rounds of Cindy translates to 75 pull-ups, 150 push-ups, and 225 air squats. This represents a severe eccentric muscular load on top of your massive cycling volume. Your TSB of -17.1 is a stark warning that you have accumulated serious acute fatigue. While your HRV of 56 ms is stable, the absence of a sleep score demands absolute caution. Transitioning immediately into strict post-workout recovery is non-negotiable to prevent chronic injury and secure supercompensation.
 
 ---
 
-## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
-*Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
+## 🥗 Jouw Herstelprotocol voor Vandaag
+*Volg deze stappen nauwkeurig op om je herstel te maximaliseren en blessures te voorkomen:*
 
-### 🥇 Prioriteit 1: Strength - Post-Commute Strength & Core Circuit
-* **Intensiteit:** `RPE 7-8/10`
-* **Workout details:** Perform as a continuous circuit, 3 rounds with 90s rest between rounds:
-1. KB goblet squats or Sandbag Zercher squats: 10 reps (moderate weight, focusing on depth and pelvic stability)
-2. Barbell or Sandbag overhead press: 8 reps
-3. Single-leg kettlebell Romanian deadlifts: 8 reps per side (focus on hip alignment)
-4. Heavy sandbag or kettlebell carry (Farmer's walk): 40 meters
-5. Hanging leg raises or strict ab-wheel rollouts: 12 reps
-6. Push-ups (weighted if possible) to failure.
-* **Waarom:** *Aligned perfectly with your subjective notes. Today is already a high-volume aerobic day due to the 57km bike commute. This strength routine builds sport-specific torque and core rigidity without overtraining the cardiorespiratory system.*
+### 📋 Stap 1: Beoordeling van de Training
+The road bike commute provided a highly efficient Zone 2 aerobic stimulus, maintaining cardiovascular efficiency. However, following this with 'Cindy' (15 rounds) introduced a high-intensity glycolytic stress and severe mechanical tension. The pull-ups, push-ups, and air squats heavily taxed your upper body pulling/pushing musculature and lower body prime movers, which are already fatigued from cycling torque. This is a massive muscular endurance shock that will cause significant delayed onset muscle soreness (DOMS). Excellent execution, but the physiological tax is massive.
 
-### 🥈 Prioriteit 2: Recovery - Targeted Mobility & Joint Decompression
-* **Intensiteit:** `RPE 3/10`
-* **Workout details:** 45-minute continuous flow:
-1. Foam rolling: Quads, IT band, calves, and thoracic spine (10 mins)
-2. Half-kneeling hip flexor stretch: 3 sets of 30 seconds per side
-3. Pigeon stretch: 3 sets of 45 seconds per side
-4. Banded hamstring distraction: 2 minutes per side
-5. Deep squat hold with thoracic rotation: 5 deep breaths, 3 rounds.
-* **Waarom:** *An excellent alternative if the heavy commute legs feel stiff or fatigued. Cycling restricts the hips and shoulders; this routine restores posture, preserves running mechanics, and accelerates recovery for tomorrow's quality training.*
+### 🥛 Stap 2: Voeding & Hydratatie (Eten & Drinken)
+Prioritize immediate muscle glycogen replenishment and protein synthesis. Consume a post-workout recovery shake or meal containing at least 90-100g of fast-digesting carbohydrates (to replenish depleted liver and muscle glycogen) and 35-40g of high-quality protein (whey or plant equivalent rich in leucine to repair micro-tears from Cindy's eccentric reps). Rehydrate with 750ml to 1L of water containing an electrolyte tablet with at least 500mg of sodium to offset the sweat loss from your road-bike commute and indoor session.
 
-### 🥉 Prioriteit 3: Running - Short Zone 2 Recovery Run
-* **Intensiteit:** `Zone 2 (HR below 145 bpm)`
-* **Workout details:** 30 minutes flat, easy running. Maintain a high cadence (170-180 spm) and focus on light feet. Keep heart rate strictly below 145 bpm. Do not push the pace under any circumstances.
-* **Waarom:** *Only recommended if you feel exceptionally fresh post-commute and choose to skip the strength workout. This adds run-specific volume and active recovery without stressing your energy systems, but is ranked lowest due to the cumulative impact of today's cycling volume.*
+### 🧘‍♂️ Stap 3: Spieren & Mobiliteit (Stretching & Mobiliteit)
+Focus on mitigating the tightness from your cycling posture combined with the high-rep Cindy exercises. Spend 10-15 minutes on targeted mobility: 1. Thoracic extension over a foam roller and doorway chest stretches to open up shoulders after push-ups and pull-ups. 2. Couch stretch for your hip flexors and quadriceps to release tension from the air squats and cycling pedaling stroke. 3. Active calf stretching and posterior chain foam rolling to promote venous return and reduce lower-body stiffness.
+
+### 🛌 Stap 4: Slaap & Vooruitblik naar Morgen
+Secure 8.5+ hours of sleep tonight by optimizing sleep hygiene (room temp under 18°C, zero screens 1 hour before bed, no late caffeine). Physiologically, tomorrow (August 12) must be a dedicated recovery or light active recovery day. Expect significant muscular soreness in your legs, chest, and lats. Any high-intensity training tomorrow is strictly prohibited; instead, a very light, low-torque Zone 1 active recovery spin (under 50% FTP) or a complete rest day is mandatory to allow your muscles to rebuild and prepare for your next quality block.
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Today's load is dominated by a substantial double commute (57km total on the road bike), already contributing a calculated training stress. Your HRV is stable at 56 ms and resting HR is optimal at 51 bpm. However, with your TSB currently at -7.8 (moderate fatigue), we must be highly selective. Adding high-intensity intervals on top of a 57km cycling day will trigger excessive acute fatigue.
+Today's daily training stress is extremely high, with a combined load of 137 TSS across 2.39 hours. This includes 56.4 km of active road bike commuting and a demanding 20-minute bodyweight 'Cindy' CrossFit workout (15 sets of 5 pull-ups, 10 push-ups, and 15 air squats). With your current CTL at 40.0 and ATL soaring to 57.1, your Form (TSB) has dropped to -17.1. This indicates a deep state of acute fatigue. Your HRV of 56 ms shows your autonomic nervous system is holding up, but is under significant load due to the dual demands of high-volume aerobic cycling and high-intensity muscular endurance work.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the past 21 days, you have accumulated 14.9 hours and 959 load units with a strong balance of 5 quality sessions. Your CTL is rising steadily. The acute-to-chronic workload ratio is highly favorable due to your consistent e-bike/road commuting baseline, which effectively shields you from overtraining injury risks during running and cycling quality sessions.
+Over the last 21 days, you have logged 17 sessions covering 16.35 hours and accumulating 1038 TSS. This indicates strong consistency, but the distribution is highly skewed towards cycling (8 performance, 4 e-bike/commute) versus running (only 3 sessions). The acute fatigue (ATL 57.1) is approaching critical levels relative to your chronic base. To safely progress your CTL from 40 to your goal of 60, we must stabilize this acute ramp rate and ensure your recovery protocols prevent muscular overreaching, especially after integrating high-volume bodyweight resistance workouts like Cindy.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Your macro trend shows a robust upward progression, with CTL currently at 38.8. Moving towards your target CTL of 60 requires a highly structured, pyramidal approach. Your aerobic engine is well-supported by regular commuting, meaning our primary 6-month focus is safely converting this base into sport-specific torque (cycling 5-min/20-min power) and running efficiency (5km speed) through progressive overload.
+Your long-term sports trend shows a highly developed low-intensity aerobic engine, largely built on consistent bike commuting over the last 180 days. Your current fitness (CTL 40.0) is a solid foundation, but there is still a 20-point deficit to your target of 60 CTL. To close this gap at a safe progressive rate of +1 to +2 CTL per week, we must carefully structure your 70/30 pyramidal distribution. Your massive commuting base justifies adding targeted running quality (such as 5km pace intervals) and cycling 5-min/20-min power workouts, but only when TSB rises back above -10.

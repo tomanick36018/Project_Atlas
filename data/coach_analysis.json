@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-11 06:39:19.828444",
+  "generated": "2026-08-11 08:32:55.734918",
   "athlete_inputs": {
-    "sport_preference": "Geen voorkeur (Auto)",
+    "sport_preference": "",
     "athlete_notes": "",
     "sleep_score": "",
     "hrv_status": "",
@@ -12,31 +12,31 @@
     "ATL": 46.6,
     "Form_TSB": -7.9
   },
-  "daily_load_assessment": "Today's training stress is manageable. With a CTL of 38.8 and ATL of 46.6, your TSB sits at -7.8. This is within the optimal training zone (-10 to -30 is the limit, so you have plenty of runway). Your HRV of 56 ms is balanced and stable. Although you logged a non-quality 28.5km cycling ride today, your physiological indicators suggest you are highly receptive to a structured training stimulus to drive adaptation.",
-  "acute_status_assessment_3_weeks": "Over the last 21 days, you have completed 14 sessions over 14.9 hours, accumulating a training load of 959. Your chronic load is building safely. Your CTL ramp rate is progressing optimally toward your goal of 60. Your aerobic engine is well-supported by your consistent e-bike commutes, meaning we have successfully mitigated excessive fatigue. We must now selectively insert high-intensity quality sessions to translate this baseline aerobic capacity into performance gains.",
-  "sport_trend_assessment_6_months": "Over the 180-day macro-horizon, your progression has been highly stable but lacks sport-specific high-intensity density. Your massive low-intensity volume from commuting provides an exceptional aerobic foundation (70% of your training distribution). However, to move your 5km pace and 5-min/20-min cycling power to the elite level, we must transition from generic volume to strict, structured interval work and heavy strength application.",
-  "coach_verdict": "The metrics give us a clear green light. TSB is at -7.8, and HRV is balanced at 56 ms. Because your last true quality session was on August 8th and you have an incredible base, we are striking now. I highly recommend Priority 1 (VO2max Running Intervals) to target your 5km pace goal. If your legs feel heavy from today's early ride, pivot immediately to Priority 2 (Heavy Strength) to build the athletic torque required to increase your cycling FTP.",
+  "daily_load_assessment": "Today's training stress is manageable. With a CTL of 38.8 and ATL of 46.6, your current Form (TSB) stands at -7.8. This indicates a minor state of acute fatigue, which is highly favorable and safe for progressive overload. Last night's HRV of 56 ms is stable and indicates that your autonomic nervous system has recovered well from recent efforts, including yesterday's run and today's moderate cycling volume.",
+  "acute_status_assessment_3_weeks": "Over the last 21 days, you have accumulated 14.9 hours of training across 14 sessions with a total load of 959. This block demonstrates highly consistent volume. Your pyramidal distribution is well-maintained with only 5 quality sessions in this block. ATL is stable at 46.6, indicating that your body is adapting efficiently without excessive fatigue accumulation. There is sufficient headroom to slightly increase the load to drive adaptation.",
+  "sport_trend_assessment_6_months": "Your long-term sports trend is positive. Your CTL is progressing steadily at 38.8, and we are safely on track toward your target CTL of 60. The massive aerobic engine built through your e-bike commuting and regular cycling performance rides provides a highly resilient base. This base allows you to safely tolerate the necessary training stress to improve your 5km running pace and cycling threshold power over the macrocycle.",
+  "coach_verdict": "Given your stable HRV (56 ms) and a highly favorable TSB of -7.8, you are in an optimal window to absorb high-quality work. However, following the 70/30 Pyramidal rule and considering you already recorded a cycling performance session today (58 load), the primary focus must be a high-yield Strength workout to build physical robustness, or a focused high-intensity run if you feel exceptionally fresh. I recommend Priority 1: Heavy Strength to support your cycling torque and running economy, followed by Priority 2 for high-intensity VO2max running intervals.",
   "today_options": {
     "priority_1": {
-      "session_title": "5km Pace Development: VO2max Running Intervals",
-      "sport_type": "Running",
-      "intensity": "Zone 5 (90-95% Max HR / RPE 9/10)",
-      "workout_details": "Warm-up: 15 mins Zone 2 running, including 3x 30-second progressive strides. Main Set: 5x 1000m at target 5km pace (Zone 5), with 3 mins of walking/slow jogging recovery between intervals. Cool-down: 10 mins Zone 1 jog and active stretching.",
-      "reason": "Highest priority to drive cardiorespiratory adaptations for your 5km running goal. Your stable HRV and fresh TSB mean you can absorb this high-intensity stress safely today. You haven't done a quality run in weeks; it's time to test your top-end engine."
-    },
-    "priority_2": {
-      "session_title": "Heavy Torque & Force Production Strength",
+      "session_title": "Sport-Specific Torque & Power Strength",
       "sport_type": "Strength",
       "intensity": "Heavy Strength (RPE 8.5/10)",
-      "workout_details": "Warm-up: 10 mins dynamic joint mobility and bodyweight squats. Main Lift 1: Barbell Back Squat - 3 sets of 5 reps @ 80% 1RM (focus on explosive drive). Main Lift 2: Barbell Deadlift - 3 sets of 5 reps. Accessory: Heavy Sandbag (70kg) Carries - 3 sets of 40 meters. Upper/Core: Bench Press - 3 sets of 8 reps; Hanging Leg Raises - 3 sets to failure.",
-      "reason": "Highly effective for building the neuromuscular drive needed to improve cycling torque and running economy. This session utilizes your gym equipment to build athletic power and upper body aesthetics without taxing your cardiovascular system after today's earlier ride."
+      "workout_details": "- Warm-up: 5 mins dynamic mobility (hip openers, leg swings)\n- Barbell Back Squats: 4 sets x 5 reps @ 80% 1RM (focus on explosive concentric phase)\n- Romanian Deadlifts: 3 sets x 8 reps (strengthening glutes and hamstrings for running stride)\n- Heavy Sandbag Carries (70kg): 3 sets x 50 meters (core stability and breathing control under load)\n- Kettlebell Swings (20kg): 3 sets x 15 reps (hip hinge power development)\n- Core: Plank variations 3 sets x 1 min",
+      "reason": "You have already completed an aerobic cycling session today. A dedicated strength session will target neuromuscular adaptations, building the cycling torque needed for 5-min/20-min power and the structural durability required for a faster 5km running pace, all without adding excessive aerobic fatigue."
+    },
+    "priority_2": {
+      "session_title": "VO2max Running Interval Session",
+      "sport_type": "Running",
+      "intensity": "Zone 5 (90-95% HR Max / RPE 9/10)",
+      "workout_details": "- Warm-up: 15 mins easy Zone 2 running, followed by 3x 30-second strides\n- Main Set: 5x 3-minute intervals @ target 5km pace (Zone 5 HR), with 3 minutes of walking/slow jogging recovery between intervals\n- Cool-down: 10 mins easy jog and mobility stretching",
+      "reason": "This is a direct, high-intensity quality session targeting your 5km running pace goal. Your recovery metrics (TSB -7.8, HRV 56 ms) indicate you are fully cleared for high-intensity work, making this a perfect opportunity to stimulate VO2max adaptation."
     },
     "priority_3": {
-      "session_title": "Zone 2 Aerobic Base Flush",
-      "sport_type": "Cycling",
-      "intensity": "Zone 2 (60-70% Max HR / RPE 4/10)",
-      "workout_details": "60 mins of continuous, flat road cycling strictly inside Zone 2 (maintain HR below 140 bpm). Focus on a high, fluid cadence of 90-95 rpm to flush metabolic waste from the legs. No sprints, no climbs.",
-      "reason": "An active recovery option that allows you to continue safely ramp-rate progressing your CTL toward 60 without adding joint stress or deep systemic fatigue. Use this if you feel residual muscle soreness from yesterday's 8km run."
+      "session_title": "Zone 2 Aerobic Base Run",
+      "sport_type": "Running",
+      "intensity": "Zone 2 (65-75% HR Max / RPE 4-5/10)",
+      "workout_details": "- Duration: 45-50 minutes\n- Pace: Strictly maintain a conversational pace, keeping heart rate below 145 bpm\n- Terrain: Flat, predictable surface (road or track) to minimize joint impact",
+      "reason": "If you are feeling any residual muscular tightness from today's cycling session, opting for a pure Zone 2 aerobic run maintains the 70% aerobic base requirement of your pyramidal training structure while safely stimulating cardiovascular adaptations and recovery."
     }
   },
   "post_workout_recovery": {}

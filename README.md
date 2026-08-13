@@ -1,49 +1,49 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-08-12 19:23:42*
+*Laatst bijgewerkt: 2026-08-13 06:22:38*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL - Doel 60):** `40.0` / `60` (`66.7%` behaald)
 * **Vermoeidheid (ATL):** `57.1` | **Vorm (TSB):** `-17.1`
 * **Status:** **🟢 Optimaal Trainingsvenster**
-* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (56 ms)`
+* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` ( ms)`
 
 ---
 
 ## 📋 Coach Verdict & Advies voor Vandaag
 > **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> You are heavily fatigued from yesterday's 137 TSS load, and your TSB is -17.1. Despite your preference for cycling, you are strictly banned from high-intensity work today. To safely progress towards your CTL target, today must be dedicated to an active recovery/low-intensity aerobic flush on the bike, or sport-specific strength to build torque and running durability.
+> I am directing you to execute Priority 1 (Low-Intensity Run) today. Your TSB of -17.1 is too deep to justify a high-intensity interval session without HRV clearance. A low-intensity running session addresses your acute running volume deficit, builds running-specific aerobic capacity, and keeps your training distribution aligned with the 70/30 pyramidal rule. If your legs feel heavy from the pavement, Pivot to Priority 2 (Strength) to build torque capacity.
 
 ---
 
 ## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 🥇 Prioriteit 1: Cycling - Zone 2 Active Recovery & Aerobic Flush
-* **Intensiteit:** `Zone 1 to low Zone 2 (Under 150 Watts / HR < 135 bpm)`
-* **Workout details:** 60 minutes flat, steady spinning. Keep cadence strictly between 90-95 RPM. Power must remain strictly under 150 Watts (60% FTP). No surges, no hills.
-* **Waarom:** *Your cardiovascular system and legs need to flush out lactate and metabolic waste from yesterday's heavy performance ride. This supports the 70% pyramidal baseline without adding acute stress.*
+### 🥇 Prioriteit 1: Running - Low-Intensity Zone 2 Aerobic Run
+* **Intensiteit:** `Zone 2 (Heart Rate: 120-145 bpm / RPE 4/10)`
+* **Workout details:** 45-minute steady-state flat run. 10-minute progressive warm-up. 30 minutes continuous running strictly in Zone 2. 5-minute walk cool-down. Focus on maintaining a fast, light cadence (85-90 rpm) and a tall posture.
+* **Waarom:** *This is your highest priority. It builds necessary 5km running volume which has been lacking in your recent block, while keeping metabolic stress low enough to facilitate recovery from your -17.1 TSB fatigue state.*
 
-### 🥈 Prioriteit 2: Strength - Cycling Torque & Running Durability Strength
-* **Intensiteit:** `RPE 7/10 (Moderate load, focused execution)`
-* **Workout details:** Warm-up: 5 mins mobility. Main: 3x5 Barbell Deadlifts @ 70-80kg (focus on hip extension), 3x8 Bulgarian Split Squats with 20kg Kettlebell, 3x8 Heavy Sandbag Cleans (35kg), 3x60sec Plank. Cool-down: stretching.
-* **Waarom:** *Allows your cardiovascular system a break while building the specific posterior chain and core strength required to support cycling torque (20-min power) and running economy.*
+### 🥈 Prioriteit 2: Strength - Force Production & Trunk Stability Strength
+* **Intensiteit:** `RPE 7-8/10 (Heavy Strength / High Tension)`
+* **Workout details:** Warm-up: 5 mins mobility. Barbell Back Squats: 3 sets x 5 reps at 75% 1RM. Barbell Overhead Press: 3 sets x 5 reps. Kettlebell Single-Leg Romanian Deadlifts: 3 sets x 8 reps per side (20kg KB). Heavy Sandbag Carry: 3 sets x 50 meters (70kg bag). Core: 3 sets of 15 hanging knee raises.
+* **Waarom:** *An excellent alternative if you want to avoid joint impact. It builds the raw torque necessary for your 5-minute cycling goals and running economy, without taxing your cardiovascular system on a high-fatigue day.*
 
-### 🥉 Prioriteit 3: Recovery - Full Rest & Active Mobility Restoration
-* **Intensiteit:** `Zone 0 (Rest / Extremely Low Intensity)`
-* **Workout details:** 30 minutes of targeted foam rolling (quads, calves, glutes) and active dynamic stretching. Focus on hip flexor mobility and thoracic spine rotation.
-* **Waarom:** *With a TSB of -17.1 and a high-volume block underway, a complete rest day ensures supercompensation and prevents overreaching, priming you for the next quality block.*
+### 🥉 Prioriteit 3: Cycling - VO2max Cycling Capacity Intervals
+* **Intensiteit:** `Zone 5 (110-120% FTP, 275-300W / RPE 9/10)`
+* **Workout details:** 15-minute warm-up including 3x 30-sec fast-cadence spin-ups. Main Set: 2 blocks of 10x (30 seconds at 290W / 30 seconds easy recovery spin). Take 5 minutes of light spinning recovery between blocks. 10-minute warm-down.
+* **Waarom:** *This high-challenge session directly targets your 5-minute VO2max power goal. However, it is ranked third and is ONLY recommended if you feel subjectively phenomenal, as your training metrics suggest you are carrying too much fatigue to hit these numbers optimally.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Yesterday's massive load of 137 TSS over 2.39 hours of cycling has left you highly fatigued. With a current TSB of -17.1, your daily load must be strictly managed. HRV is stable at 56 ms, but the lack of sleep data and heavy residual fatigue from yesterday means a high-intensity session is strictly contraindicated today.
+Today is August 13. Your current fatigue (ATL) is 57.1 against a fitness (CTL) of 40.0, leaving you with an acute Form (TSB) of -17.1. This is a significant fatigue deficit. Since we have no Garmin sleep score or HRV data to clear you for high-intensity work today, we must assume you are carrying residual strain from your 4-session load of 137 on August 11. Yesterday's rest day was critical, but a TSB of -17.1 dictates caution today to avoid pushing into the overreaching danger zone.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-In the current 21-day training block, you have accumulated 1,038 TSS over 16.35 hours. Your adaptation rate is strong, but fatigue (ATL: 57.1) has risen significantly. Your Form (TSB: -17.1) is deep in the negative zone. This is a critical accumulation phase, and we must protect your baseline to prevent crossing the absolute TSB limit of -30.
+Over the last 21 days, you successfully completed 17 sessions totaling 16.35 hours and 1038 TSS. Your volume is highly consistent, driven heavily by e-bike commuting and regular performance rides. However, with only 3 running sessions in this block, your running-specific progression is lagging behind your cycling development. We must shift the acute focus toward running volume without adding excessive high-intensity stress that your current -17.1 TSB cannot absorb.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Your current CTL is 40.0. To reach your target of 60, we must maintain a safe progression rate of +1 to +2 CTL per week. Your long-term consistency is solid, supported by your massive e-bike commuting baseline. We must preserve this engine by prioritizing aerobic development and strength over excessive high-intensity training.
+Your long-term CTL trend stands at 40.0. To reach your target fitness of 60 safely, we are aiming for a controlled ramp rate of +1 to +2 CTL per week. Your aerobic baseline is exceptionally wide due to daily e-bike commutes, which handles the foundation of your 70% pyramidal distribution. To convert this base into a 5km run PR and 5-min/20-min cycling power breakthroughs, we must progressively overload your sport-specific metabolic systems through structured, periodized blocks.

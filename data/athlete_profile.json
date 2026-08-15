@@ -9,12 +9,12 @@
   "body": {
     "age": 31,
     "height_cm": 183,
-    "weight_kg": 76
+    "weight_kg": 79.3
   },
   "performance": {
     "cycling": {
-      "ftp_watts": 250,
-      "ftp_wkg": 3.29,
+      "ftp_watts": 258,
+      "ftp_wkg": 3.26,
       "target_metrics": [
         "5min_power",
         "20min_power"

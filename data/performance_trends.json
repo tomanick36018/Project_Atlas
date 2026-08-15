@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-15 12:04:29.625797",
+  "generated": "2026-08-15 13:23:56.721646",
   "cycling": {
-    "rides_last_180_days": 30,
+    "rides_last_180_days": 31,
     "best_ftp": 246,
     "best_5min_power": null,
-    "best_wprime": 20619,
+    "best_wprime": 21006,
     "best_peak_power": 1041
   }
 }

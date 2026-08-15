@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-15 12:04:29.661669",
+  "generated": "2026-08-15 13:23:56.754252",
   "profile_config": {
     "athlete": {
       "sports": [
@@ -53,11 +53,11 @@
   },
   "current_training_block": {
     "period_days": 21,
-    "start": "2026-07-22",
-    "end": "2026-08-11",
-    "sessions": 17,
-    "hours": 16.35,
-    "training_load": 1038,
+    "start": "2026-07-26",
+    "end": "2026-08-15",
+    "sessions": 16,
+    "hours": 15.64,
+    "training_load": 1016,
     "running_sessions": 3,
     "cycling_sessions": 8,
     "ebike_sessions": 4,
@@ -3065,22 +3065,41 @@
         "distance_km": 0
       },
       "quality": false
+    },
+    "2026-08-15": {
+      "sessions": 1,
+      "training_load": 78,
+      "hours": 0.96,
+      "distance_km": 29.5,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 29.5
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": true
     }
   },
   "performance_trends": {
-    "generated": "2026-08-15 12:04:29.625797",
+    "generated": "2026-08-15 13:23:56.721646",
     "cycling": {
-      "rides_last_180_days": 30,
+      "rides_last_180_days": 31,
       "best_ftp": 246,
       "best_5min_power": null,
-      "best_wprime": 20619,
+      "best_wprime": 21006,
       "best_peak_power": 1041
     }
   },
   "fitness_state": {
-    "CTL": 40.026054,
-    "ATL": 57.14792,
-    "resting_hr": 51,
+    "CTL": 38.225155,
+    "ATL": 42.65599,
+    "resting_hr": 48,
     "weight": 73.0
   },
   "garmin_data": {

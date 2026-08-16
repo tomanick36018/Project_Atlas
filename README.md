@@ -1,49 +1,44 @@
-# 🏃‍♂️ Mijn AI Sportcoach Dashboard
+# 🧘‍♂️ Mijn AI Sportcoach - Post-Workout Herstel Rapport
 
-*Laatst bijgewerkt: 2026-08-16 05:35:19*
+*Gegenereerd na de training op: 2026-08-16 12:59:25*
 
-## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
-* **Fitheid (CTL - Doel 60):** `38.2` / `60` (`63.7%` behaald)
-* **Vermoeidheid (ATL):** `42.7` | **Vorm (TSB):** `-4.4`
-* **Status:** **🟢 Optimaal Trainingsvenster**
+## 📊 Trainingsstatus & Garmin Statistieken
+* **Fitheid (CTL):** `42.3` / `60` (`70.6%` behaald) | **Vermoeidheid (ATL):** `65.3` | **Vorm (TSB):** `-23.0`
 * **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (58 ms)`
 
 ---
 
-## 📋 Coach Verdict & Advies voor Vandaag
-> **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
+## 📋 Beoordeling van de Training (Coach Feedback)
+> **Mijn gevoel na de training:** *"Nog even goed doorgefietst na de ftptest van gisteren. Het voelt alsof ik gisteren niet allout ben gegaan. Morgen rust en dan nog 2 dagen prikkels voor ik begin met taper?"*
 > 
-> Because you completed a quality cycling session yesterday, today is strictly an aerobic consolidation or strength day. We will not risk injury or overtraining with a high-intensity session. I highly recommend Priority 1: a targeted Zone 2 Aerobic Base Run to address your running volume deficit, keeping your heart rate capped strictly at 145 bpm. If your lower body joints feel any residual tightness from yesterday, pivot to Priority 2 (Strength) to build high-torque capacity, or Priority 3 for active recovery.
+> Your execution of today's 213 TSS ride demonstrates immense engine capacity, but stacking this heavy volume immediately after an FTP test is a high-risk coaching choice. I do not care if you felt you had extra gear yesterday; a 3.3-hour ride at this load drains muscle glycogen and inflicts significant micro-damage regardless of perception. Your decision to rest tomorrow is the only logical path forward. We must honor this rest day to allow your HRV (currently stable at 58 ms) to recover before we apply the final two days of stimulation prior to your taper.
 
 ---
 
-## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
-*Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
+## 🥗 Jouw Herstelprotocol voor Vandaag
+*Volg deze stappen nauwkeurig op om je herstel te maximaliseren en blessures te voorkomen:*
 
-### 🥇 Prioriteit 1: Running - Zone 2 Aerobic Base Run
-* **Intensiteit:** `Zone 2 (HR 130 - 145 bpm)`
-* **Workout details:** Warm-up: 5 mins easy walking. Main set: 45 minutes of continuous running strictly within Zone 2 (under 145 bpm, RPE 4-5/10). Focus on a high cadence (170-180 spm) and light footstrikes. Cool-down: 5 mins walking and light static stretching.
-* **Waarom:** *This session addresses your acute running volume deficit while respecting yesterday's cycling load. Keeping the intensity strictly in Zone 2 ensures aerobic development without generating excessive neural fatigue.*
+### 📋 Stap 1: Beoordeling van de Training
+Completed 101.3 km cycling (213 TSS, 3.29 hours) designated as a quality session. Power output was sustained, indicating superb aerobic endurance and fat oxidation capacity. However, executing this heavy endurance block post-FTP test means you have completely depleted your Type I and Type II muscle glycogen reserves and induced significant mechanical stress on your lower body.
 
-### 🥈 Prioriteit 2: Strength - High-Torque & Core Strength Session
-* **Intensiteit:** `RPE 8/10 (Heavy)`
-* **Workout details:** Warm-up: 10 mins mobility. Main lifts: Barbell Back Squat (3 sets x 5 reps at 75-80% 1RM), Heavy Sandbag Clean & Carry (3 sets x 50 meters), Kettlebell Swings (3 sets x 15 reps with 20kg). Core: 3 sets of 1-min Planks. Upper body aesthetics: 3 sets x 10 Bench Press.
-* **Waarom:** *Improves neuromuscular force production to support both cycling torque and running power. Strength training today bypasses high cardiovascular stress while capitalizing on your recovered state.*
+### 🥛 Stap 2: Voeding & Hydratatie (Eten & Drinken)
+Immediate intervention required: Consume 1.2g of high-glycemic carbohydrates per kg of bodyweight (approx. 95g) paired with 30g of fast-digesting whey protein isolate within the first 45 minutes to halt muscle protein breakdown and accelerate glycogen resynthesis. Rehydrate with 1.5L of water for every kg of bodyweight lost, heavily supplemented with sodium (at least 1000mg Na+) to restore cellular fluid balance and prevent cramping.
 
-### 🥉 Prioriteit 3: Cycling - Active Recovery Spin & Flush
-* **Intensiteit:** `Zone 1 (Under 140 Watts / Under 120 bpm)`
-* **Workout details:** Duration: 30-40 minutes on the trainer. Keep the resistance very low and maintain a smooth, fluid cadence of 90-95 rpm. The goal is zero cardiovascular stress (RPE < 2/10).
-* **Waarom:** *If your muscles feel heavy or sore from yesterday's quality session, this recovery ride will promote blood flow and accelerate metabolic waste clearance without adding training stress.*
+### 🧘‍♂️ Stap 3: Spieren & Mobiliteit (Stretching & Mobiliteit)
+Focus strictly on parasympathetic nervous system activation. Perform 15 minutes of low-intensity, active-isolated stretching. Target the hip flexors (psoas, rectus femoris) and glutes which were shortened for over 3 hours. Use a foam roller for light myofascial release on the quadriceps, calves, and thoracic spine. Avoid deep, painful static stretching on heavily micro-torn muscle fibers tonight.
+
+### 🛌 Stap 4: Slaap & Vooruitblik naar Morgen
+Tomorrow is a mandatory, absolute rest day. No active recovery rides, no runs, and minimal physical load. Prioritize 9 hours of quality sleep tonight: keep the room at 18 degrees Celsius, eliminate screens 1 hour before bed, and focus on hydration. Your HRV of 58 ms will likely dip tomorrow morning as today's systemic stress registers; sleep is your primary anabolic weapon to prepare your body for the final 2-day pre-taper block.
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Yesterday's session on August 15th was a high-intensity, structured quality cycling session (Load: 78). Your body is currently processing this acute training stress. With a calculated Form (TSB) of -4.5, you are in a neutral-to-fatigued state. Resting HR is stable at 46 bpm and your HRV is holding at a healthy 58 ms. While you have recovery headroom, stringing back-to-back high-intensity sessions is highly counterproductive under our strict 70/30 pyramidal training distribution rules.
+Today's performance was an massive systemic shock: 101.3 km of cycling yielding 213 TSS over 3.29 hours. This comes immediately after yesterday's 78 TSS FTP test. While your subjective notes suggest you felt you 'did not go all-out' during the test, your physiological reality is different. Your acute training load (ATL) has spiked to 65.3, pushing your Form (TSB) down to -23. This puts you in a state of high acute fatigue, right on the edge of non-functional overreaching.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the current 21-day block, you have accumulated 16 sessions across 15.6 hours, yielding a total training load of 1016. Your ATL sits at 42.7, slightly outstripping your CTL of 38.2. This indicates a well-timed, progressive stimulus. However, with only 3 running sessions compared to 8 cycling and 4 e-bike sessions, your running progression is lagging behind. To reach your 5km goal, we must systematically introduce high-quality running volume without overloading your musculoskeletal system.
+Over the current 21-day block, you have accumulated 1,076 TSS across 17.1 hours. The volume is highly concentrated in cycling (8 sessions) and e-bike commuting (4 sessions), with minimal running stimulus (3 sessions). Your CTL has risen to 42.3. However, with your ATL at 65.3, your acute-to-chronic workload ratio (ACWR) is temporarily elevated. The muscular and metabolic stress of this 3-week block is peaking today, making immediate recovery highly critical before any final pre-taper stimulations.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Your long-term CTL trend sits at 38.2. To safely ramp to your target fitness of 60 CTL, we must maintain a strict, progressive ramp rate of +1 to +2 CTL per week. Your massive low-intensity engine built from e-bike commuting provides a strong aerobic baseline, but to translate this into a higher FTP (current: 258W) and improved running pace, we must strictly respect the pyramidal distribution: 70% of your load must remain aerobic (Zone 2) or heavy strength-focused, keeping high-intensity sessions highly structured and limited.
+Looking at the 180-day macro trend, your progression toward the target CTL of 60 is moving in the right direction, but must be managed with precision. Your aerobic base is exceptionally robust due to consistent cycling mileage. However, to safely hit your running goals (5km speed and interval quality) and your cycling power targets, we must address the distribution: running volume is too low to support high-intensity pacing safely without injury. The upcoming taper phase must prioritize neuromuscular sharpness while shedding this accumulated fatigue.

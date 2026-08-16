@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-15 13:23:56.754252",
+  "generated": "2026-08-16 05:35:00.793669",
   "profile_config": {
     "athlete": {
       "sports": [
@@ -11,12 +11,12 @@
     "body": {
       "age": 31,
       "height_cm": 183,
-      "weight_kg": 76
+      "weight_kg": 79.3
     },
     "performance": {
       "cycling": {
-        "ftp_watts": 250,
-        "ftp_wkg": 3.29,
+        "ftp_watts": 258,
+        "ftp_wkg": 3.26,
         "target_metrics": [
           "5min_power",
           "20min_power"
@@ -3087,7 +3087,7 @@
     }
   },
   "performance_trends": {
-    "generated": "2026-08-15 13:23:56.721646",
+    "generated": "2026-08-16 05:35:00.757916",
     "cycling": {
       "rides_last_180_days": 31,
       "best_ftp": 246,
@@ -3099,12 +3099,12 @@
   "fitness_state": {
     "CTL": 38.225155,
     "ATL": 42.65599,
-    "resting_hr": 48,
+    "resting_hr": 46,
     "weight": 73.0
   },
   "garmin_data": {
     "sleep_score": "",
     "hrv_status": "",
-    "hrv_value": 57
+    "hrv_value": 58
   }
 }

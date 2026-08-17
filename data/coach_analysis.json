@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-17 05:41:24.622349",
+  "generated": "2026-08-17 20:03:55.508582",
   "athlete_inputs": {
-    "sport_preference": "",
-    "athlete_notes": "",
+    "sport_preference": "Rust / Herstel",
+    "athlete_notes": "Vandaag rust en morgen wil ik nog een sessie doen om mijn 2:30min waarde met de fiets op te peppen om die volgende week maandag te gebruiken in een wedstrijd. Dus welke workout morgen en mag dit met mijn huidige vorm en doel?",
     "sleep_score": "",
     "hrv_status": "",
     "is_post_workout": false
@@ -12,31 +12,31 @@
     "ATL": 65.3,
     "Form_TSB": -23.0
   },
-  "daily_load_assessment": "Yesterday's massive 3.29-hour performance ride (213 load), coming immediately after a hard 78-load session, has spiked your fatigue. Your acute daily load is highly elevated, pushing your current Form (TSB) down to a critical -23.0. This places you in a deep fatigue state where immediate recovery is non-negotiable to prevent overtraining or injury.",
-  "acute_status_assessment_3_weeks": "Over the past 21 days, you have logged 16 sessions and accumulated 1,076 TSS. Your ATL has escalated to 65.3. While this shows excellent training consistency and load tolerance, your adaptation rate is now bottlenecked by this acute fatigue accumulation. We must consolidate these gains before attempting another hard block.",
-  "sport_trend_assessment_6_months": "Your long-term CTL trend is currently progressing well at 42.3. To safely reach your target CTL of 60, we must stick to a disciplined ramp rate of +1 to +2 CTL per week. Your aerobic baseline is solid due to commuting, but to protect your running and cycling peaks, macro-progression must prioritize avoiding prolonged periods in the extreme fatigue zone (TSB below -25).",
-  "coach_verdict": "I am prescribing Option 1 (Active Recovery Spin) as your primary focus today. With a TSB of -23.0, any high-intensity or heavy leg-loading work is strictly forbidden. Elite performance is built on disciplined recovery; executing a low-stress flush today is the only path that ensures you can hit your next quality interval session with the required power.",
+  "daily_load_assessment": "Yesterday you executed a massive 213-load cycling session, pushing your acute fatigue (ATL) to 65.3 and plunging your TSB (Form) to -23. This is deep overload territory. Any high-intensity effort today is strictly forbidden. Complete rest is the only path to prevent injury, allow your muscle fibers to repair, and prepare your body for tomorrow's priming session.",
+  "acute_status_assessment_3_weeks": "Over the past 21 days, you have accumulated 1,076 load points across 16 sessions. Your CTL has risen to 42.3, but acute training stress has accumulated much faster than your rate of adaptation. This has placed you in a highly fatigued state (Form: -23). You have built a solid aerobic baseline, but we must now transition to shedding fatigue to reveal your true performance capacity.",
+  "sport_trend_assessment_6_months": "Your long-term sport trend is highly positive as you step up toward your target CTL of 60. However, progress must be managed through structured step-back weeks. Your e-bike commuting provides a massive low-intensity baseline, but to justify the overall training load and ensure safe progression, we must respect the 70/30 pyramidal distribution. We are entering a crucial tapering window to peak for your race next Monday.",
+  "coach_verdict": "Today, you rest. Absolutely no exceptions. Regarding tomorrow (Tuesday): Yes, you are cleared for a highly specific 2:30min priming session, but under strict constraints to avoid deepening your fatigue. It must be a low-volume, high-potency taper session: 2x 2:30min efforts at target race power (Zone 5/6, approx. 320-340W) with massive recovery (6-8 minutes) between them. Total session duration must not exceed 45 minutes. This will prime your anaerobic capacity and neuromuscular pathways without generating significant training load, leaving you fresh and explosive for next Monday's race.",
   "today_options": {
     "priority_1": {
-      "session_title": "Active Recovery Spin",
-      "sport_type": "Cycling",
-      "intensity": "Zone 1",
-      "workout_details": "Duration: 45 minutes on flat terrain or trainer. Target power: under 140 Watts (HR < 120 bpm). Maintain a smooth, high cadence of 90-95 RPM. Zero hard efforts, zero hill climbs.",
-      "reason": "This is the highest priority today to promote lower-body blood flow, clear metabolic waste, and relieve muscle tightness from yesterday's 101km ride without adding further neurological or cardiovascular fatigue."
+      "session_title": "Complete Rest and Targeted Myofascial Release",
+      "sport_type": "Recovery",
+      "intensity": "Zone 0 / RPE 1/10",
+      "workout_details": "Zero physical training. Focus on 20 minutes of targeted foam rolling (quads, calves, glutes, and thoracic spine) and deep breathing exercises. Hydrate aggressively (35-40ml of water per kg of bodyweight) and ensure high protein intake (2.0g/kg) to maximize muscle tissue repair.",
+      "reason": "With a TSB of -23 and yesterday's brutal 3.3-hour ride, any physical training today will delay recovery, impair adaptation, and compromise the quality of tomorrow's crucial race-priming efforts."
     },
     "priority_2": {
-      "session_title": "Core & Upper Body Aesthetics Strength",
+      "session_title": "Joint Mobility & Core Stabilization",
       "sport_type": "Strength",
-      "intensity": "RPE 6/10",
-      "workout_details": "3 rounds of: 10 Barbell Bench Press (light-moderate load), 10 Overhead Press, 15 Kettlebell Halos, 60-sec Plank. Complete with 3 sets of 12 Barbell Bicep Curls. Absolutely no heavy squats, deadlifts, or leg exercises.",
-      "reason": "This option targets your aesthetic and core stability goals while completely sparing your legs. It maintains your strength training habit without impacting your running- or cycling-specific recovery."
+      "intensity": "RPE 3/10",
+      "workout_details": "3 rounds of: 10x Cat-Cow, 10x World's Greatest Stretch (per side), 45-second RKC Plank, 15x Glute Bridges, and 10x Bird-Dogs. Focus purely on breathing, pelvic control, and movement quality. No added resistance.",
+      "reason": "Maintains kinetic chain alignment, core activation, and hip mobility without taxing the cardiovascular system, keeping you moving fluidly for tomorrow's high-torque power efforts."
     },
     "priority_3": {
-      "session_title": "Total Rest & Deep Mobility",
-      "sport_type": "Recovery",
-      "intensity": "Zone 0",
-      "workout_details": "Complete physical rest. Spend 20-30 minutes on targeted foam rolling and dynamic mobility, focusing on hip flexors, quads, calves, and thoracic spine extension. Prioritize hydration and high-quality protein/carb intake.",
-      "reason": "If you feel deep systemic fatigue or joint soreness from yesterday's volume, a full rest day is the most logical, data-driven option to quickly bounce back into positive TSB territory."
+      "session_title": "Active Recovery Spin",
+      "sport_type": "Cycling",
+      "intensity": "Zone 1 (<55% FTP / <142 Watts)",
+      "workout_details": "30 minutes of exceptionally light spinning on a completely flat route or indoor trainer. Keep cadence high (90-95 RPM) and power strictly under 140W. Heart rate must remain below 120 BPM.",
+      "reason": "Only to be chosen if you feel excessively stiff. The goal is simply to promote blood flow and accelerate metabolic waste clearance. However, passive recovery (Priority 1) remains superior today."
     }
   },
   "post_workout_recovery": {}

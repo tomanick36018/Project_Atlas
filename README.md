@@ -1,49 +1,49 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-08-17 20:03:55*
+*Laatst bijgewerkt: 2026-08-18 05:36:45*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL - Doel 60):** `42.3` / `60` (`70.6%` behaald)
 * **Vermoeidheid (ATL):** `65.3` | **Vorm (TSB):** `-23.0`
 * **Status:** **🟢 Optimaal Trainingsvenster**
-* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (48 ms)`
+* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (None ms)`
 
 ---
 
 ## 📋 Coach Verdict & Advies voor Vandaag
-> **Mijn gevoel vanochtend:** *"Vandaag rust en morgen wil ik nog een sessie doen om mijn 2:30min waarde met de fiets op te peppen om die volgende week maandag te gebruiken in een wedstrijd. Dus welke workout morgen en mag dit met mijn huidige vorm en doel?"*
+> **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> Today, you rest. Absolutely no exceptions. Regarding tomorrow (Tuesday): Yes, you are cleared for a highly specific 2:30min priming session, but under strict constraints to avoid deepening your fatigue. It must be a low-volume, high-potency taper session: 2x 2:30min efforts at target race power (Zone 5/6, approx. 320-340W) with massive recovery (6-8 minutes) between them. Total session duration must not exceed 45 minutes. This will prime your anaerobic capacity and neuromuscular pathways without generating significant training load, leaving you fresh and explosive for next Monday's race.
+> We are playing on the edge of the red zone with a TSB of -23.0. Do not attempt a quality cardio interval session today. Your top priority is to build running structural tolerance at a strictly capped, low cardiovascular cost. If your lower body feels structurally too battered from the 101km ride on August 16, pivot immediately to sport-specific strength training or active recovery cycling.
 
 ---
 
 ## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 🥇 Prioriteit 1: Recovery - Complete Rest and Targeted Myofascial Release
-* **Intensiteit:** `Zone 0 / RPE 1/10`
-* **Workout details:** Zero physical training. Focus on 20 minutes of targeted foam rolling (quads, calves, glutes, and thoracic spine) and deep breathing exercises. Hydrate aggressively (35-40ml of water per kg of bodyweight) and ensure high protein intake (2.0g/kg) to maximize muscle tissue repair.
-* **Waarom:** *With a TSB of -23 and yesterday's brutal 3.3-hour ride, any physical training today will delay recovery, impair adaptation, and compromise the quality of tomorrow's crucial race-priming efforts.*
+### 🥇 Prioriteit 1: Running - Structural Tolerance Aerobic Run
+* **Intensiteit:** `Zone 2 (Strictly under 145 BPM / RPE 4-5)`
+* **Workout details:** 35-minute continuous flat road run. Warm up with 5 minutes of dynamic mobility. Maintain a strict heart rate ceiling of 145 bpm (Zone 2). Cadence target: 175-180 spm. Cool down with a 5-minute walk and active calf stretching.
+* **Waarom:** *Your 3-week block shows only 3 running sessions, leaving your biomechanical running tolerance lagging. A short, strictly capped Zone 2 run adds critical sport-specific frequency while keeping cardiovascular stress minimal enough to allow ongoing systemic recovery.*
 
-### 🥈 Prioriteit 2: Strength - Joint Mobility & Core Stabilization
-* **Intensiteit:** `RPE 3/10`
-* **Workout details:** 3 rounds of: 10x Cat-Cow, 10x World's Greatest Stretch (per side), 45-second RKC Plank, 15x Glute Bridges, and 10x Bird-Dogs. Focus purely on breathing, pelvic control, and movement quality. No added resistance.
-* **Waarom:** *Maintains kinetic chain alignment, core activation, and hip mobility without taxing the cardiovascular system, keeping you moving fluidly for tomorrow's high-torque power efforts.*
+### 🥈 Prioriteit 2: Strength - Torque and Core Power Gym Session
+* **Intensiteit:** `Moderate-Heavy Strength (RPE 7-8)`
+* **Workout details:** 1. Barbell Back Squats: 3 sets x 5 reps @ 75% 1RM (focus on explosive drive). 2. Heavy Sandbag (70kg) or Kettlebell (20kg) Clean and Press: 3 sets x 6 reps. 3. Weighted Kettlebell Swings: 3 sets x 12 reps (for glute/hamstring power). 4. Pallof Presses & Plank variations: 3 sets of 45-second holds.
+* **Waarom:** *This workout completely bypasses cardiorespiratory fatigue while directly building the glute, hamstring, and core power required to sustain high-torque cycling and athletic running form. It targets your secondary aesthetic and functional strength goals safely.*
 
-### 🥉 Prioriteit 3: Cycling - Active Recovery Spin
-* **Intensiteit:** `Zone 1 (<55% FTP / <142 Watts)`
-* **Workout details:** 30 minutes of exceptionally light spinning on a completely flat route or indoor trainer. Keep cadence high (90-95 RPM) and power strictly under 140W. Heart rate must remain below 120 BPM.
-* **Waarom:** *Only to be chosen if you feel excessively stiff. The goal is simply to promote blood flow and accelerate metabolic waste clearance. However, passive recovery (Priority 1) remains superior today.*
+### 🥉 Prioriteit 3: Recovery - Active Recovery Active Flush Spin
+* **Intensiteit:** `Zone 1 (Under 140W / HR under 120 BPM)`
+* **Workout details:** 45 minutes on the indoor trainer. Keep resistance low (under 140 Watts, well below Zone 2). Focus entirely on a high, fluid pedal revolutions-per-minute (cadence 90-95 RPM). No hill climbs or high-torque efforts.
+* **Waarom:** *If your legs feel heavily fatigued from the massive endurance load on August 16, a pure Zone 1 flush will promote lower body blood flow and metabolic clearing without adding any structural or systemic training stress.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Yesterday you executed a massive 213-load cycling session, pushing your acute fatigue (ATL) to 65.3 and plunging your TSB (Form) to -23. This is deep overload territory. Any high-intensity effort today is strictly forbidden. Complete rest is the only path to prevent injury, allow your muscle fibers to repair, and prepare your body for tomorrow's priming session.
+Your immediate training stress is exceptionally high. Following your massive 213 TSS cycling performance on August 16, your current ATL is 65.3 against a CTL of 42.3, leaving your TSB (Form) at a deep -23.0. With no Garmin HRV or sleep metrics sync available to prove systemic readiness, the data orders absolute cardiorespiratory protection. High-intensity performance intervals are strictly off the table today.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the past 21 days, you have accumulated 1,076 load points across 16 sessions. Your CTL has risen to 42.3, but acute training stress has accumulated much faster than your rate of adaptation. This has placed you in a highly fatigued state (Form: -23). You have built a solid aerobic baseline, but we must now transition to shedding fatigue to reveal your true performance capacity.
+Over the last 21 days, you have logged a substantial 1,076 training load across 17.1 hours. However, your sports split is highly skewed, with only 3 running sessions compared to 8 performance cycling sessions. This imbalance, combined with your TSB hovering near our absolute safety floor of -30.0, indicates you are in a state of high acute fatigue. We must stabilize your load progression before you overreach.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Your long-term sport trend is highly positive as you step up toward your target CTL of 60. However, progress must be managed through structured step-back weeks. Your e-bike commuting provides a massive low-intensity baseline, but to justify the overall training load and ensure safe progression, we must respect the 70/30 pyramidal distribution. We are entering a crucial tapering window to peak for your race next Monday.
+Your long-term fitness trend (CTL) sits at 42.3, moving steadily toward your macro target of 60.0. The consistent e-bike commuting baseline has provided an exceptional low-intensity aerobic foundation. However, to translate this into a faster 5km run pace and higher 5-minute/20-minute cycling power, we must systematically increase running frequency and lower body torque without causing a physiological crash.

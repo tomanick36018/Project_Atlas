@@ -1,49 +1,58 @@
-# 🏃‍♂️ Mijn AI Sportcoach Dashboard
+# 🧘‍♂️ Mijn AI Sportcoach - Post-Workout Herstel Rapport
 
-*Laatst bijgewerkt: 2026-08-18 11:06:10*
+*Gegenereerd na de training op: 2026-08-18 12:26:29*
 
-## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
-* **Fitheid (CTL - Doel 60):** `42.3` / `60` (`70.6%` behaald)
-* **Vermoeidheid (ATL):** `65.3` | **Vorm (TSB):** `-23.0`
-* **Status:** **🟢 Optimaal Trainingsvenster**
+## 📊 Trainingsstatus & Garmin Statistieken
+* **Fitheid (CTL):** `42.3` / `60` (`70.4%` behaald) | **Vermoeidheid (ATL):** `59.7` | **Vorm (TSB):** `-17.5`
 * **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (None ms)`
 
 ---
 
-## 📋 Coach Verdict & Advies voor Vandaag
-> **Mijn gevoel vanochtend:** *"3 keer 2:30 min all out met een surge aub al laatste training voor belcanto volgende week. Daarna taper"*
+## 📋 Beoordeling van de Training (Coach Feedback)
+> **Mijn gevoel na de training:** *"Laatste harde training zit erop. Vertel mij hoe ik moet herstellen, wat ik moet voor taper tot volgende maandag en geef dan een uitgebreid pacingplan voor de belacante classic met 8 ronds van 6km en de sulferberg aan de hand van mijn laatsye resultaten"*
 > 
-> I am granting your request for the 3x 2:30 'all-out with a surge' session as Priority 1, but under strict elite coach conditions. This is a high-risk, high-reward neuromuscular opener. If your legs feel blocked or heavy during the warm-up, you must immediately abort and pivot to Priority 2. If you execute Priority 1, you must immediately transition into a strict taper starting tomorrow. No exceptions.
+> Vlijmscherp werk geleverd. De laatste zware prikkel zit erop. Je TSB van -17.5 bewijst dat je diep bent gegaan, maar vanaf nu tolereren we geen extra vermoeidheid meer. Je focus verschuift 100% naar supercompensatie. Hieronder vind je jouw herstel-, taper- en pacingplan voor de Belacante Classic (8 ronden van 6km = 48km, inclusief de Sulferberg).
+
+TAPERPLAN (Dinsdag 18/08 t/m Maandag 24/08):
+- Woensdag 19/08: Volledige passieve rust. Geen e-bike, geen krachttraining. Focus op slaap.
+- Donderdag 20/08: Active Recovery Spin. 45 min op de weg (Zone 1, <150W). Voeg 3 korte 'openers' toe van 15 seconden op 120% FTP (cadans >100) om de spierspanning te behouden zonder lactaat op te bouwen.
+- Vrijdag 21/08: Volledige rust of optioneel lichte stretching/mobiliteit.
+- Zaterdag 22/08: Activatiesessie (Priming). 40 min Zone 2. Inclusief 1x 2 min op FTP (258W) en 2x 30 sec op beoogde Sulferberg-power (~310W). Dit reactiveert je anaerobe systeem en vult je bloedvolume aan.
+- Zondag 23/08: Actief herstel. 30 min zeer rustig peddelen op souplesse.
+- Maandag 24/08: RACE DAY.
+
+PACINGPLAN - BELACANTE CLASSIC (8 RONDEN x 6KM & SULFERBERG):
+- De Sulferberg is een korte, venijnige klim. Gezien je FTP van 258W (3.53 W/kg bij 73kg) mag je de klim absoluut niet op 'all-out' anaerobe capaciteit oprijden in de eerste 3 ronden. Dit is een gegarandeerde tactische zelfmoord.
+- Target Pacing Sulferberg: Richt op 290W tot 325W (4.0 - 4.5 W/kg) voor de duur van de klim (afhankelijk van wind/tempo waarschijnlijk 1.5 tot 2 minuten). Schakel direct terug naar een hoge cadans (95+) zodra de stijging afvlakt.
+- Pacing Vlakke Gedeelten: Bescherm jezelf. De overige 5 km van de ronde moet je in de wielen doorbrengen op Zone 2/3 vermogen (150W - 200W). Vermijd het rijden op de kop en reageer alleen op serieuze ontsnappingen vanaf ronde 5.
+- Laatste 2 Ronden: Hier mag je het overgebleven anaerobe budget aanspreken. Als je in de kopgroep zit, trek je de Sulferberg op met >350W om het verschil te maken.
 
 ---
 
-## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
-*Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
+## 🥗 Jouw Herstelprotocol voor Vandaag
+*Volg deze stappen nauwkeurig op om je herstel te maximaliseren en blessures te voorkomen:*
 
-### 🥇 Prioriteit 1: Cycling - Pre-Belcanto VO2max Surges (Athlete Choice)
-* **Intensiteit:** `Zone 5 / Zone 6 (Max Effort)`
-* **Workout details:** Warm-up: 15 mins steady Zone 2 building to Zone 3, including 3x 30-sec high-cadence spins (>110 RPM) to prime the nervous system. Main Set: 3x [2:30 min all-out effort, structured as: start with an explosive 15-second surge/sprint standing out of the saddle (>450W), settle immediately into your maximum sustainable 2-min power (~320-350W), and finish the last 15 seconds with a maximal seated surge to empty the tank]. Recovery: 8 to 10 minutes of extremely light spinning (Zone 1, <130W) between efforts to fully restore anaerobic capacity. Cool-down: 10 mins Zone 1 spinning.
-* **Waarom:** *Directly honors your specific request for a final hard anaerobic/VO2max stimulus before next week's Belcanto race, inducing a final supercompensation spike before the taper.*
+### 📋 Stap 1: Beoordeling van de Training
+De fietstraining van vandaag (80 TSS, 0.95u, 27 km) was een kwalitatief hoogwaardige sessie waarbij je effectief je aerobe en anaerobe vermogenszones hebt geprikkeld. Het herhaaldelijk leveren van vermogen rond of boven je FTP heeft de spierglycogeenvoorraden flink uitgeput en heeft geleid tot micro-rupturen in de actieve spiervezels (quadriceps en glutes). De compliance was uitstekend, maar de fysiologische tol is nu zichtbaar in je TSB.
 
-### 🥈 Prioriteit 2: Cycling - Aerobic Engine Maintenance & Flush
-* **Intensiteit:** `Zone 2`
-* **Workout details:** Duration: 60-75 minutes flat, steady state ride. Target Power: 140-170W (55-65% FTP). Target Cadence: 90-95 RPM. Focus on fluid, round pedaling dynamics. Keep your heart rate strictly below 140 bpm.
-* **Waarom:** *The safe alternative if your warm-up reveals that the TSB of -23.0 has left your legs too flat or fatigued to hit the high-target power numbers required for Priority 1.*
+### 🥛 Stap 2: Voeding & Hydratatie (Eten & Drinken)
+Onmiddellijk herstelprotocol: Drink binnen 30 minuten na de training 500ml water met een elektrolytentablet om het natriumverlies te compenseren. Consumeer een herstelshake met een 3:1 of 4:1 verhouding van koolhydraten t.o.v. eiwitten: mik op minstens 80g snelle koolhydraten (om de glycogeenvoorraad in de lever en spieren direct aan te vullen voor de taper) en 25-30g hoogwaardige eiwitten (whey/caseïne) voor spierherstel. Eet vanavond een volwaardige maaltijd met complexe koolhydraten (zoete aardappel/zilvervliesrijst) en magere eiwitten.
 
-### 🥉 Prioriteit 3: Recovery - Active Mobility & Complete Taper Preparation
-* **Intensiteit:** `RPE 1/10`
-* **Workout details:** 25 minutes of targeted myofascial release (foam rolling calves, quads, and thoracic spine) followed by hip mobility work (couch stretch, pigeon pose) and core stabilization (deadbugs, bird-dogs). No aerobic workload.
-* **Waarom:** *The ultimate conservative option if your subjective readiness is low, ensuring you carry zero extra muscular damage into the race taper.*
+### 🧘‍♂️ Stap 3: Spieren & Mobiliteit (Stretching & Mobiliteit)
+Focus op het herstellen van de spierlengte en het verminderen van neurologische tonus in de benen. Voer 3 sets uit van: 1. Foam rolling van de Quadriceps en IT-banden (60 sec per zijde), 2. Kneeling Hip Flexor Stretch (45 sec per zijde om de heupen te openen na de fietshouding), en 3. Calf/Achilles stretch tegen de muur (30 sec per kant). Vermijd extreem diepe, pijnlijke stretches om verdere micro-scheurtjes te voorkomen.
+
+### 🛌 Stap 4: Slaap & Vooruitblik naar Morgen
+Morgen staat volledig in het teken van fysiologische decompressie (Rust/Herstel). Je zult ontwaken met verhoogde spierstijfheid door de opeenvolging van trainingen. Prioriteer vanavond minimaal 8 tot 9 uur slaap om de afgifte van groeihormoon te maximaliseren. Als je Garmin HRV-status vannacht daalt, is dat een normale reactie op de belasting van vandaag, maar we willen dit richting het weekend zien herstellen naar je baseline. Morgen is een actieve rustdag: geen zware fysieke prikkels, focus op herstelvoeding.
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Today's daily outlook is defined by substantial acute fatigue. Your Form (TSB) is sitting at -23.0 following the massive 213 TSS performance ride on August 16. While you had a rest/non-riding day yesterday, neuromuscular recovery is still incomplete. However, because you are transitioning into a taper next week for the Belcanto race, we have a strategic window to execute one final high-intensity stimulus if, and only if, your subjective warm-up feels crisp.
+De trainingssessie van vandaag (2026-08-18) was een intensieve kwaliteitssessie van 0.95 uur met een trainingsbelasting (TSS) van 80 en een afstand van 27 km. Gezien de korte duur en de hoge TSS-opbrengst (Intensiteitsfactor ~0.92) heeft dit je acute vermoeidheid (ATL) naar 59.7 opgestuwd. Je huidige Form (TSB) staat nu op -17.5. Dit is een duidelijke indicator van functionele overreaching: de fysieke limiet voor deze trainingsblok is bereikt. Nu is herstel de absolute prioriteit om supercompensatie te bewerkstelligen.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the last 21 days, you have accumulated 1,076 training stress points across 17.1 hours. Your ATL is highly elevated at 65.3, outstripping your CTL of 42.3. This represents a classic functional overreaching phase designed to induce supercompensation. You have reached the absolute peak of this training block; further high-intensity load beyond today would risk injury and maladaptation.
+Over de afgelopen 21 dagen heb je een solide blok gedraaid met 16 sessies, 17.13 trainingsuren en 1101 TSS. Je hebt de 70/30 piramidale verdeling gerespecteerd met 6 kwaliteitssessies. Je CTL (Conditie) staat nu op 42.3, maar de ATL van 59.7 toont aan dat de acute vermoeidheid de fitheid overschaduwt. Om de geplande CTL-progressie richting de 60 veilig voort te zetten, moet deze vermoeidheid er nu systematisch uitgetraind worden via een gerichte taperingsfase richting volgende week maandag.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Your macro trend shows a solid upward trajectory toward your target CTL of 60. The massive low-intensity baseline from your consistent commuting has built a highly resilient aerobic base (the 70% pyramidal foundation), which allows you to tolerate these deep negative TSB drops and bounce back quickly during tapers. Your 5-minute and 20-minute power profiles are primed for a breakthrough once fatigue dissipates.
+De macro-trend over 180 dagen toont een stabiele, opwaartse curve. Je aerobe basis, versterkt door je regelmatige e-bike ritten, vormt een uitstekend fundament voor je kortere, explosievere doelen (5km lopen, 5-min/20-min fietsvermogen). Met een huidige CTL van 42.3 liggen we op schema, mits we deze taper perfect uitvoeren. Na de wedstrijd van maandag kunnen we de CTL-ramp rate weer oppakken met +1 tot +2 punten per week om de doelstelling van 60 CTL veilig te bereiken.

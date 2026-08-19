@@ -1,26 +1,43 @@
 {
-  "generated": "2026-08-18 12:26:29.416007",
+  "generated": "2026-08-19 05:37:47.930000",
   "athlete_inputs": {
-    "sport_preference": "Rust / Herstel",
-    "athlete_notes": "Laatste harde training zit erop. Vertel mij hoe ik moet herstellen, wat ik moet voor taper tot volgende maandag en geef dan een uitgebreid pacingplan voor de belacante classic met 8 ronds van 6km en de sulferberg aan de hand van mijn laatsye resultaten",
+    "sport_preference": "",
+    "athlete_notes": "",
     "sleep_score": "",
     "hrv_status": "",
-    "is_post_workout": true
+    "is_post_workout": false
   },
   "current_state": {
     "CTL": 42.3,
     "ATL": 59.7,
     "Form_TSB": -17.5
   },
-  "daily_load_assessment": "De trainingssessie van vandaag (2026-08-18) was een intensieve kwaliteitssessie van 0.95 uur met een trainingsbelasting (TSS) van 80 en een afstand van 27 km. Gezien de korte duur en de hoge TSS-opbrengst (Intensiteitsfactor ~0.92) heeft dit je acute vermoeidheid (ATL) naar 59.7 opgestuwd. Je huidige Form (TSB) staat nu op -17.5. Dit is een duidelijke indicator van functionele overreaching: de fysieke limiet voor deze trainingsblok is bereikt. Nu is herstel de absolute prioriteit om supercompensatie te bewerkstelligen.",
-  "acute_status_assessment_3_weeks": "Over de afgelopen 21 dagen heb je een solide blok gedraaid met 16 sessies, 17.13 trainingsuren en 1101 TSS. Je hebt de 70/30 piramidale verdeling gerespecteerd met 6 kwaliteitssessies. Je CTL (Conditie) staat nu op 42.3, maar de ATL van 59.7 toont aan dat de acute vermoeidheid de fitheid overschaduwt. Om de geplande CTL-progressie richting de 60 veilig voort te zetten, moet deze vermoeidheid er nu systematisch uitgetraind worden via een gerichte taperingsfase richting volgende week maandag.",
-  "sport_trend_assessment_6_months": "De macro-trend over 180 dagen toont een stabiele, opwaartse curve. Je aerobe basis, versterkt door je regelmatige e-bike ritten, vormt een uitstekend fundament voor je kortere, explosievere doelen (5km lopen, 5-min/20-min fietsvermogen). Met een huidige CTL van 42.3 liggen we op schema, mits we deze taper perfect uitvoeren. Na de wedstrijd van maandag kunnen we de CTL-ramp rate weer oppakken met +1 tot +2 punten per week om de doelstelling van 60 CTL veilig te bereiken.",
-  "coach_verdict": "Vlijmscherp werk geleverd. De laatste zware prikkel zit erop. Je TSB van -17.5 bewijst dat je diep bent gegaan, maar vanaf nu tolereren we geen extra vermoeidheid meer. Je focus verschuift 100% naar supercompensatie. Hieronder vind je jouw herstel-, taper- en pacingplan voor de Belacante Classic (8 ronden van 6km = 48km, inclusief de Sulferberg).\n\nTAPERPLAN (Dinsdag 18/08 t/m Maandag 24/08):\n- Woensdag 19/08: Volledige passieve rust. Geen e-bike, geen krachttraining. Focus op slaap.\n- Donderdag 20/08: Active Recovery Spin. 45 min op de weg (Zone 1, <150W). Voeg 3 korte 'openers' toe van 15 seconden op 120% FTP (cadans >100) om de spierspanning te behouden zonder lactaat op te bouwen.\n- Vrijdag 21/08: Volledige rust of optioneel lichte stretching/mobiliteit.\n- Zaterdag 22/08: Activatiesessie (Priming). 40 min Zone 2. Inclusief 1x 2 min op FTP (258W) en 2x 30 sec op beoogde Sulferberg-power (~310W). Dit reactiveert je anaerobe systeem en vult je bloedvolume aan.\n- Zondag 23/08: Actief herstel. 30 min zeer rustig peddelen op souplesse.\n- Maandag 24/08: RACE DAY.\n\nPACINGPLAN - BELACANTE CLASSIC (8 RONDEN x 6KM & SULFERBERG):\n- De Sulferberg is een korte, venijnige klim. Gezien je FTP van 258W (3.53 W/kg bij 73kg) mag je de klim absoluut niet op 'all-out' anaerobe capaciteit oprijden in de eerste 3 ronden. Dit is een gegarandeerde tactische zelfmoord.\n- Target Pacing Sulferberg: Richt op 290W tot 325W (4.0 - 4.5 W/kg) voor de duur van de klim (afhankelijk van wind/tempo waarschijnlijk 1.5 tot 2 minuten). Schakel direct terug naar een hoge cadans (95+) zodra de stijging afvlakt.\n- Pacing Vlakke Gedeelten: Bescherm jezelf. De overige 5 km van de ronde moet je in de wielen doorbrengen op Zone 2/3 vermogen (150W - 200W). Vermijd het rijden op de kop en reageer alleen op serieuze ontsnappingen vanaf ronde 5.\n- Laatste 2 Ronden: Hier mag je het overgebleven anaerobe budget aanspreken. Als je in de kopgroep zit, trek je de Sulferberg op met >350W om het verschil te maken.",
-  "today_options": {},
-  "post_workout_recovery": {
-    "workout_evaluation": "De fietstraining van vandaag (80 TSS, 0.95u, 27 km) was een kwalitatief hoogwaardige sessie waarbij je effectief je aerobe en anaerobe vermogenszones hebt geprikkeld. Het herhaaldelijk leveren van vermogen rond of boven je FTP heeft de spierglycogeenvoorraden flink uitgeput en heeft geleid tot micro-rupturen in de actieve spiervezels (quadriceps en glutes). De compliance was uitstekend, maar de fysiologische tol is nu zichtbaar in je TSB.",
-    "hydration_nutrition": "Onmiddellijk herstelprotocol: Drink binnen 30 minuten na de training 500ml water met een elektrolytentablet om het natriumverlies te compenseren. Consumeer een herstelshake met een 3:1 of 4:1 verhouding van koolhydraten t.o.v. eiwitten: mik op minstens 80g snelle koolhydraten (om de glycogeenvoorraad in de lever en spieren direct aan te vullen voor de taper) en 25-30g hoogwaardige eiwitten (whey/case\u00efne) voor spierherstel. Eet vanavond een volwaardige maaltijd met complexe koolhydraten (zoete aardappel/zilvervliesrijst) en magere eiwitten.",
-    "stretching_mobility": "Focus op het herstellen van de spierlengte en het verminderen van neurologische tonus in de benen. Voer 3 sets uit van: 1. Foam rolling van de Quadriceps en IT-banden (60 sec per zijde), 2. Kneeling Hip Flexor Stretch (45 sec per zijde om de heupen te openen na de fietshouding), en 3. Calf/Achilles stretch tegen de muur (30 sec per kant). Vermijd extreem diepe, pijnlijke stretches om verdere micro-scheurtjes te voorkomen.",
-    "tomorrow_outlook": "Morgen staat volledig in het teken van fysiologische decompressie (Rust/Herstel). Je zult ontwaken met verhoogde spierstijfheid door de opeenvolging van trainingen. Prioriteer vanavond minimaal 8 tot 9 uur slaap om de afgifte van groeihormoon te maximaliseren. Als je Garmin HRV-status vannacht daalt, is dat een normale reactie op de belasting van vandaag, maar we willen dit richting het weekend zien herstellen naar je baseline. Morgen is een actieve rustdag: geen zware fysieke prikkels, focus op herstelvoeding."
-  }
+  "daily_load_assessment": "Yesterday's session on August 18th was a high-quality cycling workout yielding 80 training load, closely following a massive 213-load endurance ride on August 16th. Your immediate fatigue is high, reflected in an acute Form (TSB) of -17.5. With missing Garmin sleep and HRV metrics for today, we must assume a baseline state of high neural and muscular fatigue. High-intensity intervals are strictly off the table today to prevent overtraining and injury.",
+  "acute_status_assessment_3_weeks": "Over the last 21 days, you have accumulated 1,101 training load across 17.13 hours. Your acute fatigue (ATL) is elevated at 59.75 against a CTL of 42.25. While this shows exceptional consistency\u2014especially with 9 performance cycling sessions and 6 quality sessions\u2014your running has severely lagged with only 2 sessions in this block. To maintain the 70/30 pyramidal distribution safely, we must pivot towards building your running baseline and allowing muscular recovery from cycling mechanics.",
+  "sport_trend_assessment_6_months": "Your long-term fitness trend (CTL) sits at 42.25. To safely reach your target CTL of 60, we are aiming for a controlled ramp rate of +1 to +2 CTL per week. Your aerobic baseline is highly supported by your consistent e-bike commuting history, but to unlock your 5km running pace and 5-min/20-min cycling power goals, we need a highly structured, progressive aerobic progression. We must strictly manage fatigue spikes to avoid stalling this excellent upward trajectory.",
+  "coach_verdict": "Based on back-to-back quality cycling sessions and a fatigued TSB of -17.5, today is a base-building and recovery day. The highest priority is a Zone 2 Aerobic Run to address your lagging running volume while keeping systemic stress low. If your legs are too heavy from cycling, opt for Priority 2 (Strength) to build structural durability. Only choose Priority 3 if you feel deeply exhausted.",
+  "today_options": {
+    "priority_1": {
+      "session_title": "Zone 2 Base Building Run",
+      "sport_type": "Running",
+      "intensity": "Zone 2 (HR < 145 bpm)",
+      "workout_details": "Warm-up: 5 minutes of dynamic stretching. Main set: 45 minutes of continuous, easy-paced running. Keep heart rate strictly below 145 bpm (under 75% of your Max HR of 194). Focus on a high stride cadence (170-180 spm) and light landing. Cool-down: 5 minutes of walking and light calf stretching.",
+      "reason": "This directly targets your 5km running goal, which has been underrepresented in your recent 3-week block, while keeping metabolic stress low enough to promote recovery from yesterday's 80-load performance ride."
+    },
+    "priority_2": {
+      "session_title": "Structural Torque & Core Strength",
+      "sport_type": "Strength",
+      "intensity": "RPE 7-8/10",
+      "workout_details": "Warm-up: 10 minutes of dynamic mobility (90/90 hips, worlds greatest stretch). Main Set:\n- Barbell Back Squat: 3 sets x 5 reps @ 75% 1RM (heavy but controlled to support cycling torque)\n- Overhead Press (OHP): 3 sets x 6 reps\n- Heavy Sandbag Carry: 3 sets x 50 meters (core and torso stability)\n- Kettlebell Plank Pull-Throughs: 3 sets x 10 reps",
+      "reason": "Allows your cardiovascular system to recover from recent cycling loads while building the raw mechanical strength, torque, and core stability required to support your 5-minute and 20-minute cycling power."
+    },
+    "priority_3": {
+      "session_title": "Active Recovery & Mobility Flow",
+      "sport_type": "Recovery",
+      "intensity": "Zone 1 (HR < 110 bpm)",
+      "workout_details": "Part 1: 25 minutes of ultra-easy spinning on the e-bike (commute intensity, zero resistance, light spinning to flush out lactic acid).\nPart 2: 20 minutes of targeted foam rolling and static stretching focusing on hip flexors, hamstrings, glutes, and thoracic spine mobility.",
+      "reason": "If you are feeling extreme local muscular fatigue in your quadriceps from yesterday's quality session, this passive/active recovery combination will accelerate recovery and bring your TSB back toward a positive trend."
+    }
+  },
+  "post_workout_recovery": {}
 }

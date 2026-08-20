@@ -1,6 +1,6 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-08-19 05:37:47*
+*Laatst bijgewerkt: 2026-08-20 05:37:40*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL - Doel 60):** `42.3` / `60` (`70.4%` behaald)
@@ -13,42 +13,37 @@
 ## 📋 Coach Verdict & Advies voor Vandaag
 > **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> Based on back-to-back quality cycling sessions and a fatigued TSB of -17.5, today is a base-building and recovery day. The highest priority is a Zone 2 Aerobic Run to address your lagging running volume while keeping systemic stress low. If your legs are too heavy from cycling, opt for Priority 2 (Strength) to build structural durability. Only choose Priority 3 if you feel deeply exhausted.
+> I recommend executing Priority 1 (Neuromuscular Run & Aerobic Engine Build) today. You have heavily neglected running in the current 3-week block (only 2 sessions), and your 5km goals will stall without sport-specific impact conditioning. Because your TSB is -17.5 and you had a high-intensity ride 48 hours ago, a high-intensity interval session today is strictly vetoed. Priority 1 builds running economy and structural tolerance at a low metabolic cost. If your legs feel excessively heavy from the recent cycling load, default to Priority 3 to build localized power and aesthetic strength while giving your cardiorespiratory system a complete recovery day.
 
 ---
 
 ## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 🥇 Prioriteit 1: Running - Zone 2 Base Building Run
-* **Intensiteit:** `Zone 2 (HR < 145 bpm)`
-* **Workout details:** Warm-up: 5 minutes of dynamic stretching. Main set: 45 minutes of continuous, easy-paced running. Keep heart rate strictly below 145 bpm (under 75% of your Max HR of 194). Focus on a high stride cadence (170-180 spm) and light landing. Cool-down: 5 minutes of walking and light calf stretching.
-* **Waarom:** *This directly targets your 5km running goal, which has been underrepresented in your recent 3-week block, while keeping metabolic stress low enough to promote recovery from yesterday's 80-load performance ride.*
+### 🥇 Prioriteit 1: Running - Neuromuscular Run & Aerobic Engine Build
+* **Intensiteit:** `Zone 2 (HR 130-149 bpm) / RPE 4-5`
+* **Workout details:** 10-minute warm-up walk/easy jog. 40 minutes continuous flat running strictly in Zone 2 (under 150 bpm). Finish with 5 x 20-second relaxed strides on turf (focus on perfect form, high cadence, and running tall) with 1-minute walking recovery between strides. 5-minute cool-down walk.
+* **Waarom:** *Addresses your critical running volume deficit (only 2 sessions in 21 days) without overtaxing your cardiovascular system. The strides provide neuromuscular stimulation to aid 5km speed without accumulating lactic fatigue.*
 
-### 🥈 Prioriteit 2: Strength - Structural Torque & Core Strength
-* **Intensiteit:** `RPE 7-8/10`
-* **Workout details:** Warm-up: 10 minutes of dynamic mobility (90/90 hips, worlds greatest stretch). Main Set:
-- Barbell Back Squat: 3 sets x 5 reps @ 75% 1RM (heavy but controlled to support cycling torque)
-- Overhead Press (OHP): 3 sets x 6 reps
-- Heavy Sandbag Carry: 3 sets x 50 meters (core and torso stability)
-- Kettlebell Plank Pull-Throughs: 3 sets x 10 reps
-* **Waarom:** *Allows your cardiovascular system to recover from recent cycling loads while building the raw mechanical strength, torque, and core stability required to support your 5-minute and 20-minute cycling power.*
+### 🥈 Prioriteit 2: Cycling - Sustained Power: Sweet Spot Progression
+* **Intensiteit:** `Sweet Spot (88-92% FTP / 227-237 Watts)`
+* **Workout details:** 15-minute warm-up including 3x30-sec high-cadence spins. 2 x 12 minutes at Sweet Spot (230 Watts) with a cadence of 85-95 rpm. 6 minutes of easy spinning recovery between sets. 10-minute cool-down in Zone 1.
+* **Waarom:** *Targeted directly at improving your 20-minute power and aerobic threshold. Sweet Spot training offers high-volume physiological adaptation with lower autonomic nervous system wear than VO2max intervals, making it viable even at a TSB of -17.5.*
 
-### 🥉 Prioriteit 3: Recovery - Active Recovery & Mobility Flow
-* **Intensiteit:** `Zone 1 (HR < 110 bpm)`
-* **Workout details:** Part 1: 25 minutes of ultra-easy spinning on the e-bike (commute intensity, zero resistance, light spinning to flush out lactic acid).
-Part 2: 20 minutes of targeted foam rolling and static stretching focusing on hip flexors, hamstrings, glutes, and thoracic spine mobility.
-* **Waarom:** *If you are feeling extreme local muscular fatigue in your quadriceps from yesterday's quality session, this passive/active recovery combination will accelerate recovery and bring your TSB back toward a positive trend.*
+### 🥉 Prioriteit 3: Strength - Structural Torque & Aesthetic Strength
+* **Intensiteit:** `Heavy Strength / RPE 8/10`
+* **Workout details:** Warm-up: 5 mins dynamic mobility. Barbell Back Squat: 3 sets x 5 reps @ 80% 1RM (torque development). Barbell Overhead Press: 3 sets x 6 reps (shoulder aesthetics & core). Weighted Pull-ups: 3 sets x 8 reps (lat width). Kettlebell Swings (20kg): 3 sets x 15 reps (hip extension). Hanging Leg Raises: 3 sets x 15 reps (abdominal strength).
+* **Waarom:** *Allows complete cardiovascular recovery (reducing ATL) while building the structural torque necessary for cycling power and running impact absorption, alongside supporting upper-body aesthetic goals.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Yesterday's session on August 18th was a high-quality cycling workout yielding 80 training load, closely following a massive 213-load endurance ride on August 16th. Your immediate fatigue is high, reflected in an acute Form (TSB) of -17.5. With missing Garmin sleep and HRV metrics for today, we must assume a baseline state of high neural and muscular fatigue. High-intensity intervals are strictly off the table today to prevent overtraining and injury.
+Today's assessment shows a Training Stress Balance (TSB) of -17.5 (CTL 42.25, ATL 59.75). You are in a state of moderate acute fatigue following your hard performance ride on August 18th (80 TSS, Quality). Resting HR is stable at 52 bpm. Because we lack updated Garmin HRV and sleep metrics today, we must proceed with calculated risk. Your cardiovascular system is primed, but structural fatigue from recent heavy cycling volume is the primary limiting factor today.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the last 21 days, you have accumulated 1,101 training load across 17.13 hours. Your acute fatigue (ATL) is elevated at 59.75 against a CTL of 42.25. While this shows exceptional consistency—especially with 9 performance cycling sessions and 6 quality sessions—your running has severely lagged with only 2 sessions in this block. To maintain the 70/30 pyramidal distribution safely, we must pivot towards building your running baseline and allowing muscular recovery from cycling mechanics.
+Over the last 21 days, you have accumulated 1101 TSS across 17.13 hours. This is heavily biased toward cycling (9 cycling sessions, 4 ebike commutes) versus only 2 running sessions. To progress toward your 5km running goal safely, this distribution is unbalanced. Your acute fatigue (ATL 59.75) is high, but within our absolute TSB limit of -30. We must balance your pyramidal 70/30 distribution by raising running volume at low intensity to build structural tolerance without spiking ATL further.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Your long-term fitness trend (CTL) sits at 42.25. To safely reach your target CTL of 60, we are aiming for a controlled ramp rate of +1 to +2 CTL per week. Your aerobic baseline is highly supported by your consistent e-bike commuting history, but to unlock your 5km running pace and 5-min/20-min cycling power goals, we need a highly structured, progressive aerobic progression. We must strictly manage fatigue spikes to avoid stalling this excellent upward trajectory.
+Your long-term fitness trend is positive, with CTL currently at 42.25. Your target is a CTL of 60. To achieve this safely, we must maintain a progression ramp of +1 to +2 CTL per week. Your cycling base is highly developed due to consistent e-bike commuting and performance rides, but running development has plateaued due to low frequency. To scale your CTL to 60, we need to establish consistent, low-injury-risk running habits alongside high-quality cycling intervals.

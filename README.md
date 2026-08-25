@@ -1,6 +1,6 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-08-25 05:38:42*
+*Laatst bijgewerkt: 2026-08-25 14:26:36*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL - Doel 60):** `41.2` / `60` (`68.7%` behaald)
@@ -11,39 +11,39 @@
 ---
 
 ## 📋 Coach Verdict & Advies voor Vandaag
-> **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
+> **Mijn gevoel vanochtend:** *"Gisteren de  belacanto classic gereden. Beoordeel mijn rit en wat we afgelopen tijd bespraken over de 2:30min waarde op de sulferberg"*
 > 
-> Your cardiorespiratory engine is highly taxed from yesterday's 152-TSS quality hammer session. Back-to-back high-intensity sessions with unconfirmed recovery metrics is an amateur mistake that leads to stagnation or injury. My strict decision today is to keep you off the high-intensity intervals. Your absolute priority today is Priority 1: Heavy Strength and Torque, allowing your cardiorespiratory systems to recover while building athletic torque. If you feel too systemically fatigued, drop down to Priority 3.
+> Your effort on the Sulferberg climb yesterday was exceptional. A 2:30 minute full-gas effort on a climb like the Sulferberg is a pure test of your anaerobic capacity and high-end VO2max power (5-min power goals). It demands extreme neuromuscular recruitment and produces massive lactate accumulation. Because you maximized this energy system yesterday, you have absolutely zero business doing any high-intensity work today. To safely progress toward your 60 CTL goal, we must respect the 70/30 pyramidal rule. Today is strictly reserved for active metabolic flush or complete rest. Focus on Priority 1 to promote blood flow and clear the heavy residue of yesterday's anaerobic battle.
 
 ---
 
 ## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 🥇 Prioriteit 1: Strength - Structural Torque & Core Strength
-* **Intensiteit:** `RPE 7.5/10 - Medium-Heavy Strength`
-* **Workout details:** Warm-up: 10 mins dynamic mobility and activation. Main Lift: Barbell Back Squats - 3 sets x 5 reps @ 75% 1RM (approx. 80-90kg, focus on explosive concentric drive). Accessory 1: Romanian Deadlifts (RDL) - 3 sets x 8 reps (strict hamstring and glute recruitment). Accessory 2: Heavy Sandbag Carry (70kg) or Kettlebell Suitcase Carry (20kg) - 3 x 40m. Core: Kettlebell Plank Pull-throughs - 3 sets x 10 reps/side. Aesthetics: Bicep Hammer Curls superset with Hanging Leg Raises - 3 sets x 12 reps.
-* **Waarom:** *This is the optimal option today. It exploits the cardiorespiratory recovery window from yesterday's heavy ride while stimulating motor unit recruitment, testosterone release, and core stability to support both your running posture and cycling power.*
+### 🥇 Prioriteit 1: Cycling - Active Recovery Flush Ride
+* **Intensiteit:** `Zone 1 / RPE 2/10`
+* **Workout details:** 30 to 45 minutes on flat terrain or trainer. Keep cadence strictly between 90-100 RPM to promote muscular blood flow. Average power must stay strictly below 55% of FTP (<142 Watts). Do not sprint, do not climb, and do not cross into Zone 2.
+* **Waarom:** *Yesterday's lactic effort on the Sulferberg requires active clearance. A light, high-cadence spin increases circulation to damaged muscle fibers, accelerating recovery without adding any additional training stress.*
 
-### 🥈 Prioriteit 2: Running - Zone 2 Aerobic Engine Run
-* **Intensiteit:** `Zone 2 (Heart Rate 130-148 bpm)`
-* **Workout details:** Duration: 45 minutes of flat, continuous running. Pace: Strict Zone 2. Do not exceed a heart rate of 148 bpm (under 75% of your 194 Max HR). Cadence: Focus on a tight, efficient cadence of 170-180 spm to minimize joint load.
-* **Waarom:** *This target session supports your 5km running goal. It stimulates mitochondrial biogenesis in the running-specific musculature without generating excessive systemic fatigue or muscle soreness, provided you stay strictly out of Zone 3/4.*
+### 🥈 Prioriteit 2: Strength - Full-Body Mobility and Core Stability
+* **Intensiteit:** `RPE 3/10`
+* **Workout details:** No heavy lifting. 15 minutes of foam rolling (focusing on quads, glutes, and thoracic spine). 3 sets of 10 light Kettlebell Deadlifts (20kg) to gently engage the posterior chain. 3 sets of 45-second front planks for core stability, followed by deep hip flexor stretching.
+* **Waarom:** *If you are too muscularly fatigued to spin, this non-impact routine resets your posture, addresses hip tightness from yesterday's aggressive cycling position, and keeps your recovery active.*
 
-### 🥉 Prioriteit 3: Cycling - Active Recovery & Flush Spin
-* **Intensiteit:** `Zone 1 (Under 142 Watts / Heart Rate under 125 bpm)`
-* **Workout details:** Duration: 30 to 40 minutes on flat terrain or indoor trainer. Cadence: Maintain a light, fluid spin at 90-100 rpm. Power: Keep output strictly below 55% of your FTP (142 Watts). Pure active recovery.
-* **Waarom:** *If your lower body is deeply fatigued or tight from yesterday's effort, this session is designed to promote blood circulation, accelerate metabolic clearance, and ease joint stiffness without accumulating training stress.*
+### 🥉 Prioriteit 3: Recovery - Passive Recovery Day (Complete Rest)
+* **Intensiteit:** `RPE 0/10`
+* **Workout details:** Zero physical training. Focus entirely on nutritional replenishment (high protein, clean carbohydrates), active hydration, and maximizing sleep quality tonight.
+* **Waarom:** *Supercompensation occurs during rest, not during training. Given the massive muscular and neural toll of yesterday's race-intensity classic, a full day of passive recovery is a highly respectable, elite-level coaching choice.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Yesterday (Aug 24) you executed a highly demanding quality cycling session, racking up a substantial training load of 152. Your current Form (TSB) stands at -8.4, pushing you into a productive training zone but elevating acute fatigue. Because you have no recorded Garmin sleep or HRV data for last night to prove physiological readiness, and because we adhere strictly to the 70/30 Pyramidal rule, today must be a non-cardio-intensive recovery or strength adaptation day.
+Yesterday's Belacanto Classic was a massive performance effort, registering a staggering 152 training load in just 1.77 hours. This equates to an estimated Intensity Factor (IF) of ~0.92, which is essentially race pace. Your subjective note confirms you dug deep on the Sulferberg. Consequently, your immediate daily stress is extremely high, and you are in a deep acute recovery deficit. Without Garmin sleep or HRV data to clear you, we must assume a state of high muscular and systemic fatigue.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the past 21 days, you have accumulated 1,019 TSS over 16.3 hours of training, indicating a high-density training block. Your acute training load (ATL: 49.7) is currently outpacing your chronic fitness (CTL: 41.2). This is a textbook overload phase. However, to safely ramp your CTL toward the target of 60 without injury, we must defend the recovery valley. Do not chase load today.
+Over the last 21 days, you have accumulated 16.34 hours and 1019 TSS. This is a highly productive block with 5 quality sessions, culminating in yesterday's breakthrough classic and your August 16th long ride (213 load). Your acute training load (ATL: 49.7) has significantly outpaced your chronic training load (CTL: 41.2), dropping your Form (TSB) to -8.5. While this is a healthy stimulus for progressive overload, you are now at the absolute limit of your current block's fatigue tolerance before risking non-functional overreaching.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Your 6-month macro trend shows strong, steady progression. Your massive aerobic baseline from e-bike commuting provides an exceptional endurance buffer, allowing you to absorb hard sessions. However, your performance metrics (like best 5-minute and 20-minute power) require more targeted high-intensity development. We are systematically building toward a CTL of 60, but we will not compromise structural integrity to get there.
+Your macro trend is looking highly favorable. CTL is at 41.2, rising steadily toward your target of 60. Your massive low-intensity engine from consistent e-bike commuting provides a bulletproof aerobic baseline that allows you to absorb these massive single-day TSS spikes (like yesterday's classic) much better than typical athletes. Your ramp rate is safely within the +1 to +2 CTL per week limit, meaning your long-term trajectory is perfectly on track.

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24 05:44:56.352999",
+  "generated": "2026-08-25 05:38:42.971898",
   "athlete_inputs": {
     "sport_preference": "",
     "athlete_notes": "",
@@ -8,35 +8,35 @@
     "is_post_workout": false
   },
   "current_state": {
-    "CTL": 40.4,
-    "ATL": 45.2,
-    "Form_TSB": -4.7
+    "CTL": 41.2,
+    "ATL": 49.7,
+    "Form_TSB": -8.4
   },
-  "daily_load_assessment": "The athlete enters today with a CTL of 40.4 and ATL of 45.2, yielding a TSB (Form) of -4.7. This is highly favorable. With no logged training since August 21 (3 days ago), glycogen stores are fully replenished, and neuromuscular fatigue is minimal. The absence of subjective notes, sleep scores, or HRV data is not ideal, but the physiological metrics clearly indicate a green light for high-intensity work.",
-  "acute_status_assessment_3_weeks": "Over the active 21-day block, the athlete has accumulated 16.7 hours and 1,049 training stress points across 16 sessions. The pyramidal structure is well-maintained via high-volume e-bike commuting. Acute fatigue (ATL) peaked safely and has decayed to 45.2, avoiding the danger zone (TSB limit -30). Progression is stable, but running volume (only 3 sessions in this block) remains the weakest link in their dual-sport goals.",
-  "sport_trend_assessment_6_months": "On a macro level, the athlete has demonstrated excellent consistency, with 33 performance-focused rides over the last 180 days and a solid CTL base of 40. However, the CTL is currently plateauing well below the target of 60. To achieve a safe ramp rate of +1 to +2 CTL per week, we must systematically introduce highly structured quality sessions that leverage the massive aerobic base built from commuting.",
-  "coach_verdict": "Based on three days of active recovery/rest, your TSB (-4.7) is in the perfect zone to absorb a high-stress stimulus. Priority 1 is a demanding running interval session designed specifically to drive adaptations for your 5km goal, which has been under-represented in your recent block. If running impact is an issue, Priority 2 targets your 5-minute cycling peak power. Do not waste this state of freshness on recovery.",
+  "daily_load_assessment": "Yesterday (Aug 24) you executed a highly demanding quality cycling session, racking up a substantial training load of 152. Your current Form (TSB) stands at -8.4, pushing you into a productive training zone but elevating acute fatigue. Because you have no recorded Garmin sleep or HRV data for last night to prove physiological readiness, and because we adhere strictly to the 70/30 Pyramidal rule, today must be a non-cardio-intensive recovery or strength adaptation day.",
+  "acute_status_assessment_3_weeks": "Over the past 21 days, you have accumulated 1,019 TSS over 16.3 hours of training, indicating a high-density training block. Your acute training load (ATL: 49.7) is currently outpacing your chronic fitness (CTL: 41.2). This is a textbook overload phase. However, to safely ramp your CTL toward the target of 60 without injury, we must defend the recovery valley. Do not chase load today.",
+  "sport_trend_assessment_6_months": "Your 6-month macro trend shows strong, steady progression. Your massive aerobic baseline from e-bike commuting provides an exceptional endurance buffer, allowing you to absorb hard sessions. However, your performance metrics (like best 5-minute and 20-minute power) require more targeted high-intensity development. We are systematically building toward a CTL of 60, but we will not compromise structural integrity to get there.",
+  "coach_verdict": "Your cardiorespiratory engine is highly taxed from yesterday's 152-TSS quality hammer session. Back-to-back high-intensity sessions with unconfirmed recovery metrics is an amateur mistake that leads to stagnation or injury. My strict decision today is to keep you off the high-intensity intervals. Your absolute priority today is Priority 1: Heavy Strength and Torque, allowing your cardiorespiratory systems to recover while building athletic torque. If you feel too systemically fatigued, drop down to Priority 3.",
   "today_options": {
     "priority_1": {
-      "session_title": "VO2max Running Intervals (5km Target)",
-      "sport_type": "Running",
-      "intensity": "Zone 5 / HR 175-184 bpm",
-      "workout_details": "Warm-up: 15 mins progressive Zone 2 running, followed by 3x 30-sec strides. Main Set: 5x 1,000m intervals at target 5km pace (aim for high, repeatable intensity, holding HR above 175 bpm). Recovery: 3 mins walking/easy jogging between intervals. Cool-down: 10 mins easy jog.",
-      "reason": "Running has been severely under-stimulated in your current block (only 3 sessions). Since you are completely fresh, today is the optimal day to execute a high-impact running interval set to improve velocity at VO2max without risk of acute fatigue overlap."
+      "session_title": "Structural Torque & Core Strength",
+      "sport_type": "Strength",
+      "intensity": "RPE 7.5/10 - Medium-Heavy Strength",
+      "workout_details": "Warm-up: 10 mins dynamic mobility and activation. Main Lift: Barbell Back Squats - 3 sets x 5 reps @ 75% 1RM (approx. 80-90kg, focus on explosive concentric drive). Accessory 1: Romanian Deadlifts (RDL) - 3 sets x 8 reps (strict hamstring and glute recruitment). Accessory 2: Heavy Sandbag Carry (70kg) or Kettlebell Suitcase Carry (20kg) - 3 x 40m. Core: Kettlebell Plank Pull-throughs - 3 sets x 10 reps/side. Aesthetics: Bicep Hammer Curls superset with Hanging Leg Raises - 3 sets x 12 reps.",
+      "reason": "This is the optimal option today. It exploits the cardiorespiratory recovery window from yesterday's heavy ride while stimulating motor unit recruitment, testosterone release, and core stability to support both your running posture and cycling power."
     },
     "priority_2": {
-      "session_title": "VO2max Cycling Capacity Intervals",
-      "sport_type": "Cycling",
-      "intensity": "Zone 5 / 285 - 310 Watts",
-      "workout_details": "Warm-up: 15 mins progressive spin including 3x 1-min fast-pedal intervals. Main Set: 5x 4-minute intervals at 110-120% FTP (285W to 310W) with 4 minutes of fully passive recovery between each. Cool-down: 10 mins at 130-150W.",
-      "reason": "Directly targets your goal of improving 5-minute peak power. Because your aerobic engine is highly developed from commuting, this high-glycolytic, high-aerobic session will drive the stroke volume adaptations needed to break your FTP plateau."
+      "session_title": "Zone 2 Aerobic Engine Run",
+      "sport_type": "Running",
+      "intensity": "Zone 2 (Heart Rate 130-148 bpm)",
+      "workout_details": "Duration: 45 minutes of flat, continuous running. Pace: Strict Zone 2. Do not exceed a heart rate of 148 bpm (under 75% of your 194 Max HR). Cadence: Focus on a tight, efficient cadence of 170-180 spm to minimize joint load.",
+      "reason": "This target session supports your 5km running goal. It stimulates mitochondrial biogenesis in the running-specific musculature without generating excessive systemic fatigue or muscle soreness, provided you stay strictly out of Zone 3/4."
     },
     "priority_3": {
-      "session_title": "Heavy Strength & Torque Development",
-      "sport_type": "Strength",
-      "intensity": "Heavy Strength (RPE 8.5/10)",
-      "workout_details": "Warm-up: Dynamic mobility, 2 rounds of 10 Kettlebell Swings (20kg). Barbell Back Squat: 4x 5 reps @ 80% 1RM (approx. 3 mins rest between sets). Romanian Deadlift: 3x 8 reps with barbell (controlled eccentric). Heavy Sandbag Carry: 3x 40m (70kg sandbag). Core: 3 sets of 45-sec planks.",
-      "reason": "If you choose to defer high-intensity cardio, a heavy neural-strength session will build the muscular torque required for cycling power and structural resilience for running, without adding cardiovascular strain."
+      "session_title": "Active Recovery & Flush Spin",
+      "sport_type": "Cycling",
+      "intensity": "Zone 1 (Under 142 Watts / Heart Rate under 125 bpm)",
+      "workout_details": "Duration: 30 to 40 minutes on flat terrain or indoor trainer. Cadence: Maintain a light, fluid spin at 90-100 rpm. Power: Keep output strictly below 55% of your FTP (142 Watts). Pure active recovery.",
+      "reason": "If your lower body is deeply fatigued or tight from yesterday's effort, this session is designed to promote blood circulation, accelerate metabolic clearance, and ease joint stiffness without accumulating training stress."
     }
   },
   "post_workout_recovery": {}

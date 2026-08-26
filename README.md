@@ -1,6 +1,6 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-08-25 14:26:36*
+*Laatst bijgewerkt: 2026-08-26 05:41:07*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL - Doel 60):** `41.2` / `60` (`68.7%` behaald)
@@ -11,39 +11,46 @@
 ---
 
 ## 📋 Coach Verdict & Advies voor Vandaag
-> **Mijn gevoel vanochtend:** *"Gisteren de  belacanto classic gereden. Beoordeel mijn rit en wat we afgelopen tijd bespraken over de 2:30min waarde op de sulferberg"*
+> **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> Your effort on the Sulferberg climb yesterday was exceptional. A 2:30 minute full-gas effort on a climb like the Sulferberg is a pure test of your anaerobic capacity and high-end VO2max power (5-min power goals). It demands extreme neuromuscular recruitment and produces massive lactate accumulation. Because you maximized this energy system yesterday, you have absolutely zero business doing any high-intensity work today. To safely progress toward your 60 CTL goal, we must respect the 70/30 pyramidal rule. Today is strictly reserved for active metabolic flush or complete rest. Focus on Priority 1 to promote blood flow and clear the heavy residue of yesterday's anaerobic battle.
+> Do not attempt high-intensity intervals today. Your legs are still carrying residual fatigue from the massive August 24 performance ride. Your optimal move is Priority 1 (Zone 2 Run) to build running-specific efficiency for your 5km goal, or Priority 2 (Strength) to build high-torque capability for cycling without taxing your cardiovascular system.
 
 ---
 
 ## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 🥇 Prioriteit 1: Cycling - Active Recovery Flush Ride
-* **Intensiteit:** `Zone 1 / RPE 2/10`
-* **Workout details:** 30 to 45 minutes on flat terrain or trainer. Keep cadence strictly between 90-100 RPM to promote muscular blood flow. Average power must stay strictly below 55% of FTP (<142 Watts). Do not sprint, do not climb, and do not cross into Zone 2.
-* **Waarom:** *Yesterday's lactic effort on the Sulferberg requires active clearance. A light, high-cadence spin increases circulation to damaged muscle fibers, accelerating recovery without adding any additional training stress.*
+### 🥇 Prioriteit 1: Running - Zone 2 Aerobic Base Run
+* **Intensiteit:** `Zone 2 (HR 130-150 bpm / RPE 4-5)`
+* **Workout details:** Warm-up: 5 mins easy walking/mobility.
+Main set: 45 mins steady state running strictly within Zone 2 (target HR 135-145 bpm). Focus on a high, light cadence (170-180 spm) and erect posture.
+Cool-down: 5 mins easy walking + light stretching.
+* **Waarom:** *Highest recommendation. This session directly supports your 5km running goals by improving heart rate efficiency and building impact tolerance without adding high systemic fatigue.*
 
-### 🥈 Prioriteit 2: Strength - Full-Body Mobility and Core Stability
-* **Intensiteit:** `RPE 3/10`
-* **Workout details:** No heavy lifting. 15 minutes of foam rolling (focusing on quads, glutes, and thoracic spine). 3 sets of 10 light Kettlebell Deadlifts (20kg) to gently engage the posterior chain. 3 sets of 45-second front planks for core stability, followed by deep hip flexor stretching.
-* **Waarom:** *If you are too muscularly fatigued to spin, this non-impact routine resets your posture, addresses hip tightness from yesterday's aggressive cycling position, and keeps your recovery active.*
+### 🥈 Prioriteit 2: Strength - Posterior Chain Torque & Upper Body Aesthetics
+* **Intensiteit:** `Moderate-Heavy Strength (RPE 7.5-8)`
+* **Workout details:** Warm-up: Dynamic mobilization and core activation (planks, bird-dogs).
+Main Lift 1: Barbell Back Squats - 3 sets of 5 reps (Focus on explosive drive).
+Main Lift 2: Romanian Deadlifts - 3 sets of 8 reps (Targeting hamstrings and glutes).
+Accessory: 3 sets of 50-meter Heavy Sandbag (70kg) carries.
+Aesthetics/Upper Body: 3 sets of 8 Barbell Overhead Press + 3 sets of 12 Kettlebell Bicep Curls.
+Core: 3 sets of 15 Hanging Leg Raises.
+* **Waarom:** *Excellent alternative. This builds the structural strength required to support high cycling torque (5-min/20-min power) and running economy, while allowing your cardiorespiratory system to fully recover from recent performance efforts.*
 
-### 🥉 Prioriteit 3: Recovery - Passive Recovery Day (Complete Rest)
-* **Intensiteit:** `RPE 0/10`
-* **Workout details:** Zero physical training. Focus entirely on nutritional replenishment (high protein, clean carbohydrates), active hydration, and maximizing sleep quality tonight.
-* **Waarom:** *Supercompensation occurs during rest, not during training. Given the massive muscular and neural toll of yesterday's race-intensity classic, a full day of passive recovery is a highly respectable, elite-level coaching choice.*
+### 🥉 Prioriteit 3: Cycling - Active Recovery Leg Flush
+* **Intensiteit:** `Zone 1/2 (Under 150W / HR < 125 bpm)`
+* **Workout details:** 45-60 minutes on flat terrain or trainer. Keep resistance low, maintaining a high cadence of 90-95 RPM. Heart rate must remain strictly below 125 bpm. This is an active flush, not a workout.
+* **Waarom:** *Lowest priority, but useful if you are feeling highly fatigued. This spin promotes local blood flow and lymphatic drainage to clear out residual metabolites from your heavy August 24 session.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Yesterday's Belacanto Classic was a massive performance effort, registering a staggering 152 training load in just 1.77 hours. This equates to an estimated Intensity Factor (IF) of ~0.92, which is essentially race pace. Your subjective note confirms you dug deep on the Sulferberg. Consequently, your immediate daily stress is extremely high, and you are in a deep acute recovery deficit. Without Garmin sleep or HRV data to clear you, we must assume a state of high muscular and systemic fatigue.
+Your Form (TSB) sits at -8.4. This is a functional training state, but you are still recovering from the brutal 152-load performance ride executed on August 24. With no sleep or HRV metrics provided today, we must assume standard neuromuscular fatigue. A high-intensity interval session today is strictly prohibited; the priority is recovery and structural adaptation.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the last 21 days, you have accumulated 16.34 hours and 1019 TSS. This is a highly productive block with 5 quality sessions, culminating in yesterday's breakthrough classic and your August 16th long ride (213 load). Your acute training load (ATL: 49.7) has significantly outpaced your chronic training load (CTL: 41.2), dropping your Form (TSB) to -8.5. While this is a healthy stimulus for progressive overload, you are now at the absolute limit of your current block's fatigue tolerance before risking non-functional overreaching.
+Over the last 21 days, you have logged 16.34 hours with 1,019 TSS across 16 sessions, including 5 high-quality workouts. Your ATL is currently 49.7, indicating a safe progression rate. You are successfully maintaining a strong pyramidal distribution (70/30), backed by your consistent low-intensity baseline. We will not jeopardize this upward CTL trajectory with premature intensity spikes.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Your macro trend is looking highly favorable. CTL is at 41.2, rising steadily toward your target of 60. Your massive low-intensity engine from consistent e-bike commuting provides a bulletproof aerobic baseline that allows you to absorb these massive single-day TSS spikes (like yesterday's classic) much better than typical athletes. Your ramp rate is safely within the +1 to +2 CTL per week limit, meaning your long-term trajectory is perfectly on track.
+Your macro trend shows exceptional progression towards your target CTL of 60, currently sitting at 41.2. The transition from e-bike commuting baseline into structured performance running and cycling is paying off. To reach 60 CTL safely, we must limit ramp rates to +1 to +2 CTL per week. Discipline on recovery days is what will get you there.

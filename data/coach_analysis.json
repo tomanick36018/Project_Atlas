@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04 09:28:19.167201",
+  "generated": "2026-09-05 09:06:33.336307",
   "athlete_inputs": {
     "sport_preference": "",
     "athlete_notes": "",
@@ -12,31 +12,31 @@
     "ATL": 35.5,
     "Form_TSB": 3.4
   },
-  "daily_load_assessment": "Today, you are in a fully recovered and receptive training state. Your Training Stress Balance (TSB) is positive at +3.41 (CTL 39.0, ATL 35.5), indicating that recent fatigue has dissipated. Your Garmin HRV is stable at 50 ms, and resting heart rate is controlled at 57 bpm. Because there has been a training gap since your last recorded session on August 27th, your body is completely fresh and primed for a high-intensity overload session.",
-  "acute_status_assessment_3_weeks": "Over the last 21-day block (August 7 to August 27), you completed 15 sessions totaling 14.18 hours and 936 TSS. This represents a solid training consistency with a pyramidal focus (5 quality sessions out of 15). However, the subsequent gap in training has caused your acute training load (ATL) to drop below your chronic load (CTL). While this has temporarily restored your freshness, we must immediately resume structured load progression to prevent fitness decay.",
-  "sport_trend_assessment_6_months": "Your long-term sport trend shows an inconsistent macro progression. Your CTL currently sits at 39, which is significantly below your target milestone of 60. Your historical data demonstrates strong capabilities (such as cycling workouts over 100km and an FTP of 258W), but the overall progression lacks sustained consistency. To safely ramp your CTL at the recommended +1 to +2 per week, we must eliminate training gaps and maintain a strict 70/30 pyramidal distribution.",
-  "coach_verdict": "Your body is highly fresh, and your HRV indicates you are fully ready to absorb high-intensity stress. You have no excuses today. We are initiating a targeted CTL ramp toward your target of 60. Priority 1 is a demanding 5km specific running interval session designed to force VO2max adaptations and improve high-end running pace. If muscular fatigue or joint impact is a concern, pivot to Priority 2 on the bike to build threshold power, or Priority 3 in the gym to build specific running/cycling torque.",
+  "daily_load_assessment": "Today's readiness is highly favorable. With a CTL of 38.9 and ATL of 35.5, your current Form (TSB) sits at a positive +3.4. There is no immediate residual fatigue. Your HRV is stable at 44 ms, signaling a green light. However, note the 9-day gap since your last logged workout on August 27. While you are highly recovered and fresh, your neuromuscular systems may feel slightly rusty. Today is the perfect opportunity to reintroduce high-quality training load.",
+  "acute_status_assessment_3_weeks": "Over the last 21 days of the block (ending August 27), you achieved solid consistency: 15 sessions over 14.18 hours, accumulating 936 TSS. This shows a well-adapted base. However, the subsequent gap has caused your acute training load (ATL) to decay, dropping your CTL down to 38.9. We must reverse this downward trend immediately to prevent detraining and start your safe climb back to your target CTL of 60.",
+  "sport_trend_assessment_6_months": "Your 6-month macro trend reveals an outstanding base of structural conditioning, largely driven by high-volume cycling commutes and structured endurance runs earlier in the year. This aerobic foundation easily justifies a pyramidal distribution (70/30). Now that the baseline is set, we need to focus on high-intensity interventions (+1 to +2 CTL ramp rate per week) to specifically target your 5km running pace and cycling VO2max (5-min/20-min power).",
+  "coach_verdict": "You are fully fresh (TSB +3.4) but slightly detrained due to the recent gap. Because of your massive baseline aerobic engine and lack of immediate systemic fatigue, we are executing a high-intensity quality session today. Priority 1 is a demanding VO2max running interval session to directly sharpen your 5km goal pace. Priority 2 targets your 5-min cycling power breakthrough. Priority 3 is a heavy sport-specific strength and aerobic recovery session if you feel any mental resistance to high-cardio stress today.",
   "today_options": {
     "priority_1": {
-      "session_title": "5km Specific VO2max Running Intervals",
+      "session_title": "VO2max Running Intervals (5km Target Pace)",
       "sport_type": "Running",
-      "intensity": "Zone 5 (HR 175-185 bpm / RPE 9/10)",
-      "workout_details": "15-minute warm-up in Zone 2, including 3x 20-second strides. Main Set: 5x 800 meters at target 5km pace (RPE 9, target HR >175 bpm) with 3 minutes of active recovery walking/jogging between intervals. 10-minute cool-down in Zone 1/2.",
-      "reason": "With a positive TSB of +3.41 and stable HRV, this is the optimal window to execute a high-intensity running session. This directly targets your goal of 5km pace and interval quality while pushing your VO2max ceiling."
+      "intensity": "Zone 5 (90-95% Max HR / RPE 9/10)",
+      "workout_details": "Warm-up: 15 mins easy jogging, including 3x 30-second strides. Main Set: 5x 1000m intervals at target 5km race pace (approx. Zone 5 HR, >175 bpm). Recovery: 3 mins walking/easy jogging between intervals. Cool-down: 10 mins easy jogging and light mobility.",
+      "reason": "Highest recommendation. Your positive TSB (+3.4) and rested state are perfect for high-intensity running. This directly targets your 5km pace and interval quality goals, breaking the recent training lull with a potent VO2max stimulus."
     },
     "priority_2": {
-      "session_title": "Sweet Spot Cycling Progression",
+      "session_title": "5-Min Power Cycling VO2max Intervals",
       "sport_type": "Cycling",
-      "intensity": "Zone 3/4 (88-93% of FTP / 227-240 Watts)",
-      "workout_details": "15-minute progressive warm-up. Main Set: 3x 10 minutes at 230-240W (Sweet Spot) with 4 minutes of easy spinning (120-130W) between sets. Focus on maintaining a steady cadence of 90-95 RPM. 10-minute cool-down.",
-      "reason": "This session addresses your 20-minute power and FTP endurance goals. Sweet Spot training offers a high physiological return on investment with lower recovery demands than anaerobic work, keeping your CTL ramp on track."
+      "intensity": "Zone 5 (110-115% FTP / 284-297W)",
+      "workout_details": "Warm-up: 15 mins progressive ramp up to Zone 3, including 2x 1-minute fast-pedal efforts. Main Set: 5x 4-minute intervals at 285W to 295W (target 110-115% FTP). Recovery: 4 mins easy spinning (<130W) between sets. Cool-down: 10 mins easy spinning.",
+      "reason": "Second priority. This session directly targets your specific goal of improving 5-minute peak power. Since you are fully recovered, your cardiac output and anaerobic reserve can be fully exploited to drive adaptation."
     },
     "priority_3": {
-      "session_title": "Lower Body Torque & Core Strength",
+      "session_title": "Heavy Torque Strength & Aerobic Engine Maintenance",
       "sport_type": "Strength",
-      "intensity": "RPE 8/10 (Heavy Strength)",
-      "workout_details": "Warm-up: 5 minutes of dynamic mobility and activation. Main Lift: Barbell Back Squats (4x 6 reps @ 80% 1RM). Accessory 1: Romanian Deadlifts (3x 8 reps). Accessory 2: Heavy Sandbag Carries (3x 50 meters with 70kg bag). Core: Hanging Leg Raises (3x 12 reps).",
-      "reason": "If you are avoiding high-impact cardio today, this strength session utilizes your power rack and heavy sandbag to build sport-specific torque. This supports your running stride power and cycling force transfer without cardiorespiratory fatigue."
+      "intensity": "Heavy Strength (RPE 8.5/10) + Zone 2 Cycling",
+      "workout_details": "Strength Block: 3x 5 Barbell Back Squats (70-80% 1RM), 3x 5 Heavy Romanian Deadlifts, 3x 8 Heavy Sandbag (70kg) Clean and Carries. Core: 3x 45-sec Planks. Endurance Block: 45 mins low-resistance Zone 2 cycling (150-180W, 90 RPM cadence) to flush legs.",
+      "reason": "Third priority. If you feel any joint stiffness or prefer a non-impact, non-VO2max stimulus to ease back into structure, this builds sport-specific torque, supports running economy, and maintains the 70% pyramidal aerobic engine."
     }
   },
   "post_workout_recovery": {}

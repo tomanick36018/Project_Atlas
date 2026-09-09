@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-08 09:31:06.914709",
+  "generated": "2026-09-09 09:33:53.873854",
   "athlete": {
     "sports": [
       "cycling",
@@ -10,9 +10,9 @@
   },
   "training_block_21_days": {
     "total": {
-      "sessions": 5,
-      "hours": 4.0,
-      "training_load": 303
+      "sessions": 4,
+      "hours": 3.0,
+      "training_load": 223
     },
     "running": {
       "sessions": 2,
@@ -21,11 +21,11 @@
       "average_hr": 148.0
     },
     "cycling_performance": {
-      "sessions": 2,
-      "hours": 2.7,
-      "distance_km": 83.6,
-      "training_load": 232,
-      "average_hr": 154.0
+      "sessions": 1,
+      "hours": 1.8,
+      "distance_km": 56.6,
+      "training_load": 152,
+      "average_hr": 167.0
     },
     "cycling_commute": {
       "sessions": 0,

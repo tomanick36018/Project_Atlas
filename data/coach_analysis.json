@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-09 09:34:13.712701",
+  "generated": "2026-09-10 09:34:09.381666",
   "athlete_inputs": {
     "sport_preference": "",
     "athlete_notes": "",
@@ -12,31 +12,31 @@
     "ATL": 35.5,
     "Form_TSB": 3.4
   },
-  "daily_load_assessment": "Your current fitness metrics indicate a CTL of 38.95 and an ATL of 35.55, leaving you with a positive Form (TSB) of +3.4. Given that your last logged session occurred on August 27, 2026, you have undergone a 13-day training hiatus. While you are physically fresh and fully recovered, your fitness is actively detraining. The lack of current Garmin HRV or sleep data requires a calculated approach\u2014we must aggressively stimulate adaptation to halt fitness decay, but avoid reckless overload.",
-  "acute_status_assessment_3_weeks": "Over the active 21-day block preceding your hiatus (Aug 7 - Aug 27), you achieved a respectable volume of 14.18 hours across 15 sessions, including 5 high-intensity quality sessions. This demonstrates an established functional capacity to handle pyramidal distribution stress. However, the subsequent 13-day gap has compromised acute muscular and aerobic efficiency. We need to re-establish your baseline immediately to safely resume your progression toward a CTL of 60.",
-  "sport_trend_assessment_6_months": "Your 180-day macro trend shows a robust aerobic foundation, largely stabilized by consistent cycling and utility commuting. With an FTP of 258W (3.53 W/kg at your current weight of 73kg) and a peak power of 1041W, you possess excellent athletic potential. To safely elevate your CTL from 39 to your target of 60, we must adhere to a strict progression of +1 to +2 CTL points per week, utilizing a 70/30 pyramidal split to protect your joints during running volume increases.",
-  "coach_verdict": "You are fresh but detraining. Because we lack subjective recovery metrics (HRV/Sleep) for today, we will not prescribe an absolute maximum-effort session. However, your positive TSB (+3.4) dictates that today must be a high-yield training day to kickstart your metabolism. Priority 1 is a structured running interval session to target your 5km speed and VO2max. Priority 2 is a sustained aerobic cycling workout to rebuild base CTL, and Priority 3 is a heavy strength session to develop structural durability.",
+  "daily_load_assessment": "Today's subjective recovery metrics show no active red flags, but with a current CTL of ~39 and ATL of ~35.5, training stress is relatively balanced (TSB slightly positive or neutral). Because specific Garmin sleep and HRV status metrics were not provided today, caution is warranted. Immediate training stress should prioritize controlled aerobic development or foundational strength unless subjective energy dictates otherwise.",
+  "acute_status_assessment_3_weeks": "Over the past 21 days, the athlete has accumulated moderate training consistency, though volume has been somewhat sporadic. The acute training load (ATL) sits near the chronic load (CTL), indicating that fitness is holding steady rather than aggressively rising. To safely bridge the gap toward the target CTL of 60 without overreaching, consistency in Zone 2 aerobic volume coupled with strictly controlled quality sessions is necessary.",
+  "sport_trend_assessment_6_months": "Over the 180-day window, the training trend shows steady engagement in cycling and running, supported by e-bike commuting. The current CTL of ~38.9 reflects a solid foundational base, but to reach the target CTL of 60 at a safe ramp rate of +1 to +2 per week, structured progressive overload must be maintained. The 70/30 pyramidal distribution must be strictly guarded to protect against burnout.",
+  "coach_verdict": "Focus on Priority 1 today: a solid Zone 2 Aerobic Cycling session. With missing Garmin recovery data and a need to maintain the 70/30 pyramidal base, accumulating clean aerobic volume without inducing excessive fatigue is the safest and most productive path forward.",
   "today_options": {
     "priority_1": {
-      "session_title": "5km Pace VO2max Running Intervals",
-      "sport_type": "Running",
-      "intensity": "Zone 5 / RPE 9/10 (HR: 175-185 bpm)",
-      "workout_details": "Warm-up: 15 mins progressive running (Zone 1 to Zone 3), ending with 3x 30-second strides. Main Set: 5x 800 meters at target 5km race pace, resting with 2 mins of active walking recovery between each interval. Cool-down: 10 mins easy jogging (Zone 1) and active stretching.",
-      "reason": "This directly targets your goal of 5km running pace and VO2max capacity. Your high freshness state (TSB +3.4) makes you fully capable of absorbing this high-intensity cardiovascular stimulus."
+      "session_title": "Zone 2 Aerobic Base Cycling",
+      "sport_type": "Cycling",
+      "intensity": "Zone 2 (60-75% FTP)",
+      "workout_details": "60 minutes continuous cycling indoors or outdoors. Keep power strictly within 150-195W (FTP 258W). Cadence 90-95 RPM.",
+      "reason": "Protects the 70/30 pyramidal distribution, builds mitochondrial density, and ensures safe training stress accumulation without spiking fatigue."
     },
     "priority_2": {
-      "session_title": "Sustained Zone 2 Aerobic Base Builder",
-      "sport_type": "Cycling",
-      "intensity": "Zone 2 (142-180W / HR 120-145 bpm)",
-      "workout_details": "90 mins of continuous cycling in Zone 2. Maintain a steady cadence of 85-95 RPM. Focus on aerodynamic posture and smooth, continuous power output without coasting.",
-      "reason": "Rebuilds essential aerobic engine and ramps up CTL safely without triggering central nervous system fatigue, adhering strictly to the 70% volume requirement of the pyramidal training model."
+      "session_title": "Full Body Strength & Core Stability",
+      "sport_type": "Strength",
+      "intensity": "Moderate-Heavy (RPE 7/10)",
+      "workout_details": "Squat 3x5 @ 70% 1RM, Romanian Deadlifts 3x8, Overhead Press 3x8, Weighted Planks 3x45s, and Chin-ups 3xMAX.",
+      "reason": "Provides structural support for cycling torque and running power while addressing upper body aesthetics without adding high cardiovascular fatigue."
     },
     "priority_3": {
-      "session_title": "Progressive Overload Strength & Torque",
-      "sport_type": "Strength",
-      "intensity": "Heavy Strength / RPE 8/10",
-      "workout_details": "Warm-up: 5 mins dynamic mobility. Back Squats: 4 sets x 5 reps (80% 1RM). Romanian Deadlifts: 3 sets x 8 reps. Heavy Sandbag Carries (70kg): 3 sets x 50 meters. Core: Hanging Leg Raises: 3 sets x 12 reps.",
-      "reason": "Builds the mechanical torque needed for cycling power (5-min and 20-min targets) and establishes core and lower-limb durability to support running ground reaction forces."
+      "session_title": "Easy Aerobic Recovery Run",
+      "sport_type": "Running",
+      "intensity": "Zone 2 / Conversational Pace",
+      "workout_details": "5km easy conversational run. Keep heart rate strictly below Zone 3 (<150 bpm, Max HR 194). Focus on cadence and running form.",
+      "reason": "Maintains running frequency for the 5km goal, but keeps impact and physiological cost low due to unverified recovery metrics."
     }
   },
   "post_workout_recovery": {}

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-13 10:08:00.827024",
+  "generated": "2026-09-14 10:30:59.931587",
   "athlete_inputs": {
     "sport_preference": "",
     "athlete_notes": "",
@@ -12,31 +12,31 @@
     "ATL": 35.5,
     "Form_TSB": 3.4
   },
-  "daily_load_assessment": "The daily horizon reveals a positive Training Stress Balance (TSB / Form) of +3.4, indicating the athlete has transitioned from a fatigued state into a positive adaptation zone. The last session on August 27th was a low-intensity, short-duration running session (load of 24), giving the musculoskeletal system adequate recovery following the high-intensity cycling session of 152 load on August 24th.",
-  "acute_status_assessment_3_weeks": "Over the active 21-day training block, the athlete accumulated a total load of 936 over 14.18 hours, reflecting a highly consistent but cycling-heavy training distribution (8 cycling sessions vs. 3 running sessions). TSB is hovering in the optimal zone for progressive overload (+3.4). However, running volume is disproportionately low relative to the athlete's 5km performance goals, signifying a clear training gap that needs targeting to drive running-specific physiological adaptations.",
-  "sport_trend_assessment_6_months": "The long-term sport trend indicates a steady macro-progression with a current CTL of 38.95 and ATL of 35.55. To safely reach the target CTL of 60, the athlete requires a structured, progressive ramp rate of +1 to +2 CTL per week. The extensive aerobic baseline developed through historical e-bike commuting supports excellent aerobic resilience, allowing for highly productive high-intensity sessions if executed with strict recovery constraints.",
-  "coach_verdict": "Given the positive TSB (+3.4) and the under-stimulated running volume in the acute training window, today is a prime opportunity to execute a high-challenge, run-specific quality interval session. This will directly target the 5km pace and VO2max milestones, utilizing the athlete's fresh neuromuscular state.",
+  "daily_load_assessment": "Today you present a positive Form (TSB) of +3.41, with CTL at 38.95 and ATL at 35.55. Your acute fatigue has completely cleared, leaving you physically fresh and clear of immediate training stress. However, because we have no active Garmin sleep or HRV telemetry today, we must rely strictly on your metrics. You are cleared for high intensity, but your margin for error is slim; execution must be surgically precise.",
+  "acute_status_assessment_3_weeks": "Over the past 21 days of your training block (ending August 27), you accumulated 14.18 hours of volume and 936 training load points across 15 sessions. While your consistency was admirable, the subsequent gap leading to mid-September has initiated a minor detraining phase. Your acute fatigue has bottomed out, meaning your adaptation window is wide open. We must capitalize on this freshness immediately to reverse CTL decay before it compromises your aerobic engine.",
+  "sport_trend_assessment_6_months": "Your 6-month macro trend highlights a highly robust aerobic baseline, largely sustained by consistent, high-volume e-bike commuting. Your current FTP stands at 258W (3.26 W/kg), and your target is a CTL of 60. To ramp safely at our recommended +1 to +2 CTL per week, we need to enforce a structured Pyramidal (70/30) distribution. Your massive low-intensity baseline means your high-intensity quality sessions must be highly concentrated and incredibly demanding to trigger further adaptation.",
+  "coach_verdict": "You are completely fresh, fully recovered, and currently sitting on a positive TSB. There are no excuses today. Priority 1 is a brutal, high-intensity cycling VO2max session to directly target your 5-minute peak power goals. If you prefer to focus on your running gait and speed, Priority 2 is a razor-sharp 5km-paced run. Priority 3 is a heavy, torque-focused gym strength session to build running durability and upper-body power.",
   "today_options": {
     "priority_1": {
-      "session_title": "5km Specific VO2max Run Intervals",
-      "sport_type": "Running",
-      "intensity": "Zone 5 (HR 175-185 bpm / RPE 9/10)",
-      "workout_details": "Warm-up: 15 minutes of progressive Zone 2 running, ending with 3x 15-second strides. Main Set: 5x 1000 meters at goal 5km race pace (target RPE 9, progressive heart rate aiming for 175-185 bpm). Recovery: 3 minutes of walking or light jogging between intervals. Cool-down: 10 minutes of easy Zone 1 jogging.",
-      "reason": "This session addresses the runner's 5km goal directly. Running frequency has been low in the current block, and the athlete's current positive form (TSB +3.4) justifies a high-intensity, demanding track/road interval workout."
+      "session_title": "VO2max Peak Power Cycling Intervals",
+      "sport_type": "Cycling",
+      "intensity": "Zone 5 (115% - 120% FTP)",
+      "workout_details": "Warm-up: 15 minutes progressive ramp from Zone 1 to Zone 3, including 3x 30-second high-cadence spins.\nMain Set: 5x 4-minute intervals at 297W - 310W (115-120% of FTP). Cadence must stay above 95 RPM. Recovery: 4 minutes easy spinning (Zone 1) between each interval.\nCool-down: 10 minutes easy spinning.",
+      "reason": "This is our highest priority to directly address your 5-minute peak power goals. Your fresh recovery status (TSB +3.4) dictates that you are primed for high-intensity work, and this will safely kickstart your CTL progression back toward 60."
     },
     "priority_2": {
-      "session_title": "VO2max Aerobic Capacity Intervals",
-      "sport_type": "Cycling",
-      "intensity": "Zone 5 (110-120% of FTP / 284-310 Watts)",
-      "workout_details": "Warm-up: 15 minutes of easy spinning, including 3x 30-second high-cadence spin-ups (>110 rpm). Main Set: 5x 4 minutes at 290 Watts (Zone 5, RPE 9/10) with 4 minutes of very easy recovery spinning (<120 Watts) between reps. Cool-down: 10 minutes of spinning in Zone 1.",
-      "reason": "This workout targets the cycling 5-minute peak power goal. It is prioritized second because running is currently the more urgent training deficit, but this cycling set offers an elite aerobic capacity stimulation."
+      "session_title": "5km Specific Pace Intervals",
+      "sport_type": "Running",
+      "intensity": "Zone 4 / RPE 9/10",
+      "workout_details": "Warm-up: 2km easy jogging (Zone 2) followed by 4x 50m dynamic strides.\nMain Set: 4x 1000m at target 5km pace (aim for a highly consistent pacing strategy, target heart rate 175-184 bpm). Recovery: 3 minutes walking/slow jogging between reps.\nCool-down: 1.5km easy jog.",
+      "reason": "If you choose to run today, we must target your 5km speed and running economy. The positive TSB allows for high-intensity neuromuscular recruitment, making this an ideal velocity session."
     },
     "priority_3": {
-      "session_title": "Lower Body Torque & Core Stability",
+      "session_title": "Heavy Torque and Core Aesthetics",
       "sport_type": "Strength",
-      "intensity": "Heavy Strength (RPE 8/10)",
-      "workout_details": "Warm-up: 10 minutes of dynamic mobility (goblet squats, hip openers). Barbell Back Squats: 4 sets x 5 reps at 80% 1RM (approx. 85-95kg based on history). Barbell Romanian Deadlifts: 3 sets x 8 reps at RPE 8. Heavy Sandbag Holds or Kettlebell Suitcase Carries: 3 sets x 40 meters (20kg kettlebell). Planks: 3 sets x 60 seconds.",
-      "reason": "If the athlete is experiencing residual running impact fatigue not fully reflected in the CTL/ATL metrics, this strength session offers highly specific torque development for cycling power and running leg stiffness without further cardiorespiratory exhaustion."
+      "intensity": "Heavy Strength / RPE 8.5/10",
+      "workout_details": "1. Barbell Back Squat: 3x 5 reps @ 80% 1RM (focus on deep range of motion and explosive drive).\n2. Barbell Overhead Press: 3x 6 reps.\n3. Weighted Pull-ups or Heavy Kettlebell Rows: 3x 8 reps.\n4. Bulgarian Split Squats: 3x 8 reps/leg (using 20kg kettlebells).\n5. Heavy Sandbag Over Shoulder: 3x 5 reps (using 70kg sandbag).\n6. Hanging Leg Raises: 3x 12 reps.",
+      "reason": "This is an outstanding alternative if you choose to focus on structural integrity. It builds massive sport-specific torque for your cycling pedals, strengthens your joints for running impact, and addresses your aesthetic goals."
     }
   },
   "post_workout_recovery": {}

@@ -1,6 +1,6 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-09-14 10:30:59*
+*Laatst bijgewerkt: 2026-09-15 09:58:57*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL - Doel 60):** `39.0` / `60` (`64.9%` behaald)
@@ -13,46 +13,37 @@
 ## 📋 Coach Verdict & Advies voor Vandaag
 > **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> You are completely fresh, fully recovered, and currently sitting on a positive TSB. There are no excuses today. Priority 1 is a brutal, high-intensity cycling VO2max session to directly target your 5-minute peak power goals. If you prefer to focus on your running gait and speed, Priority 2 is a razor-sharp 5km-paced run. Priority 3 is a heavy, torque-focused gym strength session to build running durability and upper-body power.
+> Your TSB is in the positive zone (+3.4), meaning you are fully adapted to recent training and primed for high-quality load. I am prescribing Option 1: 5km Specific VO2max Running Intervals. This directly targets your key performance milestone, leveraging your fresh physiological state to hit high-intensity paces before fatigue sets in. Keep the execution sharp and strict.
 
 ---
 
 ## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 🥇 Prioriteit 1: Cycling - VO2max Peak Power Cycling Intervals
-* **Intensiteit:** `Zone 5 (115% - 120% FTP)`
-* **Workout details:** Warm-up: 15 minutes progressive ramp from Zone 1 to Zone 3, including 3x 30-second high-cadence spins.
-Main Set: 5x 4-minute intervals at 297W - 310W (115-120% of FTP). Cadence must stay above 95 RPM. Recovery: 4 minutes easy spinning (Zone 1) between each interval.
-Cool-down: 10 minutes easy spinning.
-* **Waarom:** *This is our highest priority to directly address your 5-minute peak power goals. Your fresh recovery status (TSB +3.4) dictates that you are primed for high-intensity work, and this will safely kickstart your CTL progression back toward 60.*
+### 🥇 Prioriteit 1: Running - 5km Specific VO2max Running Intervals
+* **Intensiteit:** `Zone 5 (HR > 175 bpm / RPE 9/10)`
+* **Workout details:** Warm-up: 15 minutes of Zone 2 running, followed by 3x 50m strides. Main Set: 5x 1000m running at target 5km race pace (RPE 9/10). Recovery: 3 minutes of active recovery jog (Zone 1) between each repetition. Cool-down: 10 minutes of light jogging and dynamic stretching.
+* **Waarom:** *Highest priority today because the positive TSB and recovered state allow you to execute high-intensity running quality without risking injury. Directly targets your 5km speed and VO2max pace.*
 
-### 🥈 Prioriteit 2: Running - 5km Specific Pace Intervals
-* **Intensiteit:** `Zone 4 / RPE 9/10`
-* **Workout details:** Warm-up: 2km easy jogging (Zone 2) followed by 4x 50m dynamic strides.
-Main Set: 4x 1000m at target 5km pace (aim for a highly consistent pacing strategy, target heart rate 175-184 bpm). Recovery: 3 minutes walking/slow jogging between reps.
-Cool-down: 1.5km easy jog.
-* **Waarom:** *If you choose to run today, we must target your 5km speed and running economy. The positive TSB allows for high-intensity neuromuscular recruitment, making this an ideal velocity session.*
+### 🥈 Prioriteit 2: Cycling - Sweet Spot Cycling Progression
+* **Intensiteit:** `Zone 4 / Sweet Spot (227-240W / RPE 8/10)`
+* **Workout details:** Warm-up: 15 minutes progressive spin to Zone 2 with 3x 30-sec high-cadence spin-ups. Main Set: 3x 12 minutes at 232W (90% of FTP). Recovery: 4 minutes of light spinning (<130W) between sets. Cool-down: 10 minutes of easy spinning.
+* **Waarom:** *Focuses on your 20-minute power and FTP development. Sweet spot training builds CTL efficiently with lower neuromuscular fatigue than Zone 5, making it an excellent aerobic threshold builder.*
 
-### 🥉 Prioriteit 3: Strength - Heavy Torque and Core Aesthetics
-* **Intensiteit:** `Heavy Strength / RPE 8.5/10`
-* **Workout details:** 1. Barbell Back Squat: 3x 5 reps @ 80% 1RM (focus on deep range of motion and explosive drive).
-2. Barbell Overhead Press: 3x 6 reps.
-3. Weighted Pull-ups or Heavy Kettlebell Rows: 3x 8 reps.
-4. Bulgarian Split Squats: 3x 8 reps/leg (using 20kg kettlebells).
-5. Heavy Sandbag Over Shoulder: 3x 5 reps (using 70kg sandbag).
-6. Hanging Leg Raises: 3x 12 reps.
-* **Waarom:** *This is an outstanding alternative if you choose to focus on structural integrity. It builds massive sport-specific torque for your cycling pedals, strengthens your joints for running impact, and addresses your aesthetic goals.*
+### 🥉 Prioriteit 3: Strength - Sport-Specific Torque & Core Strength
+* **Intensiteit:** `Heavy Strength (RPE 8/10)`
+* **Workout details:** Warm-up: 10 minutes of dynamic mobility (90/90 hips, active planks). Main Set: 1. Barbell Back Squats: 3 sets of 5 reps at 80% 1RM. 2. Romanian Deadlifts: 3 sets of 8 reps. 3. Dumbbell Overhead Press: 3 sets of 6 reps. 4. Heavy Sandbag Carries (70kg): 3 runs of 50 meters. Core: 3 rounds of 60-second Plank variations.
+* **Waarom:** *Provides the essential muscular torque needed for cycling power transfer and structural resilience for high-impact running. Ideal if you feel any minor lower-limb joint tightness that makes running intervals inadvisable today.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Today you present a positive Form (TSB) of +3.41, with CTL at 38.95 and ATL at 35.55. Your acute fatigue has completely cleared, leaving you physically fresh and clear of immediate training stress. However, because we have no active Garmin sleep or HRV telemetry today, we must rely strictly on your metrics. You are cleared for high intensity, but your margin for error is slim; execution must be surgically precise.
+The daily metrics indicate a positive Training Stress Balance (TSB) of +3.4 (CTL 39.0, ATL 35.5). With no acute fatigue from the previous 48 hours and a resting HR stabilized at 57 bpm, the athlete's recovery profile is highly favorable. Despite missing subjective sleep and HRV data, the physiological readiness to absorb high-intensity training load is optimal.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the past 21 days of your training block (ending August 27), you accumulated 14.18 hours of volume and 936 training load points across 15 sessions. While your consistency was admirable, the subsequent gap leading to mid-September has initiated a minor detraining phase. Your acute fatigue has bottomed out, meaning your adaptation window is wide open. We must capitalize on this freshness immediately to reverse CTL decay before it compromises your aerobic engine.
+Over the last 21 days, the athlete completed a robust 14.18-hour training block with a total load of 936. The pyramidal distribution has been successfully initiated, but the acute training load has stabilized. To continue driving the CTL ramp rate safely at +1 to +2 per week, we must selectively introduce high-quality running and cycling sessions to stimulate metabolic adaptation.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Your 6-month macro trend highlights a highly robust aerobic baseline, largely sustained by consistent, high-volume e-bike commuting. Your current FTP stands at 258W (3.26 W/kg), and your target is a CTL of 60. To ramp safely at our recommended +1 to +2 CTL per week, we need to enforce a structured Pyramidal (70/30) distribution. Your massive low-intensity baseline means your high-intensity quality sessions must be highly concentrated and incredibly demanding to trigger further adaptation.
+The 180-day macro trend is dominated by cycling and e-bike commuting, providing an exceptional aerobic engine. However, the long-term progression toward a CTL of 60 requires a more structured, progressive overload in running frequency and high-intensity cycling power. Currently sitting at a CTL of 39.0, the athlete has a solid runway to scale fitness safely over the next training block.

@@ -1,6 +1,6 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-09-23 09:52:01*
+*Laatst bijgewerkt: 2026-09-24 09:52:20*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL - Doel 60):** `39.0` / `60` (`64.9%` behaald)
@@ -13,37 +13,37 @@
 ## 📋 Coach Verdict & Advies voor Vandaag
 > **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> I recommend executing Priority 1 (5km Specific Pace VO2max Intervals) today. Your TSB (+3.41) and recent low-load days indicate that your body is primed for high-intensity work. We must capture this window of freshness to secure a high-quality run session targeting your 5km speed goal. If you experience unrecorded subjective fatigue, default immediately to Priority 2 (Strength).
+> Execute Priority 1 today. Your fitness state (CTL 38.9) requires a structured aerobic or quality stimulus to safely drive toward your goal of CTL 60. Since metrics show stable acute fatigue, prioritize the Zone 2 aerobic base ride with brief threshold activation to strictly maintain the 70/30 pyramidal balance.
 
 ---
 
 ## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 🥇 Prioriteit 1: Running - 5km Specific Pace VO2max Intervals
-* **Intensiteit:** `Zone 5 / RPE 9/10`
-* **Workout details:** 15-minute progressive warm-up. Main set: 5 x 800 meters at your target 5km pace (aiming for consistent pacing across all reps) with 2 minutes of active walking recovery between intervals. 10-minute easy cool-down. Target Heart Rate: 175-185 bpm during intervals.
-* **Waarom:** *Highest recommendation. Your positive freshness (TSB +3.41) and the easy previous 48 hours provide the perfect physiological window to execute a high-intensity session targeting your running speed goal.*
+### 🥇 Prioriteit 1: Cycling - Zone 2 Aerobic Base with Sweet Spot Finish
+* **Intensiteit:** `Zone 2 / Sweet Spot`
+* **Workout details:** 60 mins total: 45 minutes steady Zone 2 (60-75% FTP, ~155-194W), followed by 2 x 5 minutes at Sweet Spot (88-93% FTP, ~227-240W) with 3 minutes easy spin recovery between intervals.
+* **Waarom:** *Directly supports the 70/30 pyramidal framework by reinforcing aerobic volume while introducing short-duration power output tailored to 20-minute power goals.*
 
-### 🥈 Prioriteit 2: Strength - Lower Body Torque & Core Strength
-* **Intensiteit:** `Heavy Strength / RPE 8/10`
-* **Workout details:** Warm-up: 5 mins dynamic mobility. Main Lift: Barbell Back Squats 4 x 5 reps at 80% 1RM. Accessory: Barbell Deadlifts 3 x 5 reps at 80% 1RM. Heavy Sandbag (70kg) Carries: 3 x 50 meters. Core: Hanging Leg Raises 3 x 12 reps.
-* **Waarom:** *Second recommendation. If you want to avoid high cardiorespiratory stress today, this session targets low-cadence cycling torque and running power-transfer efficiency using your gym equipment without draining your aerobic tank.*
+### 🥈 Prioriteit 2: Running - Running VO2max Interval Efficiency
+* **Intensiteit:** `Zone 4 / Zone 5`
+* **Workout details:** 45 mins total: 10 min dynamic warmup, 5 x 3 minutes at 5km race pace (approx. Zone 4/5, HR 170-185 bpm) with 2 minutes jog recovery, followed by 10 min cool-down.
+* **Waarom:** *Directly targets the 5km running milestone and VO2max capacity, fitting within the strict allowance of 2-3 high-intensity sessions per week.*
 
-### 🥉 Prioriteit 3: Cycling - Zone 2 Aerobic Endurance Ride
-* **Intensiteit:** `Zone 2 / RPE 4/10`
-* **Workout details:** 90 minutes of continuous, flat outdoor or trainer cycling. Keep your power output locked between 140W and 180W (Zone 2 for your 258W FTP) and target a smooth cadence of 90-95 RPM.
-* **Waarom:** *Third recommendation. A low-intensity, aerobic maintenance ride that supports your long-term CTL progression toward 60. This option respects the 70% aerobic engine development requirement with negligible recovery cost.*
+### 🥉 Prioriteit 3: Strength - Full Body Strength & Core Stability
+* **Intensiteit:** `Moderate-Heavy`
+* **Workout details:** 45 mins gym session: Back Squats (3x6 @ 75% 1RM), Romanian Deadlifts (3x8), Weighted Planks (3 x 45s), and Overhead Press (3x8) to support cycling torque and running posture.
+* **Waarom:** *Integrates supplementary gym work to build durability and support running/cycling power without adding excessive systemic endurance fatigue.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Your immediate training stress is well-managed. With yesterday (Aug 27) being a short, low-stress run (load 24) and the prior day (Aug 26) a full rest day, your daily load is low. Your calculated Form (TSB) is +3.41, indicating positive freshness. Although Garmin sleep and HRV data are missing for today, the physical timeline shows you are fully recovered from your last major effort on Aug 24 (load 152).
+Current CTL sits at 38.95 and ATL at 35.55, resulting in a slightly positive TSB (+3.4). This indicates a neutral immediate recovery state, ready to absorb training load without excessive acute fatigue, though sleep and HRV data are missing.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the last 21 days, you have completed 14.18 hours of training with a cumulative training load of 936. Out of 15 total sessions, only 5 were designated as high-intensity quality sessions. This perfectly aligns with our pyramidal 70/30 distribution rule. Your acute fatigue (ATL 35.5) is currently below your chronic fitness level (CTL 38.9), showing an excellent rate of adaptation and a safe buffer against overtraining.
+Over the recent multi-week horizon, training volume shows intermittent consistency with a mix of sweet-spot/threshold rides and running blocks. The ramp rate is manageable, but to safely approach the target CTL of 60, volume and consistency must be dialed in following the 70/30 pyramidal distribution rule.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Your chronic training load (CTL) sits at 38.95. To reach your target fitness of 60 safely, we need a progressive ramp rate of +1 to +2 CTL per week. Your multi-month trend shows high-volume riding blocks in April and May followed by a stabilization period. Your substantial low-intensity e-bike commuting volume has provided a strong aerobic base, meaning your cardiorespiratory system can handle a highly structured, intense ramp-up phase.
+Over the past 180 days, cycling and running consistency have laid down a respectable aerobic base, with a current FTP hovering around 246-258W and solid base miles from e-bike commuting. The macro trend is positive, but targeted overload is required to break through to 5km running and 5/20-minute cycling power milestones.

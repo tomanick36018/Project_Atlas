@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-24 09:52:20.870488",
+  "generated": "2026-09-25 10:07:40.014355",
   "athlete_inputs": {
     "sport_preference": "",
     "athlete_notes": "",
@@ -12,31 +12,31 @@
     "ATL": 35.5,
     "Form_TSB": 3.4
   },
-  "daily_load_assessment": "Current CTL sits at 38.95 and ATL at 35.55, resulting in a slightly positive TSB (+3.4). This indicates a neutral immediate recovery state, ready to absorb training load without excessive acute fatigue, though sleep and HRV data are missing.",
-  "acute_status_assessment_3_weeks": "Over the recent multi-week horizon, training volume shows intermittent consistency with a mix of sweet-spot/threshold rides and running blocks. The ramp rate is manageable, but to safely approach the target CTL of 60, volume and consistency must be dialed in following the 70/30 pyramidal distribution rule.",
-  "sport_trend_assessment_6_months": "Over the past 180 days, cycling and running consistency have laid down a respectable aerobic base, with a current FTP hovering around 246-258W and solid base miles from e-bike commuting. The macro trend is positive, but targeted overload is required to break through to 5km running and 5/20-minute cycling power milestones.",
-  "coach_verdict": "Execute Priority 1 today. Your fitness state (CTL 38.9) requires a structured aerobic or quality stimulus to safely drive toward your goal of CTL 60. Since metrics show stable acute fatigue, prioritize the Zone 2 aerobic base ride with brief threshold activation to strictly maintain the 70/30 pyramidal balance.",
+  "daily_load_assessment": "Today's subjective and physiological metrics indicate a suppressed autonomic state with an HRV value of 29 ms, suggesting acute systemic fatigue or incomplete recovery. While no explicit sleep score is provided, the low HRV dictates caution regarding high-intensity loading. Immediate training stress must be managed carefully to prevent overreaching, given a CTL of ~39 and ATL of ~35 (TSB near neutral/slightly positive).",
+  "acute_status_assessment_3_weeks": "Over the past 21 days, the training block shows consistent engagement with a mix of aerobic cycling commutes and targeted quality sessions. However, volume and load management need strict adherence to the 70/30 pyramidal distribution to safely bridge the gap toward the target CTL of 60 without pushing the ramp rate into unsafe territory.",
+  "sport_trend_assessment_6_months": "The 6-month sport trend reveals a solid foundation built upon consistent e-bike commuting and structured cycling/running intervals. The current CTL of ~38.9 reflects steady progression, but pushing toward the 60 CTL milestone requires disciplined recovery management, prioritizing aerobic base (Zone 2) and targeted strength work over excessive high-intensity strain.",
+  "coach_verdict": "Given your suppressed HRV of 29 ms, high-intensity intervals are strictly counterindicated today. You must prioritize recovery or low-intensity aerobic work to absorb previous training loads and protect your baseline. Execute Priority 1 (Zone 2 Aerobic Cycling or Active Recovery) to maintain cardiovascular stimulus without adding excessive fatigue.",
   "today_options": {
     "priority_1": {
-      "session_title": "Zone 2 Aerobic Base with Sweet Spot Finish",
+      "session_title": "Zone 2 Aerobic Flush",
       "sport_type": "Cycling",
-      "intensity": "Zone 2 / Sweet Spot",
-      "workout_details": "60 mins total: 45 minutes steady Zone 2 (60-75% FTP, ~155-194W), followed by 2 x 5 minutes at Sweet Spot (88-93% FTP, ~227-240W) with 3 minutes easy spin recovery between intervals.",
-      "reason": "Directly supports the 70/30 pyramidal framework by reinforcing aerobic volume while introducing short-duration power output tailored to 20-minute power goals."
+      "intensity": "Zone 2 (RPE 4-5/10)",
+      "workout_details": "45-60 minutes easy spin at 60-75% of FTP (approx. 150-190W). Keep cadence high (90+ RPM) with zero surges.",
+      "reason": "Accommodates the low HRV (29 ms) by avoiding high-intensity stress while maintaining blood flow to accelerate recovery and support the 70/30 pyramidal base."
     },
     "priority_2": {
-      "session_title": "Running VO2max Interval Efficiency",
-      "sport_type": "Running",
-      "intensity": "Zone 4 / Zone 5",
-      "workout_details": "45 mins total: 10 min dynamic warmup, 5 x 3 minutes at 5km race pace (approx. Zone 4/5, HR 170-185 bpm) with 2 minutes jog recovery, followed by 10 min cool-down.",
-      "reason": "Directly targets the 5km running milestone and VO2max capacity, fitting within the strict allowance of 2-3 high-intensity sessions per week."
+      "session_title": "Full Rest & Mobility",
+      "sport_type": "Recovery",
+      "intensity": "Very Low",
+      "workout_details": "20-30 minutes of targeted foam rolling, dynamic stretching, and core stability work (planks, dead bugs).",
+      "reason": "Allows complete nervous system reset in light of suppressed HRV metrics, ensuring you are fully primed for quality intervals later in the week."
     },
     "priority_3": {
-      "session_title": "Full Body Strength & Core Stability",
+      "session_title": "Upper Body & Core Strength",
       "sport_type": "Strength",
-      "intensity": "Moderate-Heavy",
-      "workout_details": "45 mins gym session: Back Squats (3x6 @ 75% 1RM), Romanian Deadlifts (3x8), Weighted Planks (3 x 45s), and Overhead Press (3x8) to support cycling torque and running posture.",
-      "reason": "Integrates supplementary gym work to build durability and support running/cycling power without adding excessive systemic endurance fatigue."
+      "intensity": "Moderate (RPE 7/10)",
+      "workout_details": "Bench Press: 3x8 @ 70% 1RM; Overhead Press: 3x8; Weighted Planks: 3x45s. Keep volume controlled.",
+      "reason": "Fulfills secondary aesthetic and core stability goals without placing high neuromuscular load on the primary cycling/running kinetic chains."
     }
   },
   "post_workout_recovery": {}

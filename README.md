@@ -1,49 +1,49 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-09-25 10:07:40*
+*Laatst bijgewerkt: 2026-09-26 09:48:44*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
-* **Fitheid (CTL - Doel 60):** `39.0` / `60` (`64.9%` behaald)
-* **Vermoeidheid (ATL):** `35.5` | **Vorm (TSB):** `3.4`
+* **Fitheid (CTL - Doel 60):** `20.5` / `60` (`34.1%` behaald)
+* **Vermoeidheid (ATL):** `8.3` | **Vorm (TSB):** `12.1`
 * **Status:** **🔵 Fris / Herstel**
-* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (29 ms)`
+* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (28 ms)`
 
 ---
 
 ## 📋 Coach Verdict & Advies voor Vandaag
 > **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> Given your suppressed HRV of 29 ms, high-intensity intervals are strictly counterindicated today. You must prioritize recovery or low-intensity aerobic work to absorb previous training loads and protect your baseline. Execute Priority 1 (Zone 2 Aerobic Cycling or Active Recovery) to maintain cardiovascular stimulus without adding excessive fatigue.
+> You are fresh (TSB +12.1) but structurally unconditioned and showing signs of autonomic suppression (HRV 28 ms). Your priority today is to build your running aerobic baseline safely. High-intensity intervals are forbidden today due to your low HRV and lack of acute training history. Focus strictly on orthopedic and aerobic adaptations. The primary choice today is a highly controlled Zone 2 Running Base session to safely re-introduce your musculoskeletal system to running impact.
 
 ---
 
 ## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 🥇 Prioriteit 1: Cycling - Zone 2 Aerobic Flush
-* **Intensiteit:** `Zone 2 (RPE 4-5/10)`
-* **Workout details:** 45-60 minutes easy spin at 60-75% of FTP (approx. 150-190W). Keep cadence high (90+ RPM) with zero surges.
-* **Waarom:** *Accommodates the low HRV (29 ms) by avoiding high-intensity stress while maintaining blood flow to accelerate recovery and support the 70/30 pyramidal base.*
+### 🥇 Prioriteit 1: Running - Zone 2 Aerobic Running Base & Neuromuscular Strides
+* **Intensiteit:** `Zone 2 (Heart Rate 130-150 bpm / RPE 4-5/10)`
+* **Workout details:** 45 minutes continuous flat running strictly within Zone 2. Keep your heart rate under 150 bpm. Conclude the session with 5x 100m strides on grass (accelerating smoothly up to 90% max speed, focus on perfect posture, 30 seconds walking recovery between strides).
+* **Waarom:** *You have not run in over a month. With a highly positive TSB, today is the perfect day to re-introduce low-impact running. The strict Zone 2 cap protects your cardiovascular system and respects your low HRV of 28 ms, while the strides maintain neuromuscular efficiency without generating high metabolic stress.*
 
-### 🥈 Prioriteit 2: Recovery - Full Rest & Mobility
-* **Intensiteit:** `Very Low`
-* **Workout details:** 20-30 minutes of targeted foam rolling, dynamic stretching, and core stability work (planks, dead bugs).
-* **Waarom:** *Allows complete nervous system reset in light of suppressed HRV metrics, ensuring you are fully primed for quality intervals later in the week.*
+### 🥈 Prioriteit 2: Strength - Lower Body Torque & Core Stability
+* **Intensiteit:** `RPE 7-8/10 (Moderate to Heavy Strength)`
+* **Workout details:** Warm-up: 10 mins dynamic mobility. Main Lift: Barbell Back Squats (3 sets of 8 reps @ 65% of 1RM, focus on explosive concentric phase). Accessory 1: Romanian Deadlifts (3 sets of 10 reps with controlled 3-second eccentric phase). Accessory 2: Heavy Sandbag Carries (3 sets of 50 meters with 70kg bag). Core: Hanging Leg Raises (3 sets of 12 controlled reps).
+* **Waarom:** *Strength training builds crucial orthopedic durability to support cycling torque and running impact forces. Choosing this option keeps your cardiovascular strain low, protecting your compromised HRV state while still driving meaningful muscular and structural adaptation.*
 
-### 🥉 Prioriteit 3: Strength - Upper Body & Core Strength
-* **Intensiteit:** `Moderate (RPE 7/10)`
-* **Workout details:** Bench Press: 3x8 @ 70% 1RM; Overhead Press: 3x8; Weighted Planks: 3x45s. Keep volume controlled.
-* **Waarom:** *Fulfills secondary aesthetic and core stability goals without placing high neuromuscular load on the primary cycling/running kinetic chains.*
+### 🥉 Prioriteit 3: Recovery - Active Recovery Spin
+* **Intensiteit:** `Zone 1 (Heart Rate <125 bpm / <150 Watts / RPE <3/10)`
+* **Workout details:** 35-45 minutes of easy, flat cycling on the trainer or flat road. Maintain a high, light cadence of 90-95 RPM. Keep resistance exceptionally low; you should be able to hold a full conversation without breathing heavily.
+* **Waarom:** *If your low HRV of 28 ms is accompanied by physical lethargy or muscle soreness from yesterday's ride, choose this option. A pure recovery spin promotes active blood flow, flushing metabolic waste and assisting recovery without adding further stress to your autonomic nervous system.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Today's subjective and physiological metrics indicate a suppressed autonomic state with an HRV value of 29 ms, suggesting acute systemic fatigue or incomplete recovery. While no explicit sleep score is provided, the low HRV dictates caution regarding high-intensity loading. Immediate training stress must be managed carefully to prevent overreaching, given a CTL of ~39 and ATL of ~35 (TSB near neutral/slightly positive).
+Yesterday's cycling session yielded a moderate training load of 59, which your body absorbed easily given your low ATL of 8.34. Your current Form (TSB) is highly positive at +12.12, indicating immediate freshness. However, your Garmin HRV is flagged at 28 ms. While your positive TSB suggests you are physically fresh, this low HRV indicates underlying autonomic nervous system stress or a detrained baseline. We cannot ignore this metric, meaning high-intensity, high-glycolytic intervals are completely off the table today.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the past 21 days, the training block shows consistent engagement with a mix of aerobic cycling commutes and targeted quality sessions. However, volume and load management need strict adherence to the 70/30 pyramidal distribution to safely bridge the gap toward the target CTL of 60 without pushing the ramp rate into unsafe territory.
+Over the past 21 days, your training volume has been functionally non-existent, consisting of exactly one session (yesterday's ride). Your acute training load (ATL) is a mere 8.3. This extreme lack of consistent stimulus means your metabolic and musculoskeletal systems are currently unconditioned. Any rapid spike in training load will lead to injury or systemic overreaching. We must initiate a highly controlled, progressive build.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-The 6-month sport trend reveals a solid foundation built upon consistent e-bike commuting and structured cycling/running intervals. The current CTL of ~38.9 reflects steady progression, but pushing toward the 60 CTL milestone requires disciplined recovery management, prioritizing aerobic base (Zone 2) and targeted strength work over excessive high-intensity strain.
+Your long-term sport trend shows severe inconsistency. Your CTL has plateaued at a very low baseline of 20.46, which is miles away from your target fitness of 60. To safely ramp your CTL at the recommended rate of +1 to +2 per week, we need to establish a consistent, structural routine. Your massive e-bike commuting baseline provides a solid low-intensity buffer, but your running and performance cycling progression have completely stalled. We are starting from structural square one.

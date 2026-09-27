@@ -1,49 +1,49 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-09-26 09:48:44*
+*Laatst bijgewerkt: 2026-09-27 10:29:37*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
-* **Fitheid (CTL - Doel 60):** `20.5` / `60` (`34.1%` behaald)
-* **Vermoeidheid (ATL):** `8.3` | **Vorm (TSB):** `12.1`
+* **Fitheid (CTL - Doel 60):** `23.1` / `60` (`38.5%` behaald)
+* **Vermoeidheid (ATL):** `25.1` | **Vorm (TSB):** `-1.9`
 * **Status:** **🔵 Fris / Herstel**
-* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (28 ms)`
+* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (34 ms)`
 
 ---
 
 ## 📋 Coach Verdict & Advies voor Vandaag
 > **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> You are fresh (TSB +12.1) but structurally unconditioned and showing signs of autonomic suppression (HRV 28 ms). Your priority today is to build your running aerobic baseline safely. High-intensity intervals are forbidden today due to your low HRV and lack of acute training history. Focus strictly on orthopedic and aerobic adaptations. The primary choice today is a highly controlled Zone 2 Running Base session to safely re-introduce your musculoskeletal system to running impact.
+> You have just executed a massive 134 TSS quality session on a completely detrained system. Doing any further high-intensity work today or tomorrow is an absolute red flag. As a strict coach, I am directing you to prioritize absolute recovery today to absorb this acute load spike. Do not attempt to bypass this recovery phase; your HRV is already suppressed, and your joints are highly vulnerable.
 
 ---
 
 ## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 🥇 Prioriteit 1: Running - Zone 2 Aerobic Running Base & Neuromuscular Strides
-* **Intensiteit:** `Zone 2 (Heart Rate 130-150 bpm / RPE 4-5/10)`
-* **Workout details:** 45 minutes continuous flat running strictly within Zone 2. Keep your heart rate under 150 bpm. Conclude the session with 5x 100m strides on grass (accelerating smoothly up to 90% max speed, focus on perfect posture, 30 seconds walking recovery between strides).
-* **Waarom:** *You have not run in over a month. With a highly positive TSB, today is the perfect day to re-introduce low-impact running. The strict Zone 2 cap protects your cardiovascular system and respects your low HRV of 28 ms, while the strides maintain neuromuscular efficiency without generating high metabolic stress.*
+### 🥇 Prioriteit 1: Recovery - Active Recovery and Full-Body Mobility
+* **Intensiteit:** `Zone 1 / RPE 2/10`
+* **Workout details:** 20 minutes of targeted foam rolling (quads, IT bands, calves) followed by 20 minutes of dynamic mobility work: 3 sets of 10 World's Greatest Stretches, 10 deep goblet squats (unweighted), and 15 cat-cow transitions. Hydrate aggressively.
+* **Waarom:** *This is the absolute highest priority to mitigate the sudden structural damage and inflammatory response from today's heavy cycling volume. It encourages blood flow and recovery without adding cardiovascular stress.*
 
-### 🥈 Prioriteit 2: Strength - Lower Body Torque & Core Stability
-* **Intensiteit:** `RPE 7-8/10 (Moderate to Heavy Strength)`
-* **Workout details:** Warm-up: 10 mins dynamic mobility. Main Lift: Barbell Back Squats (3 sets of 8 reps @ 65% of 1RM, focus on explosive concentric phase). Accessory 1: Romanian Deadlifts (3 sets of 10 reps with controlled 3-second eccentric phase). Accessory 2: Heavy Sandbag Carries (3 sets of 50 meters with 70kg bag). Core: Hanging Leg Raises (3 sets of 12 controlled reps).
-* **Waarom:** *Strength training builds crucial orthopedic durability to support cycling torque and running impact forces. Choosing this option keeps your cardiovascular strain low, protecting your compromised HRV state while still driving meaningful muscular and structural adaptation.*
+### 🥈 Prioriteit 2: Strength - Core Stability & Structural Integrity Gym Work
+* **Intensiteit:** `Moderate Strength (RPE 6/10)`
+* **Workout details:** Warm-up: 5 mins rowing. Main: 3 sets of 45-second planks, 3 sets of 12 Kettlebell Goblet Squats (20kg) focusing on depth and control, 3 sets of 10 barbell Romanian Deadlifts (light weight, e.g., 40kg) for hamstring and glute activation. Finish with 3 sets of 10 hanging knee raises.
+* **Waarom:** *If you absolutely insist on moving, this non-impact routine builds the trunk stability and posterior chain endurance required for running torque, without adding further joint impact or significant metabolic fatigue.*
 
-### 🥉 Prioriteit 3: Recovery - Active Recovery Spin
-* **Intensiteit:** `Zone 1 (Heart Rate <125 bpm / <150 Watts / RPE <3/10)`
-* **Workout details:** 35-45 minutes of easy, flat cycling on the trainer or flat road. Maintain a high, light cadence of 90-95 RPM. Keep resistance exceptionally low; you should be able to hold a full conversation without breathing heavily.
-* **Waarom:** *If your low HRV of 28 ms is accompanied by physical lethargy or muscle soreness from yesterday's ride, choose this option. A pure recovery spin promotes active blood flow, flushing metabolic waste and assisting recovery without adding further stress to your autonomic nervous system.*
+### 🥉 Prioriteit 3: Running - Conversational Zone 2 Base Run
+* **Intensiteit:** `Zone 2 (HR below 140 bpm, RPE 3-4/10)`
+* **Workout details:** 20 to 25 minutes of continuous flat running. Maintain a strictly conversational pace. Cadence goal: 175-180 bpm. Stop immediately if you feel any joint soreness or atypical tightness.
+* **Waarom:** *This is only an option if you feel completely refreshed and show no signs of local fatigue. It serves to gently reintroduce running impact, but is strictly capped at a short duration to prevent aerobic overloading.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Yesterday's cycling session yielded a moderate training load of 59, which your body absorbed easily given your low ATL of 8.34. Your current Form (TSB) is highly positive at +12.12, indicating immediate freshness. However, your Garmin HRV is flagged at 28 ms. While your positive TSB suggests you are physically fresh, this low HRV indicates underlying autonomic nervous system stress or a detrained baseline. We cannot ignore this metric, meaning high-intensity, high-glycolytic intervals are completely off the table today.
+Today's daily load shows a massive acute spike. After a virtual month of training inactivity, you have logged back-to-back cycling sessions: 59 TSS yesterday and a highly demanding 134 TSS quality ride today. This sudden 193 TSS accumulation on a decayed fitness base has driven your TSB down to -1.94, presenting a high risk of acute structural fatigue, particularly with a depressed HRV of 34 ms.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the past 21 days, your training volume has been functionally non-existent, consisting of exactly one session (yesterday's ride). Your acute training load (ATL) is a mere 8.3. This extreme lack of consistent stimulus means your metabolic and musculoskeletal systems are currently unconditioned. Any rapid spike in training load will lead to injury or systemic overreaching. We must initiate a highly controlled, progressive build.
+Over the last 21 days, your training volume is critically low with only 2 sessions recorded. This creates a highly unfavorable Acute-to-Chronic Workload Ratio (ACWR). The abrupt transition from zero load to a 134 TSS quality session means your adaptation capacity is highly stressed. Your body is not currently primed to absorb successive high-intensity blocks without immediate intervention.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Your long-term sport trend shows severe inconsistency. Your CTL has plateaued at a very low baseline of 20.46, which is miles away from your target fitness of 60. To safely ramp your CTL at the recommended rate of +1 to +2 per week, we need to establish a consistent, structural routine. Your massive e-bike commuting baseline provides a solid low-intensity buffer, but your running and performance cycling progression have completely stalled. We are starting from structural square one.
+Your chronic training load (CTL) has decayed to 23.1, which is a massive drop from your active periods in early 2026. You are starting from a highly detrained state relative to your CTL goal of 60. To progress safely and effectively, we must strictly enforce a +1 to +2 CTL ramp rate per week. High-intensity sessions must be strictly limited until your aerobic baseline (Zone 2) is re-established.

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-28 11:37:30.398103",
+  "generated": "2026-09-29 11:15:35.499146",
   "athlete_inputs": {
     "sport_preference": "",
     "athlete_notes": "",
@@ -12,31 +12,31 @@
     "ATL": 25.1,
     "Form_TSB": -1.9
   },
-  "daily_load_assessment": "Yesterday's cycling session generated a high training load (134 TSS) with quality intervals, and today's recovery metrics show an HRV of 32 ms, which indicates suppressed parasympathetic activity and cumulative fatigue. Immediate caution is required.",
-  "acute_status_assessment_3_weeks": "Over the past 21 days, volume has been very low (3.42 hours across 2 sessions), leading to an acute training load (ATL) of 25.1 and chronic training load (CTL) of 23.1. However, yesterday's heavy effort combined with low HRV dictates a lower-intensity approach today to prevent overreaching.",
-  "sport_trend_assessment_6_months": "Long-term trend shows a modest fitness base with a CTL of 23.1, well below the target of 60. Consistency needs to be rebuilt gradually while keeping an eye on the 70/30 pyramidal distribution rule and avoiding excessive high-intensity strain when recovery is compromised.",
-  "coach_verdict": "Given your suppressed HRV (32 ms) and yesterday's hard cycling session (134 TSS), you must avoid high-intensity work today. Focus on Priority 1: active recovery or complete rest to allow adaptation and normalize your nervous system.",
+  "daily_load_assessment": "You executed a heavy cycling quality session yesterday (Training Load 134, 2.44 hours). Your current CTL is 23.1 and ATL is 25.1, resulting in a TSB of -2.0. Your HRV is 45 ms, indicating moderate recovery status following yesterday's significant stress. Immediate focus must be on mitigating residual fatigue while capitalizing on your rising fitness trend.",
+  "acute_status_assessment_3_weeks": "Over the last 21-day block, volume has been sporadic with only 2 recorded sessions totaling 3.42 hours and 193 training load points. Acute fatigue (ATL 25.1) is balanced closely with your fitness (CTL 23.1). To safely ramp towards your target CTL of 60 (+1 to +2 per week), consistency must improve drastically without over-indexing on high-intensity work during recovery deficit days.",
+  "sport_trend_assessment_6_months": "Looking across the 180-day horizon, your macro progression shows solid baseline endurance supported by intermittent high-intensity cycling and running blocks, but lacks sustained weekly volume. Your best FTP sits around 246-258W, and targeting a safer ramp rate with disciplined Pyramidal distribution (70/30) will unlock your 5km running and 5-minute/20-minute cycling power goals.",
+  "coach_verdict": "Given yesterday's hard cycling session and your current recovery metrics (HRV 45 ms), priority 1 is strictly dedicated recovery to clear fatigue. However, if you feel primed, opt for Priority 2 (Zone 2 Aerobic Endurance Cycling) to maintain aerobic volume without digging a deeper recovery hole.",
   "today_options": {
     "priority_1": {
       "session_title": "Active Recovery & Mobility",
       "sport_type": "Recovery",
-      "intensity": "Zone 1 / Very Easy",
-      "workout_details": "20-30 minutes of light stretching, foam rolling, and core stability work, or an optional very light 30-minute spin in Zone 1.",
-      "reason": "HRV is low (32 ms) following yesterday's 134 TSS session, signaling the need for parasympathetic recovery."
+      "intensity": "Zone 1",
+      "workout_details": "20-30 minutes of light foam rolling, dynamic stretching, and core stability work. Optional 20-minute very easy spin on the trainer under 100W.",
+      "reason": "Highest recommendation due to yesterday's high training load (134) and moderate HRV status (45 ms). Facilitates lactate clearance and neuromuscular recovery."
     },
     "priority_2": {
-      "session_title": "Zone 2 Aerobic Spin",
+      "session_title": "Zone 2 Aerobic Base Ride",
       "sport_type": "Cycling",
       "intensity": "Zone 2",
-      "workout_details": "45-60 minutes strict Zone 2 cycling (Power < 180W, cadence 90+ RPM).",
-      "reason": "If you feel restless and insist on riding, keep it strictly aerobic to maintain base volume without increasing fatigue."
+      "workout_details": "60 minutes continuous cycling at 60-75% of FTP (approx. 150-190W), maintaining a cadence of 90+ RPM. Keep heart rate strictly below aerobic threshold (~145 bpm).",
+      "reason": "Aligns with the 70/30 Pyramidal rule, allowing you to bank low-intensity aerobic volume and drive towards your CTL 60 goal without accumulating excessive ATL."
     },
     "priority_3": {
-      "session_title": "Rest Day",
-      "sport_type": "Recovery",
-      "intensity": "Rest",
-      "workout_details": "Complete rest from structured exercise. Focus on sleep, hydration, and nutrition.",
-      "reason": "Allows full physiological restoration when HRV and recovery indicators are sub-optimal."
+      "session_title": "Full Body Strength & Core",
+      "sport_type": "Strength",
+      "intensity": "Moderate Strength",
+      "workout_details": "3x5 Back Squat (60% 1RM), 3x8 Romanian Deadlifts, 3x10 Weighted Planks, and upper body aesthetics work (3x10 Bench Press / Dumbbell Overhead Press).",
+      "reason": "Supports cycling torque and running power while addressing upper body physique goals, provided lower body fatigue from yesterday permits without compromising form."
     }
   },
   "post_workout_recovery": {}

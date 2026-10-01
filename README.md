@@ -1,49 +1,49 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-09-29 11:15:35*
+*Laatst bijgewerkt: 2026-10-01 11:33:23*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
-* **Fitheid (CTL - Doel 60):** `23.1` / `60` (`38.5%` behaald)
-* **Vermoeidheid (ATL):** `25.1` | **Vorm (TSB):** `-1.9`
+* **Fitheid (CTL - Doel 60):** `22.3` / `60` (`37.2%` behaald)
+* **Vermoeidheid (ATL):** `20.6` | **Vorm (TSB):** `1.7`
 * **Status:** **🔵 Fris / Herstel**
-* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (45 ms)`
+* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (41 ms)`
 
 ---
 
 ## 📋 Coach Verdict & Advies voor Vandaag
 > **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> Given yesterday's hard cycling session and your current recovery metrics (HRV 45 ms), priority 1 is strictly dedicated recovery to clear fatigue. However, if you feel primed, opt for Priority 2 (Zone 2 Aerobic Endurance Cycling) to maintain aerobic volume without digging a deeper recovery hole.
+> Execute Priority 1 today. Your form is fresh, fatigue is minimal, and you are well-positioned for a high-quality threshold cycling session to stimulate your 20-minute power and drive your fitness upward safely.
 
 ---
 
 ## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 🥇 Prioriteit 1: Recovery - Active Recovery & Mobility
-* **Intensiteit:** `Zone 1`
-* **Workout details:** 20-30 minutes of light foam rolling, dynamic stretching, and core stability work. Optional 20-minute very easy spin on the trainer under 100W.
-* **Waarom:** *Highest recommendation due to yesterday's high training load (134) and moderate HRV status (45 ms). Facilitates lactate clearance and neuromuscular recovery.*
+### 🥇 Prioriteit 1: Cycling - Cycling Threshold Sweet Spot Intervals
+* **Intensiteit:** `Zone 3 / Sweet Spot (88-93% FTP)`
+* **Workout details:** 15-minute warmup building into Zone 2. Main set: 3 x 10 minutes at Sweet Spot (225-240W) with 5 minutes easy spinning recovery between blocks. Cool down 10 minutes.
+* **Waarom:** *You are fresh today with a low ATL and positive form. This session directly targets your 20-minute power milestone and lifts your acute training load safely without digging an excessive recovery hole.*
 
-### 🥈 Prioriteit 2: Cycling - Zone 2 Aerobic Base Ride
-* **Intensiteit:** `Zone 2`
-* **Workout details:** 60 minutes continuous cycling at 60-75% of FTP (approx. 150-190W), maintaining a cadence of 90+ RPM. Keep heart rate strictly below aerobic threshold (~145 bpm).
-* **Waarom:** *Aligns with the 70/30 Pyramidal rule, allowing you to bank low-intensity aerobic volume and drive towards your CTL 60 goal without accumulating excessive ATL.*
+### 🥈 Prioriteit 2: Running - Zone 2 Aerobic Base Run
+* **Intensiteit:** `Zone 2 (RPE 4-5/10)`
+* **Workout details:** 45 minutes continuous running at a strictly controlled conversational pace. Keep heart rate below 150 bpm, focusing on running efficiency and cadence.
+* **Waarom:** *Maintains adherence to the 70/30 pyramidal rule by prioritizing low-intensity aerobic engine building for your 5km running goal.*
 
-### 🥉 Prioriteit 3: Strength - Full Body Strength & Core
-* **Intensiteit:** `Moderate Strength`
-* **Workout details:** 3x5 Back Squat (60% 1RM), 3x8 Romanian Deadlifts, 3x10 Weighted Planks, and upper body aesthetics work (3x10 Bench Press / Dumbbell Overhead Press).
-* **Waarom:** *Supports cycling torque and running power while addressing upper body physique goals, provided lower body fatigue from yesterday permits without compromising form.*
+### 🥉 Prioriteit 3: Strength - Lower Body Strength & Core Stability
+* **Intensiteit:** `Moderate-Heavy Strength`
+* **Workout details:** Squats: 3 sets of 6 reps @ 75% 1RM. Romanian Deadlifts: 3 sets of 8 reps. Weighted Plank: 3 sets of 45 seconds. Focus on cycling torque and running power support.
+* **Waarom:** *Supplementary strength work to support your cycling and running power without interfering with aerobic adaptation or overloading the central nervous system.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-You executed a heavy cycling quality session yesterday (Training Load 134, 2.44 hours). Your current CTL is 23.1 and ATL is 25.1, resulting in a TSB of -2.0. Your HRV is 45 ms, indicating moderate recovery status following yesterday's significant stress. Immediate focus must be on mitigating residual fatigue while capitalizing on your rising fitness trend.
+Today's metrics show a low baseline CTL of 22.3 and ATL of 20.6, resulting in a slightly positive TSB. Your HRV is 41 ms, which reflects moderate recovery capacity. Yesterday's training load was very low (19 TSS), meaning you are physically fresh and primed for a structured session, provided we respect the 70/30 pyramidal distribution rule.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the last 21-day block, volume has been sporadic with only 2 recorded sessions totaling 3.42 hours and 193 training load points. Acute fatigue (ATL 25.1) is balanced closely with your fitness (CTL 23.1). To safely ramp towards your target CTL of 60 (+1 to +2 per week), consistency must improve drastically without over-indexing on high-intensity work during recovery deficit days.
+Over the past 21 days, you have accumulated 4 sessions totaling 4.48 hours and a training load of 227 TSS. This represents a conservative block with only 1 quality session. Your ramp rate is well below the target of +1 to +2 CTL per week, meaning your acute training status needs a deliberate upward push to safely build toward your goal CTL of 60.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Looking across the 180-day horizon, your macro progression shows solid baseline endurance supported by intermittent high-intensity cycling and running blocks, but lacks sustained weekly volume. Your best FTP sits around 246-258W, and targeting a safer ramp rate with disciplined Pyramidal distribution (70/30) will unlock your 5km running and 5-minute/20-minute cycling power goals.
+Your 6-month sport trend shows sporadic consistency with solid individual quality rides (e.g., strong FTP and high-load weekend rides), but a lack of structural frequency across both running and cycling. To break past your current fitness plateau, we need to enforce strict adherence to the weekly pyramidal distribution, combining consistent Zone 2 aerobic volume with targeted high-intensity intervals.

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-29 11:15:12.265149",
+  "generated": "2026-10-01 11:30:17.774454",
   "profile_config": {
     "athlete": {
       "sports": [
@@ -53,13 +53,13 @@
   },
   "current_training_block": {
     "period_days": 21,
-    "start": "2026-09-07",
-    "end": "2026-09-27",
-    "sessions": 2,
-    "hours": 3.42,
-    "training_load": 193,
-    "running_sessions": 0,
-    "cycling_sessions": 2,
+    "start": "2026-09-10",
+    "end": "2026-09-30",
+    "sessions": 4,
+    "hours": 4.48,
+    "training_load": 227,
+    "running_sessions": 1,
+    "cycling_sessions": 3,
     "ebike_sessions": 0,
     "quality_sessions": 1
   },
@@ -3236,12 +3236,50 @@
         "distance_km": 0
       },
       "quality": true
+    },
+    "2026-09-29": {
+      "sessions": 1,
+      "training_load": 15,
+      "hours": 0.44,
+      "distance_km": 3.9,
+      "running": {
+        "sessions": 1,
+        "distance_km": 3.9
+      },
+      "cycling_performance": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
+    },
+    "2026-09-30": {
+      "sessions": 1,
+      "training_load": 19,
+      "hours": 0.62,
+      "distance_km": 21.9,
+      "running": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "cycling_performance": {
+        "sessions": 1,
+        "distance_km": 21.9
+      },
+      "cycling_commute": {
+        "sessions": 0,
+        "distance_km": 0
+      },
+      "quality": false
     }
   },
   "performance_trends": {
-    "generated": "2026-09-29 11:15:12.221310",
+    "generated": "2026-10-01 11:30:17.732020",
     "cycling": {
-      "rides_last_180_days": 35,
+      "rides_last_180_days": 34,
       "best_ftp": 246,
       "best_5min_power": null,
       "best_wprime": 21006,
@@ -3249,14 +3287,14 @@
     }
   },
   "fitness_state": {
-    "CTL": 23.129427,
-    "ATL": 25.071146,
-    "resting_hr": 54,
+    "CTL": 22.326607,
+    "ATL": 20.592651,
+    "resting_hr": 52,
     "weight": 73.0
   },
   "garmin_data": {
     "sleep_score": "",
     "hrv_status": "",
-    "hrv_value": 45
+    "hrv_value": 41
   }
 }

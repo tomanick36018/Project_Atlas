@@ -1,49 +1,49 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-10-03 10:20:11*
+*Laatst bijgewerkt: 2026-10-04 11:03:33*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL - Doel 60):** `22.3` / `60` (`37.2%` behaald)
 * **Vermoeidheid (ATL):** `20.9` | **Vorm (TSB):** `1.4`
 * **Status:** **🔵 Fris / Herstel**
-* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (28 ms)`
+* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (32 ms)`
 
 ---
 
 ## 📋 Coach Verdict & Advies voor Vandaag
 > **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> Given your suppressed HRV of 28 ms, we are prioritizing physiological safety and aerobic base building today (70/30 pyramidal rule). Priority 1 is a structured Zone 2 Cycling session to accumulate aerobic volume with minimal autonomic stress. Priority 2 is a dedicated Strength session to build torque and structural durability for your cycling and running goals. Priority 3 is a conditional VO2max Running session, only to be touched if your warmup feels exceptionally fluid and your resting HR stabilizes.
+> Focus strictly on Priority 1 (Zone 2 Aerobic Run). With an HRV of 32 ms and an overall low CTL of 22.3, your autonomic system is vulnerable. Today is about laying down a brick of aerobic foundation to build your running base without overloading your cardiorespiratory or nervous systems.
 
 ---
 
 ## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 🥇 Prioriteit 1: Cycling - Zone 2 Aerobic Base Cycling
-* **Intensiteit:** `Zone 2 (142 - 193 Watts / HR 126-145 bpm)`
-* **Workout details:** 10 min warm-up progressing to 140W. 60 min steady state at 175W (68% FTP) maintaining a cadence of 90-95 RPM. 5 min cool-down below 130W. Total duration: 75 minutes.
-* **Waarom:** *This is the safest and most effective way to accumulate CTL today. It respects your low HRV (28 ms) by keeping autonomic stress low while strengthening your aerobic engine, aligning directly with the 70% aerobic base requirement.*
+### 🥇 Prioriteit 1: Running - Zone 2 Aerobic Running Base
+* **Intensiteit:** `Zone 2 (135 - 150 bpm)`
+* **Workout details:** 45-minute continuous flat run. Maintain a strict Zone 2 heart rate (below 150 bpm). Keep cadence high at 170-180 bpm and utilize nasal breathing to self-regulate pace.
+* **Waarom:** *This builds your 5km running baseline capacity and safely raises CTL without triggering sympathetic nervous system distress, which is crucial given your 32 ms HRV status.*
 
-### 🥈 Prioriteit 2: Strength - Force Production & Torque Strength
-* **Intensiteit:** `RPE 8/10 (Heavy Resistance)`
-* **Workout details:** 3 rounds of: 5x Barbell Back Squats @ 80kg, 5x Romanian Deadlifts @ 75kg. Followed by 3 rounds of: 8x Heavy Sandbag Cleans (70kg), 10x Kettlebell Goblet Squats (20kg), 12x Hanging Knee Raises. 2 min rest between sets.
-* **Waarom:** *Excellent alternative to cardiovascular training today. Heavy strength work targets recruitment of high-threshold motor units to support cycling torque and running power without imposing high cardiorespiratory stress on your recovery systems.*
+### 🥈 Prioriteit 2: Cycling - Zone 2 Base Endurance Ride
+* **Intensiteit:** `Zone 2 (145 - 180W)`
+* **Workout details:** 75-minute steady spin on flat terrain. Maintain power strictly between 145W and 180W. Keep cadence stable between 90-95 RPM.
+* **Waarom:** *Provides a low-impact aerobic stimulus that supports cycling endurance (20-min power base) with minimal muscular damage, respecting your current fatigue levels.*
 
-### 🥉 Prioriteit 3: Running - Conditional 5km VO2max Running Intervals
-* **Intensiteit:** `Zone 5 / VO2max (HR 175-194 bpm)`
-* **Workout details:** 15 min easy jogging warm-up. 5x 3-minute intervals at 5km target pace (target HR >175 bpm) with 3-minute walking recoveries. 10 min easy jog cool-down.
-* **Waarom:** *A high-intensity quality session to target your 5km running goal. This is ranked third and is strictly conditional. Only perform this if you feel highly motivated, pain-free, and your HR responds normally during the warm-up.*
+### 🥉 Prioriteit 3: Strength - Lower Body Torque & Core Strength
+* **Intensiteit:** `RPE 7-8/10`
+* **Workout details:** Warm-up: 10 mins mobility. Barbell Back Squat: 3 sets of 5 reps (using heavy but manageable load, ~75% 1RM). Heavy Sandbag Carry: 3 sets of 50 meters. Romanian Deadlift: 3 sets of 8 reps. Core: 3 sets of 45-second planks.
+* **Waarom:** *Develops the high-torque muscular strength needed for cycling power and running economy without cardiorespiratory fatigue, keeping stress off your autonomic nervous system.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Your Form (TSB) is currently sitting at +1.43, indicating a functionally neutral recovery state. However, your Garmin HRV is suppressed at 28 ms. Despite having two light recovery days behind you, your autonomic nervous system is showing signs of sympathetic dominance or systemic stress. High-intensity work today carries a elevated risk of maladaptation; metabolic and neurological base building is the optimal pathway.
+Your TSB is +1.43, indicating positive physical freshness, but your Garmin HRV is suppressed at 32 ms. This indicates autonomic nervous system strain despite recent low-load days (Oct 1: 23 TSS). Because of this unfavorable HRV, high-intensity intervals (Zone 4/5) are strictly prohibited today to prevent deeper sympathetic fatigue.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the last 21 days, you have accumulated only 5.02 hours of training with a total load of 250. This is highly acute and represents an undertrained state relative to your long-term capacity. Your CTL (Fitness) is at 22.3, and your ATL (Fatigue) is at 20.9. To safely scale toward your target CTL of 60, we need to establish consistent, progressive load-bearing weeks without spiking acute fatigue.
+Over the last 21 days, you have accumulated only 250 TSS and 5 hours of total volume. This is highly undertrained for an athlete targeting a CTL of 60. Your chronic baseline is weak, which means we cannot safely inject high-intensity training blocks without establishing a more robust, consistent training habit first.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Looking at the 180-day macro trend, your aerobic baseline is highly supported by historical commuting volume, but your structured sports-specific CTL is low. To achieve a CTL of 60 safely, we will target a conservative ramp rate of +1 to +2 CTL points per week. This will prevent injury and accommodate your lower baseline HRV of 28 ms, transforming your vast commuter engine into specialized running pace and cycling power.
+Your current CTL is 22.3, which is significantly below your goal of 60. The long-term trend shows sporadic training spikes rather than a progressive, structured build. To climb safely at the recommended ramp rate of +1 to +2 CTL per week, we must prioritize consistent, repeatable Zone 2 aerobic volume and sport-specific strength.

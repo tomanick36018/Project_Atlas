@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-04 11:03:33.586414",
+  "generated": "2026-10-05 12:12:04.686198",
   "athlete_inputs": {
     "sport_preference": "",
     "athlete_notes": "",
@@ -8,35 +8,35 @@
     "is_post_workout": false
   },
   "current_state": {
-    "CTL": 22.3,
-    "ATL": 20.9,
-    "Form_TSB": 1.4
+    "CTL": 21.5,
+    "ATL": 18.7,
+    "Form_TSB": 2.8
   },
-  "daily_load_assessment": "Your TSB is +1.43, indicating positive physical freshness, but your Garmin HRV is suppressed at 32 ms. This indicates autonomic nervous system strain despite recent low-load days (Oct 1: 23 TSS). Because of this unfavorable HRV, high-intensity intervals (Zone 4/5) are strictly prohibited today to prevent deeper sympathetic fatigue.",
-  "acute_status_assessment_3_weeks": "Over the last 21 days, you have accumulated only 250 TSS and 5 hours of total volume. This is highly undertrained for an athlete targeting a CTL of 60. Your chronic baseline is weak, which means we cannot safely inject high-intensity training blocks without establishing a more robust, consistent training habit first.",
-  "sport_trend_assessment_6_months": "Your current CTL is 22.3, which is significantly below your goal of 60. The long-term trend shows sporadic training spikes rather than a progressive, structured build. To climb safely at the recommended ramp rate of +1 to +2 CTL per week, we must prioritize consistent, repeatable Zone 2 aerobic volume and sport-specific strength.",
-  "coach_verdict": "Focus strictly on Priority 1 (Zone 2 Aerobic Run). With an HRV of 32 ms and an overall low CTL of 22.3, your autonomic system is vulnerable. Today is about laying down a brick of aerobic foundation to build your running base without overloading your cardiorespiratory or nervous systems.",
+  "daily_load_assessment": "Today's assessment shows a positive training stress balance (TSB / Form) of +2.8, indicating you are fully recovered. Your resting heart rate of 48 bpm is excellent, and your HRV status is stable at 57 ms. Although you completed an 8.4km run today, the load of 52 was moderate. You are physically capable of handling more volume or a structured strength session to safely build your CTL.",
+  "acute_status_assessment_3_weeks": "Over the last 21 days, you have logged only 6 sessions totaling 5.72 hours and 302 training load. This is a severe acute underload for an athlete targeting a CTL of 60. Your current CTL of 21.5 is extremely low, meaning you have substantial room to safely increase training volume without risking overtraining, provided you adhere to the 70/30 pyramidal distribution rule.",
+  "sport_trend_assessment_6_months": "Looking at the 180-day macro trend, your fitness has significantly detrained from your previous peaks (e.g., massive 100km+ rides in early 2026). Your current CTL of 21.5 needs a structured, progressive ramp rate of +1 to +2 CTL per week to reach your target of 60. Your massive e-bike commuting baseline provides a solid latent aerobic engine, but we must formalize this with structured Zone 2 running and cycling sessions to build durable athletic resilience.",
+  "coach_verdict": "You are severely under-loaded. A CTL of 21.5 will not get you to your 5km and cycling power goals. Because your TSB is positive (+2.8) and HRV is stable, we are in a green-light scenario. However, because you ran today, the absolute priority is a non-impact, low-intensity cycling session to accumulate aerobic volume, or a dedicated strength training block to build power-to-weight and torque capability.",
   "today_options": {
     "priority_1": {
-      "session_title": "Zone 2 Aerobic Running Base",
-      "sport_type": "Running",
-      "intensity": "Zone 2 (135 - 150 bpm)",
-      "workout_details": "45-minute continuous flat run. Maintain a strict Zone 2 heart rate (below 150 bpm). Keep cadence high at 170-180 bpm and utilize nasal breathing to self-regulate pace.",
-      "reason": "This builds your 5km running baseline capacity and safely raises CTL without triggering sympathetic nervous system distress, which is crucial given your 32 ms HRV status."
+      "session_title": "Aerobic Engine Builder - Zone 2 Cycling",
+      "sport_type": "Cycling",
+      "intensity": "Zone 2 (145W - 190W / HR 120-140 bpm)",
+      "workout_details": "90 minutes continuous steady-state cycling in Zone 2. Keep cadence strictly between 90-95 RPM to minimize muscular fatigue and shift the adaptation stress entirely to the cardiovascular system.",
+      "reason": "This is the highest priority. To ramp your CTL from 21.5 to 60 safely, we need to accumulate high-quality, low-stress aerobic volume. Since you already ran today, cycling allows you to build chronic load without the orthopedic impact of another running session."
     },
     "priority_2": {
-      "session_title": "Zone 2 Base Endurance Ride",
-      "sport_type": "Cycling",
-      "intensity": "Zone 2 (145 - 180W)",
-      "workout_details": "75-minute steady spin on flat terrain. Maintain power strictly between 145W and 180W. Keep cadence stable between 90-95 RPM.",
-      "reason": "Provides a low-impact aerobic stimulus that supports cycling endurance (20-min power base) with minimal muscular damage, respecting your current fatigue levels."
+      "session_title": "Lower Body Torque & Core Stability",
+      "sport_type": "Strength",
+      "intensity": "Heavy Strength (RPE 8/10)",
+      "workout_details": "1. Barbell Back Squat: 4 sets x 5 reps (progressive overload)\n2. Romanian Deadlift: 3 sets x 8 reps\n3. Heavy Sandbag Carry (70kg): 3 runs x 50 meters\n4. Barbell Bench Press: 3 sets x 8 reps (aesthetic support)\n5. Hanging Leg Raises: 3 sets to failure.",
+      "reason": "With a positive TSB and stable recovery metrics, today is an excellent window to build maximum force production. This routine targets cycling torque and running power while satisfying your secondary goals of upper-body aesthetics and core stability."
     },
     "priority_3": {
-      "session_title": "Lower Body Torque & Core Strength",
-      "sport_type": "Strength",
-      "intensity": "RPE 7-8/10",
-      "workout_details": "Warm-up: 10 mins mobility. Barbell Back Squat: 3 sets of 5 reps (using heavy but manageable load, ~75% 1RM). Heavy Sandbag Carry: 3 sets of 50 meters. Romanian Deadlift: 3 sets of 8 reps. Core: 3 sets of 45-second planks.",
-      "reason": "Develops the high-torque muscular strength needed for cycling power and running economy without cardiorespiratory fatigue, keeping stress off your autonomic nervous system."
+      "session_title": "VO2max Capacity Intervals",
+      "sport_type": "Cycling",
+      "intensity": "Zone 5 (295W - 320W / RPE 9/10)",
+      "workout_details": "15-minute Warm-up including 3x 30-sec high-cadence efforts. Main Set: 4 sets x 4 minutes at 115% FTP (approx. 295W) with 4 minutes of easy spinning recovery between sets. 15-minute Cool-down.",
+      "reason": "This session directly targets your 5-minute cycling power goal. Because your HRV is favorable (57ms) and you have only logged 1 quality session in this block, you are cleared for high-intensity work under the 70/30 pyramidal rule. However, it is ranked third due to the cumulative stress of today's running session."
     }
   },
   "post_workout_recovery": {}

@@ -1,49 +1,49 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-10-08 11:55:03*
+*Laatst bijgewerkt: 2026-10-09 11:46:54*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL - Doel 60):** `21.2` / `60` (`35.3%` behaald)
 * **Vermoeidheid (ATL):** `17.8` | **Vorm (TSB):** `3.4`
 * **Status:** **🔵 Fris / Herstel**
-* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (26 ms)`
+* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (57 ms)`
 
 ---
 
 ## 📋 Coach Verdict & Advies voor Vandaag
 > **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> You are physically fresh (TSB +3.39) but your autonomic recovery is compromised (HRV 26 ms). Given your goal to safely rebuild CTL to 60, our main objective today is to stimulate aerobic development and biomechanical durability without overloading your nervous system. Your primary choice is a structured Zone 2 running session to support your 5km goals, followed by torque-building strength as the second choice. A Sweet Spot bike session remains the third, high-challenge choice only if you feel exceptionally good during warm-up.
+> Priority 1 is your definitive target today. Your positive TSB and stable HRV demand a high-intensity VO2max running session to directly stimulate your 5km pace and cardiovascular ceiling. Do not compromise; execute the intervals with precision.
 
 ---
 
 ## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 🥇 Prioriteit 1: Running - Zone 2 Aerobic Base Run
-* **Intensiteit:** `Zone 2 (135 - 150 bpm / RPE 4-5)`
-* **Workout details:** 10-minute progressive warm-up jog. 40 minutes steady running strictly inside your Zone 2 heart rate range (135-150 bpm). Maintain a high cadence of 170-180 spm to minimize ground contact time. 5-minute easy walking cool-down.
-* **Waarom:** *This is the safest and most effective way to stimulate aerobic adaptations and running economy for your 5km goal on a day when HRV is suppressed. It keeps sympathetic nervous system stress low while safely contributing to your CTL progression.*
+### 🥇 Prioriteit 1: Running - 5km Specific VO2max Run Intervals
+* **Intensiteit:** `Zone 5 (90-95% Max HR / RPE 9/10)`
+* **Workout details:** 15 min Warm-up in Zone 2. 5 x 1,000m at target 5km pace (approx. 90-95% Max HR / 175-184 bpm) with 3 min active recovery jogs in Zone 1. 10 min Cool-down.
+* **Waarom:** *Directly targets your primary running milestone. Your positive TSB (+3.4) and fresh legs mean your anaerobic and aerobic systems can handle the high muscular and cardiac demand without risking overtraining.*
 
-### 🥈 Prioriteit 2: Strength - Maximum Torque & Durability Strength
-* **Intensiteit:** `Heavy Strength (RPE 7.5/10)`
-* **Workout details:** Warm-up: Mobility & core activation. Barbell Back Squats: 3 sets x 5 reps @ 75% 1RM (focus on explosive drive). Barbell Deadlifts: 3 sets x 5 reps @ 75% 1RM. Heavy Sandbag Carries (70kg): 3 sets x 40 meters. Kettlebell Swings (20kg): 3 sets x 15 reps. Core: Plank 3 x 60 seconds.
-* **Waarom:** *Strength training builds the skeletal torque necessary for cycling power and the durability required for running impact. Because it does not heavily tax the cardiovascular system, it is an excellent alternative when your HRV is suppressed.*
+### 🥈 Prioriteit 2: Cycling - VO2max Cycling Capacity Boost
+* **Intensiteit:** `Zone 5 (110-120% FTP / 284-310 Watts)`
+* **Workout details:** 15 min progressive Warm-up. 5 x 3 min at 290 Watts (VO2max) with 4 min easy spinning (120-130W) between sets. 10 min Cool-down.
+* **Waarom:** *Targets your 5-minute cycling power milestone. Ideal alternative if you prefer cycling today, leveraging your fresh status to generate maximum neuromuscular torque and cardiovascular adaptation.*
 
-### 🥉 Prioriteit 3: Cycling - Sweet Spot Power Progression
-* **Intensiteit:** `Sweet Spot (88-93% FTP / 227-240 Watts)`
-* **Workout details:** 15-minute warm-up including 3x 30-second high-cadence efforts. 2x 10 minutes at Sweet Spot intensity (230W) with 5 minutes of easy spinning recovery in between. 10-minute cool-down.
-* **Waarom:** *This directly targets your 20-minute power goal. However, because Sweet Spot requires significant focus and physiological strain, it is placed as Priority 3. Only attempt this if your subjective fatigue is non-existent upon starting.*
+### 🥉 Prioriteit 3: Strength - Heavy Torque & Posterior Chain Strength
+* **Intensiteit:** `Heavy Strength (RPE 8-9/10)`
+* **Workout details:** Warm-up with mobility. Barbell Back Squat: 4x5 reps @ 80% 1RM. Barbell Deadlift: 3x5 reps @ 82.5% 1RM. Heavy Sandbag Clean & Carry: 3x50m. Core: 3 sets of Hanging Leg Raises.
+* **Waarom:** *Builds the critical running power and cycling torque required for your goals. Since you are fully recovered, lifting heavy today will stimulate myofibrillar hypertrophy and core stability without the high metabolic fatigue of intervals.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Today's Form (TSB) is highly positive at +3.39, indicating that muscular fatigue is low and physical freshness is present. However, your Garmin HRV is suppressed at 26 ms. While you have the muscular capacity to train, your autonomic nervous system is showing signs of mild stress or under-recovery. High-intensity work must be strictly controlled today.
+You are currently highly recovered with a positive TSB of +3.4 and a solid resting HRV of 57 ms. Having taken a complete rest day yesterday, your physiological system is fully primed. There is absolutely zero excuse not to execute a high-performance session today.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the last 21 days, you have completed only 7 sessions with a total volume of 6.26 hours and 330 TSS. Your acute training load is very low, which has caused your CTL to drop to 21.19. You are currently in a highly detrained but fresh state. To climb back to your target CTL of 60, we need to establish consistent, progressive aerobic and strength training, rather than sporadic hard efforts.
+Your last 21 days show extreme understimulation: only 7 sessions, 6.26 hours, and 330 total load. This is a sluggish adaptation rate. You are detraining. To reach your target CTL of 60, we must immediately break this stagnation and enforce a strict, consistent progressive overload.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Your 180-day macro trend reveals a major decline in fitness. You previously held a much higher volume and executed quality long rides (such as 100km+ efforts in April/May), but training density collapsed in late August and September. Rebuilding your engine safely requires adhering to a +1 to +2 CTL ramp rate per week to avoid injury, utilizing your deep aerobic memory to progress.
+Your long-term CTL has cratered to a lowly 21.2. Looking back at April and May 2026, you successfully handled single-day loads exceeding 200. You have the latent aerobic capacity, but current macro progression is non-existent. We need a disciplined ramp rate of +1.5 to +2 CTL per week to safely climb back to fitness.

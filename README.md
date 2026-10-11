@@ -1,49 +1,49 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-10-10 11:04:37*
+*Laatst bijgewerkt: 2026-10-11 11:21:05*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL - Doel 60):** `21.2` / `60` (`35.3%` behaald)
 * **Vermoeidheid (ATL):** `17.8` | **Vorm (TSB):** `3.4`
 * **Status:** **🔵 Fris / Herstel**
-* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (None ms)`
+* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (50 ms)`
 
 ---
 
 ## 📋 Coach Verdict & Advies voor Vandaag
 > **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> You are fresh and fully recovered with a positive TSB (+3.4). Capitalize on this recovery window today by executing Priority 1 (Cycling VO2max Intervals) to target your 5-minute power objective and kickstart your CTL progression.
+> Given your 4-day recovery window and fresh TSB (+3.4), today is green-lit for a high-intensity Zone 5 quality session. Option 1 (5km VO2max Running Intervals) is the top recommendation to directly target your running goals while your legs are completely fresh.
 
 ---
 
 ## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 🥇 Prioriteit 1: Cycling - Cycling VO2max 5-Min Power Intervals
-* **Intensiteit:** `Zone 5 (110-115% FTP / 285-300 W)`
-* **Workout details:** 15 min Zone 2 warmup with 3x30s high-cadence spin-ups. Main Set: 5 x 4 minutes @ 285-300 Watts (Zone 5), with 4 minutes Zone 1 active recovery between sets. 15 min Zone 1 cooldown.
-* **Waarom:** *Optimal TSB (+3.4) and 48 hours of recovery allow for top-tier neural drive and high-power output targeting your 5-minute cycling goal.*
+### 🥇 Prioriteit 1: Running - 5km Pace VO2max Intervals (5x800m)
+* **Intensiteit:** `Zone 5 / RPE 9/10 (HR 175-186 bpm)`
+* **Workout details:** Warm-up: 15 mins Zone 2 smooth jog with 4x15-sec stride acceleration reps. Main Set: 5 x 800m at target 5km pace (Zone 5 effort), with 2 minutes passive/jog recovery between sets. Cool-down: 10 mins easy Zone 1 jog.
+* **Waarom:** *Highest priority. Your freshness (TSB +3.4) makes today ideal for maximum neuromuscular and VO2max adaptation needed to break your 5km running pace barrier.*
 
-### 🥈 Prioriteit 2: Running - 5km VO2max Running Intervals
-* **Intensiteit:** `Zone 4/5 (90-95% HRmax / RPE 8.5)`
-* **Workout details:** 15 min Zone 2 warm-up + dynamic drills. Main Set: 5 x 1000m @ target 5km pace with 2 minutes light jog recovery. 10 min Zone 1 warm-down.
-* **Waarom:** *Directly targets 5km running pace and interval quality during a period of zero muscle fatigue.*
+### 🥈 Prioriteit 2: Cycling - 5-Min Power Development (5x4-Min @ 115% FTP)
+* **Intensiteit:** `Zone 5 / 295-310 Watts (FTP: 258W)`
+* **Workout details:** Warm-up: 15 mins progressive ramp up to FTP. Main Set: 5 x 4 minutes @ 295-310W (115% FTP) at high cadence (95-105 RPM), with 4 minutes easy spinning recovery between intervals. Cool-down: 10 mins Zone 1 spinning.
+* **Waarom:** *Secondary quality option focusing directly on your cycling target metric (5-minute max power) while fatigue is minimal.*
 
-### 🥉 Prioriteit 3: Strength - Heavy Torque & Hypertrophy Strength
-* **Intensiteit:** `RPE 8/10`
-* **Workout details:** Barbell Back Squats: 4x6 @ 80% 1RM. Barbell Romanian Deadlifts: 3x8. Bench Press: 4x8. Heavy Sandbag Carry: 3x40m. Hanging Leg Raises: 3x12.
-* **Waarom:** *Builds structural durability, cycling torque, and upper body aesthetics if you choose to preserve cardiovascular freshness for tomorrow.*
+### 🥉 Prioriteit 3: Strength - Heavy Lower Power & Upper Body Aesthetics Strength
+* **Intensiteit:** `RPE 8-9 / Progressive Overload`
+* **Workout details:** 1. Barbell Back Squat: 4 sets x 5 reps @ 80% 1RM. 2. Romanian Deadlift: 3 sets x 8 reps. 3. Overhead Press superset with Barbell Rows: 4 sets x 8 reps. 4. Heavy Sandbag Carry (70kg): 3 x 40m trips. 5. Core & Biceps: Hanging Leg Raises + Barbell Curls (3 x 12).
+* **Waarom:** *Third priority option if you prefer gym-based stimulus. Focuses on leg torque for cycling power, core stability for running economy, and targeted upper body aesthetics.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-TSB is positive at +3.4 (CTL 21.2, ATL 17.8) after two consecutive rest days following a light run on October 7. Your daily fatigue is minimal, creating a prime green-light window to execute a high-intensity quality session.
+Current fitness state shows CTL at 21.2, ATL at 17.8, yielding a positive TSB (Form) of +3.4. Following 4 consecutive days without recorded training stress since October 7, acute fatigue is fully cleared. HRV sits at a solid baseline of 50 ms. You are fully primed and rested to absorb a high-stimulus quality session today.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Acute status shows low volume across the past 21 days with 7 total sessions (6.26 hours, 330 TSS) and only 1 quality workout. Training frequency is currently too low to drive adaptation, leaving fatigue low but adaptation stagnant.
+Over the past 21 days, volume has been low with only 7 logged sessions totaling 6.26 hours and 330 TSS. The acute adaptation rate has stalled, allowing fatigue to dissipate completely, but also causing a drift away from your target CTL of 60. To re-establish a healthy ramp rate of +1 to +2 CTL per week, we must resume structured, progressive loading immediately.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Your 180-day baseline shows sporadic training blocks resulting in a depressed CTL of 21.2. To reach your target CTL of 60, you must commit to a progressive ramp rate of +1 to +2 CTL per week through consistent Zone 2 volume backed by 2 structured quality sessions per week.
+The 6-month macro trend reveals an inconsistent 'boom-and-bust' loading pattern—punctuated by massive single-day loads (150–250 TSS) followed by periods of minimal training. This volatility keeps your baseline CTL depressed around 21. Reaching your goal CTL of 60 requires shifting away from massive isolated efforts toward predictable weekly frequency, using your daily e-bike/aerobic base alongside 2–3 structured quality workouts per week.

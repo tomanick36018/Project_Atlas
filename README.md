@@ -1,49 +1,49 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-10-13 12:35:07*
+*Laatst bijgewerkt: 2026-10-14 10:06:54*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL - Doel 60):** `21.2` / `60` (`35.3%` behaald)
 * **Vermoeidheid (ATL):** `17.8` | **Vorm (TSB):** `3.4`
 * **Status:** **🔵 Fris / Herstel**
-* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (39 ms)`
+* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (47 ms)`
 
 ---
 
 ## 📋 Coach Verdict & Advies voor Vandaag
 > **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> You are fresh and well-rested after 5 days off. Priority 1 is a VO2max Cycling Interval session to aggressively target your 5-minute peak power goal and jumpstart your CTL build towards 60.
+> Your primary focus today should be Priority 1: Zone 2 Aerobic Base Cycling. Given your sporadic recent training blocks, we need to bank consistent aerobic volume to safely drive up your CTL before layering on excessive high-intensity stress.
 
 ---
 
 ## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 🥇 Prioriteit 1: Cycling - Cycling 5-Min VO2max Power Intervals
-* **Intensiteit:** `Zone 5 (108-120% FTP / 280-310 Watts)`
-* **Workout details:** 15 min Zone 2 warm-up with 3x30-sec high cadence spin-ups. Main Set: 5 x 4 minutes @ 285-300W (Zone 5 / VO2max) with 4 minutes Zone 1 easy spinning recovery. Cool-down: 15 min Zone 1/2. Total duration: ~65 mins.
-* **Waarom:** *Directly targets your primary goal of improving 5-minute cycling power. Your TSB is positive and acute fatigue is clear, allowing max quality in Zone 5.*
+### 🥇 Prioriteit 1: Cycling - Zone 2 Aerobic Base Builder
+* **Intensiteit:** `Zone 2 (60-75% FTP, ~155-194W)`
+* **Workout details:** 90 minutes continuous steady-state cycling. Keep cadence high (90-95 RPM) and heart rate strictly below 150 bpm (under aerobic threshold). Fuel with water and electrolytes.
+* **Waarom:** *Directly targets the 70% rule by building mitochondrial density and aerobic endurance, safely elevating your low CTL without draining recovery reserves.*
 
-### 🥈 Prioriteit 2: Running - 5km Running VO2max Intervals
-* **Intensiteit:** `Zone 4/5 (RPE 8-9/10, HR > 175 bpm)`
-* **Workout details:** 12 min easy Zone 2 jog + dynamic movement drills. Main Set: 5 x 1000m @ 5km race pace effort with 2 minutes light jog recovery. Cool-down: 10 min easy jog. Total duration: ~45 mins.
-* **Waarom:** *Secondary high-priority option addressing your 5km running performance goal. High quality interval work fits well within your current rested state.*
+### 🥈 Prioriteit 2: Running - 5km Running Efficiency & Aerobic Pace
+* **Intensiteit:** `Zone 2 / Conversational Pace`
+* **Workout details:** 45 minutes easy continuous run. Focus on smooth stride cadence (170+ SPM) and upright posture. No hard surges.
+* **Waarom:** *Maintains frequency for your 5km running goal while keeping impact stress low and allowing adaptation from recent sessions.*
 
-### 🥉 Prioriteit 3: Strength - Hypertrophy & Cycling Torque Heavy Strength
-* **Intensiteit:** `RPE 7.5-8.5 / Heavy Compound`
-* **Workout details:** Warm-up: 5 min bodyweight. 1) Barbell Back Squats: 4x6 @ 80kg. 2) Barbell Romanian Deadlifts: 3x8 @ 75kg. 3) Barbell Bench Press: 4x8 @ 65kg. 4) Overhead Press: 3x8 @ 40kg. 5) Sandbag Hug Carries & Plank Superset: 3 rounds.
-* **Waarom:** *If you prefer a non-impact strength day, this full-body session builds lower body power output for cycling torque and upper body aesthetics while preserving cardiovascular freshness.*
+### 🥉 Prioriteit 3: Strength - Core Stability & Cycling Torque Strength
+* **Intensiteit:** `Moderate-Heavy (RPE 7/10)`
+* **Workout details:** Gym session: Back Squat (3x6 @ 75% 1RM), Romanian Deadlifts (3x8), Weighted Plank (3x45 sec), and Cable/Bodyweight Core work. Finish with upper body chest/shoulder accessory work for aesthetics.
+* **Waarom:** *Supports cycling torque production and running structural integrity without adding high cardiovascular fatigue.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Current TSB is +3.39 (CTL 21.2, ATL 17.8), indicating low acute fatigue following 5 full rest days since October 7th. Although HRV is 39 ms, the extended rest period provides sufficient freshness to absorb a high-quality key workout today.
+Your HRV is stable at 47 ms, and your current Fitness (CTL) sits at 21.2 with Fatigue (ATL) at 17.8, resulting in a manageable Form (TSB) of roughly +3. Although explicit sleep score data is absent, your physiological metrics indicate adequate readiness for a structured training stimulus. We need to push your aerobic base and progressive overload safely to hit your target CTL of 60.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the past 21 days, volume has been very light with only 7 sessions (330 TSS total) and 1 quality effort. Fatigue (ATL) has decayed to 17.8. The acute system is fresh and under-stimulated, making this an ideal window to re-engage progressive overload.
+Looking at the 21-day training block, volume has been inconsistent with only 6.26 hours logged over 7 sessions and a cumulative training load of 330. This represents a stagnation phase rather than a progressive buildup. To achieve your target ramp rate of +1 to +2 CTL per week, training frequency and consistency must increase significantly, keeping the 70/30 pyramidal distribution intact.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-CTL is currently 21.2, significantly below the target CTL of 60. Long-term trends show high inconsistent spikes (TSS > 200 in June/July) followed by extended lulls. To reach CTL 60 safely, we must establish a consistent 70/30 pyramidal routine with a controlled weekly CTL ramp rate of +1 to +2.
+Over the last 180 days, your cycling shows a best FTP of 246W (tested against your current 258W baseline) and solid raw peak power, but your structured consistency is lacking. Your dual goals of improving 5km running pace and cycling 5/20-minute power require treating your e-bike commuting as base miles while injecting precise, high-intensity intervals and supporting gym strength without burning out your central nervous system.

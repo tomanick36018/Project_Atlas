@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14 10:06:54.471183",
+  "generated": "2026-10-15 09:44:10.696414",
   "athlete_inputs": {
     "sport_preference": "",
     "athlete_notes": "",
@@ -12,31 +12,31 @@
     "ATL": 17.8,
     "Form_TSB": 3.4
   },
-  "daily_load_assessment": "Your HRV is stable at 47 ms, and your current Fitness (CTL) sits at 21.2 with Fatigue (ATL) at 17.8, resulting in a manageable Form (TSB) of roughly +3. Although explicit sleep score data is absent, your physiological metrics indicate adequate readiness for a structured training stimulus. We need to push your aerobic base and progressive overload safely to hit your target CTL of 60.",
-  "acute_status_assessment_3_weeks": "Looking at the 21-day training block, volume has been inconsistent with only 6.26 hours logged over 7 sessions and a cumulative training load of 330. This represents a stagnation phase rather than a progressive buildup. To achieve your target ramp rate of +1 to +2 CTL per week, training frequency and consistency must increase significantly, keeping the 70/30 pyramidal distribution intact.",
-  "sport_trend_assessment_6_months": "Over the last 180 days, your cycling shows a best FTP of 246W (tested against your current 258W baseline) and solid raw peak power, but your structured consistency is lacking. Your dual goals of improving 5km running pace and cycling 5/20-minute power require treating your e-bike commuting as base miles while injecting precise, high-intensity intervals and supporting gym strength without burning out your central nervous system.",
-  "coach_verdict": "Your primary focus today should be Priority 1: Zone 2 Aerobic Base Cycling. Given your sporadic recent training blocks, we need to bank consistent aerobic volume to safely drive up your CTL before layering on excessive high-intensity stress.",
+  "daily_load_assessment": "ATL currently sits at 17.8 against a CTL of 21.2, putting your Form (TSB) at +3.4 (fresh/rested). Your Garmin HRV status is stable at 59 ms. With no acute strain over the past 48 hours, your system is fully primed for a high-intensity quality stimulus today.",
+  "acute_status_assessment_3_weeks": "Over the last 21-day block, overall volume has been conservative with 7 sessions generating 330 TSS. ATL has dropped significantly, meaning acute fatigue is minimal. While recovery status is optimal, consistency must be re-established to start driving progressive overload toward your CTL target of 60.",
+  "sport_trend_assessment_6_months": "Long-term progression shows CTL at a low baseline of 21.2, down from earlier summer peaks. To achieve the macro goal of CTL 60 safely, we need a steady ramp rate of +1 to +2 CTL points per week. This requires maintaining a strict 70/30 pyramidal base anchored by low-intensity volume alongside disciplined high-quality workouts.",
+  "coach_verdict": "Your recovery markers (TSB +3.4, HRV 59 ms) are green. Today is an ideal window to strike with a high-intensity cycling quality session (Priority 1) targeting your 5-minute VO2max power goal.",
   "today_options": {
     "priority_1": {
-      "session_title": "Zone 2 Aerobic Base Builder",
+      "session_title": "Cycling VO2max Power Intervals",
       "sport_type": "Cycling",
-      "intensity": "Zone 2 (60-75% FTP, ~155-194W)",
-      "workout_details": "90 minutes continuous steady-state cycling. Keep cadence high (90-95 RPM) and heart rate strictly below 150 bpm (under aerobic threshold). Fuel with water and electrolytes.",
-      "reason": "Directly targets the 70% rule by building mitochondrial density and aerobic endurance, safely elevating your low CTL without draining recovery reserves."
+      "intensity": "Zone 5 (106-120% FTP / 275-310W)",
+      "workout_details": "15 min Zone 2 warm-up including 3x30s high-cadence spin-ups. Main Set: 5 x 4 minutes @ 110% FTP (284W) with 4 minutes Zone 1 active recovery between reps. 15 min Zone 2 cool-down. Total duration ~60 min.",
+      "reason": "Highest priority. Your fresh TSB and strong HRV provide optimal conditions to target 5-minute VO2max capacity, directly advancing your target cycling metrics."
     },
     "priority_2": {
-      "session_title": "5km Running Efficiency & Aerobic Pace",
+      "session_title": "5km Pace Threshold Running Intervals",
       "sport_type": "Running",
-      "intensity": "Zone 2 / Conversational Pace",
-      "workout_details": "45 minutes easy continuous run. Focus on smooth stride cadence (170+ SPM) and upright posture. No hard surges.",
-      "reason": "Maintains frequency for your 5km running goal while keeping impact stress low and allowing adaptation from recent sessions."
+      "intensity": "Zone 4/5 (RPE 8-9/10)",
+      "workout_details": "10 min Zone 2 warm-up jog + dynamic mobility. Main Set: 5 x 1000m @ target 5km race pace with 90s standing/walking recovery between intervals. 10 min easy cool-down jog.",
+      "reason": "Strong running alternative that drives running economy and VO2max efficiency for your 5km goals, taking advantage of fresh legs without overtraining risk."
     },
     "priority_3": {
-      "session_title": "Core Stability & Cycling Torque Strength",
+      "session_title": "Lower Body Torque & Upper Body Aesthetics Strength",
       "sport_type": "Strength",
-      "intensity": "Moderate-Heavy (RPE 7/10)",
-      "workout_details": "Gym session: Back Squat (3x6 @ 75% 1RM), Romanian Deadlifts (3x8), Weighted Plank (3x45 sec), and Cable/Bodyweight Core work. Finish with upper body chest/shoulder accessory work for aesthetics.",
-      "reason": "Supports cycling torque production and running structural integrity without adding high cardiovascular fatigue."
+      "intensity": "RPE 7-8/10 (Heavy Load / Hypertrophy)",
+      "workout_details": "Barbell Back Squat 4x6 @ 80kg, Barbell Deadlift 3x5 @ 100kg, Barbell Bench Press 4x8, Overhead Press 3x8, Sandbag Carries 3x40m, Hanging Leg Raises 3x15.",
+      "reason": "Non-cardiovascular progression option. Strengthens cycling torque and running power while targeting upper body aesthetic goals (chest, shoulders, core)."
     }
   },
   "post_workout_recovery": {}

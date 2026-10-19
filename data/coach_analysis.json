@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18 09:26:53.572697",
+  "generated": "2026-10-19 10:39:39.481837",
   "athlete_inputs": {
     "sport_preference": "",
     "athlete_notes": "",
@@ -12,31 +12,31 @@
     "ATL": 17.8,
     "Form_TSB": 3.4
   },
-  "daily_load_assessment": "Immediate fatigue is low with an ATL of 17.8 and a positive TSB (+3.4). HRV is stable at 52 ms. With zero training load accumulated in recent days, your body is fully fresh and primed to absorb a quality high-intensity workout.",
-  "acute_status_assessment_3_weeks": "Acute load over the past 21 days is minimal (330 TSS across 7 sessions). Your adaptation rate has stalled due to low consistency since early October. To re-establish momentum without injury risk, acute load must be ramped systematically.",
-  "sport_trend_assessment_6_months": "Your current CTL of 21.2 is significantly below the target of 60. Long-term trend shows intermittent high-load spikes followed by detraining windows. Achieving CTL 60 requires a steady, disciplined ramp rate of +1 to +2 CTL per week, adhering strictly to the 70/30 pyramidal distribution.",
-  "coach_verdict": "You are fully recovered and rested. Take advantage of your fresh state to execute Priority 1 (Cycling 5-Min VO2max Power Intervals). This directly targets your key cycling performance metric while initiating your CTL build safely.",
+  "daily_load_assessment": "Immediate training load is low with CTL at 21.2 and ATL at 17.8 (TSB +3.4), indicating freshness on paper. However, your HRV of 33 ms indicates autonomic nervous system suppression and compromised recovery. With missing sleep data and low HRV, high neural/cardiac stress must be managed carefully today.",
+  "acute_status_assessment_3_weeks": "Over the last 21 days, training volume has dropped significantly, with total load accumulating to only 330 points across 7 sessions (6.26 hours). The acute adaptation rate has stagnated, leading to a decay in fitness. Rebuilding consistency is critical, but ramp rate must be controlled safely at +1 to +2 CTL per week.",
+  "sport_trend_assessment_6_months": "The 6-month macro trend reflects sporadic peaks of high training load followed by prolonged periods of low consistency, pulling your CTL down far below your long-term target of 60. Your aerobic engine requires a steady, progressive overload driven by consistent Zone 2 aerobic volume and supporting torque strength.",
+  "coach_verdict": "Due to your suppressed HRV status (33 ms), high-intensity intervals are deferred today. Priority 1 is a progressive Zone 2 Aerobic Run to reignite aerobic adaptation without overwhelming your nervous system. Priority 2 focuses on torque and power strength in the gym. Priority 3 is a conservative low-cadence Sweet Spot cycling session if feeling physically energetic.",
   "today_options": {
     "priority_1": {
-      "session_title": "Cycling VO2max 5-Min Power Intervals",
-      "sport_type": "Cycling",
-      "intensity": "Zone 5 (106-120% FTP / 273-310W)",
-      "workout_details": "Warm-up: 15 mins Zone 2 with 3x15-sec high-cadence spin-ups. Main Set: 5 x 4 minutes at 275-290W (Zone 5) with 4 minutes easy Zone 1 recovery between efforts. Cool-down: 10 mins Zone 1.",
-      "reason": "Your HRV is normal (52 ms) and fresh TSB allows for high-quality VO2max work. This session directly drives your 5-minute power goal and delivers high adaptation stimulus."
+      "session_title": "Zone 2 Aerobic Base Run",
+      "sport_type": "Running",
+      "intensity": "Zone 2 (HR 130-145 bpm / RPE 3-4/10)",
+      "workout_details": "10 min warm-up jog ramping to Z2 -> 35 min steady Zone 2 flat running (focus on cadence 175-180 spm and cardiac efficiency) -> 5 min cool-down walk.",
+      "reason": "Highest safety and metabolic efficacy for today's recovery profile. Safely stimulates aerobic adaptation and builds running economy without worsening your HRV suppression."
     },
     "priority_2": {
-      "session_title": "5km Running Threshold Speed Intervals",
-      "sport_type": "Running",
-      "intensity": "Zone 4 / Zone 5 (RPE 8-9/10, HR > 170 bpm)",
-      "workout_details": "Warm-up: 10 mins easy jog + dynamic drills. Main Set: 6 x 800m at target 5km race pace with 2 mins walking/jogging recovery between sets. Cool-down: 10 mins easy jog.",
-      "reason": "If you prefer running today, this session targets neuromuscular speed, running economy, and aerobic power required to improve your 5km performance."
+      "session_title": "Cycling Torque & Sport Strength",
+      "sport_type": "Strength",
+      "intensity": "Moderate-Heavy (RPE 7-8/10)",
+      "workout_details": "Barbell Back Squats (4x6 @ 75%), Romanian Deadlifts (3x8), Heavy Sandbag Carry (3x40m), Overhead Press (3x8), Core Plank Circuit (3x60s).",
+      "reason": "Provides structural resilience, leg torque for cycling power, and core stability without demanding high cardiovascular or central nervous system stress."
     },
     "priority_3": {
-      "session_title": "Heavy Lower Body Torque & Upper Body Aesthetics Strength",
-      "sport_type": "Strength",
-      "intensity": "RPE 8/10 (Heavy Compound)",
-      "workout_details": "1. Barbell Back Squat: 4x5 @ 80% 1RM. 2. Romanian Deadlift: 3x8. 3. Overhead Press superset with Barbell Rows: 4x8. 4. Incline Dumbbell Bench Press superset with Barbell Bicep Curls: 3x10-12. 5. Sandbag Core Holds: 3x45 secs.",
-      "reason": "Provides a high-yield strength stimulus to enhance cycling force production and run durability without causing excessive systemic fatigue before tomorrow's aerobic work."
+      "session_title": "Low-Cadence Sweet Spot Power Build",
+      "sport_type": "Cycling",
+      "intensity": "Zone 3/Sweet Spot (88-93% FTP / 227-240W)",
+      "workout_details": "15 min Z2 warm-up -> 3x8 min @ 230W (low cadence 60-70 RPM) with 3 min Z1 recovery -> 10 min Z1 cool-down.",
+      "reason": "Targets cycling 20-minute power and muscular endurance. Ranked third due to low HRV (33 ms), making high-intensity cardiorespiratory efforts riskier today."
     }
   },
   "post_workout_recovery": {}

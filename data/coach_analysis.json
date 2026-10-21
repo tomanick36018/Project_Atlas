@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20 09:56:20.022146",
+  "generated": "2026-10-21 09:59:52.704245",
   "athlete_inputs": {
     "sport_preference": "",
     "athlete_notes": "",
@@ -8,35 +8,35 @@
     "is_post_workout": false
   },
   "current_state": {
-    "CTL": 21.2,
-    "ATL": 17.8,
-    "Form_TSB": 3.4
+    "CTL": 16.2,
+    "ATL": 6.6,
+    "Form_TSB": 9.6
   },
-  "daily_load_assessment": "Today's recovery markers are favorable with an HRV of 54 ms and a resting heart rate of 52 bpm. Current CTL is 21.2 with an ATL of 17.8, yielding a positive TSB of +3.4. Given the low recent acute load over the past week, you are well-rested and fully clear for a high-intensity quality session.",
-  "acute_status_assessment_3_weeks": "Over the past 21 days, training volume has dropped significantly (7 sessions total, 330 total load units), causing acute fatigue to dissipate and CTL to decay to 21.2. To reverse this detraining trend and hit your CTL target of 60, we must re-establish consistent progressive load immediately while respecting the 70/30 pyramidal distribution.",
-  "sport_trend_assessment_6_months": "The 6-month macro trend shows high variance with periods of solid cycling commute volume punctuated by training lulls. Peak CTL previously reached higher levels, but current fitness (CTL 21.2) requires a structured, safe ramp rate of +1 to +2 CTL points per week. Rebuilding your aerobic foundation alongside 2-3 quality sessions weekly is essential to reach target cycling power outputs and 5km running times.",
-  "coach_verdict": "You are fully fresh (TSB +3.4) with stable HRV, but your overall fitness (CTL 21.2) has drifted low. Priority 1 is a cycling VO2max interval workout to stimulate your 5-minute peak power capacity and drive acute training load safely. Focus on hitting exact target wattage without fading.",
+  "daily_load_assessment": "Today's metrics show a very low ATL (6.6) and CTL (16.2) due to a recent dip in training consistency over the 21-day block. Your HRV is at a solid 51 ms with no reported fatigue, indicating you are fully recovered and prime to absorb training stress, though your current fitness state is well below your target CTL of 60.",
+  "acute_status_assessment_3_weeks": "Over the past 21 days, training volume has been severely restricted with only 5 sessions totaling 2.68 hours and a training load of 151. This represents an under-training phase. While recovery is optimal, the lack of acute stimulus means we need to aggressively rebuild volume and consistency without violating safe ramp rates (+1 to +2 CTL/week).",
+  "sport_trend_assessment_6_months": "Looking at the 180-day horizon, your macro progression has been sporadic, preventing sustained CTL growth toward your goal of 60. Peak cycling power and FTP are established, but long-term aerobic conditioning and running consistency require a strictly enforced pyramidal approach (70/30) to lock in gains across both cycling and your 5km running goals.",
+  "coach_verdict": "Given your fresh recovery state and low acute fatigue, Priority 1 is the clear winner today: execute a structured Zone 2 aerobic base builder on the bike or run to increase volume safely while strictly adhering to the 70/30 pyramidal distribution rule.",
   "today_options": {
     "priority_1": {
-      "session_title": "Cycling VO2max Intervals (5-Min Power Development)",
+      "session_title": "Zone 2 Aerobic Base Cycling",
       "sport_type": "Cycling",
-      "intensity": "Zone 5 (110-120% FTP / 285W - 310W)",
-      "workout_details": "15 min Zone 2 warmup with 3 x 15-sec high-cadence openers. Main Set: 5 x 3 minutes @ 285-300W (Zone 5) with 3 minutes Zone 1 easy spinning recovery between reps. Cool down: 10 minutes Zone 1/2.",
-      "reason": "Highest priority to target your stated goal of boosting 5-minute cycling power. Your fresh recovery status allows for maximum power output in Zone 5."
+      "intensity": "Zone 2 (60-75% FTP, ~155-194W)",
+      "workout_details": "60 minutes continuous riding. Keep cadence high (90-95 rpm) with strict heart rate caps below Zone 3. Focus on smooth pedal strokes.",
+      "reason": "Highest priority because your 3-week volume is critically low and HRV/recovery status supports steady aerobic work to safely rebuild CTL."
     },
     "priority_2": {
-      "session_title": "Running 5km Pace Threshold Intervals",
+      "session_title": "5km Pace Running Endurance",
       "sport_type": "Running",
-      "intensity": "Zone 4 / 5k Target Race Pace",
-      "workout_details": "10 min easy Zone 2 warmup + dynamic drills. Main Set: 4 x 1000m @ target 5km pace with 90 seconds easy recovery jog between efforts. Cool down: 10 min easy jog.",
-      "reason": "Directly targets your 5km running race pace and aerobic capacity. A strong secondary option if you prefer to run today while freshness is high."
+      "intensity": "Zone 2 / Conversational Pace",
+      "workout_details": "30-40 minutes easy jog. Include 4x 30-second strides at the end to maintain neuromuscular speed for your 5km goal without accumulating undue fatigue.",
+      "reason": "Directly targets your 5km running milestone while keeping intensity low to respect the pyramidal baseline requirements."
     },
     "priority_3": {
-      "session_title": "Full Body Torque & Core Strength",
+      "session_title": "Full Body Strength & Core",
       "sport_type": "Strength",
-      "intensity": "RPE 8/10 (Heavy Resistance)",
-      "workout_details": "Warmup: Mobility & core activation. Work: 1) Barbell Back Squats: 4 x 6 reps @ 80% 1RM. 2) Barbell Deadlifts: 3 x 5 reps. 3) Barbell Bench Press: 4 x 8 reps. 4) Heavy Sandbag Carries (70kg): 3 x 40 meters. 5) Hanging Leg Raises: 3 x 12 reps.",
-      "reason": "Builds leg torque for cycling power, durability for running impact, and drives upper body aesthetic goals without adding excessive cardiovascular exhaustion."
+      "intensity": "Moderate to Heavy (RPE 7/10)",
+      "workout_details": "Squats (3x5 @ 70% 1RM), Romanian Deadlifts (3x8), Overhead Press (3x8), and Plank/Ab wheel supersets (3 sets to near failure).",
+      "reason": "Secondary option to build cycling torque and running power and support upper-body aesthetics, but secondary to the urgent need for aerobic volume."
     }
   },
   "post_workout_recovery": {}

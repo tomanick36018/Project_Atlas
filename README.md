@@ -1,49 +1,49 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-10-20 09:56:20*
+*Laatst bijgewerkt: 2026-10-21 09:59:52*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
-* **Fitheid (CTL - Doel 60):** `21.2` / `60` (`35.3%` behaald)
-* **Vermoeidheid (ATL):** `17.8` | **Vorm (TSB):** `3.4`
+* **Fitheid (CTL - Doel 60):** `16.2` / `60` (`27.1%` behaald)
+* **Vermoeidheid (ATL):** `6.6` | **Vorm (TSB):** `9.6`
 * **Status:** **🔵 Fris / Herstel**
-* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (54 ms)`
+* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (51 ms)`
 
 ---
 
 ## 📋 Coach Verdict & Advies voor Vandaag
 > **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> You are fully fresh (TSB +3.4) with stable HRV, but your overall fitness (CTL 21.2) has drifted low. Priority 1 is a cycling VO2max interval workout to stimulate your 5-minute peak power capacity and drive acute training load safely. Focus on hitting exact target wattage without fading.
+> Given your fresh recovery state and low acute fatigue, Priority 1 is the clear winner today: execute a structured Zone 2 aerobic base builder on the bike or run to increase volume safely while strictly adhering to the 70/30 pyramidal distribution rule.
 
 ---
 
 ## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 🥇 Prioriteit 1: Cycling - Cycling VO2max Intervals (5-Min Power Development)
-* **Intensiteit:** `Zone 5 (110-120% FTP / 285W - 310W)`
-* **Workout details:** 15 min Zone 2 warmup with 3 x 15-sec high-cadence openers. Main Set: 5 x 3 minutes @ 285-300W (Zone 5) with 3 minutes Zone 1 easy spinning recovery between reps. Cool down: 10 minutes Zone 1/2.
-* **Waarom:** *Highest priority to target your stated goal of boosting 5-minute cycling power. Your fresh recovery status allows for maximum power output in Zone 5.*
+### 🥇 Prioriteit 1: Cycling - Zone 2 Aerobic Base Cycling
+* **Intensiteit:** `Zone 2 (60-75% FTP, ~155-194W)`
+* **Workout details:** 60 minutes continuous riding. Keep cadence high (90-95 rpm) with strict heart rate caps below Zone 3. Focus on smooth pedal strokes.
+* **Waarom:** *Highest priority because your 3-week volume is critically low and HRV/recovery status supports steady aerobic work to safely rebuild CTL.*
 
-### 🥈 Prioriteit 2: Running - Running 5km Pace Threshold Intervals
-* **Intensiteit:** `Zone 4 / 5k Target Race Pace`
-* **Workout details:** 10 min easy Zone 2 warmup + dynamic drills. Main Set: 4 x 1000m @ target 5km pace with 90 seconds easy recovery jog between efforts. Cool down: 10 min easy jog.
-* **Waarom:** *Directly targets your 5km running race pace and aerobic capacity. A strong secondary option if you prefer to run today while freshness is high.*
+### 🥈 Prioriteit 2: Running - 5km Pace Running Endurance
+* **Intensiteit:** `Zone 2 / Conversational Pace`
+* **Workout details:** 30-40 minutes easy jog. Include 4x 30-second strides at the end to maintain neuromuscular speed for your 5km goal without accumulating undue fatigue.
+* **Waarom:** *Directly targets your 5km running milestone while keeping intensity low to respect the pyramidal baseline requirements.*
 
-### 🥉 Prioriteit 3: Strength - Full Body Torque & Core Strength
-* **Intensiteit:** `RPE 8/10 (Heavy Resistance)`
-* **Workout details:** Warmup: Mobility & core activation. Work: 1) Barbell Back Squats: 4 x 6 reps @ 80% 1RM. 2) Barbell Deadlifts: 3 x 5 reps. 3) Barbell Bench Press: 4 x 8 reps. 4) Heavy Sandbag Carries (70kg): 3 x 40 meters. 5) Hanging Leg Raises: 3 x 12 reps.
-* **Waarom:** *Builds leg torque for cycling power, durability for running impact, and drives upper body aesthetic goals without adding excessive cardiovascular exhaustion.*
+### 🥉 Prioriteit 3: Strength - Full Body Strength & Core
+* **Intensiteit:** `Moderate to Heavy (RPE 7/10)`
+* **Workout details:** Squats (3x5 @ 70% 1RM), Romanian Deadlifts (3x8), Overhead Press (3x8), and Plank/Ab wheel supersets (3 sets to near failure).
+* **Waarom:** *Secondary option to build cycling torque and running power and support upper-body aesthetics, but secondary to the urgent need for aerobic volume.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Today's recovery markers are favorable with an HRV of 54 ms and a resting heart rate of 52 bpm. Current CTL is 21.2 with an ATL of 17.8, yielding a positive TSB of +3.4. Given the low recent acute load over the past week, you are well-rested and fully clear for a high-intensity quality session.
+Today's metrics show a very low ATL (6.6) and CTL (16.2) due to a recent dip in training consistency over the 21-day block. Your HRV is at a solid 51 ms with no reported fatigue, indicating you are fully recovered and prime to absorb training stress, though your current fitness state is well below your target CTL of 60.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the past 21 days, training volume has dropped significantly (7 sessions total, 330 total load units), causing acute fatigue to dissipate and CTL to decay to 21.2. To reverse this detraining trend and hit your CTL target of 60, we must re-establish consistent progressive load immediately while respecting the 70/30 pyramidal distribution.
+Over the past 21 days, training volume has been severely restricted with only 5 sessions totaling 2.68 hours and a training load of 151. This represents an under-training phase. While recovery is optimal, the lack of acute stimulus means we need to aggressively rebuild volume and consistency without violating safe ramp rates (+1 to +2 CTL/week).
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-The 6-month macro trend shows high variance with periods of solid cycling commute volume punctuated by training lulls. Peak CTL previously reached higher levels, but current fitness (CTL 21.2) requires a structured, safe ramp rate of +1 to +2 CTL points per week. Rebuilding your aerobic foundation alongside 2-3 quality sessions weekly is essential to reach target cycling power outputs and 5km running times.
+Looking at the 180-day horizon, your macro progression has been sporadic, preventing sustained CTL growth toward your goal of 60. Peak cycling power and FTP are established, but long-term aerobic conditioning and running consistency require a strictly enforced pyramidal approach (70/30) to lock in gains across both cycling and your 5km running goals.

@@ -1,49 +1,49 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-10-22 09:59:55*
+*Laatst bijgewerkt: 2026-10-23 09:54:51*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL - Doel 60):** `16.2` / `60` (`27.1%` behaald)
 * **Vermoeidheid (ATL):** `6.6` | **Vorm (TSB):** `9.6`
 * **Status:** **🔵 Fris / Herstel**
-* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (53 ms)`
+* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (55 ms)`
 
 ---
 
 ## 📋 Coach Verdict & Advies voor Vandaag
 > **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> Freshness is optimal, but acute chronic load is low. Priority 1 is a structured Cycling VO2max interval workout to kickstart your 5-minute power target without excessive orthopedic stress. Follow strict zone execution.
+> Execute Priority 1 today. Your recovery metrics (HRV 55 ms) and high freshness (TSB) green-light a high-intensity quality session. Since you have neglected quality intervals recently, it is time to push your VO2max on the bike.
 
 ---
 
 ## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 🥇 Prioriteit 1: Cycling - 5-Min Power / VO2max Cycling Intervals
-* **Intensiteit:** `Zone 5 (110-120% FTP / 285-310W)`
-* **Workout details:** 15 min Z2 warmup with 3x30s high-cadence pickups. Main Set: 5 x 4 minutes @ 290W (Zone 5, Cadence 95-105 RPM) with 3 minutes Z1 float recovery. 15 min Z2 cooldown. Total time: ~60 mins.
-* **Waarom:** *Highest priority. Your freshness allows for a high-power stimulus to target your key 5-minute power goal with zero running impact stress on low acute CTL.*
+### 🥇 Prioriteit 1: Cycling - Cycling VO2max Micro-Intervals
+* **Intensiteit:** `Zone 5 (RPE 9/10)`
+* **Workout details:** 15 min warm-up building into Zone 2. Main set: 4 sets of (4 minutes @ 105-110% FTP / 3 minutes easy spin recovery). Cool down 10 min.
+* **Waarom:** *Your HRV and recovery status are optimal for high-intensity work, and we need to target your 5-minute cycling power milestone safely within the 70/30 pyramidal framework.*
 
-### 🥈 Prioriteit 2: Running - 5km Pace Development Running Intervals
-* **Intensiteit:** `Zone 4/5 (RPE 8.5/10, HR 175-185 bpm)`
-* **Workout details:** 10 min light jog warmup + dynamic drills. Main Set: 5 x 1000m @ target 5km pace with 90 seconds walking/jogging recovery between sets. 10 min easy cooldown jog.
-* **Waarom:** *Directly builds 5km running speed and turnover. Recommended second choice if you prefer running today, but requires strict control to avoid muscle soreness.*
+### 🥈 Prioriteit 2: Running - 5km Running Threshold Pace Intervals
+* **Intensiteit:** `Zone 4 (Threshold)`
+* **Workout details:** 10 min easy jog warm-up. Main set: 3 x 1km at current 5km race pace with 90 seconds walking recovery between reps. 10 min cool-down jog.
+* **Waarom:** *Directly targets your 5km running milestone without overloading your current low ATL, keeping you sharp while respecting the weekly quality session cap.*
 
-### 🥉 Prioriteit 3: Strength - Cycling Torque & Postural Strength
-* **Intensiteit:** `Heavy / RPE 8-9`
-* **Workout details:** Barbell Back Squats: 4x6 @ 85kg; Romanian Deadlifts: 3x8 @ 75kg; Overhead Press: 3x8 @ 45kg; Sandbag Bear Hug Carries: 4 x 40m with 70kg sandbag; Hanging Leg Raises: 3x12.
-* **Waarom:** *Third choice option. Strengthens core stability, leg torque for cycling power, and upper body aesthetic goals without adding cardiovascular fatigue.*
+### 🥉 Prioriteit 3: Strength - Full Body Strength & Core Power
+* **Intensiteit:** `Moderate-Heavy (RPE 8/10)`
+* **Workout details:** Back Squats: 4 sets of 6 reps @ 75% 1RM. Romanian Deadlifts: 3 sets of 8 reps. Weighted Plank: 3 sets of 45 seconds. Push-ups/Pull-ups superset: 3 sets to near failure.
+* **Waarom:** *Provides essential muscular support for cycling torque and running power while addressing upper body aesthetics, acting as a non-cardio main workout.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-TSB is positive (+9.6) with CTL at 16.2 and ATL at 6.6. Yesterday's load was zero following a minor 4km run on October 20th. With a stable HRV of 53 ms and low immediate fatigue, your body is fully rested and primed for a high-quality stimulus.
+Your immediate training stress is extremely low, with a CTL of 16.2 and ATL of 6.6, giving you a fresh TSB. Your Garmin HRV is at a solid 55 ms, indicating your autonomic nervous system is fully recovered and primed for a demanding session.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Acute load over the past 21 days is severely depressed with only 5 sessions total (151 TSS, ~2.7 hours). Your fitness has dropped due to significant consistency gaps. We need to systematically re-establish momentum and ramp weekly CTL safely (+1 to +2/week) without spiking injury risk.
+Over the last 21 days, your training volume and load have dropped significantly (only 5 sessions and 151 TSS). Your acute training status reflects a severe dip in consistency, meaning we are lagging behind our target CTL ramp rate of +1 to +2 per week toward our goal of 60.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Over the past 6 months, training has been highly sporadic, leading to a slide in CTL from past peaks down to 16.2. Despite a strong aerobic potential from past e-bike commutes and cycling blocks, you are currently operating far below your target CTL of 60. Rebuilding a strict base-to-intensity pyramid is required to unlock your 5-minute cycling power and 5km running targets.
+Looking at the 180-day trend, your progression is fragmented with sporadic spikes followed by long periods of inactivity. To support your cycling milestones (5-min and 20-min power) and running goals (5km), we need a complete shift toward consistent, structured pyramidal training.

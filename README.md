@@ -1,49 +1,49 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-10-23 09:54:51*
+*Laatst bijgewerkt: 2026-10-24 09:24:07*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL - Doel 60):** `16.2` / `60` (`27.1%` behaald)
 * **Vermoeidheid (ATL):** `6.6` | **Vorm (TSB):** `9.6`
 * **Status:** **🔵 Fris / Herstel**
-* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (55 ms)`
+* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (50 ms)`
 
 ---
 
 ## 📋 Coach Verdict & Advies voor Vandaag
 > **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> Execute Priority 1 today. Your recovery metrics (HRV 55 ms) and high freshness (TSB) green-light a high-intensity quality session. Since you have neglected quality intervals recently, it is time to push your VO2max on the bike.
+> Your freshness is optimal, but your fitness is dropping fast. Prioritize Priority 1 (VO2max Cycling) today to directly address your 5-minute power target while your leg fatigue is zero. Execute with high discipline and do not skip the structured intervals.
 
 ---
 
 ## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 🥇 Prioriteit 1: Cycling - Cycling VO2max Micro-Intervals
-* **Intensiteit:** `Zone 5 (RPE 9/10)`
-* **Workout details:** 15 min warm-up building into Zone 2. Main set: 4 sets of (4 minutes @ 105-110% FTP / 3 minutes easy spin recovery). Cool down 10 min.
-* **Waarom:** *Your HRV and recovery status are optimal for high-intensity work, and we need to target your 5-minute cycling power milestone safely within the 70/30 pyramidal framework.*
+### 🥇 Prioriteit 1: Cycling - Cycling 5-Min VO2max Power Intervals
+* **Intensiteit:** `Zone 5 (110-120% FTP / 284-310W)`
+* **Workout details:** 15 min Zone 2 warm-up with 3x15-sec high-cadence ramps. Main set: 4 x 4 minutes at 285W-300W with 4 minutes Zone 1 active recovery between sets. 15 min Zone 2 cool-down. Total time: ~60 mins.
+* **Waarom:** *Highest recommendation. Your TSB is positive (+9.6) and acute fatigue is virtually zero, making today the optimal window to push VO2max capacity for cycling 5-minute power goals without injury risk.*
 
-### 🥈 Prioriteit 2: Running - 5km Running Threshold Pace Intervals
-* **Intensiteit:** `Zone 4 (Threshold)`
-* **Workout details:** 10 min easy jog warm-up. Main set: 3 x 1km at current 5km race pace with 90 seconds walking recovery between reps. 10 min cool-down jog.
-* **Waarom:** *Directly targets your 5km running milestone without overloading your current low ATL, keeping you sharp while respecting the weekly quality session cap.*
+### 🥈 Prioriteit 2: Running - 5km Specific Threshold Running Intervals
+* **Intensiteit:** `Zone 4 (Threshold / RPE 8/10)`
+* **Workout details:** 10 min Zone 2 jog warm-up + dynamic drills. Main set: 4 x 1000m at target 5km pace (~RPE 8.5) with 2 minutes walking recovery. 10 min Zone 2 cool-down jogging.
+* **Waarom:** *Second priority. Targets your 5km running pace goal directly. Since running imposes higher orthopedic stress than cycling, this is ranked second given the recent 4-day layoff.*
 
-### 🥉 Prioriteit 3: Strength - Full Body Strength & Core Power
-* **Intensiteit:** `Moderate-Heavy (RPE 8/10)`
-* **Workout details:** Back Squats: 4 sets of 6 reps @ 75% 1RM. Romanian Deadlifts: 3 sets of 8 reps. Weighted Plank: 3 sets of 45 seconds. Push-ups/Pull-ups superset: 3 sets to near failure.
-* **Waarom:** *Provides essential muscular support for cycling torque and running power while addressing upper body aesthetics, acting as a non-cardio main workout.*
+### 🥉 Prioriteit 3: Strength - Heavy Lower Body Torque & Upper Body Aesthetics
+* **Intensiteit:** `RPE 8-9 Heavy Strength`
+* **Workout details:** Barbell Back Squats: 4x5 at 80% 1RM; Barbell Bench Press: 4x6; Heavy Sandbag Cleans/Carries: 3x45 sec; Pull-ups: 3xMax; Core/Abs Plank superset: 3x60 sec.
+* **Waarom:** *Third priority. Integrates available rack and sandbag equipment to build cycling leg torque and core stability while improving upper body aesthetics, maintaining fitness momentum without cardiovascular exhaustion.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Your immediate training stress is extremely low, with a CTL of 16.2 and ATL of 6.6, giving you a fresh TSB. Your Garmin HRV is at a solid 55 ms, indicating your autonomic nervous system is fully recovered and primed for a demanding session.
+Immediate fatigue is practically non-existent with ATL at 6.6 and a positive TSB of +9.6. With no workout recorded since October 20th and HRV at a stable 50 ms, your physical readiness is high. However, absolute fitness (CTL 16.2) is dangerously low due to prolonged inactivity, meaning immediate stimulus is required to halt detraining.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the last 21 days, your training volume and load have dropped significantly (only 5 sessions and 151 TSS). Your acute training status reflects a severe dip in consistency, meaning we are lagging behind our target CTL ramp rate of +1 to +2 per week toward our goal of 60.
+Over the last 21 days, training volume has dropped to an unacceptable 2.68 hours across just 5 sessions, generating a total load of 151. This acute volume drought has caused acute fatigue to collapse, leaving you fully rested but completely unconditioned. You need to restart progressive overload immediately with structured quality.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Looking at the 180-day trend, your progression is fragmented with sporadic spikes followed by long periods of inactivity. To support your cycling milestones (5-min and 20-min power) and running goals (5km), we need a complete shift toward consistent, structured pyramidal training.
+The 6-month macro trend shows a massive decline from your summer performance peak (where training load routinely topped 150-200 TSS per day) down to a current CTL of 16.2. To reach your goal CTL of 60 safely at +1 to +2 CTL per week, we must rebuild your pyramidal foundation with consistent Zone 2 baseline volume and 2 quality threshold/VO2max stimuli per week.

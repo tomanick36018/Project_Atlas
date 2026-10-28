@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-27 10:20:52.817348",
+  "generated": "2026-10-28 11:12:01.984260",
   "athlete_inputs": {
     "sport_preference": "",
     "athlete_notes": "",
@@ -12,31 +12,31 @@
     "ATL": 6.6,
     "Form_TSB": 9.6
   },
-  "daily_load_assessment": "Today's readiness is high from a fatigue standpoint (CTL 16.2, ATL 6.6, TSB +9.6). However, you have had zero logged training stimulus over the last 7 days since October 20th. Your resting HR is steady at 48 bpm and HRV is 43 ms. With acute fatigue neutralized, your body is fully rested and primed for work, but returning after 7 inactive days requires sharp execution rather than massive volume overkill.",
-  "acute_status_assessment_3_weeks": "Over the last 21 days, you have completed only 5 light sessions totaling 2.68 hours and 151 training load units. Acute Training Load (ATL) has dropped significantly to 6.6. This is a severe under-stimulation phase that has caused your short-term fitness to stall well below your target CTL of 60. Rebuilding training consistency is paramount starting today.",
-  "sport_trend_assessment_6_months": "Your long-term CTL sits at 16.2, leaving a massive gap to reach your target CTL of 60. Over the past 6 months, training load has fluctuated with sporadic high-load spike days followed by long multi-day lulls. To reach CTL 60 safely at +1 to +2 CTL/week without injury, you need structured consistency, leveraging your e-bike base and adhering to a strict 70/30 pyramidal distribution.",
-  "coach_verdict": "Your freshness metrics are clean, but 7 days of complete rest means we must re-engage your metabolic system immediately. Priority 1 is a targeted Cycling VO2max interval workout to directly attack your 5-minute power goal while your legs are fresh. If weather or scheduling dictates running, Priority 2 delivers a high-quality 5k interval run. Priority 3 is a heavy strength session to build cycling torque.",
+  "daily_load_assessment": "Today's recovery markers indicate complete readiness for a quality workload. With a low acute training load (ATL 6.6) and a positive Form (TSB +9.6) following an 8-day complete rest gap since October 20th, your central nervous system is fully refreshed. HRV value of 48 ms is stable. Because you are fully restored, today is primed for high-intensity work, provided we manage volume to prevent acute biomechanical strain.",
+  "acute_status_assessment_3_weeks": "Over the past 21 days, training volume has dropped significantly below functional targets, totaling only 5 sessions (2.68 hours, 151 load). While this rest period cleared all acute fatigue, it has caused acute detraining. The primary objective for this 3-week block is to re-establish consistent frequency (4-5 workouts per week) and restart progressive overloading without spiking injury risk.",
+  "sport_trend_assessment_6_months": "Your 6-month macro trend shows a sharp decline from peak spring/summer training levels down to a CTL of 16.2. You are well below your macro target CTL of 60. To bridge this gap safely, we must stick to a disciplined pyramidal 70/30 distribution, leveraging your baseline commuting capacity while steadily ramping CTL at a safe pace of +1 to +2 units per week.",
+  "coach_verdict": "You are fresh, fully recovered, and currently detraining. Rest time is over\u2014it is time to hit a high-quality session. Priority 1 is a structured Cycling VO2Max interval session to attack your 5-minute power goal while your neuromuscular system is completely fresh.",
   "today_options": {
     "priority_1": {
-      "session_title": "Cycling VO2max 5-Min Power Development",
+      "session_title": "Cycling 5-Min Power / VO2Max Intervals",
       "sport_type": "Cycling",
-      "intensity": "Zone 5 (105-120% FTP / 270-310 W)",
-      "workout_details": "15 min Zone 2 warm-up with 3x15s cadence surges. Main Set: 5 x 3 minutes @ 275-295W (Zone 5, high cadence ~95-100 rpm), with 3 minutes Zone 1 recovery between reps. 15 min Zone 2 cool-down. Total duration: ~55 mins.",
-      "reason": "Highest priority because your freshness (TSB +9.6) provides the perfect neural state to hit high-power targets without cardiovascular drag. Directly addresses your key goal of improving 5-minute cycling power."
+      "intensity": "Zone 5 (105-120% FTP / 270-310W)",
+      "workout_details": "15 min Warmup (Zone 2, building cadence to 95+ RPM). 5x 3 min @ 110% FTP (285W) with 3 min easy Zone 1 recovery between sets. 15 min Cooldown Zone 2.",
+      "reason": "Top priority due to your fresh TSB (+9.6) and full recovery. Directly targets your goal of building 5-minute power capacity."
     },
     "priority_2": {
-      "session_title": "5km Specific Threshold & Speed Run",
+      "session_title": "5km Pace Threshold Run Intervals",
       "sport_type": "Running",
-      "intensity": "Zone 4 / 5km Target Pace",
-      "workout_details": "10 min easy Zone 2 run + dynamic strides. Main Set: 5 x 800m @ target 5km pace (HR Zone 4/5, ~175-185 bpm) with 90 seconds walking/jogging recovery. 10 min easy cool-down. Total volume: ~6.5 km.",
-      "reason": "Top running option to target your 5km performance metric. Excellent workout after a 7-day break to re-establish running economy and high-end aerobic capacity without excessive leg destruction."
+      "intensity": "Zone 4 (Threshold Pace / RPE 8/10)",
+      "workout_details": "10 min Easy Warmup jog + dynamic mobility drills. 3x 1000m @ Target 5km Race Pace with 2 min walking/jogging recovery between reps. 10 min Easy Cooldown jog.",
+      "reason": "Directly targets your 5km performance metric. Ideal alternative if you prefer running today, keeping acute impact manageable after a rest week."
     },
     "priority_3": {
-      "session_title": "Heavy Lower Body Torque & Upper Body Aesthetics",
+      "session_title": "Cycling Torque & Core Heavy Strength",
       "sport_type": "Strength",
-      "intensity": "RPE 8-9 (Heavy Strength)",
-      "workout_details": "1. Barbell Back Squats: 4 x 5 reps @ 80% 1RM. 2. Romanian Deadlifts: 3 x 8 reps. 3. Overhead Barbell Press superset with Pull-ups: 3 x 6-8 reps. 4. Sandbag/Kettlebell Core Carries & Bicep Curls: 3 sets to cap session.",
-      "reason": "Solid alternative if endurance training is not possible today. Builds muscle-tendon stiffness, core stability, and max torque capacity for cycling power, taking full advantage of your rested muscular state."
+      "intensity": "RPE 7-8 / Heavy Strength",
+      "workout_details": "3x5 Barbell Back Squats @ 75% 1RM, 3x6 Heavy Romanian Deadlifts, 3x8 Overhead Press, 3x12 Heavy Kettlebell Swings (20kg), 3x40m Sandbag Carry (70kg).",
+      "reason": "Provides sport-specific strength to build pedal torque and upper body structure without adding cardiovascular impact strain."
     }
   },
   "post_workout_recovery": {}

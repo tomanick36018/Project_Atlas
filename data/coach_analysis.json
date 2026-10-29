@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28 11:12:01.984260",
+  "generated": "2026-10-29 11:25:21.404307",
   "athlete_inputs": {
     "sport_preference": "",
     "athlete_notes": "",
@@ -12,31 +12,31 @@
     "ATL": 6.6,
     "Form_TSB": 9.6
   },
-  "daily_load_assessment": "Today's recovery markers indicate complete readiness for a quality workload. With a low acute training load (ATL 6.6) and a positive Form (TSB +9.6) following an 8-day complete rest gap since October 20th, your central nervous system is fully refreshed. HRV value of 48 ms is stable. Because you are fully restored, today is primed for high-intensity work, provided we manage volume to prevent acute biomechanical strain.",
-  "acute_status_assessment_3_weeks": "Over the past 21 days, training volume has dropped significantly below functional targets, totaling only 5 sessions (2.68 hours, 151 load). While this rest period cleared all acute fatigue, it has caused acute detraining. The primary objective for this 3-week block is to re-establish consistent frequency (4-5 workouts per week) and restart progressive overloading without spiking injury risk.",
-  "sport_trend_assessment_6_months": "Your 6-month macro trend shows a sharp decline from peak spring/summer training levels down to a CTL of 16.2. You are well below your macro target CTL of 60. To bridge this gap safely, we must stick to a disciplined pyramidal 70/30 distribution, leveraging your baseline commuting capacity while steadily ramping CTL at a safe pace of +1 to +2 units per week.",
-  "coach_verdict": "You are fresh, fully recovered, and currently detraining. Rest time is over\u2014it is time to hit a high-quality session. Priority 1 is a structured Cycling VO2Max interval session to attack your 5-minute power goal while your neuromuscular system is completely fresh.",
+  "daily_load_assessment": "Immediate recovery status is fully cleared with a positive TSB of +9.6 (CTL 16.2, ATL 6.6) and HRV at 44 ms. Zero training load accumulated over the past 8 days since your light run on Oct 20. You are fresh, but your muscular readiness is cold. Today offers a clean slate to begin ramping CTL safely.",
+  "acute_status_assessment_3_weeks": "Acute training volume over the last 21 days has dropped drastically with only 5 recorded sessions totaling 151 load points. ATL has decayed to 6.6, indicating significant loss of acute strain and adaptation rate. Re-establishing regular cadence without spiking injury risk is required to stop the detraining trend.",
+  "sport_trend_assessment_6_months": "Long-term fitness trend shows CTL decaying to 16.2 from peak summer training blocks where single rides hit 200+ TSS. Your long-term goal of reaching CTL 60 requires a steady, structured ramp rate of +1 to +2 CTL per week using the 70/30 pyramidal framework (leveraging low-intensity base + 2 targeted quality sessions weekly once consistency returns).",
+  "coach_verdict": "Focus on Priority 1 today: a strict Zone 2 Aerobic Base Run. After an 8-day layoff, jumping straight into high-intensity VO2max intervals poses unnecessary muscular shock. Establish aerobic stimulus today, rebuild your routine, and save the high-intensity 5-min cycling power efforts for when acute workload is stabilized.",
   "today_options": {
     "priority_1": {
-      "session_title": "Cycling 5-Min Power / VO2Max Intervals",
-      "sport_type": "Cycling",
-      "intensity": "Zone 5 (105-120% FTP / 270-310W)",
-      "workout_details": "15 min Warmup (Zone 2, building cadence to 95+ RPM). 5x 3 min @ 110% FTP (285W) with 3 min easy Zone 1 recovery between sets. 15 min Cooldown Zone 2.",
-      "reason": "Top priority due to your fresh TSB (+9.6) and full recovery. Directly targets your goal of building 5-minute power capacity."
+      "session_title": "Zone 2 Aerobic Foundation Run",
+      "sport_type": "Running",
+      "intensity": "Zone 2 (HR 130-148 bpm / RPE 4-5)",
+      "workout_details": "10 min warm-up jog + 35 min continuous running strictly in Zone 2 + 5 min cooldown walk. Total duration: 50 min.",
+      "reason": "Highest priority to safely kickstart your CTL ramp rate after an 8-day break while keeping injury risk low and laying down aerobic base."
     },
     "priority_2": {
-      "session_title": "5km Pace Threshold Run Intervals",
-      "sport_type": "Running",
-      "intensity": "Zone 4 (Threshold Pace / RPE 8/10)",
-      "workout_details": "10 min Easy Warmup jog + dynamic mobility drills. 3x 1000m @ Target 5km Race Pace with 2 min walking/jogging recovery between reps. 10 min Easy Cooldown jog.",
-      "reason": "Directly targets your 5km performance metric. Ideal alternative if you prefer running today, keeping acute impact manageable after a rest week."
+      "session_title": "5-Min Power VO2max Cycling Intervals",
+      "sport_type": "Cycling",
+      "intensity": "Zone 5 (105-120% FTP / 270-310W)",
+      "workout_details": "15 min Z2 warm-up with 3x15s spin-ups. Main set: 4 x 4-min intervals @ 280W (108% FTP) with 4 min Z1 recovery. 15 min Z2 cooldown.",
+      "reason": "Favorable freshness (TSB +9.6) allows high-intensity quality if you choose to target cycling 5-minute power goal immediately on non-impact equipment."
     },
     "priority_3": {
-      "session_title": "Cycling Torque & Core Heavy Strength",
+      "session_title": "Cycling Torque & Upper Body Strength",
       "sport_type": "Strength",
       "intensity": "RPE 7-8 / Heavy Strength",
-      "workout_details": "3x5 Barbell Back Squats @ 75% 1RM, 3x6 Heavy Romanian Deadlifts, 3x8 Overhead Press, 3x12 Heavy Kettlebell Swings (20kg), 3x40m Sandbag Carry (70kg).",
-      "reason": "Provides sport-specific strength to build pedal torque and upper body structure without adding cardiovascular impact strain."
+      "workout_details": "Barbell Back Squats: 4x6 @ 80kg; Barbell Overhead Press: 3x8 @ 40kg; Sandbag Cleans: 3x6 @ 70kg; Dumbbell/Kettlebell Core & Upper Aesthetics (Bench/Biceps/Planks): 3x10-12.",
+      "reason": "Alternative non-cardiovascular session to build force production, core stability, and upper body strength without interfering with tomorrow's potential interval work."
     }
   },
   "post_workout_recovery": {}

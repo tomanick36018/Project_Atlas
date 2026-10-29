@@ -1,49 +1,49 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-10-28 11:12:01*
+*Laatst bijgewerkt: 2026-10-29 11:25:21*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL - Doel 60):** `16.2` / `60` (`27.1%` behaald)
 * **Vermoeidheid (ATL):** `6.6` | **Vorm (TSB):** `9.6`
 * **Status:** **🔵 Fris / Herstel**
-* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (48 ms)`
+* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (44 ms)`
 
 ---
 
 ## 📋 Coach Verdict & Advies voor Vandaag
 > **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> You are fresh, fully recovered, and currently detraining. Rest time is over—it is time to hit a high-quality session. Priority 1 is a structured Cycling VO2Max interval session to attack your 5-minute power goal while your neuromuscular system is completely fresh.
+> Focus on Priority 1 today: a strict Zone 2 Aerobic Base Run. After an 8-day layoff, jumping straight into high-intensity VO2max intervals poses unnecessary muscular shock. Establish aerobic stimulus today, rebuild your routine, and save the high-intensity 5-min cycling power efforts for when acute workload is stabilized.
 
 ---
 
 ## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 🥇 Prioriteit 1: Cycling - Cycling 5-Min Power / VO2Max Intervals
+### 🥇 Prioriteit 1: Running - Zone 2 Aerobic Foundation Run
+* **Intensiteit:** `Zone 2 (HR 130-148 bpm / RPE 4-5)`
+* **Workout details:** 10 min warm-up jog + 35 min continuous running strictly in Zone 2 + 5 min cooldown walk. Total duration: 50 min.
+* **Waarom:** *Highest priority to safely kickstart your CTL ramp rate after an 8-day break while keeping injury risk low and laying down aerobic base.*
+
+### 🥈 Prioriteit 2: Cycling - 5-Min Power VO2max Cycling Intervals
 * **Intensiteit:** `Zone 5 (105-120% FTP / 270-310W)`
-* **Workout details:** 15 min Warmup (Zone 2, building cadence to 95+ RPM). 5x 3 min @ 110% FTP (285W) with 3 min easy Zone 1 recovery between sets. 15 min Cooldown Zone 2.
-* **Waarom:** *Top priority due to your fresh TSB (+9.6) and full recovery. Directly targets your goal of building 5-minute power capacity.*
+* **Workout details:** 15 min Z2 warm-up with 3x15s spin-ups. Main set: 4 x 4-min intervals @ 280W (108% FTP) with 4 min Z1 recovery. 15 min Z2 cooldown.
+* **Waarom:** *Favorable freshness (TSB +9.6) allows high-intensity quality if you choose to target cycling 5-minute power goal immediately on non-impact equipment.*
 
-### 🥈 Prioriteit 2: Running - 5km Pace Threshold Run Intervals
-* **Intensiteit:** `Zone 4 (Threshold Pace / RPE 8/10)`
-* **Workout details:** 10 min Easy Warmup jog + dynamic mobility drills. 3x 1000m @ Target 5km Race Pace with 2 min walking/jogging recovery between reps. 10 min Easy Cooldown jog.
-* **Waarom:** *Directly targets your 5km performance metric. Ideal alternative if you prefer running today, keeping acute impact manageable after a rest week.*
-
-### 🥉 Prioriteit 3: Strength - Cycling Torque & Core Heavy Strength
+### 🥉 Prioriteit 3: Strength - Cycling Torque & Upper Body Strength
 * **Intensiteit:** `RPE 7-8 / Heavy Strength`
-* **Workout details:** 3x5 Barbell Back Squats @ 75% 1RM, 3x6 Heavy Romanian Deadlifts, 3x8 Overhead Press, 3x12 Heavy Kettlebell Swings (20kg), 3x40m Sandbag Carry (70kg).
-* **Waarom:** *Provides sport-specific strength to build pedal torque and upper body structure without adding cardiovascular impact strain.*
+* **Workout details:** Barbell Back Squats: 4x6 @ 80kg; Barbell Overhead Press: 3x8 @ 40kg; Sandbag Cleans: 3x6 @ 70kg; Dumbbell/Kettlebell Core & Upper Aesthetics (Bench/Biceps/Planks): 3x10-12.
+* **Waarom:** *Alternative non-cardiovascular session to build force production, core stability, and upper body strength without interfering with tomorrow's potential interval work.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Today's recovery markers indicate complete readiness for a quality workload. With a low acute training load (ATL 6.6) and a positive Form (TSB +9.6) following an 8-day complete rest gap since October 20th, your central nervous system is fully refreshed. HRV value of 48 ms is stable. Because you are fully restored, today is primed for high-intensity work, provided we manage volume to prevent acute biomechanical strain.
+Immediate recovery status is fully cleared with a positive TSB of +9.6 (CTL 16.2, ATL 6.6) and HRV at 44 ms. Zero training load accumulated over the past 8 days since your light run on Oct 20. You are fresh, but your muscular readiness is cold. Today offers a clean slate to begin ramping CTL safely.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the past 21 days, training volume has dropped significantly below functional targets, totaling only 5 sessions (2.68 hours, 151 load). While this rest period cleared all acute fatigue, it has caused acute detraining. The primary objective for this 3-week block is to re-establish consistent frequency (4-5 workouts per week) and restart progressive overloading without spiking injury risk.
+Acute training volume over the last 21 days has dropped drastically with only 5 recorded sessions totaling 151 load points. ATL has decayed to 6.6, indicating significant loss of acute strain and adaptation rate. Re-establishing regular cadence without spiking injury risk is required to stop the detraining trend.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Your 6-month macro trend shows a sharp decline from peak spring/summer training levels down to a CTL of 16.2. You are well below your macro target CTL of 60. To bridge this gap safely, we must stick to a disciplined pyramidal 70/30 distribution, leveraging your baseline commuting capacity while steadily ramping CTL at a safe pace of +1 to +2 units per week.
+Long-term fitness trend shows CTL decaying to 16.2 from peak summer training blocks where single rides hit 200+ TSS. Your long-term goal of reaching CTL 60 requires a steady, structured ramp rate of +1 to +2 CTL per week using the 70/30 pyramidal framework (leveraging low-intensity base + 2 targeted quality sessions weekly once consistency returns).

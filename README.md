@@ -1,49 +1,49 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-10-29 11:25:21*
+*Laatst bijgewerkt: 2026-10-30 11:17:11*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL - Doel 60):** `16.2` / `60` (`27.1%` behaald)
 * **Vermoeidheid (ATL):** `6.6` | **Vorm (TSB):** `9.6`
 * **Status:** **🔵 Fris / Herstel**
-* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (44 ms)`
+* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (51 ms)`
 
 ---
 
 ## 📋 Coach Verdict & Advies voor Vandaag
 > **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> Focus on Priority 1 today: a strict Zone 2 Aerobic Base Run. After an 8-day layoff, jumping straight into high-intensity VO2max intervals poses unnecessary muscular shock. Establish aerobic stimulus today, rebuild your routine, and save the high-intensity 5-min cycling power efforts for when acute workload is stabilized.
+> You are fully fresh and recovered. A 10-day break means fatigue is non-existent, but acute fitness is rapidly decaying. Execute Priority 1 (Cycling VO2max Intervals) today to kickstart your 5-minute power progression and jumpstart your CTL ramp rate safely.
 
 ---
 
 ## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 🥇 Prioriteit 1: Running - Zone 2 Aerobic Foundation Run
-* **Intensiteit:** `Zone 2 (HR 130-148 bpm / RPE 4-5)`
-* **Workout details:** 10 min warm-up jog + 35 min continuous running strictly in Zone 2 + 5 min cooldown walk. Total duration: 50 min.
-* **Waarom:** *Highest priority to safely kickstart your CTL ramp rate after an 8-day break while keeping injury risk low and laying down aerobic base.*
+### 🥇 Prioriteit 1: Cycling - Cycling VO2max 5-Min Power Builder
+* **Intensiteit:** `Zone 5 (110-115% FTP / 285-295W, HR 175-185 bpm)`
+* **Workout details:** 15 min Z2 warm-up with 3x30s high-cadence spin-ups. Main set: 5 x 4 min @ 285-295W (110-115% FTP) with 4 min easy Z1 recovery between sets. 15 min Z2 cool-down.
+* **Waarom:** *Top priority due to max freshness (TSB positive) and target goal of 5-min cycling power. Zero recent fatigue makes this ideal for maximum quality interval output.*
 
-### 🥈 Prioriteit 2: Cycling - 5-Min Power VO2max Cycling Intervals
-* **Intensiteit:** `Zone 5 (105-120% FTP / 270-310W)`
-* **Workout details:** 15 min Z2 warm-up with 3x15s spin-ups. Main set: 4 x 4-min intervals @ 280W (108% FTP) with 4 min Z1 recovery. 15 min Z2 cooldown.
-* **Waarom:** *Favorable freshness (TSB +9.6) allows high-intensity quality if you choose to target cycling 5-minute power goal immediately on non-impact equipment.*
+### 🥈 Prioriteit 2: Running - 5km Running Speed Endurance Intervals
+* **Intensiteit:** `Zone 4 / 5k Target Pace (RPE 8.5/10, HR 175-185 bpm)`
+* **Workout details:** 10 min easy Z2 jog + dynamic movement drills. Main set: 4 x 1000m @ target 5km race pace with 2 min easy walking/jogging rest interval. 10 min easy cool-down jog.
+* **Waarom:** *Directly targets your 5km running milestone. Excellent secondary option if cycling is not feasible today, providing sharp high-intensity training stress.*
 
-### 🥉 Prioriteit 3: Strength - Cycling Torque & Upper Body Strength
-* **Intensiteit:** `RPE 7-8 / Heavy Strength`
-* **Workout details:** Barbell Back Squats: 4x6 @ 80kg; Barbell Overhead Press: 3x8 @ 40kg; Sandbag Cleans: 3x6 @ 70kg; Dumbbell/Kettlebell Core & Upper Aesthetics (Bench/Biceps/Planks): 3x10-12.
-* **Waarom:** *Alternative non-cardiovascular session to build force production, core stability, and upper body strength without interfering with tomorrow's potential interval work.*
+### 🥉 Prioriteit 3: Strength - Cycling Torque & Heavy Strength Support
+* **Intensiteit:** `Heavy Strength / RPE 8-9`
+* **Workout details:** Warm-up: Mobility & bodyweight activation. Main lifts: 3x5 Barbell Back Squats (80-85kg), 3x5 Barbell Deadlifts (95-105kg), 3x6 Overhead Press (45-50kg), 3x8 Heavy Sandbag Bear-Hug Squats (70kg), 3x15 Hanging Leg Raises.
+* **Waarom:** *Builds leg torque for cycling power and core stability for running. Recommended if weather/equipment prevents an outdoor or indoor cardio session.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Immediate recovery status is fully cleared with a positive TSB of +9.6 (CTL 16.2, ATL 6.6) and HRV at 44 ms. Zero training load accumulated over the past 8 days since your light run on Oct 20. You are fresh, but your muscular readiness is cold. Today offers a clean slate to begin ramping CTL safely.
+Immediate recovery status is high with an acute load (ATL) of 6.6 and zero training load over the past 10 days. HRV is stable at 51 ms and resting heart rate is at 48 bpm. Form/TSB is significantly positive, indicating complete freshness and green light for high-intensity quality stimulus.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Acute training volume over the last 21 days has dropped drastically with only 5 recorded sessions totaling 151 load points. ATL has decayed to 6.6, indicating significant loss of acute strain and adaptation rate. Re-establishing regular cadence without spiking injury risk is required to stop the detraining trend.
+Acute training block volume is critically low with only 29 TSS logged over the past 21 days (a short 4km run on Oct 20). CTL has dropped to 16.2. The primary objective for this horizon is re-establishing consistent weekly training stress to initiate a safe CTL ramp rate (+1 to +2 per week).
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Long-term fitness trend shows CTL decaying to 16.2 from peak summer training blocks where single rides hit 200+ TSS. Your long-term goal of reaching CTL 60 requires a steady, structured ramp rate of +1 to +2 CTL per week using the 70/30 pyramidal framework (leveraging low-intensity base + 2 targeted quality sessions weekly once consistency returns).
+Long-term trend shows a major drop from peak summer volume down to CTL 16.2 against the target goal of CTL 60. While your e-bike commuting baseline provides aerobic stability, structured training consistency has lapsed. Rebuilding macro progression requires strict adherence to a 70/30 pyramidal load distribution.

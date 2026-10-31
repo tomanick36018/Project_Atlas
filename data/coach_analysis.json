@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30 11:17:11.673850",
+  "generated": "2026-10-31 10:50:50.541051",
   "athlete_inputs": {
     "sport_preference": "",
     "athlete_notes": "",
@@ -12,31 +12,31 @@
     "ATL": 6.6,
     "Form_TSB": 9.6
   },
-  "daily_load_assessment": "Immediate recovery status is high with an acute load (ATL) of 6.6 and zero training load over the past 10 days. HRV is stable at 51 ms and resting heart rate is at 48 bpm. Form/TSB is significantly positive, indicating complete freshness and green light for high-intensity quality stimulus.",
-  "acute_status_assessment_3_weeks": "Acute training block volume is critically low with only 29 TSS logged over the past 21 days (a short 4km run on Oct 20). CTL has dropped to 16.2. The primary objective for this horizon is re-establishing consistent weekly training stress to initiate a safe CTL ramp rate (+1 to +2 per week).",
-  "sport_trend_assessment_6_months": "Long-term trend shows a major drop from peak summer volume down to CTL 16.2 against the target goal of CTL 60. While your e-bike commuting baseline provides aerobic stability, structured training consistency has lapsed. Rebuilding macro progression requires strict adherence to a 70/30 pyramidal load distribution.",
-  "coach_verdict": "You are fully fresh and recovered. A 10-day break means fatigue is non-existent, but acute fitness is rapidly decaying. Execute Priority 1 (Cycling VO2max Intervals) today to kickstart your 5-minute power progression and jumpstart your CTL ramp rate safely.",
+  "daily_load_assessment": "ATL sits at a low 6.6 against a CTL of 16.2, placing your Form/TSB at +9.6. With no logged workouts in 11 days (since Oct 20) and a stable HRV of 47 ms, your neuromuscular system is fully restored and ready for high-intensity work.",
+  "acute_status_assessment_3_weeks": "Acute status shows significant under-stimulation. Over the past 21 days, you completed only 5 sessions totaling 2.68 hours and 151 TSS. Your acute load has dropped significantly, making immediate, structured re-engagement critical.",
+  "sport_trend_assessment_6_months": "Long-term CTL has decayed down to 16.2 from higher summer baseline loads. To achieve your target CTL of 60 safely, we must initiate a structured ramp rate of +1.5 to +2.0 CTL per week using a strict 70/30 pyramidal distribution.",
+  "coach_verdict": "Execute Priority 1 (Cycling VO2max Intervals) today. Your high freshness (+9.6 TSB) and rested state make this the ideal window to drive 5-minute VO2max power adaptations without recovery constraints.",
   "today_options": {
     "priority_1": {
-      "session_title": "Cycling VO2max 5-Min Power Builder",
+      "session_title": "Cycling VO2max 5-Min Power Intervals",
       "sport_type": "Cycling",
-      "intensity": "Zone 5 (110-115% FTP / 285-295W, HR 175-185 bpm)",
-      "workout_details": "15 min Z2 warm-up with 3x30s high-cadence spin-ups. Main set: 5 x 4 min @ 285-295W (110-115% FTP) with 4 min easy Z1 recovery between sets. 15 min Z2 cool-down.",
-      "reason": "Top priority due to max freshness (TSB positive) and target goal of 5-min cycling power. Zero recent fatigue makes this ideal for maximum quality interval output."
+      "intensity": "Zone 5 (108-115% FTP / 280-295W)",
+      "workout_details": "15 min Z2 warmup including 3x30s high-cadence openers. Main set: 5 x 4 min @ 280-295W (Zone 5) with 4 min active recovery @ 120W between sets. 15 min Z2 cool-down. Total time: ~65 mins.",
+      "reason": "Directly attacks your 5-minute cycling power objective while leveraging maximum freshness to restart CTL growth."
     },
     "priority_2": {
-      "session_title": "5km Running Speed Endurance Intervals",
+      "session_title": "5km Race-Pace Running Intervals",
       "sport_type": "Running",
-      "intensity": "Zone 4 / 5k Target Pace (RPE 8.5/10, HR 175-185 bpm)",
-      "workout_details": "10 min easy Z2 jog + dynamic movement drills. Main set: 4 x 1000m @ target 5km race pace with 2 min easy walking/jogging rest interval. 10 min easy cool-down jog.",
-      "reason": "Directly targets your 5km running milestone. Excellent secondary option if cycling is not feasible today, providing sharp high-intensity training stress."
+      "intensity": "Zone 4/5 (RPE 8.5-9/10)",
+      "workout_details": "12 min Z2 warm-up run + mobility drills. Main set: 5 x 1000m @ target 5km pace with 2 min walking/jogging recovery. 10 min easy Z1/Z2 cool-down.",
+      "reason": "Stimulates 5km running pace efficiency and VO2max capacity while cardiovascular system is fully fresh."
     },
     "priority_3": {
-      "session_title": "Cycling Torque & Heavy Strength Support",
+      "session_title": "Heavy Cycling Torque & Upper Body Aesthetics Strength",
       "sport_type": "Strength",
-      "intensity": "Heavy Strength / RPE 8-9",
-      "workout_details": "Warm-up: Mobility & bodyweight activation. Main lifts: 3x5 Barbell Back Squats (80-85kg), 3x5 Barbell Deadlifts (95-105kg), 3x6 Overhead Press (45-50kg), 3x8 Heavy Sandbag Bear-Hug Squats (70kg), 3x15 Hanging Leg Raises.",
-      "reason": "Builds leg torque for cycling power and core stability for running. Recommended if weather/equipment prevents an outdoor or indoor cardio session."
+      "intensity": "Heavy Strength (RPE 8/10)",
+      "workout_details": "Barbell Back Squat 4x6, Barbell Romanian Deadlift 3x8, Overhead Press 4x6, Heavy Sandbag Hug-Carry 3x45s (70kg), Barbell Bicep Curls 3x10, Hanging Leg Raises 3x15.",
+      "reason": "Develops neural leg force for cycling torque and running resilience, combined with upper body and core aesthetic focus."
     }
   },
   "post_workout_recovery": {}

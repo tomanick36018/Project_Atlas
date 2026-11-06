@@ -1,49 +1,49 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-11-05 13:01:51*
+*Laatst bijgewerkt: 2026-11-06 12:49:53*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL - Doel 60):** `12.9` / `60` (`21.5%` behaald)
 * **Vermoeidheid (ATL):** `6.6` | **Vorm (TSB):** `6.3`
 * **Status:** **🔵 Fris / Herstel**
-* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` (30 ms)`
+* **Slaapscore gisteravond:** `` | **Garmin HRV-status:** ` ( ms)`
 
 ---
 
 ## 📋 Coach Verdict & Advies voor Vandaag
 > **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> Execute Priority 1: Zone 2 Low-Impact Aerobic Endurance Cycling. Your HRV of 30 ms signals that your body is not primed for high-intensity intervals today. Low-impact Zone 2 cycling provides the optimal stimulus to build your aerobic engine and restart CTL progression without adding unnecessary systemic fatigue.
+> Execute Priority 1 today. Your chronic fitness has dropped significantly, and jumping straight into extreme high-intensity intervals after 3 days of complete inactivity risks injury. A steady Zone 2 endurance ride will jumpstart your CTL build safely.
 
 ---
 
 ## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 🥇 Prioriteit 1: Cycling - Zone 2 Low-Impact Aerobic Endurance Cycling
-* **Intensiteit:** `Zone 2 (120-145 bpm / 145-180 Watts)`
-* **Workout details:** 60 minutes total duration. 10 min warm-up ramping into Zone 2, 40 min steady aerobic riding at 85-95 RPM (HR strictly below 145 bpm), 10 min cool-down. Keep power smoothly distributed.
-* **Waarom:** *Highest priority to restart CTL progression safely. Cycling minimizes orthopedic impact while stimulating aerobic base adaptations, respecting your suppressed HRV status.*
+### 🥇 Prioriteit 1: Cycling - Zone 2 Aerobic Engine Rebuild
+* **Intensiteit:** `Zone 2 (145-170W / HR 130-148 bpm)`
+* **Workout details:** 90 minutes steady Zone 2 cycling. Warm up 10 mins @ 120W, hold 155-165W for 70 mins at 90 RPM cadence, cool down 10 mins.
+* **Waarom:** *Highest priority to safely re-introduce aerobic volume and start ramping CTL from 12.9 without high structural fatigue.*
 
-### 🥈 Prioriteit 2: Strength - Sport-Specific Strength & Core Stability
-* **Intensiteit:** `RPE 7-8/10 (Moderate Load)`
-* **Workout details:** 3 sets x 8 Barbell Back Squats (focused on torque & depth), 3 sets x 8 Overhead Press, 3 sets x 10 Heavy Sandbag Clean & Carries (70kg), 3 sets x 12 Barbell Bicep Curls, 3 sets x 60s Core Planks. Rest 2 min between sets.
-* **Waarom:** *Excellent alternative for low-HRV days. Builds mechanical force for cycling power and running economy while targeting upper body aesthetics without taxing the cardiovascular engine.*
+### 🥈 Prioriteit 2: Cycling - Sweet Spot & Power Efficiency Intervals
+* **Intensiteit:** `Sweet Spot / Zone 4 (225-245W)`
+* **Workout details:** 15 min WU in Z2, 3 x 8 min @ 230-240W with 4 min Z1 recovery, 15 min CD.
+* **Waarom:** *Since TSB is positive and fatigue is low, a controlled quality session targetting 20-min power is permissible if feeling sharp.*
 
-### 🥉 Prioriteit 3: Running - Zone 2 Easy Aerobic Maintenance Run
-* **Intensiteit:** `Zone 2 Easy (130-148 bpm / Easy conversational pace)`
-* **Workout details:** 35 minutes total. 5 min brisk walk + dynamic warm-up, 25 min continuous easy jog strictly in Zone 2, 5 min cool-down walk. Keep HR locked below 148 bpm.
-* **Waarom:** *Maintains running neuromuscular efficiency and bone density. Ranked lower than cycling because ground impact forces impose higher recovery stress on a low-HRV day.*
+### 🥉 Prioriteit 3: Strength - Torque & Upper Body Aesthetics Strength
+* **Intensiteit:** `RPE 7-8 / Heavy Strength`
+* **Workout details:** Barbell Squats 4x6 @ 80kg, Barbell Bench Press 4x8 @ 65kg, Barbell Deadlifts 3x5 @ 95kg, Sandbag Hug Carries 3x45sec, Bicep Curls 3x10.
+* **Waarom:** *Provides a non-cardiovascular stimulus to strengthen cycling torque and upper body aesthetics without taxing endurance running legs.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Immediate fatigue is low with ATL at 6.6 and TSB at +6.3 following 2 rest days after your last run on Nov 2. However, your Garmin HRV is suppressed at 30 ms, indicating heightened sympathetic nervous system stress or incomplete recovery. Under strict coaching guidelines, high-intensity quality work (Zone 4/5) is ruled out today until your HRV normalizes.
+Current CTL is 12.9 with an ATL of 6.6, putting TSB in positive fresh territory (+6.3). You have had 3 full rest days since your last 7.8km run on November 2. While your recovery markers indicate high readiness, your acute chronic load is critically low, meaning cardiovascular and muscular adaptations have stagnated.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Your 3-week acute status reveals severe under-recovery and volume decay, with only 2 running sessions (1.0 hour total, 71 TSS) completed in the last 21 days. The primary objective for this training block is re-establishing weekly consistency without spiking acute injury risk.
+Over the last 21 days, you have logged only 2 running sessions totaling 1 hour of exercise and 71 training load. This acute window reflects severe detraining and a lack of baseline volume. Rebuilding consistency is mandatory before aggressively pushing high acute workloads.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Your 6-month macro trend shows significant fitness loss, with CTL dropping to 12.90 from summer highs. To safely reach your long-term goal of CTL 60, we need a disciplined, progressive ramp rate (+1 to +2 CTL/week). Achieving this requires strict adherence to the 70/30 pyramidal distribution, leveraging low-intensity Zone 2 endurance as the foundation.
+Your 6-month macro trend shows a sharp decline from summer peaks (where you sustained high-volume cycling and long efforts) down to a CTL of 12.9. To reach your target CTL of 60 safely, you need a disciplined ramp rate of +1 to +2 CTL per week, heavily supported by your 70/30 pyramidal distribution.

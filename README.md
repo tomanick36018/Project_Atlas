@@ -1,6 +1,6 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-11-06 12:49:53*
+*Laatst bijgewerkt: 2026-11-07 11:38:23*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL - Doel 60):** `12.9` / `60` (`21.5%` behaald)
@@ -13,37 +13,37 @@
 ## 📋 Coach Verdict & Advies voor Vandaag
 > **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> Execute Priority 1 today. Your chronic fitness has dropped significantly, and jumping straight into extreme high-intensity intervals after 3 days of complete inactivity risks injury. A steady Zone 2 endurance ride will jumpstart your CTL build safely.
+> Execute Priority 1 today. Because acute training volume has been extremely low for three weeks, jumping straight into maximal VO2max intervals risks tendon strain and excessive soreness. Priority 1 establishes the consistent Zone 2 aerobic volume needed to safely trigger your CTL ramp while sharpening turnover with short strides.
 
 ---
 
 ## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 🥇 Prioriteit 1: Cycling - Zone 2 Aerobic Engine Rebuild
-* **Intensiteit:** `Zone 2 (145-170W / HR 130-148 bpm)`
-* **Workout details:** 90 minutes steady Zone 2 cycling. Warm up 10 mins @ 120W, hold 155-165W for 70 mins at 90 RPM cadence, cool down 10 mins.
-* **Waarom:** *Highest priority to safely re-introduce aerobic volume and start ramping CTL from 12.9 without high structural fatigue.*
+### 🥇 Prioriteit 1: Running - Aerobic Base Re-Entry Run + Speed Strides
+* **Intensiteit:** `Zone 2 (HR 135-152 bpm / RPE 4-5 out of 10)`
+* **Workout details:** 10 min warm-up walk/easy jog. 45 min steady Zone 2 run at conversation pace. Finish with 4 x 15-second relaxed speed strides (accelerating to 90% effort with full 45s walk rest between effort reps). 5 min cool-down walk.
+* **Waarom:** *Highest priority. Re-engages your running engine and builds base volume to ramp CTL after a 5-day pause, while neuromuscular strides prime running economy for upcoming 5km interval work.*
 
-### 🥈 Prioriteit 2: Cycling - Sweet Spot & Power Efficiency Intervals
-* **Intensiteit:** `Sweet Spot / Zone 4 (225-245W)`
-* **Workout details:** 15 min WU in Z2, 3 x 8 min @ 230-240W with 4 min Z1 recovery, 15 min CD.
-* **Waarom:** *Since TSB is positive and fatigue is low, a controlled quality session targetting 20-min power is permissible if feeling sharp.*
+### 🥈 Prioriteit 2: Cycling - Sweet Spot Power Progression
+* **Intensiteit:** `Zone 3/4 (88-93% FTP: 227-240 Watts)`
+* **Workout details:** 15 min Zone 2 warm-up with 3x30s high-cadence spins. Main Set: 3 x 8 min @ 230W (Sweet Spot) with 3 min Zone 1 recovery between sets. 10 min easy cool-down.
+* **Waarom:** *Second priority. TSB is positive (+6.3), allowing you to absorb targeted cycling load to support your 20-min power goal without generating destructive fatigue.*
 
-### 🥉 Prioriteit 3: Strength - Torque & Upper Body Aesthetics Strength
-* **Intensiteit:** `RPE 7-8 / Heavy Strength`
-* **Workout details:** Barbell Squats 4x6 @ 80kg, Barbell Bench Press 4x8 @ 65kg, Barbell Deadlifts 3x5 @ 95kg, Sandbag Hug Carries 3x45sec, Bicep Curls 3x10.
-* **Waarom:** *Provides a non-cardiovascular stimulus to strengthen cycling torque and upper body aesthetics without taxing endurance running legs.*
+### 🥉 Prioriteit 3: Strength - Full-Body Hypertrophy & Cycling Torque Strength
+* **Intensiteit:** `Moderate-Heavy (RPE 7-8 out of 10)`
+* **Workout details:** Barbell Back Squats: 4x6 @ 75kg. Barbell Bench Press: 3x8 @ 60kg. Heavy Sandbag Carry: 3x40m (70kg). Kettlebell Swings: 3x15 (20kg). Hanging Leg Raises: 3x12.
+* **Waarom:** *Third priority. Provides sport-specific force production for cycling torque and running stride power, alongside core stability and upper-body aesthetics.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Current CTL is 12.9 with an ATL of 6.6, putting TSB in positive fresh territory (+6.3). You have had 3 full rest days since your last 7.8km run on November 2. While your recovery markers indicate high readiness, your acute chronic load is critically low, meaning cardiovascular and muscular adaptations have stagnated.
+Immediate training stress is currently negligible (ATL 6.6, TSB +6.3). With no recorded workouts over the last 5 days and zero fatigue accumulation today, your body is completely fresh and fully cleared for training stress.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the last 21 days, you have logged only 2 running sessions totaling 1 hour of exercise and 71 training load. This acute window reflects severe detraining and a lack of baseline volume. Rebuilding consistency is mandatory before aggressively pushing high acute workloads.
+Over the past 21 days, training volume has dropped severely to just 2 running sessions (totaling 1.0 hour and 71 TSS). This acute undertraining has caused significant fitness detraining, dropping your CTL down to 12.9. You are well below your structural baseline, requiring immediate re-engagement to restart adaptation.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Your 6-month macro trend shows a sharp decline from summer peaks (where you sustained high-volume cycling and long efforts) down to a CTL of 12.9. To reach your target CTL of 60 safely, you need a disciplined ramp rate of +1 to +2 CTL per week, heavily supported by your 70/30 pyramidal distribution.
+The 6-month macro trend shows a steep decline from strong spring/summer cycling blocks (where daily loads exceeded 150-250 TSS) down to your current CTL of 12.9. Reaching your goal CTL of 60 requires a disciplined, steady ramp rate of +1.0 to +2.0 CTL per week through strict adherence to the 70/30 pyramidal distribution.

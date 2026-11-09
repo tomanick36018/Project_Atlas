@@ -1,6 +1,6 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-11-08 11:50:36*
+*Laatst bijgewerkt: 2026-11-09 13:45:47*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL - Doel 60):** `12.9` / `60` (`21.5%` behaald)
@@ -13,37 +13,37 @@
 ## 📋 Coach Verdict & Advies voor Vandaag
 > **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> Execute Priority 1 today: Aerobic Base Cycling with High-Cadence Spin-Ups. Given your 6-day training hiatus and low CTL, launching straight into high-impact running or max Z5 efforts carries unnecessary injury risk. A structured Z2 bike session safe-starts your load accumulation, stimulates mitochondrial adaptation, and respects the 70% base rule.
+> Zero excuses today. You are fully recovered from a week of complete inactivity, giving us a clean slate to strike hard. Because your running connective tissue needs re-adaptation after 7 days off, our top priority is a high-intensity indoor/outdoor Cycling VO2max interval workout to target your 5-minute peak power goal without orthopedic stress. Lock in Priority 1 and execute.
 
 ---
 
 ## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 🥇 Prioriteit 1: Cycling - Zone 2 Aerobic Foundation & Cadence Drills
-* **Intensiteit:** `Zone 2 (145-185W / HR 125-145 bpm) with Zone 4 spin-ups`
-* **Workout details:** 10 min Z1 warm-up. 45 min Z2 steady power at 85-95 RPM. Insert 5x30 sec high-cadence spin-ups (>110 RPM) at Zone 4 power (235-255W) with 90 sec Z2 recovery between efforts. 5 min Z1 cool-down.
-* **Waarom:** *Highest priority to safely kickstart your CTL progression from 12.9 without high mechanical impact. Re-establishes aerobic baseline and motor unit recruitment.*
+### 🥇 Prioriteit 1: Cycling - VO2max Cycling Power Intervals (5-Min Focus)
+* **Intensiteit:** `Zone 5 / High RPE (9/10)`
+* **Workout details:** 15 min Z2 warmup with 3x15-sec high-cadence spins. Main Set: 5 x 4 minutes @ 110-115% FTP (285-295W) with 4 minutes Z1 recovery between sets. Cooldown: 10 min Z1/Z2 easy spin.
+* **Waarom:** *You are 100% fresh after a 7-day layoff. Cycling allows us to hit maximum VO2max intensity to drive high training stress and target your 5-min power goal safely without impact stress on your joints.*
 
-### 🥈 Prioriteit 2: Running - 5km Aerobic Base & Rhythm Run
-* **Intensiteit:** `Zone 2 to Low Zone 3 (HR 135-155 bpm / RPE 5-6)`
-* **Workout details:** 10 min easy warm-up jog + dynamic mobility. 30 min steady Zone 2 running on flat terrain, finishing with 4x100m stride-outs at 5km target pace (focus on quick leg turnover and tall posture). 5 min walking cool-down.
-* **Waarom:** *Secondary option targeting 5km running goals while keeping overall load manageable and adhering to the 70% low-intensity pyramidal distribution.*
+### 🥈 Prioriteit 2: Running - 5km Pace Intervals & Aerobic Build
+* **Intensiteit:** `Zone 4 / Threshold (RPE 8/10)`
+* **Workout details:** 10 min Z2 jog warmup + dynamic drills. Main Set: 4 x 1000m @ 5km goal pace (HR 172-182 bpm) with 90 seconds walking recovery. Cooldown: 10 min Z1 walk/jog.
+* **Waarom:** *Directly targets your 5km running pace goal and interval quality metrics. Recommended as priority 2 only because impact load must be monitored carefully after a week without running.*
 
-### 🥉 Prioriteit 3: Strength - Cycling Torque & Core Heavy Strength
-* **Intensiteit:** `RPE 7-8 / Heavy Resistance`
-* **Workout details:** Warm-up: 5 min jump rope + mobility. 4 sets x 6 reps Barbell Back Squats (70-80% 1RM), 4 sets x 6 reps Romanian Deadlifts, 3 sets x 8 Heavy Sandbag Clean & Presses (70kg), 3 sets x 45 sec Plank variations.
-* **Waarom:** *Tertiary option to build force production, lower-body torque for cycling FTP gains, and postural durability, preserving aerobic capacity for upcoming quality sessions.*
+### 🥉 Prioriteit 3: Strength - Lower Body Torque & Upper Body Hypertrophy
+* **Intensiteit:** `Heavy Strength (RPE 8.5/10)`
+* **Workout details:** Warmup: 5 min jump rope & mobility. 1) Barbell Back Squat: 4x6 @ 75-80% 1RM. 2) Barbell Bench Press: 4x8. 3) Heavy Sandbag Clean & Carry: 3x40m. 4) Standing Overhead Press: 3x8. 5) Dumbbell Bicep Curls & Cable Core Woodchoppers superset: 3x12.
+* **Waarom:** *Builds leg torque for cycling power, core stability for running form, and aesthetic upper body mass while keeping aerobic load low if you prefer non-cardio resistance work today.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Immediate fatigue is effectively zero (ATL: 6.6, 6 days since the last logged session on Nov 2). While freshness is high, acute fitness has decayed. Garmin sleep and HRV metrics are unprovided, but zero recent training stress means you are primed to resume training without recovery constraints.
+Immediate fatigue (ATL) is sitting at a minimal 6.6, with zero training load over the last 7 days. Your Form/TSB is heavily positive (+6.3), indicating total muscular recovery but significant aerobic stagnation. Without Garmin sleep or HRV inputs provided, we rely entirely on your objective workload metrics: you are fully rested, fresh, and clear to execute a demanding session.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Acute training status over the past 21 days is critically under-stimulated (only 2 sessions logged, 71 TSS total, ~1.0 hour). Adaptation rate has stalled due to severe lack of consistency, resulting in an ATL drop to 6.6. Rebuilding daily training rhythm is mandatory before attempting high-volume blocks.
+Your 21-day acute training status is critically low. You have logged only 2 running sessions totaling 1.0 hour and 71 TL over the last 3 weeks. This acute volume collapse has driven your CTL down to 12.9. To reach your long-term target CTL of 60, you must immediately halt this detraining trend with consistent, progressive weekly load ramps (+1 to +2 CTL per week).
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Long-term CTL is currently 12.9, drastically below your target metric of 60. Macro progression shows a steep drop-off following the summer training volume. To bridge this 47.1 CTL gap safely, we must establish a consistent 70/30 pyramidal distribution, building base volume at a target ramp rate of +1.5 to +2.0 CTL per week.
+Looking back over the 180-day macro trend, your training volume peaked strongly between April and August 2026 with high-volume cycling rides and commute baseline work. However, September through November shows severe inconsistency and a steep decline in overall chronic workload. Your baseline endurance engine is dormant; we must rebuild both cycling peak power (5-min/20-min) and running economy starting now.

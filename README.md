@@ -1,6 +1,6 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-11-14 12:01:20*
+*Laatst bijgewerkt: 2026-11-15 12:37:51*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL - Doel 60):** `12.9` / `60` (`21.5%` behaald)
@@ -13,37 +13,37 @@
 ## 📋 Coach Verdict & Advies voor Vandaag
 > **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> Inactivity stops today. Given your 12-day layoff, jumping straight into destructive high-intensity intervals is a biomechanical risk, despite your positive TSB. Your top priority today is a structured Zone 2 Aerobic Base Run with strides to reactivate your neuromuscular system without causing excessive fatigue.
+> You are fully fresh with zero acute fatigue, but suffering from recent detraining. Because your TSB is clean and your primary goals center on 5-min power and 5km running pace, today is the optimal time to execute a high-quality Zone 5 VO2max interval workout on the bike. Priority 1 is your main directive today to kickstart your CTL ramp rate safely.
 
 ---
 
 ## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 🥇 Prioriteit 1: Running - Zone 2 Aerobic Re-Entry Run with Strides
-* **Intensiteit:** `Zone 2 (135-150 BPM) with Zone 5 Strides`
-* **Workout details:** 45 Minutes Total: 10 min Z1/Z2 warm-up, 25 min steady Zone 2 running (HR < 150 BPM), 6 x 15-second fast, relaxed strides on flat road/grass (full 45s walk recovery), 5 min cool-down.
-* **Waarom:** *Highest priority to safely kickstart your acute training load after 12 days of rest. Adheres to the 70% aerobic base rule while priming turnover.*
+### 🥇 Prioriteit 1: Cycling - Cycling 5-Min VO2max Power Intervals
+* **Intensiteit:** `Zone 5 / High Intensity (110-115% FTP / 285-295W)`
+* **Workout details:** 15 min Zone 2 warm-up with 3x 15-sec high-cadence spin-ups. Main set: 5x 4 minutes @ 285-295W (110-115% FTP, Cadence 95-105 RPM) with 3.5 minutes easy Zone 1 recovery between efforts. 15 min Zone 2 cool-down. Total time: ~65 mins.
+* **Waarom:** *Directly targets your performance metric (5-min power capacity) while capitalizing on a completely fresh TSB (+6.3). High-yield stimulus to re-ignite acute training load.*
 
-### 🥈 Prioriteit 2: Cycling - Sweet Spot Cycling Power Builder
-* **Intensiteit:** `Sweet Spot / Zone 3-4 (228 - 242 Watts)`
-* **Workout details:** 60 Minutes Total: 15 min progressive warm-up, 3 x 8 min at 235W (91% FTP) with 3 min Zone 1 spin recovery, 10 min cool-down.
-* **Waarom:** *Directly targets your 20-minute power goal with low impact on joint structures, taking advantage of your fresh TSB.*
+### 🥈 Prioriteit 2: Running - 5km Running Threshold & Speed Intervals
+* **Intensiteit:** `Zone 4 / Threshold (RPE 8/10, target 5km pace)`
+* **Workout details:** 15 min easy Zone 2 warm-up + dynamic drills. Main set: 5x 1000m @ target 5km race pace (HR Zone 4) with 90 seconds active walking/jogging recovery between sets. 10 min easy Zone 2 cool-down.
+* **Waarom:** *Provides a high-quality run stimulus to build 5km interval quality and heart rate efficiency, serving as a direct alternative if you prefer running today.*
 
-### 🥉 Prioriteit 3: Strength - Cycling Torque & Upper Aesthetics Strength
-* **Intensiteit:** `RPE 7-8 / Moderate to Heavy`
-* **Workout details:** 45 Minutes Total: Barbell Back Squat (3x8 @ RPE 7), Overhead Press (3x8), Sandbag Hug Carry (3x30m), Barbell Curls (3x10), Abdominal Wheel Rollouts or Plank Holds (3x60s).
-* **Waarom:** *Develops lower-body torque capacity for cycling and maintains upper body aesthetics without adding high endurance fatigue.*
+### 🥉 Prioriteit 3: Strength - Heavy Lower Body Torque & Aesthetic Upper Body Strength
+* **Intensiteit:** `Heavy / RPE 8-9`
+* **Workout details:** 1. Barbell Back Squats: 4x6 @ 80% 1RM. 2. Romanian Deadlifts: 3x8. 3. Overhead Press: 4x6. 4. Barbell Bench Press: 3x8. 5. Heavy Sandbag Carry (70kg): 3x 40 meters. 6. Core Plank & Bicep Superset: 3 sets.
+* **Waarom:** *Builds cycling torque and leg stiffness for running while satisfying upper body aesthetic goals. Best option if outdoor/indoor endurance options are unavailable.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Current CTL is at a low 12.9 with an ATL of 6.6, placing your TSB at +6.3. You have logged zero training load over the past 12 days since November 2nd. While your fatigue is nonexistent and recovery is complete, your acute aerobic engine is degrading due to inactivity. Re-establishing consistency today is imperative.
+Immediate training stress is minimal (ATL: 6.6, CTL: 12.9, TSB: +6.3). You have had complete rest over the past 13 days with zero recorded daily load. Recovery status is 100% fresh, meaning there are no physical fatigue constraints blocking a high-intensity stimulus today.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the past 21 days, you have logged only 2 running sessions totaling 71 training load points and 1.0 hour of total volume. This volume is severely insufficient to drive adaptation or move toward your goal of a 60 CTL. Your ramp rate has been negative due to sporadic consistency.
+Acute training status over the last 21 days indicates severe detraining and under-stimulation. Only 1 light running session (42 load) has been logged since late October. Your adaptation rate is stalled, and ATL is at a near-zero floor (6.6). Re-establishing consistent weekly training volume is required immediately.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Looking back over 180 days, your training has been highly inconsistent—punctuated by high-load cycling efforts in May/August followed by extended lulls. You are nowhere near your target CTL of 60. To build toward a 5km running PR and improved 20-minute power, we must strictly enforce the 70/30 pyramidal distribution with consistent weekly Zone 2 aerobic volume.
+The 180-day macro trend reveals a steep decay in CTL, down from summer peaks to a low of 12.9. Your goal of reaching CTL 60 is ambitious and will require a strict, progressive ramp rate (+1 to +2 CTL per week) over the next 5 to 6 months. Consistency must replace sporadic high-volume bouts.

@@ -1,6 +1,6 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-11-15 12:37:51*
+*Laatst bijgewerkt: 2026-11-16 13:29:57*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL - Doel 60):** `12.9` / `60` (`21.5%` behaald)
@@ -13,37 +13,37 @@
 ## 📋 Coach Verdict & Advies voor Vandaag
 > **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> You are fully fresh with zero acute fatigue, but suffering from recent detraining. Because your TSB is clean and your primary goals center on 5-min power and 5km running pace, today is the optimal time to execute a high-quality Zone 5 VO2max interval workout on the bike. Priority 1 is your main directive today to kickstart your CTL ramp rate safely.
+> Freshness is fully restored (TSB +6.3), clearing you for a high-intensity session. I recommend Priority 1 (Cycling VO2max / 5-min Power Intervals) as your top focus today. It directly targets your stated goal of improving 5-minute peak power capacity at 258W FTP baseline while taking advantage of your fresh state.
 
 ---
 
 ## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 🥇 Prioriteit 1: Cycling - Cycling 5-Min VO2max Power Intervals
-* **Intensiteit:** `Zone 5 / High Intensity (110-115% FTP / 285-295W)`
-* **Workout details:** 15 min Zone 2 warm-up with 3x 15-sec high-cadence spin-ups. Main set: 5x 4 minutes @ 285-295W (110-115% FTP, Cadence 95-105 RPM) with 3.5 minutes easy Zone 1 recovery between efforts. 15 min Zone 2 cool-down. Total time: ~65 mins.
-* **Waarom:** *Directly targets your performance metric (5-min power capacity) while capitalizing on a completely fresh TSB (+6.3). High-yield stimulus to re-ignite acute training load.*
+### 🥇 Prioriteit 1: Cycling - Cycling 5-Min Power VO2max Intervals
+* **Intensiteit:** `Zone 5 / VO2max (110-120% FTP, 285-310 W)`
+* **Workout details:** 15 min Zone 2 warm-up with 3x30-sec high-cadence openers. Main Set: 5 x 3 minutes @ 285-300 W (110-116% FTP, HR > 175 bpm), with 3 minutes Zone 1 active recovery between efforts. 15 min Zone 2 cool-down. Total duration: 50 mins.
+* **Waarom:** *TSB is +6.3 and recent volume is low, meaning high-intensity readiness is optimal. This session directly develops your target 5-minute cycling power goal under safe total load conditions.*
 
-### 🥈 Prioriteit 2: Running - 5km Running Threshold & Speed Intervals
-* **Intensiteit:** `Zone 4 / Threshold (RPE 8/10, target 5km pace)`
-* **Workout details:** 15 min easy Zone 2 warm-up + dynamic drills. Main set: 5x 1000m @ target 5km race pace (HR Zone 4) with 90 seconds active walking/jogging recovery between sets. 10 min easy Zone 2 cool-down.
-* **Waarom:** *Provides a high-quality run stimulus to build 5km interval quality and heart rate efficiency, serving as a direct alternative if you prefer running today.*
+### 🥈 Prioriteit 2: Running - 5km Specific Pace Running Intervals
+* **Intensiteit:** `Zone 4 / Threshold (RPE 8/10, HR 170-182 bpm)`
+* **Workout details:** 10 min Zone 2 warm-up + dynamic drills. Main Set: 5 x 1000m @ target 5km pace (RPE 8.5/10) with 90 seconds easy walking/jogging recovery between reps. 10 min Zone 2 cool-down. Total duration: ~40 mins.
+* **Waarom:** *Directly targets running interval quality and 5km pace adaptation. Fully viable today due to fresh leg status, provided running mechanics are prioritized.*
 
-### 🥉 Prioriteit 3: Strength - Heavy Lower Body Torque & Aesthetic Upper Body Strength
-* **Intensiteit:** `Heavy / RPE 8-9`
-* **Workout details:** 1. Barbell Back Squats: 4x6 @ 80% 1RM. 2. Romanian Deadlifts: 3x8. 3. Overhead Press: 4x6. 4. Barbell Bench Press: 3x8. 5. Heavy Sandbag Carry (70kg): 3x 40 meters. 6. Core Plank & Bicep Superset: 3 sets.
-* **Waarom:** *Builds cycling torque and leg stiffness for running while satisfying upper body aesthetic goals. Best option if outdoor/indoor endurance options are unavailable.*
+### 🥉 Prioriteit 3: Strength - Lower Body Torque & Upper Body Aesthetics Strength
+* **Intensiteit:** `Heavy Strength / RPE 8`
+* **Workout details:** Barbell Squats: 4x5 @ 75-80% 1RM. Barbell Bench Press: 4x6. Heavy Sandbag (70kg) Clean & Carry: 3x30 meters. Barbell Overhead Press: 3x8. Core: Hanging Leg Raises 3x12. Total duration: 50 mins.
+* **Waarom:** *Provides foundational strength to support pedal torque and running economy, plus upper body volume, without adding high cardiovascular fatigue.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Immediate training stress is minimal (ATL: 6.6, CTL: 12.9, TSB: +6.3). You have had complete rest over the past 13 days with zero recorded daily load. Recovery status is 100% fresh, meaning there are no physical fatigue constraints blocking a high-intensity stimulus today.
+Immediate fatigue is practically non-existent with an ATL of 6.6 and a TSB of +6.3 (CTL 12.9). However, zero logged load over the last 14 days means today is a reset point. Your systemic readiness to absorb load is high, but acute neuromuscular sharpness is dormant. Today requires immediate stimulus to initiate your training block.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Acute training status over the last 21 days indicates severe detraining and under-stimulation. Only 1 light running session (42 load) has been logged since late October. Your adaptation rate is stalled, and ATL is at a near-zero floor (6.6). Re-establishing consistent weekly training volume is required immediately.
+The 21-day window reflects severe under-utilization, with only 2 logged sessions generating 71 TSS total. Fatigue accumulation (ATL 6.6) has dropped below baseline target, stalling adaptation rate. To reach your target CTL of 60 at a safe ramp rate of +1 to +2 per week, we must re-establish consistent acute training frequency immediately without causing acute strain.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-The 180-day macro trend reveals a steep decay in CTL, down from summer peaks to a low of 12.9. Your goal of reaching CTL 60 is ambitious and will require a strict, progressive ramp rate (+1 to +2 CTL per week) over the next 5 to 6 months. Consistency must replace sporadic high-volume bouts.
+The 180-day macro trend demonstrates strong peak performance in mid-summer (sessions with TSS > 150-200 and solid 40-100km rides), followed by an aggressive detraining slope into November. Your baseline aerobic capacity from past commuting provides a high foundation, but your structural CTL has fallen to 12.9. Progressive overload must be restored systematically to rebuild towards CTL 60.

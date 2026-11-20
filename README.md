@@ -1,6 +1,6 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-11-19 14:32:16*
+*Laatst bijgewerkt: 2026-11-20 13:57:03*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL - Doel 60):** `12.9` / `60` (`21.5%` behaald)
@@ -13,37 +13,37 @@
 ## 📋 Coach Verdict & Advies voor Vandaag
 > **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> Execute Priority 1 today: a foundational Zone 2 Aerobic Endurance run to safely stimulate your cardiovascular system, re-initiate positive training stress, and respect the 70/30 pyramidal baseline rule before layering on high-intensity intervals.
+> Priority 1 (Zone 2 Base Rebuild Cycling) is your top mandatory choice today. Coming off an 18-day layoff, starting with low-impact cycling allows you to accumulate substantial aerobic TSS and restart your CTL progression without risking running-induced tissue strain.
 
 ---
 
 ## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 🥇 Prioriteit 1: Running - Zone 2 Aerobic Base Run
-* **Intensiteit:** `Zone 2 (RPE 4-5/10, HR ~125-145 bpm)`
-* **Workout details:** 10 min warm-up jog; 35 min steady Zone 2 run focusing on cadence (170-180 spm) and relaxed posture; 5 min cool-down walk/stretch.
-* **Waarom:** *Highest priority to safely rebuild your running aerobic engine and volume consistency with minimal fatigue accumulation.*
+### 🥇 Prioriteit 1: Cycling - Zone 2 Base Rebuild Cycling
+* **Intensiteit:** `Zone 2 (55-70% FTP / 142-180W)`
+* **Workout details:** 10 min progressive warm-up to 150W; 65 min steady Zone 2 at 155-175W maintaining cadence between 85-95 RPM; 5 min cool-down spin. Total duration: 80 min.
+* **Waarom:** *Highest priority. Provides low-impact aerobic load to ignite your CTL ramp rate safely while protecting your joints after an 18-day break.*
 
-### 🥈 Prioriteit 2: Cycling - Cycling Torque & Base Endurance
-* **Intensiteit:** `Zone 2 with Low Cadence Blocks`
-* **Workout details:** 60 min indoor or outdoor ride in Zone 2 (140-165W). Include 3 x 5-minute blocks at 60-65 rpm in a heavy gear to build cycling torque for power output.
-* **Waarom:** *Directly targets your 20-minute power milestone and leg strength while keeping the primary aerobic load low-intensity.*
+### 🥈 Prioriteit 2: Running - Aerobic Base Run + Neuromuscular Strides
+* **Intensiteit:** `Zone 2 Aerobic Pace + Zone 5 Strides`
+* **Workout details:** 10 min easy warm-up jog; 30 min steady Zone 2 run (Keep HR strictly below 150 bpm); 5x20-sec strides at 5km race pace with 40-sec walking recovery; 5 min walk cool-down. Total duration: 45 min.
+* **Waarom:** *Second priority. Reintroduces running mechanics and 5km neuromuscular speed without accumulating excessive impact fatigue.*
 
-### 🥉 Prioriteit 3: Strength - Strength for Cycling and Running Power
-* **Intensiteit:** `Moderate-Heavy (RPE 7/10)`
-* **Workout details:** Barbell Back Squat 3x6 (RPE 7); Romanian Deadlift 3x8; Weighted Plank 3x45s; Core stability work and upper body chest/shoulder accessory supersets.
-* **Waarom:** *Builds structural durability and supporting muscular strength for both cycling torque and running stride power without adding cardiovascular fatigue.*
+### 🥉 Prioriteit 3: Strength - Torque & Core Strength Foundation
+* **Intensiteit:** `RPE 7-8/10 (Moderate Hypertrophy & Stability)`
+* **Workout details:** Barbell Back Squats 4x8 (controlled tempo); Barbell Bench Press 4x8; Heavy Sandbag Clean & Carry 3x40m (70kg sandbag); Barbell Overhead Press 3x10; Hanging Leg Raises & Ab Wheel Rollouts 3x12.
+* **Waarom:** *Third priority. Strengthens cycling torque production, running durability, and upper body aesthetics without overtaxing your cardiovascular engine.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Current fitness (CTL) stands at 12.9 with fatigue (ATL) at 6.6, resulting in a fresh TSB of +6.3. Since no workout has been logged today and recent training volume has been sparse, your system is fully recovered and primed to absorb a productive training stimulus.
+Immediate fatigue is practically non-existent (ATL: 6.6, TSB: +6.3) following 18 days of complete inactivity since your last session on Nov 2. You are fully rested physically, but your neuromuscular system and aerobic capacity are dormant.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Over the past 21 days, training consistency has been extremely low with only 2 sessions logged totaling 1.0 hour and 71 TSS. This acute stagnation leaves you well below the recommended ramp rate of +1 to +2 CTL per week, meaning we need to aggressively re-establish consistency without causing injury.
+Acute training status is extremely low, with only 1 logged session (42 TSS, 7.8 km run) in the past 21 days. Fitness decay is significant. The immediate requirement for this 3-week window is re-establishing training consistency and rebuilding acute workload (ATL) safely.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Your 6-month sport trend reveals intermittent training blocks interspersed with extended periods of inactivity. To bridge the gap toward your target CTL of 60 and build both 5km running speed and cycling thresholds, you must establish a reliable weekly routine adhering to the 70/30 pyramidal distribution.
+Your 6-month sport trend shows a sharp decline from summer volume spikes down to a CTL of 12.9, leaving a wide gap to your goal CTL of 60. To bridge this gap safely, we need a disciplined ramp rate (+1 to +2 CTL/week) built around a 70/30 Pyramidal distribution.

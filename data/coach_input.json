@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20 13:56:04.700269",
+  "generated": "2026-11-21 13:20:27.367275",
   "profile_config": {
     "athlete": {
       "sports": [
@@ -3372,7 +3372,7 @@
     }
   },
   "performance_trends": {
-    "generated": "2026-11-20 13:56:04.675894",
+    "generated": "2026-11-21 13:20:27.336654",
     "cycling": {
       "rides_last_180_days": 21,
       "best_ftp": 246,

@@ -1,6 +1,6 @@
 # 🏃‍♂️ Mijn AI Sportcoach Dashboard
 
-*Laatst bijgewerkt: 2026-11-25 15:25:51*
+*Laatst bijgewerkt: 2026-11-26 14:56:20*
 
 ## 📊 Actuele Trainingsstatus (Lopend Gemiddelde)
 * **Fitheid (CTL - Doel 60):** `12.9` / `60` (`21.5%` behaald)
@@ -13,37 +13,37 @@
 ## 📋 Coach Verdict & Advies voor Vandaag
 > **Mijn gevoel vanochtend:** *"Geen opmerkingen ingevoerd."*
 > 
-> Focus strictly on Priority 1 (Cycling Zone 2). Although your TSB is fresh, jumping into Zone 4/5 quality intervals after a 23-day break is irresponsible and increases injury risk. We start rebuilding your aerobic engine today with non-impact Zone 2 cycling to kickstart your CTL ramp safely.
+> Focus on Priority 1 today: a solid Zone 2 aerobic engine builder on the bike. Your CTL is too low and your recent consistency is too poor to justify high-intensity intervals right now. Lay down a reliable aerobic base to kickstart your progression safely.
 
 ---
 
 ## 🎯 Trainingskeuzes voor Vandaag (Gerangschikt op Prioriteit)
 *Kies zelf waar je vandaag zin in hebt of wat fysiek het beste voelt:*
 
-### 🥇 Prioriteit 1: Cycling - Zone 2 Base Re-entry Ride
-* **Intensiteit:** `Zone 2 (145-170W / HR 125-145 bpm)`
-* **Workout details:** 10 min warmup @ 130W, 45 min steady Zone 2 @ 155-165W maintaining 85-95 RPM, 5 min cool-down @ 110W. Total time: 60 mins.
-* **Waarom:** *Top priority to safely reintroduce cardiovascular stimulus and begin CTL progression without joint impact after a 3-week break.*
+### 🥇 Prioriteit 1: Cycling - Zone 2 Aerobic Endurance (Cycling)
+* **Intensiteit:** `Zone 2 (60-75% FTP)`
+* **Workout details:** 60 minutes continuous cycling keeping power strictly between 150W and 193W (Zone 2). Maintain a cadence of 85-95 RPM.
+* **Waarom:** *Highest priority. Your aerobic baseline needs consistent volume and frequency. Zone 2 work aligns directly with the 70/30 pyramidal rule and safely builds your mitochondrial density without spiking fatigue.*
 
-### 🥈 Prioriteit 2: Running - Aerobic Foundation Run & Strides
-* **Intensiteit:** `Zone 2 (HR 135-150 bpm) + RPE 8 Strides`
-* **Workout details:** 30 min easy Zone 2 jog. Followed by 4 x 15-second relaxed strides at 5km pace on flat ground (45 sec walk recovery). 5 min cool-down walk.
-* **Waarom:** *Secondary alternative if running is preferred; keeps impact load light while re-engaging fast-twitch muscle fibers for 5km goals.*
+### 🥈 Prioriteit 2: Running - Base Running & Efficiency
+* **Intensiteit:** `Zone 2 Easy Pace`
+* **Workout details:** 30 minutes continuous conversational running. Focus on a smooth cadence (165-175 SPM) and relaxed upper body posture.
+* **Waarom:** *Second priority if you prefer running over cycling today. Directly supports your 5km running goal by focusing on aerobic efficiency and musculoskeletal resilience without excessive impact stress.*
 
-### 🥉 Prioriteit 3: Strength - Lower Body Torque & Core Strength
-* **Intensiteit:** `RPE 7-8 / Moderate Heavy`
-* **Workout details:** 3x5 Barbell Back Squats (70kg), 3x6 Overhead Press (40kg), 3x8 Sandbag Clean & Press (50kg), 3x12 Kettlebell Swings (20kg), 3x12 Hanging Leg Raises.
-* **Waarom:** *Third choice option to build structural integrity, core stability, and leg torque to support cycling power when endurance volume is low.*
+### 🥉 Prioriteit 3: Strength - Full Body Strength & Core Stability
+* **Intensiteit:** `Moderate to Heavy (RPE 7/10)`
+* **Workout details:** Squats: 3 sets of 5 reps (RPE 7); Romanian Deadlifts: 3 sets of 8 reps; Plank variations and weighted core work: 3 sets of 45 seconds.
+* **Waarom:** *Third priority. Integrates gym work to support cycling torque and running power while addressing core stability. Use this if your legs feel heavy from daily life, but prioritize aerobic work if fresh.*
 
 ---
 
 ## 🔍 Diepgaande Trainingsanalyses
 
 ### 📅 Dagelijkse Belasting (1-Dag)
-Immediate training stress is extremely low (ATL 6.6). You have had zero training stress for over 3 weeks (last workout recorded on Nov 2nd). Your Form/TSB is highly positive, meaning you are fully fresh, but your current physical readiness for high-intensity work is compromised due to acute detraining.
+Current ATL is very low at 6.6, indicating minimal immediate fatigue. However, with no sleep score or HRV data provided and a very low CTL of 12.9, your body is currently under-stimulated. Today is a clean slate, but we must be disciplined to avoid jumping straight into maximal intensity without proper baseline priming.
 
 ### 📈 Actuele Trainingsstatus (3-Weken)
-Acute training status over the last 21 days shows severe under-stimulation with only a single running session (load 42). Adaptation rate has stalled and fatigue accumulation is virtually zero. Re-establishing baseline consistency is the sole acute objective.
+Your acute training status (past 21 days) shows severe inconsistency and very low volume. Over the last training block, you logged only 2 sessions totaling 1 hour and 71 training load points. This falls well short of building the necessary acute training load (ATL) to safely ramp towards your target CTL of 60. We need to establish consistent frequency immediately.
 
 ### 📊 Algemene Sporttrend (6-Maanden)
-Long-term trend reveals significant decay in fitness, with CTL dropping to 12.9—far below your target goal of 60. Sporadic training blocks over the past 6 months have prevented meaningful ramp rates. To reach CTL 60 safely, we must commit to a progressive baseline build, strictly adhering to the 70/30 pyramidal rule without skipping steps.
+Your 6-month sport trend reveals sporadic training blocks interspersed with long periods of inactivity. Your CTL sits at 12.9, which is far below your target of 60. To achieve a safe ramp rate of +1 to +2 CTL per week, you must transition from sporadic bursts of activity to a structured, repeatable weekly rhythm anchored by the 70/30 pyramidal distribution.
